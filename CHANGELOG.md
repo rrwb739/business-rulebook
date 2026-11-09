@@ -1,6 +1,13 @@
-Business rulebook version: v2 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v3 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Changelog
+
+## v3 (9 November 2026)
+
+Source: a short video on finding the value customers actually buy and stating it simply (sources log, entry 119).
+
+- O3: frame the value as a trade (what the buyer gives for one specific gain), both as numbers in the buyer's unit, scaled to a year, once results support it.
+- D9: ask the longest-staying clients why they stay until one shared reason appears; it becomes the value line and delivery's main goal.
 
 ## v2 (9 November 2026)
 
