@@ -1,6 +1,15 @@
-Business rulebook version: v9 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v10 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Changelog
+
+## v10 (9 November 2026)
+
+Source: curator rule change (never shorten rule content to meet a size cap; split instead).
+
+- Index moved out of instructions.md into instructions-index-1.md (F, S, O, L) and instructions-index-2.md (C, M, D, T, W, X); instructions.md names both and step 3 now passes over both files.
+- 225 index summaries restored to their full v1 wording (they had been cut to fit instructions.md under the cap in v1).
+- S0 to S9: triggers restored to "[at roadmap stage N (see F32), asking what to do next, planning the week, or reaching this stage's exit]" (shortened in v9 to meet the cap).
+- README.md: lists the two index files.
 
 ## v9 (9 November 2026)
 

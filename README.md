@@ -1,4 +1,4 @@
-Business rulebook version: v9 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v10 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Business rulebook
 
@@ -6,7 +6,8 @@ A general rulebook for running and growing a business with Claude. It holds meth
 
 ## What is in here
 
-- instructions.md: the method Claude follows on every prompt, then the index of every rule.
+- instructions.md: the method Claude follows on every prompt.
+- instructions-index-1.md and instructions-index-2.md: the index of every rule, one line each.
 - rules-*.md: the full text of each rule, one or two files per section.
 - templates/instructions-box.md: what to paste into your project's instructions box.
 - prompts/: the first message for each chat tab.
