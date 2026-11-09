@@ -1,6 +1,12 @@
-Business rulebook version: v4 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v5 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Changelog
+
+## v5 (9 November 2026)
+
+Source: a short video on choosing high-margin, low capital business opportunities (sources log, entry 121).
+
+- F30: when choosing or comparing vehicles, prefer low capital spend (output can rise without the cost base rising in step); long-lived models as evidence the model works.
 
 ## v4 (9 November 2026)
 
