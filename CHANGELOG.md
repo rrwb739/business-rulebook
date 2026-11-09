@@ -1,6 +1,12 @@
-Business rulebook version: v17 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v18 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Changelog
+
+## v18 (9 November 2026)
+
+Source 132: short video on auditing best and worst videos for wording patterns.
+
+- L60: quarterly side-by-side audit of the best and worst pieces on one topic, by the owner or an outsider or fresh AI chat, listing wording differences; each difference is a hypothesis until a one-variable test confirms it on avatar opt-ins.
 
 ## v17 (9 November 2026)
 
