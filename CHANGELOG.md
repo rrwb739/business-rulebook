@@ -1,6 +1,16 @@
-Business rulebook version: v5 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v6 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Changelog
+
+## v6 (9 November 2026)
+
+Source: a long video blueprint on building and keeping wealth through one business (sources log, entry 122).
+
+- F2: write each fix as "if we do X, then Y"; at the judging date answer "did we do X" and "did Y move" separately.
+- O21: split time delay into micro (time per day or week) and macro (time to the full result).
+- M19: watermark alternative to a fixed split; take some cash out monthly and lower personal spending.
+- L70: from stage S3+, plan advertising in four directions (prospects, clients, candidates, employees).
+- M24 to M30 moved unchanged from rules-money-1.md to rules-money-2.md to keep both under the size cap; index updated.
 
 ## v5 (9 November 2026)
 
