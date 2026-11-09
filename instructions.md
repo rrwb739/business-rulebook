@@ -1,4 +1,4 @@
-Business rulebook version: v3 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v4 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Business rulebook: method and index
 
@@ -67,7 +67,7 @@ F = Strategy and thinking, S = Scaling roadmap, O = Offers, L = Leads and market
 - F25 [learning the market or a skill fast] Consultant interview method, genuine interviews only. (rules-strategy-2.md)
 - F26 [thinking about leaving a job to run the business full time] Only with 3 to 6 months' savings and 6 months in a row of matched income. (rules-strategy-2.md)
 - F27 [someone criticises the owner in public, or a competitor talks the business down] [Fixed] Never argue point by point; fix repeated points; delay annoyed replies;... (rules-strategy-2.md)
-- F28 [the owner feels stuck, results plateau, or is choosing what to work on] Find the limiting function (build. (rules-strategy-2.md)
+- F28 [the owner feels stuck, results plateau, or is choosing what to work on] Find the limiting function and the shape's built-in hard part; features are not bugs. (rules-strategy-2.md)
 - F29 [deciding what to work on or learn, or tempted to polish branding, a logo, a website or a CRM] Build, sell, lead; branding and CRMs are neither; learn to sell first. (rules-strategy-2.md)
 - F30 [planning strategy, a quarterly review, results stall, or choosing what to work on next] Nine-point strategy check: problem type. (rules-strategy-2.md)
 - F31 [every answer, in every chat, on every prompt; non-negotiable] Every answer ends with "The 20% that gets 80%". (rules-strategy-2.md)

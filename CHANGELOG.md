@@ -1,6 +1,12 @@
-Business rulebook version: v3 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v4 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Changelog
+
+## v4 (9 November 2026)
+
+Source: a short video on staying with the current business and the built-in hard part of each business shape (sources log, entry 120).
+
+- F28: the four business shapes (info, software, e-commerce, service) and their built-in hard parts; staffing against demand by field; hitting the hard part is not a reason to switch. Index summary rewritten.
 
 ## v3 (9 November 2026)
 
