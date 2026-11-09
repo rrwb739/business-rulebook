@@ -1,6 +1,12 @@
-Business rulebook version: v14 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v15 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Changelog
+
+## v15 (9 November 2026)
+
+Source 128: short video ranking six content metrics and two business metrics.
+
+- L60: platform signals only as the platform itself has published them, dated, never a creator's ranking or benchmarks; early drop-off and followers gained added as diagnostics only; content judged per post on attributable opt-ins and sales per 1,000 views, traced by a post-specific comment keyword or link.
 
 ## v14 (9 November 2026)
 
