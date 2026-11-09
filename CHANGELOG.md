@@ -1,6 +1,13 @@
-Business rulebook version: v19 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v20 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Changelog
+
+## v20 (9 November 2026)
+
+Source 134: short video on selling the guarantee as an upsell.
+
+- M31: paid cover priced from expected claim cost plus margin and tracked, never treated as pure profit; core guarantee stays in the price; only cover beyond it and beyond legal rights is sold.
+- X11: never charge for or present legal rights as a special feature (DMCC Act 2024, Schedule 20); a paid warranty or cover can be a contract of insurance needing FCA authorisation (PERG 6.7), so check before selling.
 
 ## v19 (9 November 2026)
 

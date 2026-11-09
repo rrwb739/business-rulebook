@@ -1,4 +1,4 @@
-Business rulebook version: v19 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v20 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -51,7 +51,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - M28 [choosing or testing an attraction offer] Attraction offers bring cash upfront; the five types plus the independent free version; no small discounts; deep discounts only on splinters. (rules-money-2.md)
 - M29 [lead magnet, first sales call, or the DIY tier] Decoy offer: free stripped-down version beside the core offer; scripts, gating, show-up tests and the first-step metric. (rules-money-2.md)
 - M30 [after the first target (F3), choosing the next attraction offer to test] [stage: S3+] Test in order: pay less now or more later, win your money back, giveaway, buy X get Y free. (rules-money-2.md)
-- M31 [a client finishes a step, a new problem appears, or the core offer is ending] Classic upsell at the moment of the next problem; timing, previews, bundles, activation points, paid extra cover. (rules-money-2.md)
+- M31 [a client finishes a step, a new problem appears, or the core offer is ending] Classic upsell at the moment of the next problem; timing, previews, bundles, activation points, paid extra cover priced on expected claims, beyond the core guarantee and legal rights. (rules-money-2.md)
 - M32 [sales call, renewal, or proposing add-ons] Menu upsell: unsell what isn't needed, prescribe a written plan, ask A or B, ask how to pay; full total before signing. (rules-money-2.md)
 - M33 [presenting price on a call] Anchor upsell: present a real premium at 5 to 10x first, then rescue with the core offer; log reactions to the anchor. (rules-money-2.md)
 - M34 [setting tier prices] Read the tier mix and adjust gaps or raise all prices accordingly. (rules-money-2.md)
@@ -106,7 +106,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - X8 [collecting, storing, sharing, recording or using anyone's personal data: leads, prospects, candidates, staff, attendees or referees] [Fixed] UK GDPR: transparent forms, lawful sources, minimisation, consent to record and share, source told when asked, records, suppliers, security, ICO fee. (rules-legal.md)
 - X9 [writing or approving any claim in copy, sales, a lead magnet, a demo, an event, a service standard, a label or client material] [Fixed] Every claim evidenced and true; no implied official status or endorsement; fair comparisons; nothing staged; no disguised pitches. (rules-legal.md)
 - X10 [stating any limit, cap, place count, deadline, expiring bonus or reason to act now, on any page or call to action] [Fixed] Every limit, deadline and reason to act now must be true and kept. (rules-legal.md)
-- X11 [offering or wording any guarantee, anti-guarantee, exclusion or promise to pay] [Fixed] Full guarantee terms before commitment; never "risk-free" with conditions; statutory remedies stay; exclusions reasonable. (rules-legal.md)
+- X11 [offering or wording any guarantee, anti-guarantee, exclusion or promise to pay] [Fixed] Full guarantee terms before commitment; never "risk-free" with conditions; statutory remedies stay; exclusions reasonable; never sell legal rights; paid cover may be insurance. (rules-legal.md)
 - X12 [asking for, rewarding, publishing or responding to reviews] [Fixed] Genuine reviews only; invite all; incentives disclosed and never conditional; never suppress genuine reviews. (rules-legal.md)
 - X13 [capturing, editing or using a testimonial, case study, client post or illustrative person] [Fixed] Testimonials true, consented in writing, current and unedited in meaning; no actors or fakes presented as clients. (rules-legal.md)
 - X14 [publishing any ad, sponsored content, guest post, clip, affiliate promotion or comment that promotes the business] [Fixed] Marketing must be identifiable as marketing; paid mentions and affiliate posts labelled as ads. (rules-legal.md)
