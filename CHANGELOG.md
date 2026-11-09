@@ -1,6 +1,12 @@
-Business rulebook version: v18 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v19 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Changelog
+
+## v19 (9 November 2026)
+
+Source 133: the story audit skill and its setup guide (owner's request to use it, check daily and save what it finds).
+
+- L60: the wording audit now runs with a story-audit skill or tool, an outsider or a fresh AI chat; checked every working day and rerun once 3 pieces have settled (14 days or older); pieces under 14 days held out; winners and losers split against the account's own average, at least 3 each; seven passes; controlled pairs first; findings killed unless they hold in 80% of both buckets; every run saved to a findings log beside the claims file; only test-confirmed findings change hooks or scripts.
 
 ## v18 (9 November 2026)
 
