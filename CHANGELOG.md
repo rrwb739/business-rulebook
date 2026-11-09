@@ -8,6 +8,7 @@ Source: owner's request on source 123 (lifetime gross profit to acquisition cost
 
 - M46 (new): daily numbers sheet and a fixed order for choosing the next action from the ratio and the funnel.
 - instructions.md: new method step 2a (open every what-next, plan or result answer with the numbers line); "The 20% that gets 80%" starts with the M46 action.
+- S0 to S9: triggers shortened to "[at roadmap stage N (F32): next steps, weekly plan or exit]" (same meaning) to keep instructions.md under the size cap.
 - prompts/daily-numbers.md (new), README.md (Daily numbers tab, used every working day), templates/instructions-box.md (where the daily numbers live).
 
 ## v8 (9 November 2026)
