@@ -1,6 +1,15 @@
-Business rulebook version: v1 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v2 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Changelog
+
+## v2 (9 November 2026)
+
+Source: a short video on winning high-value clients through public asset records (sources log, entry 118).
+
+- L2: when turning away a prospect outside the avatar, ask once for an introduction to someone who fits, and take up any offered.
+- L9: prefer public records that prove both ability to pay and the specific need; follow record to business to decision maker; private individuals need consent for electronic marketing; never approach anyone at home.
+- L51: research depth per lead scales with deal size, capped by the 3:1 lifetime gross profit test (L54).
+- X8: personal data from public sources still needs a lawful basis and an Article 14 privacy notice.
 
 ## v1 (9 November 2026)
 

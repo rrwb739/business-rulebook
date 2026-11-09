@@ -1,4 +1,4 @@
-Business rulebook version: v1 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v2 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Business rulebook: method and index
 
@@ -143,7 +143,7 @@ F = Strategy and thinking, S = Scaling roadmap, O = Offers, L = Leads and market
 - L6 [setting up or scaling email] Separate sending domains, SPF/DKIM/DMARC, 30 to 40 a day per inbox. (rules-leads-1.md)
 - L7 [deciding whether to automate outreach] AI may research, draft and send if each message has a checked personal... (rules-leads-1.md)
 - L8 [the owner asks for leads, a lead list or a lead sheet, or mentions leads in any way] Keep one master lead sheet: research. (rules-leads-1.md)
-- L9 [building a cold list] Build from the avatar's directories, official registers and websites. (rules-leads-1.md)
+- L9 [building a cold list] Build from directories, registers and websites; prefer public records proving ability to pay and need. (rules-leads-1.md)
 - L10 [writing a cold email or first message] Found you, one benefit, ask for a reply. (rules-leads-1.md)
 - L11 [writing any outreach or copy, or explaining anything to clients or staff] Clear, not clever: below US grade 3 to 5, cut hard, reader's own... (rules-leads-1.md)
 - L12 [running outreach] Track every conversation; front-loaded follow-ups each with something... (rules-leads-1.md)
@@ -185,7 +185,7 @@ F = Strategy and thinking, S = Scaling roadmap, O = Offers, L = Leads and market
 - L48 [cold outreach in general] Solve strangers' three problems in order. (rules-leads-3.md)
 - L49 [building the cold list] Lists in order: scraping tools, brokers, hand-built. (rules-leads-3.md)
 - L50 [writing any cold message] Personalise with true checkable facts, plain text, big fast value first. (rules-leads-3.md)
-- L51 [deciding how much to automate] Automate delivery and sending, but the smaller the universe the less to... (rules-leads-3.md)
+- L51 [deciding how much to automate] Automate sending; the smaller the universe the less to automate; research depth scales with deal size. (rules-leads-3.md)
 - L52 [following up] [Fixed] Contact every lead more than once in more than one way. (rules-leads-3.md)
 - L53 [cold outreach benchmarks] Published benchmarks are placeholders. (rules-leads-3.md)
 - L54 [cold outreach costs and allocation] Cost per customer from labour, software and data, at least 3:1. (rules-leads-3.md)
