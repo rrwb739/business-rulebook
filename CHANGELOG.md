@@ -1,6 +1,14 @@
-Business rulebook version: v8 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v9 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Changelog
+
+## v9 (9 November 2026)
+
+Source: owner's request on source 123 (lifetime gross profit to acquisition cost) to run every business on these numbers daily.
+
+- M46 (new): daily numbers sheet and a fixed order for choosing the next action from the ratio and the funnel.
+- instructions.md: new method step 2a (open every what-next, plan or result answer with the numbers line); "The 20% that gets 80%" starts with the M46 action.
+- prompts/daily-numbers.md (new), README.md (Daily numbers tab, used every working day), templates/instructions-box.md (where the daily numbers live).
 
 ## v8 (9 November 2026)
 

@@ -1,4 +1,4 @@
-Business rulebook version: v8 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v9 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Business rulebook: method and index
 
@@ -9,6 +9,8 @@ This file is the method every business project follows on every prompt, then the
 1. Facts first. Read the project's instructions box for the business's facts and decisions: country, what it sells, avatar, price, channel, stage, the owner's hours a week, and recorded decisions. A recorded decision is followed as written. Where a fact the answer needs is missing or says "not decided", work it out with the matching rules, state it, and mark it "Proposed, not decided" until the owner confirms it. Never treat a proposal as a decision, and never change the instructions box yourself: give the owner the exact line to paste.
 
 2. Stage gate. Name the business's current roadmap stage (S0 to S9, F32) from the instructions box, or propose one and mark it "Proposed, not decided". Answer for this stage only. Any step that belongs to a later stage is named, parked and not planned or spent on, even if asked, until every exit condition of the current stage is met. Say what is parked and why.
+
+2a. Numbers line. Open every answer about what to do next, a plan or a result with the daily numbers (M46): lifetime gross profit, acquisition cost, their ratio against its bar, and the weakest funnel step, from the latest figures the owner gave. If figures are missing, ask for them in one line and use marked estimates. The next action comes from M46's order.
 
 3. Passes over the index. Go through every line of the index below, top to bottom, and list every rule whose trigger or summary touches the prompt, directly or indirectly. Think wide: a marketing question also touches Offers, Leads and marketing, Sales, Money models, Strategy, Writing and Legal and tax. When unsure, include it. Open the full text of every listed rule, and open every rule ID mentioned inside those rules. Then go through the whole index again from the top and add anything missed. Do at least 5 full passes on every prompt, and keep going until a full pass adds nothing new. Never answer before at least 5 passes are done and the last one added nothing.
 
@@ -25,7 +27,7 @@ This file is the method every business project follows on every prompt, then the
 5. Challenge and measure. Challenge the owner directly when they are wrong or the question rests on a false premise (F6). Give a confidence level for every uncertain claim and say what evidence would change it. End every practical answer with the next steps in order and the number to check for each (F7).
 
 6. End every answer with these sections, in this order:
-   - "The 20% that gets 80%": the one to three actions that produce most of the result, in order, each with the number that shows it is working (F31).
+   - "The 20% that gets 80%": the one to three actions that produce most of the result, in order, each with the number that shows it is working (F31); for any plan or result, the first action is the one M46 picks.
    - "Rules applied": the rule IDs used.
    - "Considered but not applied": rule IDs and why each was set aside.
    - "Passes": the number of passes (at least 5) and what the last pass added (it must be nothing).
@@ -37,7 +39,7 @@ If no rule covers part of the prompt, say so, answer from Hormozi's frameworks i
 
 F = Strategy and thinking, S = Scaling roadmap, O = Offers, L = Leads and marketing, C = Sales, M = Money models, D = Delivery and operations, T = Team and leadership, W = Writing, X = Legal and tax. IDs never change. A moved rule keeps a pointer line in its old place; a retired rule keeps a one-line stub.
 
-## Rule index (267 lines)
+## Rule index (268 lines)
 
 ### 1. Strategy and thinking (F)
 - F1 [any business decision or plan] Use Hormozi's frameworks as the default lens. (rules-strategy-1.md)
@@ -74,16 +76,16 @@ F = Strategy and thinking, S = Scaling roadmap, O = Offers, L = Leads and market
 - F32 [every answer, in every chat, on every prompt; non-negotiable] Stage gate: no work, plan or spend on a later roadmap stage until every... (rules-strategy-2.md)
 
 ### 2. Scaling roadmap (stage gate F32) (S)
-- S0 [at roadmap stage 0 (see F32), asking what to do next, planning the week, or reaching this stage's exit] Improvise: solo, giving it away free. (rules-stages.md)
-- S1 [at roadmap stage 1 (see F32), asking what to do next, planning the week, or reaching this stage's exit] Monetize: solo, first full-price sale clearing M1's margin. (rules-stages.md)
-- S2 [at roadmap stage 2 (see F32), asking what to do next, planning the week, or reaching this stage's exit] Advertise: solo, consistent daily outreach, one fixed script, HEAR... (rules-stages.md)
-- S3 [at roadmap stage 3 (see F32), asking what to do next, planning the week, or reaching this stage's exit] Stabilize: 1 to 4 employees, owner as trainer. (rules-stages.md)
-- S4 [at roadmap stage 4 (see F32), asking what to do next, planning the week, or reaching this stage's exit] Prioritize: 5 to 9 employees; niche down to the best clients. (rules-stages.md)
-- S5 [at roadmap stage 5 (see F32), asking what to do next, planning the week, or reaching this stage's exit] Productize: 10 to 19 employees. (rules-stages.md)
-- S6 [at roadmap stage 6 (see F32), asking what to do next, planning the week, or reaching this stage's exit] Optimize: 20 to 49 employees; do everything better not more. (rules-stages.md)
-- S7 [at roadmap stage 7 (see F32), asking what to do next, planning the week, or reaching this stage's exit] Categorize: 50 to 99 employees. (rules-stages.md)
-- S8 [at roadmap stage 8 (see F32), asking what to do next, planning the week, or reaching this stage's exit] Specialize: 100 to 250 employees. (rules-stages.md)
-- S9 [at roadmap stage 9 (see F32), asking what to do next, planning the week, or reaching this stage's exit] Capitalize: 250 to 499 employees. (rules-stages.md)
+- S0 [at roadmap stage 0 (F32): next steps, weekly plan or exit] Improvise: solo, giving it away free. (rules-stages.md)
+- S1 [at roadmap stage 1 (F32): next steps, weekly plan or exit] Monetize: solo, first full-price sale clearing M1's margin. (rules-stages.md)
+- S2 [at roadmap stage 2 (F32): next steps, weekly plan or exit] Advertise: solo, consistent daily outreach, one fixed script, HEAR... (rules-stages.md)
+- S3 [at roadmap stage 3 (F32): next steps, weekly plan or exit] Stabilize: 1 to 4 employees, owner as trainer. (rules-stages.md)
+- S4 [at roadmap stage 4 (F32): next steps, weekly plan or exit] Prioritize: 5 to 9 employees; niche down to the best clients. (rules-stages.md)
+- S5 [at roadmap stage 5 (F32): next steps, weekly plan or exit] Productize: 10 to 19 employees. (rules-stages.md)
+- S6 [at roadmap stage 6 (F32): next steps, weekly plan or exit] Optimize: 20 to 49 employees; do everything better not more. (rules-stages.md)
+- S7 [at roadmap stage 7 (F32): next steps, weekly plan or exit] Categorize: 50 to 99 employees. (rules-stages.md)
+- S8 [at roadmap stage 8 (F32): next steps, weekly plan or exit] Specialize: 100 to 250 employees. (rules-stages.md)
+- S9 [at roadmap stage 9 (F32): next steps, weekly plan or exit] Capitalize: 250 to 499 employees. (rules-stages.md)
 
 ### 3. Offers (O)
 - O1 [designing or reviewing the offer] Make an offer so good the avatar feels stupid saying no. (rules-offers-1.md)
@@ -276,6 +278,7 @@ F = Strategy and thinking, S = Scaling roadmap, O = Offers, L = Leads and market
 - M43 [long-term continuity terms] Set-up fee of 3 to 5x the monthly rate, waived for a 12-month commitment. (rules-money-2.md)
 - M44 moved to X3. (rules-money-2.md)
 - M45 [asking for a review or testimonial] [Fixed] Invite every client to review; success interviews; truthful clips with... (rules-money-2.md)
+- M46 [every working day, any "what next" question, plan or result] Daily numbers: update the ratio and pick the next action from it. (rules-money-1.md)
 
 ### 7. Delivery and operations (D)
 - D1 moved to X4. (rules-delivery.md)
