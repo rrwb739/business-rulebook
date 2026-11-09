@@ -1,6 +1,12 @@
-Business rulebook version: v11 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v12 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Changelog
+
+## v12 (9 November 2026)
+
+Source 125: short video on building ads from hooks, bodies and calls to action.
+
+- L61: ads built as three interchangeable parts (hooks, bodies, calls to action), combined only as far as the testing budget gives readable samples, results read by part, and the next round re-records the winning hooks in a new wrapper and tests new hooks against the control.
 
 ## v11 (9 November 2026)
 
