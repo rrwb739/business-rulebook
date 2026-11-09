@@ -1,4 +1,4 @@
-Business rulebook version: v10 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v11 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Business rulebook
 
@@ -24,7 +24,7 @@ A general rulebook for running and growing a business with Claude. It holds meth
 
 ## Updating
 
-When a new version is out (see CHANGELOG.md), open your project's files and click Sync on the GitHub source. Your instructions box is never touched by an update.
+Business projects pick up each new version from GitHub automatically; there is nothing to sync. The version line at the end of every answer shows which version the chat used, and CHANGELOG.md lists what changed. Your instructions box is never touched by an update.
 
 ## Ground rules
 

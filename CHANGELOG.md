@@ -1,6 +1,14 @@
-Business rulebook version: v10 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v11 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Changelog
+
+## v11 (9 November 2026)
+
+Source 124: short video on answering "where did you get my number?" on a cold call.
+
+- L50: when asked where the number came from, give the true source at once, then the true fit criteria; never hide or defer the source or suggest a referral that didn't happen.
+- X8: tell anyone who asks where their details came from, there and then, never conditional on a meeting (UK GDPR Articles 14 and 15).
+- README.md: business projects pick up new versions automatically; the Sync step is removed.
 
 ## v10 (9 November 2026)
 

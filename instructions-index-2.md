@@ -1,4 +1,4 @@
-Business rulebook version: v10 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v11 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -103,7 +103,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - X5 [any work, tool, recording, post or incident that touches a client's personal data] [Fixed] Client data stays in client systems or DPA-covered tools; client is controller; breaches reported to the client; insurer told first. (rules-legal.md)
 - X6 [making or planning any live marketing, follow-up or partner call] [Fixed] Screen against CTPS, TPS and own list; genuine caller ID; no automated calls; stay within Ofcom persistent misuse policy. (rules-legal.md)
 - X7 [sending any letter, mailing or physical insert to prospects] [Fixed] No payment demands for unsolicited goods; never mimic official post; UK GDPR notice ready for named recipients. (rules-legal.md)
-- X8 [collecting, storing, sharing, recording or using anyone's personal data: leads, prospects, candidates, staff, attendees or referees] [Fixed] UK GDPR: transparent forms, lawful sources, minimisation, consent to record and share, records, suppliers, security, ICO fee. (rules-legal.md)
+- X8 [collecting, storing, sharing, recording or using anyone's personal data: leads, prospects, candidates, staff, attendees or referees] [Fixed] UK GDPR: transparent forms, lawful sources, minimisation, consent to record and share, source told when asked, records, suppliers, security, ICO fee. (rules-legal.md)
 - X9 [writing or approving any claim in copy, sales, a lead magnet, a demo, an event, a service standard, a label or client material] [Fixed] Every claim evidenced and true; no implied official status or endorsement; fair comparisons; nothing staged; no disguised pitches. (rules-legal.md)
 - X10 [stating any limit, cap, place count, deadline, expiring bonus or reason to act now, on any page or call to action] [Fixed] Every limit, deadline and reason to act now must be true and kept. (rules-legal.md)
 - X11 [offering or wording any guarantee, anti-guarantee, exclusion or promise to pay] [Fixed] Full guarantee terms before commitment; never "risk-free" with conditions; statutory remedies stay; exclusions reasonable. (rules-legal.md)
