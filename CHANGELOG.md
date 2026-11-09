@@ -1,6 +1,12 @@
-Business rulebook version: v15 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v16 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Changelog
+
+## v16 (9 November 2026)
+
+Source 129: short video promoting an AI skill for competitor ad research and ad rewriting.
+
+- L61: read rivals' ads by hand or through a permitted tool, never automated collection the platform's terms forbid; borrow formats and structures, never wording, images or footage; AI may draft ads and propose budget moves, owner approves each; least access for any tool connected to the ad account.
 
 ## v15 (9 November 2026)
 
