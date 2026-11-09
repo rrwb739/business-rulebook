@@ -1,6 +1,12 @@
-Business rulebook version: v7 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v8 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Changelog
+
+## v8 (9 November 2026)
+
+Source: no new source; follow-up to entry 123 (lifetime gross profit to acquisition cost).
+
+- prompts/weekly-review.md: asks for the inputs of the ratio and works it out every week, naming which side to work on.
 
 ## v7 (9 November 2026)
 
