@@ -1,1 +1,32 @@
-# business-rulebook
+Business rulebook version: v1 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+
+# Business rulebook
+
+A general rulebook for running and growing a business with Claude. It holds methods only: offers, leads, sales, money models, delivery, team, writing, the scaling roadmap and legal basics. Your business's own facts and decisions stay in your own project, never in this repo.
+
+## What is in here
+
+- instructions.md: the method Claude follows on every prompt, then the index of every rule.
+- rules-*.md: the full text of each rule, one or two files per section.
+- templates/instructions-box.md: what to paste into your project's instructions box.
+- prompts/: the first message for each chat tab.
+- CHANGELOG.md: what changed in each version.
+
+## Set up a business project
+
+1. In Claude, create a new project for your business.
+2. In the project's files, choose Add from GitHub and add this repository (all files).
+3. Open templates/instructions-box.md, copy it into the project's instructions box, and fill in the fields. Write "not decided" for anything you don't know yet. Claude will propose those and mark them "Proposed, not decided" until you confirm them.
+4. Create one chat per tab and name them: Strategy, Offer, Money models, Marketing and leads, Sales, Delivery, Weekly review.
+5. Start in Strategy. Paste the first message from prompts/strategy.md. It sets your roadmap stage and fills the gaps in your instructions box. Then open the other tabs in the order above, each with its own first message from prompts/.
+6. When Claude proposes a fact or decision you agree with, paste the line it gives you into the instructions box yourself. The box is the only place your business's decisions live.
+
+## Updating
+
+When a new version is out (see CHANGELOG.md), open your project's files and click Sync on the GitHub source. Your instructions box is never touched by an update.
+
+## Ground rules
+
+- Legal rules are marked [Fixed] and always win. They are general guidance, not legal advice: confirm with a qualified adviser for your country.
+- Rules tagged [shape: ...] fit only that kind of business; rules tagged [stage: ...] apply only from that roadmap stage.
+- Every answer ends with "The 20% that gets 80%", the rules applied, the rules considered but not applied, the number of passes, and the version line. If an answer doesn't, ask Claude to follow instructions.md.
