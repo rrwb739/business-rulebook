@@ -1,4 +1,4 @@
-Business rulebook version: v13 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v14 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Rule index, part 1 of 2: Strategy (F), Scaling roadmap (S), Offers (O), Leads and marketing (L)
 
@@ -100,7 +100,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - O47 [writing or checking any claim in copy, calls or pages] Keep one sourced claims file, check every claim and figure before anything goes out, and correct errors the same day. (rules-offers-2.md)
 
 ### 4. Leads and marketing (L)
-- L1 [choosing, reviewing or questioning the market; every quarter] Score the market on pain, purchasing power, ease of targeting and growth; check the vehicle and any demand window; re-score quarterly. (rules-leads-1.md)
+- L1 [choosing, reviewing or questioning the market; every quarter] Score the market on pain, purchasing power, ease of targeting and growth; check the vehicle and any demand window; standing scan of publicly reported problems with a feasibility test; re-score quarterly. (rules-leads-1.md)
 - L2 [defining or checking the avatar, or any idea outside the niche] Define the avatar by objective criteria with reasons; turn away non-fits kindly; prefer steady buyers; expansion directions after the first target. (rules-leads-1.md)
 - L3 [results are poor, or the owner wants to change niche, market or business] Fix inputs, list, then offer (3 offers x 100 messages) before avatar or market; need-to-believes decide push or pivot. (rules-leads-1.md)
 - L4 [any outreach or lead generation] [Fixed] One Core Four channel until the first target; messaging apps, follow-up calls, post and events as tested media within it, lawfully. (rules-leads-1.md)

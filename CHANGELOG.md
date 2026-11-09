@@ -1,6 +1,12 @@
-Business rulebook version: v13 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v14 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Changelog
+
+## v14 (9 November 2026)
+
+Source 127: pasted transcript excerpt on finding business problems with an AI agent.
+
+- L1: a standing scan of problems people report publicly, logged without names into the phrase bank and idea list, each candidate scored on the market tests plus whether the business can solve it with today's skills and tools.
 
 ## v13 (9 November 2026)
 
