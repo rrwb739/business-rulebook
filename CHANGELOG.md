@@ -1,6 +1,13 @@
-Business rulebook version: v16 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v17 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Changelog
+
+## v17 (9 November 2026)
+
+Source 130: short video listing six US tax tactics for entrepreneurs.
+
+- X21 (new, first rule in the US block): US owner tax items with their legal conditions: reasonable S corporation salary before distributions, home rental to the business under 15 days at fair market rent with records, capital loss offset and carryforward with the wash sale rule (crypto outside it under current law, bills pending), appreciated shares held over a year to charity or a donor-advised fund, health savings accounts with eligible cover; each to be confirmed with a qualified adviser.
+- instructions.md: index count 269.
 
 ## v16 (9 November 2026)
 
