@@ -1,4 +1,4 @@
-Business rulebook version: v6 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v7 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Business rulebook: method and index
 
@@ -254,7 +254,7 @@ F = Strategy and thinking, S = Scaling roadmap, O = Offers, L = Leads and market
 - M21 [free early-client or delivery places are full] Free clients choose to pay or step aside for a paying client. (rules-money-1.md)
 - M22 [deciding how much to deliver, or making delivery more efficient] Overdeliver first, then systemise. (rules-money-1.md)
 - M23 [judging whether advertising or outreach is profitable] Lifetime gross profit to acquisition cost. (rules-money-1.md)
-- M24 [designing or changing the money model, or reviewing results] A money model is a sequence of four offer types. (rules-money-2.md)
+- M24 [designing or changing the money model, or reviewing results] A money model is a sequence of four offer types; lead with the best-ratio front end and stack the rest behind it. (rules-money-2.md)
 - M25 [deciding what to build next in the money model] Build in five stages, one offer at a time until reliable and automatic. (rules-money-2.md)
 - M26 [checking cash, or before any prepaid or free-time offer] Track runway; ring-fence prepaid cash; daily cash checks early;... (rules-money-2.md)
 - M27 [any offer, sales call or refund request] Offer at the moment of need, never push. (rules-money-2.md)

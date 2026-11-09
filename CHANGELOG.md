@@ -1,6 +1,15 @@
-Business rulebook version: v6 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v7 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Changelog
+
+## v7 (9 November 2026)
+
+Source: a video on the lifetime gross profit to acquisition cost ratio (sources log, entry 123).
+
+- M1: delivery cost includes pass-through spend and deliverers' pay per client at full load, modelled at scale.
+- M23: acquisition cost components and 12-month smoothing; one-cohort churn estimate; cut acquisition cost front to back through the funnel.
+- M24: build lifetime value back to front; advertise the best-ratio front end and stack the rest behind it; compare product lines on ratio, buyers and speed, not ticket. Index summary updated.
+- F30: choose the vehicle by likelihood of success over passion.
 
 ## v6 (9 November 2026)
 
