@@ -1,4 +1,4 @@
-Business rulebook version: v12 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v13 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Rule index, part 1 of 2: Strategy (F), Scaling roadmap (S), Offers (O), Leads and marketing (L)
 
@@ -159,7 +159,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - L57 [re-engaging the owner's own list] Nine-word email, replies treated as engaged leads; lawful contacts only; fortnightly plain-text email to the opted-in list after the first target. (rules-leads-3.md)
 - L58 [making any content, including sales tools and the lead magnet] Hook, retain, reward; make it for strangers; document rather than teach until proven; judge by avatar opt-ins, calls and sales. (rules-leads-3.md)
 - L59 [using content alongside cold outreach] Master list of content by problem; point to exact proof; repeat in new formats; log questions into content, FAQs and playbook. (rules-leads-3.md)
-- L60 [if content becomes a channel after the first target] [stage: S3+] Give well above 3:1 before asking, fixed cadences, judge by avatar results not reach; later methods for a content channel. (rules-leads-3.md)
+- L60 [if content becomes a channel after the first target] [stage: S3+] Give well above 3:1 before asking, fixed cadences, judge by avatar results not reach; name each piece's job (reach or conversion) and widen outcome, avatar frame or words only for reach; later methods for a content channel. (rules-leads-3.md)
 - L61 [considering or running paid ads] [stage: S3+] Ads only once the funnel converts; four steps, three phases (2x test, kill at 1x), budget plus 20%, lookalikes, organic to paid; hooks, bodies and calls to action built as parts, combined, read by part and re-run against the control. (rules-leads-3.md)
 - L62 [growing lead flow from what already works] More, then better, then new; volume first; before anything new, write need-to-believes, budget, downside and what a win is. (rules-leads-4.md)
 - L63 [testing anything in outreach or marketing] One test per channel per week with a log, fix the constraint, test front to back, 70/20/10, vary the wrapper of winners. (rules-leads-4.md)

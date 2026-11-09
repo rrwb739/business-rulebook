@@ -1,6 +1,12 @@
-Business rulebook version: v12 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v13 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
 
 # Changelog
+
+## v13 (9 November 2026)
+
+Source 126: short video on widening the audience ceiling of a content idea.
+
+- L60: name each piece's job (reach or conversion) and estimate the idea's audience ceiling first; for reach pieces, widen the outcome, the avatar frame (one level up) or the words; conversion pieces stay narrow; never widen past the avatar's market; judged by avatar results, not views.
 
 ## v12 (9 November 2026)
 
