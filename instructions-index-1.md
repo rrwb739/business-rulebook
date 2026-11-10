@@ -1,4 +1,4 @@
-Business rulebook version: v30 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v31 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Rule index, part 1 of 2: Strategy (F), Scaling roadmap (S), Offers (O), Leads and marketing (L)
 
@@ -60,7 +60,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - O7 [designing delivery or onboarding] Walk the client's journey, list every action they must take, and cut them one by one. (rules-offers-1.md)
 - O8 [writing, stating or choosing any guarantee] Build a specific guarantee with teeth from their fears; conditions that predict success; full terms first and valid claims honoured. (rules-offers-1.md)
 - O9 [a prospect raises a non-price objection] Solve it once, turn the fix into a bonus, and keep a rehearsed bank of answers. (rules-offers-1.md)
-- O10 [designing the offer or its messaging] Cut what the buyer must believe to one internal belief sentence; settle the rest with free content. (rules-offers-1.md)
+- O10 [designing the offer or its messaging] Cut what the buyer must believe to one internal belief sentence; settle the rest with free content, one piece per logged objection, old belief broken before the new one. (rules-offers-1.md)
 - O11 [writing copy or answering doubts] Admit weaknesses first, then "but" and the matching strength; never lie or imply a bigger business. (rules-offers-1.md)
 - O12 [writing posts, emails or pages] Say who it is for and who it isn't, state the real commitment, polarise on method and fit, never people. (rules-offers-1.md)
 - O13 [writing promotions, hooks or angles; or responses are dropping; or an offer is tiring] Keep the core offer and change the wrapper, in a fixed refresh order; use the dos list before calling it tired. (rules-offers-1.md)

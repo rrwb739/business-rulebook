@@ -1,6 +1,11 @@
-Business rulebook version: v30 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v31 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v31, 2026-11-10
+Sources 144 and 145: "You can now connect all your social media data directly into Claude" and "objections are the best ideas" (Instagram reels).
+- O10: the beliefs to settle come from objections logged on calls and in replies, refreshed as the log changes; one free piece per recurring objection, breaking the old belief before offering the new one.
+- Source 144: no rule change (covered by L60).
 
 ## v30, 2026-11-10
 Source 143: "Your trial reels aren't dead" (Instagram reel).
