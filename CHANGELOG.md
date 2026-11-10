@@ -1,6 +1,11 @@
-Business rulebook version: v40 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v41 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v41, 2026-11-10
+Source 158: "Important vs. Not Important - Social Media Edition" (Instagram reel, speaker not named).
+- L58: every video carries accurate captions and must make sense on mute, checked once on mute before posting.
+- L60: hashtags as a few exact labels for search within the platform's limit, never a reach tactic or a testing priority.
 
 ## v40, 2026-11-10
 Source 156: "Le ratio CAC sur LTV dicte la rentabilité de votre business" (Instagram reel, French, speaker not named), with the owner's instruction to make the ratio the most important rule and the opening of every Strategy tab answer. Source 157 (a reel promoting an agent-skill finder) logged, no change.
