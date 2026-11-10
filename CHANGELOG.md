@@ -1,6 +1,9 @@
-Business rulebook version: v24 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v25 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v25, 2026-11-10
+Owner's instruction (no source): curator.md saving steps 4 and 6 aligned with the project instructions box: work from the latest main, verify every push on GitHub and confirm it, business projects pull the latest rulebook before every answer, and end with the version line. No rule changed.
 
 ## v24, 2026-11-10
 Source 138: "Watch These 53 Minutes If You Want To Be A Millionaire In 2025 (ft. Patrick Bet-David)" (YouTube interview).
