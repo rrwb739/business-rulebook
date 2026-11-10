@@ -1,6 +1,11 @@
-Business rulebook version: v33 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v34 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v34, 2026-11-10
+Source 148: "Comment NICK for the full episode" (Instagram reel, paid clipping marketplaces).
+- L61: paid clipping treated as capped paid reach (budget, rate per 1,000 views, per-clip maximum), only after proven clips and a converting funnel, briefed from the claims file, labelled clips approved only, traced per clip, judged on avatar opt-ins and sales per pound.
+- X14: anyone paid to post the business's content, including clippers paid per view, must label it as an ad; unlabelled clips are never approved or paid.
 
 ## v33, 2026-11-10
 Owner's request: Remotion marked as the owner's chosen animation tool in tools.md, with the setup steps from source 146; official skills only; the built-in video-making skill for one-off explainers before S3. No rule changed.
