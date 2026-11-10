@@ -1,6 +1,11 @@
-Business rulebook version: v21 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v22 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v22, 2026-11-10
+Source 136: "More Followers Won't Make You Rich, But This Will" (YouTube Q&A).
+- L58: proof ladder (clients helped, owner did it, owner did the work, factual breakdown of a public figure); reposts only where platform rules allow.
+- L60: ads count as asks; short-form asks off-video and in the profile; ask for the personalised version; keyword automation with consent; text-first testing; decide on purpose whether the owner is the face.
 
 ## v21, 2026-11-10
 Source 135: "How I Gained 7.8 Million Followers In 40 Months (6 Key Lessons)" (YouTube talk).

@@ -1,4 +1,4 @@
-Business rulebook version: v21 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v22 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 ## Money models (M)
 ### The money model sequence
