@@ -1,6 +1,11 @@
-Business rulebook version: v25 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v26 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v26, 2026-11-10
+Source 139: "Optimal price points: Either $997 or $7 a month" (Instagram reel).
+- M1: price is usually the strongest profit lever; check it before chasing volume.
+- M3: compare high-price and low-price shapes of the goal on audience, acquisition cost, fulfilment and refunds; mass low-price continuity only after the first target; no universal price point.
 
 ## v25, 2026-11-10
 Owner's instruction (no source): curator.md saving steps 4 and 6 aligned with the project instructions box: work from the latest main, verify every push on GitHub and confirm it, business projects pull the latest rulebook before every answer, and end with the version line. No rule changed.

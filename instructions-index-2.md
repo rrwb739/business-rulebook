@@ -1,4 +1,4 @@
-Business rulebook version: v25 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v26 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -21,9 +21,9 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - C14 [an obstacle, objection or stall on a call] [Fixed] Learn the reason behind each objection type, answer curiosity, acknowledge, associate, ask; keep a true story bank; answers by type; decision makers invited, never pressed against a partner. (rules-sales.md)
 
 ### 6. Money models (M)
-- M1 [pricing, offer design, monthly review] Three growth levers; judge clients on lifetime gross profit including the owner's hours; aim for 80% gross margin on services; define the owner's hourly rate. (rules-money-1.md)
+- M1 [pricing, offer design, monthly review] Three growth levers; judge clients on lifetime gross profit including the owner's hours; aim for 80% gross margin on services; define the owner's hourly rate; price is usually the strongest profit lever. (rules-money-1.md)
 - M2 [setting or raising any price] Price on value, never cost; stay clearly premium; raise only after raising value; never cut price to win; one published price for all; charge for the scarce part; same work worth more to bigger buyers. (rules-money-1.md)
-- M3 [setting a revenue goal or a price] Work backwards: goal divided by price gives clients needed; check it fits hours and outreach capacity. (rules-money-1.md)
+- M3 [setting a revenue goal or a price] Work backwards: goal divided by price gives clients needed; check it fits hours and outreach capacity; compare high-price and low-price shapes on audience, acquisition cost, fulfilment and refunds; no universal price point. (rules-money-1.md)
 - M4 [setting or reviewing the price] Competitor price check, narrowing when crowded, quarterly price review, and four acceptable-price questions asked only of avatar buyers. (rules-money-1.md)
 - M5 [first clients of any offer, pilot pricing, discount requests or negotiation] First few clients free for written commitments; then full price, staged rises, close-rate bands as a price check, notice before rises. (rules-money-1.md)
 - M6 [pricing, or clients not doing the work] A price that stings a little builds commitment and perceived value; check the price doesn't read as too cheap. (rules-money-1.md)
