@@ -1,4 +1,4 @@
-Business rulebook version: v26 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v27 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Business rulebook: method and index
 
@@ -32,6 +32,8 @@ This file is the method every business project follows on every prompt, then whe
    - "Considered but not applied": rule IDs and why each was set aside.
    - "Passes": the number of passes (at least 5) and what the last pass added (it must be nothing).
    - The version line at the top of this file.
+
+Tools: check tools.md before suggesting or installing any tool, and suggest a tool only at the roadmap stage it is listed for or later.
 
 If no rule covers part of the prompt, say so, answer from Hormozi's frameworks in the spirit of these rules, and flag the gap so it can be taken to the rulebook curator.
 
