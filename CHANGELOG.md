@@ -1,6 +1,11 @@
-Business rulebook version: v42 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v43 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v43, 2026-11-10
+Source 160: "15 years of sales advice in 60 seconds" (Alex Hormozi, Instagram reel).
+- C7: say plainly that it is expensive just before stating the price.
+- C12: answer "can you do it for less?" with "can you do it for more?", and give a lower price only by taking out real scope or terms.
 
 ## v42, 2026-11-10
 Source 159: "If I Had to Implement AI into My Content Workflow From Scratch" (Instagram reel, speaker not named).

@@ -1,4 +1,4 @@
-Business rulebook version: v42 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v43 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -11,12 +11,12 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - C4 [preparing for a sales call] Research about 10% of the call's length, mostly on the prospect; use one fact in the first minute; keep notes factual and minimal. (rules-sales.md)
 - C5 [on a sales call] [Fixed] Follow CLOSER (clarify, label, overview, sell, explain, reinforce) with the diagnostic inside it; no ask until they've said why they need a fix; likes and dislikes from past attempts. (rules-sales.md)
 - C6 [presenting bonuses on a one-to-one call] Ask for the sale first on the core offer; add one obstacle-removing bonus at a time after a no; never discount to close. (rules-sales.md)
-- C7 [presenting the price] [Fixed] Use the return close with their own cautious numbers, state the price and stop; fix belief or the offer, not the pitch. (rules-sales.md)
+- C7 [presenting the price] [Fixed] Use the return close with their own cautious numbers, say it is expensive just before the number, state the price and stop; fix belief or the offer, not the pitch. (rules-sales.md)
 - C8 [a prospect hesitates, or the call gets lost in detail] Best case, worst case close; "let's zoom out". (rules-sales.md)
 - C9 [a prospect asks for more proof] [Fixed] Ask how much proof is enough, find the real fear, and offer consented, unrewarded client references. (rules-sales.md)
 - C10 [a prospect says no or stalls] Resolve the concern, then ask again, while rapport holds; expect a first no. (rules-sales.md)
 - C11 [the end of any call] Book the next step before hanging up and ask who else would benefit; one light introduction ask after a no. (rules-sales.md)
-- C12 [negotiating price or terms] [Fixed] Have an alternative first, anchor high but credible, trade on terms in real steps only. (rules-sales.md)
+- C12 [negotiating price or terms] [Fixed] Have an alternative first, anchor high but credible, trade on terms in real steps only; "can you do it for more?", and a lower price only with less scope. (rules-sales.md)
 - C13 [before a block of sales calls, or practising sales] Practise selling like any skill: short daily reps, role-play, a rubric per CLOSER step, call reviews and a don't-say list. (rules-sales.md)
 - C14 [an obstacle, objection or stall on a call] [Fixed] Learn the reason behind each objection type, answer curiosity, acknowledge, associate, ask; keep a true story bank; answers by type; decision makers invited, never pressed against a partner. (rules-sales.md)
 
