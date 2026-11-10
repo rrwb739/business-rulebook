@@ -1,6 +1,10 @@
-Business rulebook version: v31 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v32 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v32, 2026-11-10
+Source 147: "Here's how to write a hook so good it's basically unskippable" (Instagram reel).
+- L73: outcome-and-character hook added as a hook type (a specific avatar outcome tied to a real, consented or sourced person, true numbers and time frame, labelled unless typical); outcome-first against tip hooks added to the tests, judged on avatar opt-ins per 1,000 views.
 
 ## v31, 2026-11-10
 Sources 144 and 145: "You can now connect all your social media data directly into Claude" and "objections are the best ideas" (Instagram reels).

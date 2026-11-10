@@ -1,4 +1,4 @@
-Business rulebook version: v31 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v32 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Rule index, part 1 of 2: Strategy (F), Scaling roadmap (S), Offers (O), Leads and marketing (L)
 
@@ -172,7 +172,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - L70 [planning the owner's day or week for leads] One-page advertising plan; one protected daily outreach block with nothing else in it; work recent actors first. (rules-leads-4.md)
 - L71 [the owner is discouraged, comparing themselves with others, or wants to quit] Keep rolling, check inputs, take the next input rather than switching; reread the reasons list. (rules-leads-4.md)
 - L72 [a lead replies, books or opts in] Speed to lead: contact as fast as possible; if set hours prevent it, notifications on and booking link ready. (rules-leads-4.md)
-- L73 [making any video, writing a subject line or first line, or opening a call or session] [Fixed] Most effort on the hook; proof, promise and plan in the order the audience needs; many hooks from real words and winners; true hook types only. (rules-leads-4.md)
+- L73 [making any video, writing a subject line or first line, or opening a call or session] [Fixed] Most effort on the hook; proof, promise and plan in the order the audience needs; many hooks from real words and winners; true hook types only, including outcome-and-character hooks with real, labelled results; test outcome-first against tip hooks on avatar opt-ins. (rules-leads-4.md)
 - L74 [when warm outreach becomes possible] Beginner's order: warm outreach then content; without a usable network, lean harder on volume and patience. (rules-leads-4.md)
 - L75 [reply or booking rates fall while volume and targeting stay the same; launching anything new; any unhappy client] Keep mistakes small and private; handle upset clients and own slips the same day. (rules-leads-4.md)
 - L76 [writing any message, choosing what to send, or deciding how much to give before asking] Match messages to awareness, give at least 3.5 to 1 ask, longer runway for higher price. (rules-leads-4.md)
