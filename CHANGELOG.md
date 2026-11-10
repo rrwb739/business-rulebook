@@ -1,6 +1,10 @@
-Business rulebook version: v41 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v42 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v42, 2026-11-10
+Source 159: "If I Had to Implement AI into My Content Workflow From Scratch" (Instagram reel, speaker not named).
+- D5: turning the owner's repeated work into AI skills: only weekly hand-run workflows, after D3's question-delete-simplify order, one workflow at a time, tested on real tasks until it matches or beats the owner's output, chained only after passing, human review at every handoff and before publishing, least access, tools per tools.md.
 
 ## v41, 2026-11-10
 Source 158: "Important vs. Not Important - Social Media Edition" (Instagram reel, speaker not named).

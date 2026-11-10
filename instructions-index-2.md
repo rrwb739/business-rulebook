@@ -1,4 +1,4 @@
-Business rulebook version: v41 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v42 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -73,7 +73,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - D2 moved to X5. (rules-delivery.md)
 - D3 [planning or running client sessions that change a client's workflows] [shape: service] Workflows not roles; question, delete, simplify, speed up, automate; small batch first; exceptions pile and manual fallback. (rules-delivery.md)
 - D4 [building prompts or AI drafting for a client] [shape: service] AI asks clarifying questions first, trained like a new employee; named human check on every AI draft. (rules-delivery.md)
-- D5 [designing or reviewing sessions, or training anyone] Document, demonstrate, duplicate; a stranger must get results from the checklist alone; delegate, never abdicate. (rules-delivery.md)
+- D5 [designing or reviewing sessions, training anyone, or turning the owner's repeated work into AI skills] Document, demonstrate, duplicate; a stranger must get results from the checklist alone; delegate, never abdicate; AI skills one workflow at a time, passed against the owner's own output, human review at every handoff. (rules-delivery.md)
 - D6 [delivery work that repeats across clients] Template it so each new client costs less to deliver. (rules-delivery.md)
 - D7 [onboarding a new client] [shape: service] Small promises kept in 48 hours, first task done, welcome video, kickoff goal in their words, one-page map, weekly release. (rules-delivery.md)
 - D8 [measuring usage or client results] [shape: service] Count questions at set points; watch "we" vs "it"; no individual staff monitoring; self-reporting triggers for the owner's misses. (rules-delivery.md)
