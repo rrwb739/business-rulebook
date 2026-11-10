@@ -1,6 +1,10 @@
-Business rulebook version: v28 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v29 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v29, 2026-11-10
+Source 142: "Comment VEE for the full episode" (Instagram reel, premium brands and lo-fi content).
+- O2: content production style is a positioning choice matched to the price position and tested; collaborations checked against the name's associations; a separate lo-fi channel or brand only after the first target.
 
 ## v28, 2026-11-10
 Source 141: "Comment VEE for the full episode" (Instagram reel).
