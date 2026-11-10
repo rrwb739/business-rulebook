@@ -1,4 +1,4 @@
-Business rulebook version: v23 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v24 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -88,7 +88,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - D17 [any login, account, payment detail or data the owner holds: leads, pilots, clients] Multi-factor and password manager everywhere, least access, weekly backups, phone-check bank changes, encryption. (rules-delivery.md)
 
 ### 8. Team and leadership (T)
-- T1 [hiring or managing employees who get leads, sell or deliver] [stage: S3+] After the first target: hire through a measured funnel with structured, fair selection, clear culture, output pay and lawful process; recruiting as selling, fast stages, first-fortnight check-ins, paths as behaviours. (rules-team.md)
+- T1 [hiring or managing employees who get leads, sell or deliver] [stage: S3+] After the first target: hire through a measured funnel with structured, fair selection, clear culture, output pay and lawful process; recruiting as selling, fast stages, first-fortnight check-ins, paths as behaviours; speak to each person's main driver. (rules-team.md)
 - T2 [considering an agency, or paying any outside supplier] Pay for output, not hours; agree one written page first, keep ownership and least access, choose and manage suppliers on evidence. (rules-team.md)
 - T3 [considering a partner or a first hire] [stage: S3+] Only when the roadmap stage allows; a partner must bring measurable value, with exit terms agreed in writing first. (rules-team.md)
 

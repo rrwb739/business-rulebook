@@ -1,6 +1,13 @@
-Business rulebook version: v23 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v24 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v24, 2026-11-10
+Source 138: "Watch These 53 Minutes If You Want To Be A Millionaire In 2025 (ft. Patrick Bet-David)" (YouTube interview).
+- F25: learn by working for the best operator reachable; list and rank 20, offer proven value first; read by current constraint.
+- F30: owned software adds enterprise value after the first target.
+- L50: voicemail callback reasons true and specific, never invented urgency.
+- T1: speak to each person's main driver (lifestyle, purpose, next step, competition).
 
 ## v23, 2026-11-10
 Source 137: "Alex Hormozi's Blueprint To Making Money Blew My Mind" (YouTube interview).

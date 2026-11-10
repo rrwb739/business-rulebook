@@ -1,4 +1,4 @@
-Business rulebook version: v23 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v24 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Rule index, part 1 of 2: Strategy (F), Scaling roadmap (S), Offers (O), Leads and marketing (L)
 
@@ -29,12 +29,12 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - F22 [tempted by a new idea, or doubting the business] Focus means saying no; idea list with seven-question write-up; absence test before new ventures; better beats new; three sources of ideas, what can be sold. (rules-strategy-2.md)
 - F23 [planning the week, or feeling short of time] Time audit, protected outreach block, focus timer, fixed call windows and copy blocks, no big decisions after bad news. (rules-strategy-2.md)
 - F24 [starting any new skill: sales calls, emails, delivery] Commit to a rep count; review every 10 to 20 reps; about 20 focused hours before calling it too hard; keep a lessons log; common factors only if all top reps share them. (rules-strategy-2.md)
-- F25 [learning the market or a skill fast] Consultant interview method, genuine interviews only; buy skills with feedback; cheapest learning currency first. (rules-strategy-2.md)
+- F25 [learning the market or a skill fast] Consultant interview method, genuine interviews only; buy skills with feedback; cheapest learning currency first; learn by working for the best operator reachable; read by current constraint. (rules-strategy-2.md)
 - F26 [thinking about leaving a job to run the business full time] Only with 3 to 6 months' savings and 6 months in a row of matched income; use the job to learn. (rules-strategy-2.md)
 - F27 [someone criticises the owner in public, or a competitor talks the business down] [Fixed] Never argue point by point; fix repeated points; delay annoyed replies; never suppress genuine reviews. (rules-strategy-2.md)
 - F28 [the owner feels stuck, results plateau, or is choosing what to work on] Find the limiting function and the shape's built-in hard part; features are not bugs. (rules-strategy-2.md)
 - F29 [deciding what to work on or learn, or tempted to polish branding, a logo, a website or a CRM] Build, sell, lead; branding and CRMs are neither; learn to sell first. (rules-strategy-2.md)
-- F30 [planning strategy, a quarterly review, results stall, or choosing what to work on next] Nine-point strategy check: problem type, one constraint, product and distribution, systems, model value. (rules-strategy-2.md)
+- F30 [planning strategy, a quarterly review, results stall, or choosing what to work on next] Nine-point strategy check: problem type, one constraint, product and distribution, systems, model value; owned software adds enterprise value after the first target. (rules-strategy-2.md)
 - F31 [every answer, in every chat, on every prompt; non-negotiable] Every answer ends with "The 20% that gets 80%": one to three actions in order, each with its number. (rules-strategy-2.md)
 - F32 [every answer, in every chat, on every prompt; non-negotiable] Stage gate: no work, plan or spend on a later roadmap stage until every current-stage step is closed with evidence. (rules-strategy-2.md)
 
@@ -149,7 +149,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - L47 [writing any call to action] [Fixed] Say exactly what to do and why now, with only real scarcity and urgency; one ask at a time, easy to act, say-do loops before the big ask. (rules-leads-3.md)
 - L48 [cold outreach in general] Solve strangers' three problems in order: list, personalised fast value, more contacts in more ways; sell in steps; it's a numbers game. (rules-leads-3.md)
 - L49 [building the cold list] Lists in order: scraping tools, brokers, hand-built; test samples; first 1,000 names; groups are the warmest cold audience; check lists before use. (rules-leads-3.md)
-- L50 [writing any cold message] Personalise with true checkable facts, plain text, big fast value first; call opener, voicemail and gatekeeper method; true source and fit criteria when asked where their number came from; standing tests. (rules-leads-3.md)
+- L50 [writing any cold message] Personalise with true checkable facts, plain text, big fast value first; call opener, voicemail and gatekeeper method; true source and fit criteria when asked where their number came from; standing tests; voicemail callback reasons true and specific. (rules-leads-3.md)
 - L51 [deciding how much to automate] Automate sending; the smaller the universe the less to automate; research depth scales with deal size. (rules-leads-3.md)
 - L52 [following up] [Fixed] Contact every lead more than once in more than one way; stop on request; recontact non-responders after 3 to 6 months. (rules-leads-3.md)
 - L53 [cold outreach benchmarks] Published benchmarks are placeholders, replaced with own after 100 to 300 contacts; judge on replies, not opens; later test personal video. (rules-leads-3.md)
