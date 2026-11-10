@@ -1,6 +1,10 @@
-Business rulebook version: v36 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v37 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v37, 2026-11-10
+Source 153: "Affiliates" (Alex Hormozi, $100M Leads lead getters course, audio transcript).
+- L69: payout cap corrected to one third of the client's lifetime gross profit (M23 3:1), other acquisition cost for that client counted inside it; activation point set from what the best affiliates did; top tier at the material-producer level, kept only while sustained; low tiers paid in product, status reward labelled under X14; employers of the avatar and volume sellers added as affiliate candidates; first purchase priced only as an activation threshold.
 
 ## v36, 2026-11-10
 Source 151: an email on posting volume (pasted by the owner).

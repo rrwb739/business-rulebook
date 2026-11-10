@@ -1,4 +1,4 @@
-Business rulebook version: v36 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v37 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Rule index, part 1 of 2: Strategy (F), Scaling roadmap (S), Offers (O), Leads and marketing (L)
 
@@ -168,7 +168,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - L66 [asking for referrals] [Fixed] Ask at purchase and after results, "who" not "if", real introductions; incentive options, default two-sided; disclose incentives. (rules-leads-4.md)
 - L67 moved to T1. (rules-leads-4.md)
 - L68 moved to T2. (rules-leads-4.md)
-- L69 [considering affiliates or partners, after the first target (M18)] [Fixed] [stage: S3+] Six-step affiliate method, tiered payouts within a 3:1 split, at least 3:1 return; labelled ads; Dream 100 list. (rules-leads-4.md)
+- L69 [considering affiliates or partners, after the first target (M18)] [Fixed] [stage: S3+] Six-step affiliate method (employers of the avatar and volume sellers as candidates), three-tier payouts capped at a third of lifetime gross profit per client, activation set from the best affiliates, product and status rewards, at least 3:1 return; labelled ads; Dream 100 list. (rules-leads-4.md)
 - L70 [planning the owner's day or week for leads] One-page advertising plan; one protected daily outreach block with nothing else in it; work recent actors first. (rules-leads-4.md)
 - L71 [the owner is discouraged, comparing themselves with others, or wants to quit] Keep rolling, check inputs, take the next input rather than switching; reread the reasons list. (rules-leads-4.md)
 - L72 [a lead replies, books or opts in] Speed to lead: contact as fast as possible; if set hours prevent it, notifications on and booking link ready. (rules-leads-4.md)
