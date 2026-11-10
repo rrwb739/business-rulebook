@@ -1,4 +1,4 @@
-Business rulebook version: v27 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v28 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -109,7 +109,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - X11 [offering or wording any guarantee, anti-guarantee, exclusion or promise to pay] [Fixed] Full guarantee terms before commitment; never "risk-free" with conditions; statutory remedies stay; exclusions reasonable; never sell legal rights; paid cover may be insurance. (rules-legal.md)
 - X12 [asking for, rewarding, publishing or responding to reviews] [Fixed] Genuine reviews only; invite all; incentives disclosed and never conditional; never suppress genuine reviews. (rules-legal.md)
 - X13 [capturing, editing or using a testimonial, case study, client post or illustrative person] [Fixed] Testimonials true, consented in writing, current and unedited in meaning; no actors or fakes presented as clients. (rules-legal.md)
-- X14 [publishing any ad, sponsored content, guest post, clip, affiliate promotion or comment that promotes the business] [Fixed] Marketing must be identifiable as marketing; paid mentions and affiliate posts labelled as ads. (rules-legal.md)
+- X14 [publishing any ad, sponsored content, guest post, clip, affiliate promotion or comment that promotes the business, or any content mentioning another business the owner is connected to] [Fixed] Marketing must be identifiable as marketing; paid mentions and affiliate posts labelled as ads; connected businesses labelled "Ad" upfront, never endorsed unchecked. (rules-legal.md)
 - X15 [setting up or using any referral incentive, commission chain or referral charity donation] [Fixed] Disclose referral incentives; consent before contacting referred people; check charity and professional rules. (rules-legal.md)
 - X16 [giving or accepting any gift, insert or hospitality with prospects, partners, clients or their staff] [Fixed] Token value only, logged, the same for everyone and never conditional (Bribery Act 2010). (rules-legal.md)
 - X17 [designing any affiliate, partner or reseller pay structure] [Fixed] No structure paying mainly for recruiting affiliates (trading scheme and pyramid rules). (rules-legal.md)

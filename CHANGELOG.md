@@ -1,6 +1,10 @@
-Business rulebook version: v27 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v28 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v28, 2026-11-10
+Source 141: "Comment VEE for the full episode" (Instagram reel).
+- X14: content about any business the owner is commercially or personally connected to is labelled "Ad" upfront on the content itself; no endorsing what the owner hasn't used or checked; connected businesses held to the L32 proof standard.
 
 ## v27, 2026-11-10
 Owner's request (no source): new tools.md, a general tools register by roadmap stage (any stage, from S3, after the first target, don't use), naming no business. README.md lists it; instructions.md gains one line telling every project to check tools.md before suggesting or installing any tool and to suggest a tool only at its listed stage or later. No rule changed.
