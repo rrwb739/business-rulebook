@@ -1,6 +1,10 @@
-Business rulebook version: v38 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v39 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v39, 2026-11-10
+Source 155: "5 ways to make people watch longer" (pasted text, speaker not named).
+- L58: a bank of five retention devices (result first, the third option, belief then contradiction, better then best rehook, the condition it fails without), each true and judged on drop-off.
 
 ## v38, 2026-11-10
 Source 154: "Laziest Way to Grow on Social Media" (Instagram reel, speaker not named).
