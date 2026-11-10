@@ -1,6 +1,10 @@
-Business rulebook version: v34 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v35 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v35, 2026-11-10
+Source 150: "What makes an offer truly irresistible?" (Instagram reel).
+- M31: paid priority turnaround of the same work as an upsell, priced on time saved and capacity used, only for times that can always be met, capped, and tracked.
 
 ## v34, 2026-11-10
 Source 148: "Comment NICK for the full episode" (Instagram reel, paid clipping marketplaces).

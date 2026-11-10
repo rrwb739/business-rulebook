@@ -1,4 +1,4 @@
-Business rulebook version: v34 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v35 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -51,7 +51,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - M28 [choosing or testing an attraction offer] Attraction offers bring cash upfront; the five types plus the independent free version; no small discounts; deep discounts only on splinters. (rules-money-2.md)
 - M29 [lead magnet, first sales call, or the DIY tier] Decoy offer: free stripped-down version beside the core offer; scripts, gating, show-up tests and the first-step metric. (rules-money-2.md)
 - M30 [after the first target (F3), choosing the next attraction offer to test] [stage: S3+] Test in order: pay less now or more later, win your money back, giveaway, buy X get Y free. (rules-money-2.md)
-- M31 [a client finishes a step, a new problem appears, or the core offer is ending] Classic upsell at the moment of the next problem; timing, previews, bundles, activation points, paid extra cover priced on expected claims, beyond the core guarantee and legal rights. (rules-money-2.md)
+- M31 [a client finishes a step, a new problem appears, or the core offer is ending] Classic upsell at the moment of the next problem; timing, previews, bundles, activation points, paid priority turnaround of the same work, capped and only when always met, paid extra cover priced on expected claims, beyond the core guarantee and legal rights. (rules-money-2.md)
 - M32 [sales call, renewal, or proposing add-ons] Menu upsell: unsell what isn't needed, prescribe a written plan, ask A or B, ask how to pay; full total before signing. (rules-money-2.md)
 - M33 [presenting price on a call] Anchor upsell: present a real premium at 5 to 10x first, then rescue with the core offer; log reactions to the anchor. (rules-money-2.md)
 - M34 [setting tier prices] Read the tier mix and adjust gaps or raise all prices accordingly. (rules-money-2.md)
