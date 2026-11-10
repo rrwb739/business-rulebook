@@ -1,6 +1,11 @@
-Business rulebook version: v29 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v30 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v30, 2026-11-10
+Source 143: "Your trial reels aren't dead" (Instagram reel).
+- L58: reposts only when better or meaningfully changed; no cosmetic edits to slip past duplicate or originality detection; no mass reposting.
+- L60: use a platform's test-to-non-followers feature for hooks, topics and formats, compared with the account's own earlier tests, judged on avatar numbers, winners promoted with the platform's share option rather than a second upload.
 
 ## v29, 2026-11-10
 Source 142: "Comment VEE for the full episode" (Instagram reel, premium brands and lo-fi content).
