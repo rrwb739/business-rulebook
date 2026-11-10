@@ -1,6 +1,14 @@
-Business rulebook version: v43 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v44 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v44, 2026-11-10
+Source 161: Hormozi, "81 Minutes of Money Making Advice You Needed to Know Yesterday" (Q&A compilation, YouTube transcript).
+- C3: a true prepared-for-you item, walked through on the call, as a show-rate test; keep a before-and-after list of show-rate fixes.
+- C13: judge calls on script adherence before the close; off-script closes are false positives; team adherence recognised whether or not the call closed.
+- D5: a step is learned only when done in the real situation; praise straight after, then less often; ignore minor slips rather than punish.
+- T1: judge any candidate's skill by the numbers they track for their own area.
+- T3: written profit share before equity; a technical partner or outside expert where the core work is technical.
 
 ## v43, 2026-11-10
 Source 160: "15 years of sales advice in 60 seconds" (Alex Hormozi, Instagram reel).
