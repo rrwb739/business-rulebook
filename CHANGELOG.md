@@ -1,6 +1,12 @@
-Business rulebook version: v20 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-09
+Business rulebook version: v21 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v21, 2026-11-10
+Source 135: "How I Gained 7.8 Million Followers In 40 Months (6 Key Lessons)" (YouTube talk).
+- L58: assume nothing (who the owner is, why listen, explained references, no inside jokes); viewers of a style or topic want more of it; clear titles and thumbnails; production that aids understanding; repost past winners; signature sign-on as a test.
+- L60: short-to-long feeding checked by format; revenue per 1,000 views as a diagnostic where a platform pays per view; comments weighed by who writes them.
+- L73: proof, promise and plan in the order the audience needs; teaching intros prove the owner can deliver.
 
 ## v20 (9 November 2026)
 
