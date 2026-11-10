@@ -1,4 +1,4 @@
-Business rulebook version: v22 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v23 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Rule index, part 1 of 2: Strategy (F), Scaling roadmap (S), Offers (O), Leads and marketing (L)
 
@@ -6,7 +6,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 
 ### 1. Strategy and thinking (F)
 - F1 [any business decision or plan] Use Hormozi's frameworks as the default lens; check fit with the owner's set hours, legality in the project's country, and the number that shows it works. (rules-strategy-1.md)
-- F2 [the owner proposes a new action or idea] Test what problem it solves and which number moves; one-way vs two-way decisions, written case and dissent for one-way doors, quarterly audit. (rules-strategy-1.md)
+- F2 [the owner proposes a new action or idea] Test what problem it solves and which number moves; one-way vs two-way decisions, written case and dissent for one-way doors, quarterly audit; north-star test for activities and commitments. (rules-strategy-1.md)
 - F3 [a new offer, avatar or channel idea] One offer, one avatar, one channel until the first target; ignore shiny opportunities. (rules-strategy-1.md)
 - F4 [the owner turns to an easier task while outreach or calls sit undone] Treat it as possible avoidance; 20-minute timer on the hard task; clear put-off hard conversations within a week. (rules-strategy-1.md)
 - F5 [the answer is "we can't" or a prospect says no] Ask "what would it take?" and price the answer, including what it takes time from. (rules-strategy-1.md)
@@ -19,16 +19,16 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - F12 [choosing pilots, pilots are done, every 10 new clients after, or qualifying a prospect] Ideal client from five columns and shared traits of the top 20%; red-flag list; two or more flags, don't sell. (rules-strategy-1.md)
 - F13 [deciding where the owner's hours go] Money per hour; keep the owner on the highest-value skill; log hours by attraction, conversion, delivery, account management. (rules-strategy-1.md)
 - F14 [fear is blocking a decision] Play out the worst case, keep a profitable solo floor, pick the better story at 85; ignore views from outside the avatar or behind the owner. (rules-strategy-1.md)
-- F15 [starting something the owner has not done before] Don't posture; learn from people ahead, give first in communities, show the work when asking; keep a list of the owner's Ten. (rules-strategy-1.md)
+- F15 [starting something the owner has not done before] Don't posture; learn from people ahead, give first in communities, show the work when asking; keep a list of the owner's Ten; copy what people ahead did at the owner's stage. (rules-strategy-1.md)
 - F16 [considering building software] Pre-sell a paid waitlist; no custom software before the first target; own code and accounts; budget twice the quote. (rules-strategy-1.md)
 - F17 moved to T3. (rules-strategy-2.md)
 - F18 [planning strategy or where to put resources] Ask what would make the business number one in its niche and what one thing solves most problems; check need-to-believes before funnel numbers. (rules-strategy-2.md)
 - F19 [solving any business problem with no single right answer] Think divergently, then pick; restate the worry as a question about one number. (rules-strategy-2.md)
 - F20 [the owner is stuck, or deciding what to learn next] Name the missing skill or belief and test it; sustain performance via the outreach streak; state stalls as behaviour. (rules-strategy-2.md)
 - F21 [writing the owner's bio, pitch or founder story] One true P and skill-stack line, never overstated; host bio; structured origin story; no client data in the founder log. (rules-strategy-2.md)
-- F22 [tempted by a new idea, or doubting the business] Focus means saying no; idea list with seven-question write-up; absence test before new ventures; better beats new. (rules-strategy-2.md)
+- F22 [tempted by a new idea, or doubting the business] Focus means saying no; idea list with seven-question write-up; absence test before new ventures; better beats new; three sources of ideas, what can be sold. (rules-strategy-2.md)
 - F23 [planning the week, or feeling short of time] Time audit, protected outreach block, focus timer, fixed call windows and copy blocks, no big decisions after bad news. (rules-strategy-2.md)
-- F24 [starting any new skill: sales calls, emails, delivery] Commit to a rep count; review every 10 to 20 reps; about 20 focused hours before calling it too hard; keep a lessons log. (rules-strategy-2.md)
+- F24 [starting any new skill: sales calls, emails, delivery] Commit to a rep count; review every 10 to 20 reps; about 20 focused hours before calling it too hard; keep a lessons log; common factors only if all top reps share them. (rules-strategy-2.md)
 - F25 [learning the market or a skill fast] Consultant interview method, genuine interviews only; buy skills with feedback; cheapest learning currency first. (rules-strategy-2.md)
 - F26 [thinking about leaving a job to run the business full time] Only with 3 to 6 months' savings and 6 months in a row of matched income; use the job to learn. (rules-strategy-2.md)
 - F27 [someone criticises the owner in public, or a competitor talks the business down] [Fixed] Never argue point by point; fix repeated points; delay annoyed replies; never suppress genuine reviews. (rules-strategy-2.md)

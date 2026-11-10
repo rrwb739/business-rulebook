@@ -1,4 +1,4 @@
-Business rulebook version: v22 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v23 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -9,7 +9,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - C2 [setting up the sales process] [Fixed] Qualify before calls and send a true, structured pre-call video and an honest pre-call form; brief and check every one-to-many asset. (rules-sales.md)
 - C3 [a lead books a call] [Fixed] Contact straight away, book soon, fix show rate first: named confirmation, honest slots, service-only reminders, same-day no-show rebooking. (rules-sales.md)
 - C4 [preparing for a sales call] Research about 10% of the call's length, mostly on the prospect; use one fact in the first minute; keep notes factual and minimal. (rules-sales.md)
-- C5 [on a sales call] [Fixed] Follow CLOSER (clarify, label, overview, sell, explain, reinforce) with the diagnostic inside it; no ask until they've said why they need a fix. (rules-sales.md)
+- C5 [on a sales call] [Fixed] Follow CLOSER (clarify, label, overview, sell, explain, reinforce) with the diagnostic inside it; no ask until they've said why they need a fix; likes and dislikes from past attempts. (rules-sales.md)
 - C6 [presenting bonuses on a one-to-one call] Ask for the sale first on the core offer; add one obstacle-removing bonus at a time after a no; never discount to close. (rules-sales.md)
 - C7 [presenting the price] [Fixed] Use the return close with their own cautious numbers, state the price and stop; fix belief or the offer, not the pitch. (rules-sales.md)
 - C8 [a prospect hesitates, or the call gets lost in detail] Best case, worst case close; "let's zoom out". (rules-sales.md)
@@ -18,11 +18,11 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - C11 [the end of any call] Book the next step before hanging up and ask who else would benefit; one light introduction ask after a no. (rules-sales.md)
 - C12 [negotiating price or terms] [Fixed] Have an alternative first, anchor high but credible, trade on terms in real steps only. (rules-sales.md)
 - C13 [before a block of sales calls, or practising sales] Practise selling like any skill: short daily reps, role-play, a rubric per CLOSER step, call reviews and a don't-say list. (rules-sales.md)
-- C14 [an obstacle, objection or stall on a call] [Fixed] Learn the reason behind each objection type, answer curiosity, acknowledge, associate, ask; keep a true story bank. (rules-sales.md)
+- C14 [an obstacle, objection or stall on a call] [Fixed] Learn the reason behind each objection type, answer curiosity, acknowledge, associate, ask; keep a true story bank; answers by type; decision makers invited, never pressed against a partner. (rules-sales.md)
 
 ### 6. Money models (M)
 - M1 [pricing, offer design, monthly review] Three growth levers; judge clients on lifetime gross profit including the owner's hours; aim for 80% gross margin on services; define the owner's hourly rate. (rules-money-1.md)
-- M2 [setting or raising any price] Price on value, never cost; stay clearly premium; raise only after raising value; never cut price to win; one published price for all. (rules-money-1.md)
+- M2 [setting or raising any price] Price on value, never cost; stay clearly premium; raise only after raising value; never cut price to win; one published price for all; charge for the scarce part; same work worth more to bigger buyers. (rules-money-1.md)
 - M3 [setting a revenue goal or a price] Work backwards: goal divided by price gives clients needed; check it fits hours and outreach capacity. (rules-money-1.md)
 - M4 [setting or reviewing the price] Competitor price check, narrowing when crowded, quarterly price review, and four acceptable-price questions asked only of avatar buyers. (rules-money-1.md)
 - M5 [first clients of any offer, pilot pricing, discount requests or negotiation] First few clients free for written commitments; then full price, staged rises, close-rate bands as a price check, notice before rises. (rules-money-1.md)
@@ -77,7 +77,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - D6 [delivery work that repeats across clients] Template it so each new client costs less to deliver. (rules-delivery.md)
 - D7 [onboarding a new client] [shape: service] Small promises kept in 48 hours, first task done, welcome video, kickoff goal in their words, one-page map, weekly release. (rules-delivery.md)
 - D8 [measuring usage or client results] [shape: service] Count questions at set points; watch "we" vs "it"; no individual staff monitoring; self-reporting triggers for the owner's misses. (rules-delivery.md)
-- D9 [deciding what to improve] Open questions on value; design partners; private feedback first; result vs experience issues; "keep only one thing" question. (rules-delivery.md)
+- D9 [deciding what to improve] Open questions on value; design partners; private feedback first; result vs experience issues; "keep only one thing" question; reach, impact, confidence, cost ranking; fixed improvement budget. (rules-delivery.md)
 - D10 [the owner's own admin] Use the business's own method on the owner's admin first; D3 order; 30-second logging; proper books reconciled monthly. (rules-delivery.md)
 - D11 [client acquisition starts working well] Check delivery capacity before raising outreach; build capacity a quarter before a planned push. (rules-delivery.md)
 - D12 [running the core offer's delivery] [shape: service] First win in week one; small rewards; progress against own baseline, no rankings; results round at the end. (rules-delivery.md)
@@ -88,7 +88,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - D17 [any login, account, payment detail or data the owner holds: leads, pilots, clients] Multi-factor and password manager everywhere, least access, weekly backups, phone-check bank changes, encryption. (rules-delivery.md)
 
 ### 8. Team and leadership (T)
-- T1 [hiring or managing employees who get leads, sell or deliver] [stage: S3+] After the first target: hire through a measured funnel with structured, fair selection, clear culture, output pay and lawful process. (rules-team.md)
+- T1 [hiring or managing employees who get leads, sell or deliver] [stage: S3+] After the first target: hire through a measured funnel with structured, fair selection, clear culture, output pay and lawful process; recruiting as selling, fast stages, first-fortnight check-ins, paths as behaviours. (rules-team.md)
 - T2 [considering an agency, or paying any outside supplier] Pay for output, not hours; agree one written page first, keep ownership and least access, choose and manage suppliers on evidence. (rules-team.md)
 - T3 [considering a partner or a first hire] [stage: S3+] Only when the roadmap stage allows; a partner must bring measurable value, with exit terms agreed in writing first. (rules-team.md)
 
@@ -104,7 +104,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - X6 [making or planning any live marketing, follow-up or partner call] [Fixed] Screen against CTPS, TPS and own list; genuine caller ID; no automated calls; stay within Ofcom persistent misuse policy. (rules-legal.md)
 - X7 [sending any letter, mailing or physical insert to prospects] [Fixed] No payment demands for unsolicited goods; never mimic official post; UK GDPR notice ready for named recipients. (rules-legal.md)
 - X8 [collecting, storing, sharing, recording or using anyone's personal data: leads, prospects, candidates, staff, attendees or referees] [Fixed] UK GDPR: transparent forms, lawful sources, minimisation, consent to record and share, source told when asked, records, suppliers, security, ICO fee. (rules-legal.md)
-- X9 [writing or approving any claim in copy, sales, a lead magnet, a demo, an event, a service standard, a label or client material] [Fixed] Every claim evidenced and true; no implied official status or endorsement; fair comparisons; nothing staged; no disguised pitches. (rules-legal.md)
+- X9 [writing or approving any claim in copy, sales, a lead magnet, a demo, an event, a service standard, a label or client material] [Fixed] Every claim evidenced and true; no implied official status or endorsement; fair comparisons; nothing staged; no disguised pitches; no aggressive practices (DMCC s.228). (rules-legal.md)
 - X10 [stating any limit, cap, place count, deadline, expiring bonus or reason to act now, on any page or call to action] [Fixed] Every limit, deadline and reason to act now must be true and kept. (rules-legal.md)
 - X11 [offering or wording any guarantee, anti-guarantee, exclusion or promise to pay] [Fixed] Full guarantee terms before commitment; never "risk-free" with conditions; statutory remedies stay; exclusions reasonable; never sell legal rights; paid cover may be insurance. (rules-legal.md)
 - X12 [asking for, rewarding, publishing or responding to reviews] [Fixed] Genuine reviews only; invite all; incentives disclosed and never conditional; never suppress genuine reviews. (rules-legal.md)

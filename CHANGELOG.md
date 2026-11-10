@@ -1,6 +1,19 @@
-Business rulebook version: v22 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v23 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v23, 2026-11-10
+Source 137: "Alex Hormozi's Blueprint To Making Money Blew My Mind" (YouTube interview).
+- F2: north-star test for activities and commitments.
+- F15: copy what people ahead did at the owner's stage, not what they do now.
+- F22: three sources of ideas (pain, profession, passion); what can be sold.
+- F24: a common factor counts only if all top reps share it.
+- M2: charge for the scarce part; the same work is worth more to bigger buyers.
+- C5: note likes and dislikes from past attempts.
+- C14: answers by objection type; decision makers invited, never pressed against a partner.
+- X9: no aggressive practices (DMCC Act 2024 s.228).
+- T1: recruiting as selling, fast stages, first-fortnight check-ins, paths as behaviours.
+- D9: reach, impact, confidence and cost ranking; fixed monthly improvement budget; promise fixed, execution improving.
 
 ## v22, 2026-11-10
 Source 136: "More Followers Won't Make You Rich, But This Will" (YouTube Q&A).
