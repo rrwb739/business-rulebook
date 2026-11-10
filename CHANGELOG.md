@@ -1,6 +1,10 @@
-Business rulebook version: v37 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v38 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v38, 2026-11-10
+Source 154: "Laziest Way to Grow on Social Media" (Instagram reel, speaker not named).
+- L60: a default-format series to sustain the posting cadence: one everyday part of the work filmed fresh to a fixed script structure with a niche-proven hook type, new footage each time, one change at a time, kept only while avatar numbers hold.
 
 ## v37, 2026-11-10
 Source 153: "Affiliates" (Alex Hormozi, $100M Leads lead getters course, audio transcript).
