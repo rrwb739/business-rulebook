@@ -1,4 +1,4 @@
-Business rulebook version: v32 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v33 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Tools register
 
@@ -12,7 +12,7 @@ Reviewed tools, by the roadmap stage they're for. A project suggests a tool only
 ## From S3 (content and paid ads: L60, L61)
 - Higgsfield official connector (https://mcp.higgsfield.ai/mcp), reviewed 10 November 2026: realistic AI video inside Claude. Paid plan needed (from $15 a month for 200 credits). A 10-second clip is about 70 credits at 720p and 160 at 1080p; expect 2 to 4 attempts per clip, so roughly $30 to $50 per finished 30-second ad. Start on the smallest plan and measure the real retry rate. Real footage of the owner first; AI people never presented as real (W1, X13).
 - Meta Ad Library research skills, reviewed 10 November 2026: show what competitors are running. The Library shows no spend or results for UK and US commercial ads, so "winning" only means "running a long time". Learn angles and formats; never copy creatives or exact copy.
-- Remotion official skills (github.com/remotion-dev/skills), reviewed 9 November 2026: higher-quality animated video, captions, voiceover. Free for individuals and very small companies; needs Claude Code on the owner's computer.
+- Remotion official skills (github.com/remotion-dev/skills), reviewed 9 November 2026: higher-quality animated video, captions, voiceover. Free for individuals and very small companies; needs Claude Code on the owner's computer. The owner's chosen animation tool (10 November 2026). Setup when the stage arrives: install Claude Code, open an empty folder and ask for a vertical 1080x1920 reel project; paste the script and ask for one animated scene per sentence (headlines, app windows, counters, charts); add the voiceover file and ask for animations timed to it, captions on every word, and an mp4 render. Use the official skills only, never an unread skill sent by direct message. Before S3, a one-off sales explainer can be made with the video-making skill above.
 - fal.ai video skills: pay per use (about $0.25 for a 5-second clip on some models), needs Claude Code and an API key.
 - Artflow (app.artflow.ai), reviewed 9 November 2026: AI likeness of the owner in photos and video. Trust risk with sceptical buyers; always label as AI.
 
