@@ -1,6 +1,12 @@
-Business rulebook version: v39 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v40 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v40, 2026-11-10
+Source 156: "Le ratio CAC sur LTV dicte la rentabilité de votre business" (Instagram reel, French, speaker not named), with the owner's instruction to make the ratio the most important rule and the opening of every Strategy tab answer. Source 157 (a reel promoting an agent-skill finder) logged, no change.
+- instructions.md step 2a: the ratio line now opens every Strategy tab answer on any question, with a hypothetical low, middle and high ratio from marked assumptions when no real figures exist, and the one figure to measure first.
+- prompts/strategy.md: the same instruction added for the tab.
+- M23 index line: marked as the rulebook's most important number.
 
 ## v39, 2026-11-10
 Source 155: "5 ways to make people watch longer" (pasted text, speaker not named).

@@ -1,4 +1,4 @@
-Business rulebook version: v39 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v40 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -43,7 +43,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - M20 [designing the money model, or reviewing a new client] Cash collected in a client's first 30 days should exceed the cost to win and deliver to them. (rules-money-1.md)
 - M21 [free early-client or delivery places are full] Free clients choose to pay or step aside for a paying client; collect their review either way. (rules-money-1.md)
 - M22 [deciding how much to deliver, or making delivery more efficient] Overdeliver first, then systemise; group before hiring; label early extras as temporary; existing clients keep what they bought. (rules-money-1.md)
-- M23 [judging whether advertising or outreach is profitable] Lifetime gross profit to acquisition cost: 3:1 floor, higher with each human step; how to estimate lifetime value. (rules-money-1.md)
+- M23 [judging whether advertising or outreach is profitable; opens every Strategy tab answer, instructions.md step 2a] The rulebook's most important number. Lifetime gross profit to acquisition cost: 3:1 floor, higher with each human step; how to estimate lifetime value. (rules-money-1.md)
 - M24 [designing or changing the money model, or reviewing results] A money model is a sequence of four offer types; lead with the best-ratio front end and stack the rest behind it. (rules-money-2.md)
 - M25 [deciding what to build next in the money model] Build in five stages, one offer at a time until reliable and automatic; simple scales; fix back to front. (rules-money-2.md)
 - M26 [checking cash, or before any prepaid or free-time offer] Track runway; ring-fence prepaid cash; daily cash checks early; separate business account before the first payment. (rules-money-2.md)
