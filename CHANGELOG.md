@@ -1,6 +1,12 @@
-Business rulebook version: v44 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v45 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v45, 2026-11-10
+Source 162: "Bad VS Good Email Marketing" (YouTube short, speaker not named).
+- L41: schedule sends for when the avatar reads, moved by logged reply times, judged on replies.
+- L50: read every new template on a phone before sending.
+- L63: a standing 10 to 20% challenger split against the control on large sends; alternate batches on small ones.
 
 ## v44, 2026-11-10
 Source 161: Hormozi, "81 Minutes of Money Making Advice You Needed to Know Yesterday" (Q&A compilation, YouTube transcript).
