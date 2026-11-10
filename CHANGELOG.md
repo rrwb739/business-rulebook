@@ -1,6 +1,10 @@
-Business rulebook version: v35 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v36 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
 
 # Changelog
+
+## v36, 2026-11-10
+Source 151: an email on posting volume (pasted by the owner).
+- L60: count weekly posts per platform against the space's leaders before blaming the platform; add one post a day on the main platform for 30 days at a sustainable pace, quality bar kept, judged on avatar numbers; running out of good ideas marks ideas as the constraint.
 
 ## v35, 2026-11-10
 Source 150: "What makes an offer truly irresistible?" (Instagram reel).
