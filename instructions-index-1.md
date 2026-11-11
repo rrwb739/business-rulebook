@@ -1,4 +1,4 @@
-Business rulebook version: v46 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v47 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 2: Strategy (F), Scaling roadmap (S), Offers (O), Leads and marketing (L)
 
@@ -155,7 +155,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - L53 [cold outreach benchmarks] Published benchmarks are placeholders, replaced with own after 100 to 300 contacts; judge on replies, not opens; later test personal video. (rules-leads-3.md)
 - L54 [cold outreach costs and allocation] Cost per customer from labour, software and data, at least 3:1; rep pay, equal allocation at about 70% capacity, quotas, no lead left behind. (rules-leads-3.md)
 - L55 [deciding if cold outreach is working, or scaling it] Work backwards from the sales goal to daily contacts, plan up to twice the straight-line figure; replicate the best before iterating. (rules-leads-3.md)
-- L56 [contacting people who already know the owner: replied prospects, pilots, members, opted-in contacts] Ten-step warm outreach: list, platform, personalise, 100 a day, acknowledge-compliment-ask, offer, referrals, keep warm. (rules-leads-3.md)
+- L56 [contacting people who already know the owner: replied prospects, pilots, members, opted-in contacts; or the warm list runs low] Ten-step warm outreach: list, platform, personalise, 100 a day, acknowledge-compliment-ask, offer, referrals, keep warm; lukewarm list from people who engage with the owner's post and thoughtful comments, within PECR. (rules-leads-3.md)
 - L57 [re-engaging the owner's own list] Nine-word email, replies treated as engaged leads; lawful contacts only; fortnightly plain-text email to the opted-in list after the first target. (rules-leads-3.md)
 - L58 [making any content, including sales tools and the lead magnet] Hook, retain (a bank of five true retention devices), reward; captioned and clear on mute; make it for strangers (who the owner is, why listen, no inside jokes); proof ladder; clear titles; production that aids understanding; repost past winners only when better or meaningfully changed, never cosmetic edits to evade duplicate detection; document rather than teach until proven; judge by avatar opt-ins, calls and sales. (rules-leads-3.md)
 - L59 [using content alongside cold outreach] Master list of content by problem; point to exact proof; repeat in new formats; log questions into content, FAQs and playbook. (rules-leads-3.md)

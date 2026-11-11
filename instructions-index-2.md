@@ -1,4 +1,4 @@
-Business rulebook version: v46 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v47 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -25,7 +25,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - M2 [setting or raising any price] Price on value, never cost; stay clearly premium; raise only after raising value; never cut price to win; one published price for all; charge for the scarce part; same work worth more to bigger buyers. (rules-money-1.md)
 - M3 [setting a revenue goal or a price] Work backwards: goal divided by price gives clients needed; check it fits hours and outreach capacity; compare high-price and low-price shapes on audience, acquisition cost, fulfilment and refunds; no universal price point. (rules-money-1.md)
 - M4 [setting or reviewing the price] Competitor price check, narrowing when crowded, quarterly price review, and four acceptable-price questions asked only of avatar buyers. (rules-money-1.md)
-- M5 [first clients of any offer, pilot pricing, discount requests or negotiation] First few clients free for written commitments; then full price, staged rises, close-rate bands as a price check, notice before rises. (rules-money-1.md)
+- M5 [first clients of any offer, pilot pricing, discount requests or negotiation] First few clients free for written commitments, referred strangers with a self-paid charity stake; then full price, staged rises, close-rate bands as a price check, notice before rises. (rules-money-1.md)
 - M6 [pricing, or clients not doing the work] A price that stings a little builds commitment and perceived value; check the price doesn't read as too cheap. (rules-money-1.md)
 - M7 [pricing or running a sales call] Three tiers (DIY, core, premium at about 10x) about 5x apart; barbell check; build from the top down; premium listed first. (rules-money-1.md)
 - M8 [the core offer is ending for a client] Offer continuity as the next step; design it in from day one; the continuity offer is a proper sales call. (rules-money-1.md)

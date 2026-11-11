@@ -1,6 +1,11 @@
-Business rulebook version: v46 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v47 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v47, 2026-11-11
+Source 164: "If I Had To Start a Business From Scratch, I'd Do This" (Alex Hormozi, YouTube).
+- L56: when the warm list runs low, a lukewarm list from people who engage with one daily post and about 100 thoughtful comments where the avatar gathers; open with a question; social DMs treated as electronic mail under PECR.
+- M5: free referred clients with no relationship get a real stake, a donation they pay directly to a charity of their choice; never routed through or marketed as charity by the business.
 
 ## v46, 2026-11-11
 Source 163: "I'm Broke, What Business Do I Start?" (Alex Hormozi, YouTube).
