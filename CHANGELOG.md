@@ -1,6 +1,10 @@
-Business rulebook version: v50 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v51 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v51, 2026-11-11
+Source 169: "YAAAAAASSSSSS" (speaker not named, Instagram reel on seen-but-unanswered messages). Owner's note: very important.
+- L50: a seen-but-silent prospect may get the L12 warm close-off as one short voice or video note on a channel already used, lawful under X2, no pressure, naming what the owner does so they file the contact, only true statements, tested against text.
 
 ## v50, 2026-11-11
 Source 167: "Which Business Should I Start To Reach $100K A Month?" (Alex Hormozi, YouTube short). Owner's instruction: save the fastest way.
