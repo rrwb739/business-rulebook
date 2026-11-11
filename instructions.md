@@ -1,4 +1,4 @@
-Business rulebook version: v69 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v70 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Business rulebook: method and index
 
@@ -14,7 +14,7 @@ This file is the method every business project follows on every prompt, then whe
 
 2b. The core method (F34): whenever the prompt involves building, changing, fixing or reviewing anything (a plan, process, offer, script, tool, automation or system), apply the five steps in order before any other rule: question each requirement and name its owner, delete, simplify, speed up, automate last. Say which step the answer is at, and never recommend automating or speeding up something that hasn't been through steps 1 and 2.
 
-2c. Case patterns (K): on every strategy, growth, offer or money question, check the K section for an entry whose trigger matches this business's model, stage and constraint, even when the case came from a different trade. Use the nearest match as an analogy only: say which K entry, what transfers and what doesn't, mark it "Proposed, not decided", run it through F34 and the stage gate, and name the number that will prove it here. If nothing matches, say so.
+2c. Case patterns (K): the general rules (F to X) hold every pattern that recurs across businesses and come first; then, on every strategy, growth, offer or money question, check the K section for an entry whose trigger matches this business's model, stage and constraint, even when the case came from a different trade. Use the nearest match as an analogy only: say which K entry, what transfers and what doesn't, mark it "Proposed, not decided", run it through F34 and the stage gate, and name the number that will prove it here. If nothing matches, say so.
 
 3. Passes over the index. Go through every line of the index (instructions-index-1.md, then instructions-index-2.md), top to bottom, and list every rule whose trigger or summary touches the prompt, directly or indirectly. Think wide: a marketing question also touches Offers, Leads and marketing, Sales, Money models, Strategy, Writing and Legal and tax. When unsure, include it. Open the full text of every listed rule, and open every rule ID mentioned inside those rules. Then go through both index files again from the top and add anything missed. Do at least 5 full passes on every prompt, and keep going until a full pass adds nothing new. Never answer before at least 5 passes are done and the last one added nothing.
 

@@ -1,6 +1,14 @@
-Business rulebook version: v69 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v70 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v70, 2026-11-11
+Owner's instruction: patterns that recur across businesses go into the general sections; K keeps only the specific situation. Source 191: "Do You Want to Be the Expert or Build the Business?" (Alex Hormozi, YouTube call-in).
+- F28: expert path or business-owner path, chosen on purpose and held; seasonal demand as a built-in hard part (from K15).
+- F30: practitioner businesses' two end states and their growth path (source 191); selling the proven system to peers (from K2).
+- F33: vendor count as a stickiness signal (from K8); shrinking buyer bases scored down (from K12).
+- M8: short fixed-length programme as an entry offer into continuity (from K1); offering recent automated buyers the higher next step (from K7); trigger widened.
+- rules-cases.md, index section 11 and instructions.md step 2c: general rules hold the patterns and come first; K keeps the specific situation and names where the pattern is held.
 
 ## v69, 2026-11-11
 Source 190: "How I'd Pick the Next Service to Scale" (Alex Hormozi with a workshop attendee, YouTube clip).
