@@ -1,6 +1,13 @@
-Business rulebook version: v66 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v67 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v67, 2026-11-11
+Source 188: "10x Your Profit. 10x Your Pricing. 10x Your Business." (Alex Hormozi, YouTube).
+- O2: brand as chosen associations built by pairing; advertising against branding; gain-and-loss test for every pairing; one central pillar; trigger widened to branding, partners and appearances.
+- L65: three levels of influence; keep the small promises inside content; measure the word-of-mouth share.
+- X23 (new, UK and US): choosing who to serve and refusing buyers against equality law, including belief and political affiliation.
+- K9 to K11 (new): niching a generalist professional service with content on clients' wider goals; launching to an audience with a record of kept promises; a brand pairing its core buyers disliked.
 
 ## v66, 2026-11-11
 Source 187: "The Biggest Opportunity with the Agency Model" (Alex Hormozi, YouTube clip).

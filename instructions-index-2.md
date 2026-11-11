@@ -1,4 +1,4 @@
-Business rulebook version: v66 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v67 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -118,7 +118,8 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - X20 [choosing or reviewing the legal form, dealing with rivals or members who compete, chasing late business payments, holding cash, or protecting systems and brand] [Fixed] Legal form with an adviser; competition law; late payment interest; FSCS limit; Cyber Essentials and trademark checks.; exclusive deals, below-cost pricing and buying rivals checked against competition law (rules-legal.md)
 - X21 [a US owner or US business setting the legal form or owner pay, renting the owner's home to the business, selling investments at a loss, giving to charity, or choosing health cover and savings] [Fixed] US owner tax items on their conditions: reasonable S corporation salary, home rental under 15 days at fair rent, capital loss limits and wash sales, appreciated shares to charity, health savings accounts. (rules-legal.md)
 - X22 [selling to consumers at their home or door to door, or agreeing any consumer contract away from the business's premises] [Fixed] UK off-premises rules: written pre-contract and cancellation information, 14-day right to cancel, early start only on a durable-medium request, leave when asked, respect no-cold-callers signs. (rules-legal.md)
-- US block: X21; the rest to fill from sources (see rules-legal.md).
+- X23 [choosing who to serve, saying who an offer is not for, refusing a buyer, different terms for different buyers, or a public political side] [Fixed] Business-criteria targeting is lawful; no refusal or worse terms for protected characteristics (UK Equality Act services, belief can include political philosophy; US federal, state and city laws, some protect political affiliation). (rules-legal.md)
+- US block: X21, X23 (US part); the rest to fill from sources (see rules-legal.md).
 
 ### 11. Case patterns (K)
 How to use: a K entry is a strategy that worked for one kind of business, written in general words. Match the business's model, stage and constraint against each trigger; use a match as an analogy marked "Proposed, not decided", never as proof. Rules in other sections win over K.
@@ -130,3 +131,6 @@ How to use: a K entry is a strategy that worked for one kind of business, writte
 - K6 [a low-price job sold door to door or in person, needed again] Win the first job, bundle repeats into a monthly membership so lifetime value pays for the selling; off-premises contract rules. (rules-cases.md)
 - K7 [a low-price automated online sale where some buyers can afford much more] Call team contacts recent automated buyers and offers the higher next step; lawful channel only. (rules-cases.md)
 - K8 [an agency or service business with constant demand but churn, low prices and labour-heavy delivery] Many vendors for a universal need signals low stickiness; rebuild delivery with checked AI, price consistently, keep clients longer; the advantage lasts while good AI is hard. (rules-cases.md)
+- K9 [a generalist professional service competing on price] Pick one client group passing the market tests, publish free practical content on their wider business goals from cross-client insight, sell the core service as the way there. (rules-cases.md)
+- K10 [a business whose audience has seen many kept promises, launching a new product] Launch to that audience first, take orders in arrival order, real queue only, full terms before payment. (rules-cases.md)
+- K11 [a brand pairing itself with a figure, cause or campaign its core buyers dislike] Cautionary: good advertising, bad branding; count who a pairing gains and loses before running it. (rules-cases.md)

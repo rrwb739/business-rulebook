@@ -1,4 +1,4 @@
-Business rulebook version: v66 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v67 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 2: Strategy (F), Scaling roadmap (S), Offers (O), Leads and marketing (L)
 
@@ -54,7 +54,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 
 ### 3. Offers (O)
 - O1 [designing or reviewing the offer] Make an offer so good the avatar feels stupid saying no; audit its five parts and track response, close rate and price per version. (rules-offers-1.md)
-- O2 [positioning, or comparing with competitors] Sell in a category of one: get narrower until something true is unique, protect the owner's name, keep a checkable facts-only comparison; content production style matches the price position, chosen on purpose; collaborations checked against the name's associations; lo-fi on a separate channel or brand only after the first target. (rules-offers-1.md)
+- O2 [positioning, branding, choosing partners, endorsers or public appearances, or comparing with competitors] Sell in a category of one: get narrower until something true is unique, protect the owner's name, keep a checkable facts-only comparison; content production style matches the price position, chosen on purpose; collaborations checked against the name's associations; lo-fi on a separate channel or brand only after the first target; a brand is chosen associations built by pairing; advertising makes known, branding is what is made known; count who each pairing gains and loses; one central pillar every avatar member wants. (rules-offers-1.md)
 - O3 [writing the offer, bio, pitch, posts or messages] Use one positioning line everywhere, test clarity on outsiders, one big idea per piece, written to one reader. (rules-offers-1.md)
 - O4 [writing copy, pitches or scripts] Sell the destination, not the journey: benefit ladder, "so what?", one modest claim plus one true mechanism, one high-contrast picture. (rules-offers-1.md)
 - O5 [writing copy, messages or call scripts] The pain is the pitch: their words, specific moments, What-Who-When, a doable step with every risk line, weekly reading of their press. (rules-offers-1.md)
@@ -166,7 +166,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - L62 [growing lead flow from what already works] More, then better, then new; volume first; before anything new, write need-to-believes, budget, downside and what a win is. (rules-leads-4.md)
 - L63 [testing anything in outreach or marketing] One test per channel per week with a log, fix the constraint, test front to back, 70/20/10, vary the wrapper of winners; a standing 10 to 20% challenger split on large sends. (rules-leads-4.md)
 - L64 [planning how to scale lead flow] Lead getters (referrals, employees, agencies, affiliates) do the Core Four for the business; start with referrals. (rules-leads-4.md)
-- L65 [any client relationship; designing referrals] Referrals beat churn to grow; build goodwill six ways; write the growth loop and fix its weakest link quarterly. (rules-leads-4.md)
+- L65 [any client relationship; designing referrals] Referrals beat churn to grow; build goodwill six ways; write the growth loop and fix its weakest link quarterly; three levels of influence (owner says, others say, buyers experience); keep the small promises inside content; measure the word-of-mouth share quarterly. (rules-leads-4.md)
 - L66 [asking for referrals] [Fixed] Ask at purchase and after results, "who" not "if", real introductions; incentive options, default two-sided; disclose incentives. (rules-leads-4.md)
 - L67 moved to T1. (rules-leads-4.md)
 - L68 moved to T2. (rules-leads-4.md)
