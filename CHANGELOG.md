@@ -1,6 +1,11 @@
-Business rulebook version: v62 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v63 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v63, 2026-11-11
+Source 185: "13 Ways to DESTROY Your Competition (Legally)" (Alex Hormozi, YouTube).
+- F30: point 10, after the first target, one competitive advantage that strengthens with scale, checked against competition law.
+- X20: exclusive deals, below-cost pricing and buying rivals checked against competition law and merger thresholds.
 
 ## v62, 2026-11-11
 Source 183: "The 80/20 Principle: Achieve More with Less" (audiobook). Owner's instruction: every "20% that gets 80%" goes through the 80/20 method first.

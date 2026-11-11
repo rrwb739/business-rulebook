@@ -1,4 +1,4 @@
-Business rulebook version: v62 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v63 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -115,7 +115,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - X17 [designing any affiliate, partner or reseller pay structure] [Fixed] No structure paying mainly for recruiting affiliates (trading scheme and pyramid rules). (rules-legal.md)
 - X18 [hiring, paying, managing, changing or ending anyone's work for the business: staff, contractors, freelancers, interns, callers, hosts or setters] [Fixed] UK employment law: status checks, minimum wage, written terms, employer set-up, hours, fair selection and fair exits. (rules-legal.md)
 - X19 [setting tax reserves, claiming expenses or reliefs, or offering prizes, rewards, benefits or share options] [Fixed] Reserve rates with a tax adviser; Self Assessment or corporation tax; expenses, reliefs and benefits checked. (rules-legal.md)
-- X20 [choosing or reviewing the legal form, dealing with rivals or members who compete, chasing late business payments, holding cash, or protecting systems and brand] [Fixed] Legal form with an adviser; competition law; late payment interest; FSCS limit; Cyber Essentials and trademark checks. (rules-legal.md)
+- X20 [choosing or reviewing the legal form, dealing with rivals or members who compete, chasing late business payments, holding cash, or protecting systems and brand] [Fixed] Legal form with an adviser; competition law; late payment interest; FSCS limit; Cyber Essentials and trademark checks.; exclusive deals, below-cost pricing and buying rivals checked against competition law (rules-legal.md)
 - X21 [a US owner or US business setting the legal form or owner pay, renting the owner's home to the business, selling investments at a loss, giving to charity, or choosing health cover and savings] [Fixed] US owner tax items on their conditions: reasonable S corporation salary, home rental under 15 days at fair rent, capital loss limits and wash sales, appreciated shares to charity, health savings accounts. (rules-legal.md)
 - X22 [selling to consumers at their home or door to door, or agreeing any consumer contract away from the business's premises] [Fixed] UK off-premises rules: written pre-contract and cancellation information, 14-day right to cancel, early start only on a durable-medium request, leave when asked, respect no-cold-callers signs. (rules-legal.md)
 - US block: X21; the rest to fill from sources (see rules-legal.md).
