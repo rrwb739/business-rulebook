@@ -1,4 +1,4 @@
-Business rulebook version: v64 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v65 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -119,3 +119,13 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - X21 [a US owner or US business setting the legal form or owner pay, renting the owner's home to the business, selling investments at a loss, giving to charity, or choosing health cover and savings] [Fixed] US owner tax items on their conditions: reasonable S corporation salary, home rental under 15 days at fair rent, capital loss limits and wash sales, appreciated shares to charity, health savings accounts. (rules-legal.md)
 - X22 [selling to consumers at their home or door to door, or agreeing any consumer contract away from the business's premises] [Fixed] UK off-premises rules: written pre-contract and cancellation information, 14-day right to cancel, early start only on a durable-medium request, leave when asked, respect no-cold-callers signs. (rules-legal.md)
 - US block: X21; the rest to fill from sources (see rules-legal.md).
+
+### 11. Case patterns (K)
+How to use: a K entry is a strategy that worked for one kind of business, written in general words. Match the business's model, stage and constraint against each trigger; use a match as an analogy marked "Proposed, not decided", never as proof. Rules in other sections win over K.
+- K1 [a local service business with walk-in or inbound traffic but low conversion of enquiries] Scripted first contact, short fixed-length challenge programme as entry offer, membership sold at the end while the result is visible. (rules-cases.md)
+- K2 [an owner whose one business works and peers ask how] License or teach the proven system to owners of the same kind of business, only with measured, provable results. (rules-cases.md)
+- K3 [a fragmented local market of many small operators and an owner with capital] Buy or merge operators in one area onto one system, brand and back office; later stages only; competition law check. (rules-cases.md)
+- K4 [many small buyers in one trade each paying full price for the same supplies] Run a buying group that pools volume for better terms, paid by fee or share of saving; never price fixing. (rules-cases.md)
+- K5 [a core product that can be free or at cost, with a paired paid service] Free core to widen the funnel, earn on the paired service most users need; check cost per free user and cash. (rules-cases.md)
+- K6 [a low-price job sold door to door or in person, needed again] Win the first job, bundle repeats into a monthly membership so lifetime value pays for the selling; off-premises contract rules. (rules-cases.md)
+- K7 [a low-price automated online sale where some buyers can afford much more] Call team contacts recent automated buyers and offers the higher next step; lawful channel only. (rules-cases.md)

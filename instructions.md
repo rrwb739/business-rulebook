@@ -1,4 +1,4 @@
-Business rulebook version: v64 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v65 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Business rulebook: method and index
 
@@ -13,6 +13,8 @@ This file is the method every business project follows on every prompt, then whe
 2a. The ratio first: the most important number in the rulebook. Open every answer in the Strategy tab, whatever the question, and every answer elsewhere about what to do next, a plan or a result, with the ratio line: lifetime gross profit per client (average monthly revenue per client across all plans and add-ons, times average months a client stays, times gross margin, with the owner's delivery hours costed at the M1 rate), acquisition cost per client (M23), the ratio between them against its bar (3:1 floor, higher with each human step, M23), and the weakest funnel step (M46). Use the latest real figures the owner gave. Where there are none, work out a hypothetical ratio from stated assumptions (the price in the instructions box, a retention guess, the margin, and the planned channel's cost per client including the owner's hours), show low, middle and high cases, mark every assumed figure "Estimate, not measured", and name the one figure to measure first to replace the guess. Never present an estimate as a measured number. The next action comes from M46's order. The ratio leads the answer but never overrides a [Fixed] rule or the stage gate.
 
 2b. The core method (F34): whenever the prompt involves building, changing, fixing or reviewing anything (a plan, process, offer, script, tool, automation or system), apply the five steps in order before any other rule: question each requirement and name its owner, delete, simplify, speed up, automate last. Say which step the answer is at, and never recommend automating or speeding up something that hasn't been through steps 1 and 2.
+
+2c. Case patterns (K): on every strategy, growth, offer or money question, check the K section for an entry whose trigger matches this business's model, stage and constraint, even when the case came from a different trade. Use the nearest match as an analogy only: say which K entry, what transfers and what doesn't, mark it "Proposed, not decided", run it through F34 and the stage gate, and name the number that will prove it here. If nothing matches, say so.
 
 3. Passes over the index. Go through every line of the index (instructions-index-1.md, then instructions-index-2.md), top to bottom, and list every rule whose trigger or summary touches the prompt, directly or indirectly. Think wide: a marketing question also touches Offers, Leads and marketing, Sales, Money models, Strategy, Writing and Legal and tax. When unsure, include it. Open the full text of every listed rule, and open every rule ID mentioned inside those rules. Then go through both index files again from the top and add anything missed. Do at least 5 full passes on every prompt, and keep going until a full pass adds nothing new. Never answer before at least 5 passes are done and the last one added nothing.
 
@@ -43,8 +45,8 @@ If no rule covers part of the prompt, say so, answer from Hormozi's frameworks i
 
 ## Rule ID prefixes
 
-F = Strategy and thinking, S = Scaling roadmap, O = Offers, L = Leads and marketing, C = Sales, M = Money models, D = Delivery and operations, T = Team and leadership, W = Writing, X = Legal and tax. IDs never change. A moved rule keeps a pointer line in its old place; a retired rule keeps a one-line stub.
+F = Strategy and thinking, S = Scaling roadmap, O = Offers, L = Leads and marketing, C = Sales, M = Money models, D = Delivery and operations, T = Team and leadership, W = Writing, X = Legal and tax, K = Case patterns (strategies from specific businesses, written in general words). IDs never change. A moved rule keeps a pointer line in its old place; a retired rule keeps a one-line stub.
 
 ## Rule index
 
-The index (269 lines, one per rule ID) is split across two files so no line is shortened to meet the size cap: instructions-index-1.md (F, S, O, L) and instructions-index-2.md (C, M, D, T, W, X). Read both in full on every pass.
+The index (276 lines, one per rule ID) is split across two files so no line is shortened to meet the size cap: instructions-index-1.md (F, S, O, L) and instructions-index-2.md (C, M, D, T, W, X, K). Read both in full on every pass.

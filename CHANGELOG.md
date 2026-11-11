@@ -1,6 +1,13 @@
-Business rulebook version: v64 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v65 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v65, 2026-11-11
+Owner's instruction: strategy from any source about a specific business is kept, generalised, in its own section.
+- New section K (Case patterns), rules-cases.md: K1 to K7 backfilled from earlier sources (challenge-programme entry offer, licensing a proven system, local roll-up, buying group, free core with paid paired service, door-to-door job into membership, call team for automated buyers).
+- instructions.md: K added to the ID prefixes; new step 2c, every strategy, growth, offer or money answer checks K for a matching case and uses it as an analogy only.
+- instructions-index-2.md: section 11, Case patterns (K).
+- README: rules-cases.md listed.
 
 ## v64, 2026-11-11
 Source 186: "Helping an Agency Get More Clients" (Alex Hormozi, YouTube workshop clip).
