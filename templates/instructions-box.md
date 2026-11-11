@@ -14,6 +14,7 @@ Roadmap stage (S0 to S9):
 Owner's hours a week for this business:
 Spend limit for a decision without a check (F2):
 Owner's voice and style for messages (W1):
+Owner's business filters (F33, answers to templates/business-filters.md, or "not answered"):
 Where the daily numbers live (M46: a sheet link, or "pasted daily in the Daily numbers tab"):
 
 ## Decisions (one line each, dated)

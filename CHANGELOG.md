@@ -1,6 +1,12 @@
-Business rulebook version: v51 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v52 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v52, 2026-11-11
+Source 170: "Why You Can't Pick a Business to Start" (Alex Hormozi, YouTube short). Owner's instruction: save for future businesses and new projects.
+- F33 (new): narrow before comparing, nine filter questions, strike out, compare three to five on L1 and M23, pick by a written deadline.
+- instructions.md: give the F33 questions first when choosing a business or setting up a new project with no business chosen.
+- templates/business-filters.md (new) and an F33 field in templates/instructions-box.md.
 
 ## v51, 2026-11-11
 Source 169: "YAAAAAASSSSSS" (speaker not named, Instagram reel on seen-but-unanswered messages). Owner's note: very important.
