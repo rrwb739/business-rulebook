@@ -1,4 +1,4 @@
-Business rulebook version: v53 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v54 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Business rulebook: method and index
 
@@ -33,7 +33,7 @@ This file is the method every business project follows on every prompt, then whe
    - "Passes": the number of passes (at least 5) and what the last pass added (it must be nothing).
    - The version line at the top of this file.
 
-New business: when the owner is choosing which business to start, or sets up a new business project with no business chosen yet, first give the F33 filter questions (also in templates/business-filters.md) and wait for the answers before suggesting any business.
+New business: when the owner is choosing which business to start, or sets up a new business project with no business chosen yet, ask the 20 F33 filter questions one at a time (also in templates/business-filters.md), record each answer, and wait for all of them before suggesting any business.
 
 Tools: check tools.md before suggesting or installing any tool, and suggest a tool only at the roadmap stage it is listed for or later.
 

@@ -1,6 +1,11 @@
-Business rulebook version: v53 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v54 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v54, 2026-11-11
+Owner's instruction: F33 widened to find the best business for any particular person and their own monthly target.
+- F33: 20 filter questions asked one at a time (adds monthly target and date, owner's country, languages, business or consumer buyers, one-off or recurring, free hours of the day, skills and licences, network, proof, assets, solo or team); checks the target fits the hours.
+- instructions.md and templates/business-filters.md updated to the 20 questions.
 
 ## v53, 2026-11-11
 Source 171: "I Lost $100 Million... Here's What I Learned" (Alex Hormozi, YouTube).
