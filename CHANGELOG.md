@@ -1,6 +1,13 @@
-Business rulebook version: v58 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v59 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v59, 2026-11-11
+Source 180: "Business Was Hard Until I Understood These 4 Concepts" (Alex Hormozi, YouTube).
+- M1: the smallest delivery unit must profit at full capacity before adding volume, locations or product lines.
+- M2: feeling like posing means the claim is wrong, not the price.
+- T1: pay that works at full capacity; fixing mispriced pay honestly and lawfully.
+- F23: count each no as a point for focus.
 
 ## v58, 2026-11-11
 Source 179: "The anti-routine... what billionaires use to win" (Alex Hormozi, YouTube).
