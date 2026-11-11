@@ -1,6 +1,12 @@
-Business rulebook version: v60 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v61 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v61, 2026-11-11
+Source 182: "Elon Musk explains his 5-step algorithm for running companies" (YouTube clip). Owner's instruction: make it the core rule, the SOP for everything.
+- F34 (new): the five-step algorithm as the core method: question requirements with named owners, delete, simplify, speed up, automate last; restart from step 1 when stuck; [Fixed] requirements never deleted.
+- instructions.md: new step 2b applies F34 to every prompt that builds, changes, fixes or reviews anything.
+- D3: points to F34 and adds the owner of each requirement.
 
 ## v60, 2026-11-11
 Source 181: "How to Make Money So Fast It Feels ILLEGAL" (Alex Hormozi, YouTube).

@@ -1,4 +1,4 @@
-Business rulebook version: v60 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v61 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 2: Strategy (F), Scaling roadmap (S), Offers (O), Leads and marketing (L)
 
@@ -38,6 +38,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - F31 [every answer, in every chat, on every prompt; non-negotiable] Every answer ends with "The 20% that gets 80%": one to three actions in order, each with its number. (rules-strategy-2.md)
 - F32 [every answer, in every chat, on every prompt; non-negotiable] Stage gate: no work, plan or spend on a later roadmap stage until every current-stage step is closed with evidence. (rules-strategy-2.md)
 - F33 [choosing which business to start, setting up a new business project with no business chosen yet, or stuck between too many ideas] Narrow before comparing: 20 filter questions asked one at a time (monthly target and date, owner's and buyers' countries, languages, remote or in person, what is sold, business or consumer buyers, sales motion, one-off or recurring, funding, hours, cash, time to first sale, skills, who and why, network, proof, assets, solo or team, what the owner refuses), then a pick-by date; strike out what fails, compare three to five on L1 and M23, check the target fits the hours. (rules-strategy-2.md)
+- F34 [every plan, process, task, offer, script, rule, tool, automation or system built, changed or reviewed; the core method, non-negotiable] The five-step algorithm in order: question each requirement (a named owner for each), delete, simplify, speed up, automate last; restart from step 1 when stuck; [Fixed] requirements never deleted. (rules-strategy-2.md)
 
 ### 2. Scaling roadmap (stage gate F32) (S)
 - S0 [at roadmap stage 0 (see F32), asking what to do next, planning the week, or reaching this stage's exit] Improvise: solo, giving it away free; owner as researcher; free pilots, lead magnet, one channel, separate money, legal form and insurance before the first pilot. (rules-stages.md)
