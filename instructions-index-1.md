@@ -1,4 +1,4 @@
-Business rulebook version: v74 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v75 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 2: Strategy (F), Scaling roadmap (S), Offers (O), Leads and marketing (L)
 
@@ -26,7 +26,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - F19 [solving any business problem with no single right answer] Think divergently, then pick; restate the worry as a question about one number. (rules-strategy-2.md)
 - F20 [the owner is stuck, or deciding what to learn next] Name the missing skill or belief and test it; sustain performance via the outreach streak; state stalls as behaviour. (rules-strategy-2.md)
 - F21 [writing the owner's bio, pitch or founder story] One true P and skill-stack line, never overstated; host bio; structured origin story; no client data in the founder log. (rules-strategy-2.md)
-- F22 [tempted by a new idea, or doubting the business] Focus means saying no; idea list with seven-question write-up; absence test before new ventures; better beats new; three sources of ideas, what can be sold. (rules-strategy-2.md)
+- F22 [tempted by a new idea, or doubting the business] Focus means saying no; idea list with seven-question write-up; absence test before new ventures; better beats new; three sources of ideas, what can be sold; two businesses: a replacement test (can the better one replace the other net income within months), then exit the other on a written plan without chasing the top valuation. (rules-strategy-2.md)
 - F23 [planning the week, or feeling short of time] Foundation: maker time (few long uninterrupted blocks, planned first) and manager time (set meeting windows, back to front); three stages of protecting maker time; weekly meeting deletion and cost; team quiet days. Time audit, protected outreach block, focus timer, fixed call windows and copy blocks, no big decisions after bad news.; season of no while one priority is set, no obligation to reply, execute rather than gather information, same sleep times every day, consumption apps off the phone (rules-strategy-2.md)
 - F24 [starting any new skill: sales calls, emails, delivery] Commit to a rep count; review every 10 to 20 reps; about 20 focused hours before calling it too hard; keep a lessons log; common factors only if all top reps share them. (rules-strategy-2.md)
 - F25 [learning the market or a skill fast] Consultant interview method, genuine interviews only, with start-and-give-up questions about past solutions; buy skills with feedback; cheapest learning currency first; learn by working for the best operator reachable; read by current constraint. (rules-strategy-2.md)

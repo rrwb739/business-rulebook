@@ -1,6 +1,12 @@
-Business rulebook version: v74 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v75 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v75, 2026-11-11
+Source 193: "How I'd Use Education to Sell the Main Offer" (Alex Hormozi with a workshop attendee, YouTube clip).
+- M8: education to bring buyers in, a sticky done-for-you service or used-up product to keep them; repeated do-it-for-me requests as demand for a fixed-term build then continuity.
+- F22: replacement test when two businesses split the owner's attention.
+- K21 (new): outlet owner who coaches others in the same trade.
 
 ## v74, 2026-11-11
 Owner's clarification: the zero-budget mix is for anyone who wants to do outreach but can't use LinkedIn or buy sending domains.

@@ -1,4 +1,4 @@
-Business rulebook version: v74 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v75 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -28,7 +28,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - M5 [first clients of any offer, pilot pricing, discount requests or negotiation] First few clients free for written commitments, referred strangers with a self-paid charity stake; then full price, staged rises, close-rate bands as a price check, notice before rises.; yearly price review against costs and inflation, big tests judged on a set number of calls (rules-money-1.md)
 - M6 [pricing, or clients not doing the work] A price that stings a little builds commitment and perceived value; check the price doesn't read as too cheap. (rules-money-1.md)
 - M7 [pricing or running a sales call] Three tiers (DIY, core, premium at about 10x) about 5x apart; barbell check; build from the top down; premium listed first. (rules-money-1.md)
-- M8 [the core offer is ending for a client, designing an entry offer that leads into continuity, or buyers arrive through a low-price automated sale] Offer continuity as the next step; design it in from day one; the continuity offer is a proper sales call; short fixed-length programme as an entry offer with continuity offered at its visible end; a person offering recent automated buyers the higher next step. (rules-money-1.md)
+- M8 [the core offer is ending for a client, designing an entry offer that leads into continuity, or buyers arrive through a low-price automated sale] Offer continuity as the next step; design it in from day one; the continuity offer is a proper sales call; short fixed-length programme as an entry offer with continuity offered at its visible end; a person offering recent automated buyers the higher next step; education brings buyers in, a sticky done-for-you service or used-up product keeps them; repeated do-it-for-me requests are demand for a fixed-term build then continuity, led with only if retention holds. (rules-money-1.md)
 - M9 [designing or running continuity] Find leave points, log cancellations by reason, track retention by batch, separate experience from results, yearly letter.; a learning call with every canceller that never blocks the cancellation; fewer things, higher use, overwhelm causes cancellations (rules-money-1.md)
 - M10 [the core offer's demand depends on something that will fade] Plan and prove the next offer before demand fades, including a window opened by a technology still hard to use well; invest only in needs that last; score candidates on six tests. (rules-money-1.md)
 - M11 [a client has just bought] Offer zero-delivery-cost add-ons that recover acquisition cost. (rules-money-1.md)
@@ -143,4 +143,4 @@ How to use: general patterns live in the sections above; a K entry is the specif
 - K18 [a family practice where one senior practitioner does all the core work] Hire practitioners, senior moves to teaching, raise prices on a very high close rate, more cash up front. (rules-cases.md)
 - K19 [a cash-strapped business running a big giveaway] Cautionary: thousands of leads unconverted; set follow-up capacity before the surge. (rules-cases.md)
 - K20 [an expert coaching business with the owner as bottleneck and long pitches] Team answers repeat questions, short weekly webinar, proper one-to-one price, upsell part-way through the programme. (rules-cases.md)
-
+- K21 [an outlet owner who also coaches owners in the same trade, asked to do the work for them] Sell the outlets to focus, lead with a fixed-term done-for-you build then continuity, coaching as front end; online product sales with a service voucher as the acquisition method, lawfully. (rules-cases.md)
