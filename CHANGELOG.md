@@ -1,6 +1,10 @@
-Business rulebook version: v72 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v73 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v73, 2026-11-11
+Owner's instruction: save the zero-budget way to reach 100 outreach actions a day.
+- L41: zero-budget mix (contact forms, hand-written emails from one free account, L80 warm-ups), time per contact logged, refused channels removed, paid sending setup released only by a written trigger.
 
 ## v72, 2026-11-11
 Owner's instruction: save the owner-finding mechanism for agency-run social accounts.
