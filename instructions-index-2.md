@@ -1,4 +1,4 @@
-Business rulebook version: v78 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v79 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -146,3 +146,4 @@ How to use: general patterns live in the sections above; a K entry is the specif
 - K21 [an outlet owner who also coaches owners in the same trade, asked to do the work for them] Sell the outlets to focus, lead with a fixed-term done-for-you build then continuity, coaching as front end; online product sales with a service voucher as the acquisition method, lawfully. (rules-cases.md)
 - K22 [a consulting service with organic attention whose booked buyers don't understand the offer] Pre-call video and pre-framing questions, good friction, a fast-cash campaign from the client's own lists in onboarding, action-tied bonuses and guarantee. (rules-cases.md)
 - K23 [an owner or investor about to invest after working closely with a company] Cautionary: months of close work hid a fake team and two sets of books; run the four goods before any money moves. (rules-cases.md)
+- K24 [a specialist with a tiny niche following selling low-price products or booking calls] A narrow, exact audience converts despite few likes; personal next-step emails to every low-price buyer. (rules-cases.md)

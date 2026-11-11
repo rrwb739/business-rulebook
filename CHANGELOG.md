@@ -1,6 +1,11 @@
-Business rulebook version: v78 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v79 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v79, 2026-11-11
+Source 197: "My Evidence Based Guide to Making Money Online [TIER LIST]" (Alex Hormozi, YouTube).
+- L60: scoring and re-ranking platforms from evidence and own results; give in public, sell in private; never buy followers; owned list; marketplaces as discovery.
+- K24 (new): tiny niche followings that convert.
 
 ## v78, 2026-11-11
 Source 196: "If You Only Watch One Money Video, Make It This" (Sharran Srivatsaa, YouTube video on seven laws of money).
