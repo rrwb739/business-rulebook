@@ -1,6 +1,10 @@
-Business rulebook version: v57 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v58 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v58, 2026-11-11
+Source 179: "The anti-routine... what billionaires use to win" (Alex Hormozi, YouTube).
+- F23: a season of no while one priority is set; no obligation to reply; execute rather than gather more information; same sleep times every day; minimum effective dose elsewhere; consumption apps off the phone.
 
 ## v57, 2026-11-11
 Source 178: "The World's Greatest Sales Interview with Alex Hormozi and Daniel G" (YouTube interview).
