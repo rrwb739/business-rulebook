@@ -1,6 +1,10 @@
-Business rulebook version: v49 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v50 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v50, 2026-11-11
+Source 167: "Which Business Should I Start To Reach $100K A Month?" (Alex Hormozi, YouTube short). Owner's instruction: save the fastest way.
+- M3: the fastest route to a revenue goal is usually an expensive offer to a small number of buyers, value-backed; pick a business soon and adjust from feedback.
 
 ## v49, 2026-11-11
 Source 166: "This Video Should Be Required Viewing for Business Owners" (Alex Hormozi, YouTube).
