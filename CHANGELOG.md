@@ -1,6 +1,10 @@
-Business rulebook version: v48 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v49 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v49, 2026-11-11
+Source 166: "This Video Should Be Required Viewing for Business Owners" (Alex Hormozi, YouTube).
+- C1: in person, a payment method taken before the decision only with the true reason, via a compliant provider, never charged without a separate yes, deleted if no sale; no pretext, no ID copies unless needed.
 
 ## v48, 2026-11-11
 Source 165: "How I Would Build a $10M Service Business (If I Had to Start Over)" (Alex Hormozi, YouTube).

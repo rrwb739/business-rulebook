@@ -1,11 +1,11 @@
-Business rulebook version: v48 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v49 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
 One line per rule: ID, [trigger], summary, (file). Read both parts in full on every pass (instructions.md, step 3).
 
 ### 5. Sales (C)
-- C1 [a prospect shows buying interest] [Fixed] Close on a call: payment link after the yes, agreement in writing, read details back, honour terms quoted in error, test payments end to end. (rules-sales.md)
+- C1 [a prospect shows buying interest] [Fixed] Close on a call: payment link after the yes, card on file only with the true reason and a separate yes, agreement in writing, read details back, honour terms quoted in error, test payments end to end. (rules-sales.md)
 - C2 [setting up the sales process] [Fixed] Qualify before calls and send a true, structured pre-call video and an honest pre-call form; brief and check every one-to-many asset; a second video before any upsell conversation. (rules-sales.md)
 - C3 [a lead books a call] [Fixed] Contact straight away, book soon, fix show rate first: named confirmation, honest slots, service-only reminders, same-day no-show rebooking; a true prepared-for-you item walked through on the call. (rules-sales.md)
 - C4 [preparing for a sales call] Research about 10% of the call's length, mostly on the prospect; use one fact in the first minute; keep notes factual and minimal. (rules-sales.md)
