@@ -1,6 +1,14 @@
-Business rulebook version: v56 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v57 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v57, 2026-11-11
+Source 178: "The World's Greatest Sales Interview with Alex Hormozi and Daniel G" (YouTube interview).
+- C3: availability, short slots, same or next day, warm no-show message.
+- C14: questions not statements, agree with the true part of a concern, their own criteria, willing to walk away, real consented client stories only.
+- C13: new sellers trained on good recordings, reduced schedule, self-critique first, drill one part at a time.
+- T1: shared team bonus, first sales hires set culture, hire sellers in batches.
+- M9: fewer things, higher use; overwhelm causes cancellations.
 
 ## v56, 2026-11-11
 Source 177: "27 Years of No Bullsh*t Sales Advice in 16 Mins" (YouTube).

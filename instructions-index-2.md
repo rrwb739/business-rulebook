@@ -1,4 +1,4 @@
-Business rulebook version: v56 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v57 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -7,7 +7,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 ### 5. Sales (C)
 - C1 [a prospect shows buying interest] [Fixed] Close on a call: payment link after the yes, card on file only with the true reason and a separate yes, agreement in writing, read details back, honour terms quoted in error, test payments end to end. (rules-sales.md)
 - C2 [setting up the sales process] [Fixed] Qualify before calls and send a true, structured pre-call video and an honest pre-call form; brief and check every one-to-many asset; a second video before any upsell conversation. (rules-sales.md)
-- C3 [a lead books a call] [Fixed] Contact straight away, book soon, fix show rate first: named confirmation, honest slots, service-only reminders, same-day no-show rebooking; a true prepared-for-you item walked through on the call.; invite sent while on the line, text if anything comes up (rules-sales.md)
+- C3 [a lead books a call] [Fixed] Contact straight away, book soon, fix show rate first: named confirmation, honest slots, service-only reminders, same-day no-show rebooking; a true prepared-for-you item walked through on the call.; invite sent while on the line, text if anything comes up; many short slots, same or next day, warm no-show message (rules-sales.md)
 - C4 [preparing for a sales call] Research about 10% of the call's length, mostly on the prospect; use one fact in the first minute; keep notes factual and minimal. (rules-sales.md)
 - C5 [on a sales call] [Fixed] Follow CLOSER (clarify, label, overview, sell, explain, reinforce) with the diagnostic inside it; no ask until they've said why they need a fix; likes and dislikes from past attempts.; pre-handle concerns in discovery, no free full diagnosis, a doubt check after yes, proposals answered on the call (rules-sales.md)
 - C6 [presenting bonuses on a one-to-one call] Ask for the sale first on the core offer; add one obstacle-removing bonus at a time after a no; never discount to close. (rules-sales.md)
@@ -17,8 +17,8 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - C10 [a prospect says no or stalls] Resolve the concern, then ask again, while rapport holds; expect a first no. (rules-sales.md)
 - C11 [the end of any call] Book the next step before hanging up and ask who else would benefit; one light introduction ask after a no. (rules-sales.md)
 - C12 [negotiating price or terms] [Fixed] Have an alternative first, anchor high but credible, trade on terms in real steps only; "can you do it for more?", and a lower price only with less scope. (rules-sales.md)
-- C13 [before a block of sales calls, or practising sales] Practise selling like any skill: short daily reps, role-play, a rubric per CLOSER step, call reviews and a don't-say list; judge calls on script adherence before the close. (rules-sales.md)
-- C14 [an obstacle, objection or stall on a call] [Fixed] Learn the reason behind each objection type, answer curiosity, acknowledge, associate, ask; keep a true story bank; answers by type; decision makers invited, never pressed against a partner. (rules-sales.md)
+- C13 [before a block of sales calls, or practising sales] Practise selling like any skill: short daily reps, role-play, a rubric per CLOSER step, call reviews and a don't-say list; judge calls on script adherence before the close.; new sellers trained on good recordings, self-critique first, drill one part at a time (rules-sales.md)
+- C14 [an obstacle, objection or stall on a call] [Fixed] Learn the reason behind each objection type, answer curiosity, acknowledge, associate, ask; keep a true story bank; answers by type; decision makers invited, never pressed against a partner.; questions not statements, agree with the true part, their own criteria, willing to walk away (rules-sales.md)
 
 ### 6. Money models (M)
 - M1 [pricing, offer design, monthly review] Three growth levers; judge clients on lifetime gross profit including the owner's hours; aim for 80% gross margin on services; define the owner's hourly rate; price is usually the strongest profit lever. (rules-money-1.md)
@@ -29,7 +29,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - M6 [pricing, or clients not doing the work] A price that stings a little builds commitment and perceived value; check the price doesn't read as too cheap. (rules-money-1.md)
 - M7 [pricing or running a sales call] Three tiers (DIY, core, premium at about 10x) about 5x apart; barbell check; build from the top down; premium listed first. (rules-money-1.md)
 - M8 [the core offer is ending for a client] Offer continuity as the next step; design it in from day one; the continuity offer is a proper sales call. (rules-money-1.md)
-- M9 [designing or running continuity] Find leave points, log cancellations by reason, track retention by batch, separate experience from results, yearly letter.; a learning call with every canceller that never blocks the cancellation (rules-money-1.md)
+- M9 [designing or running continuity] Find leave points, log cancellations by reason, track retention by batch, separate experience from results, yearly letter.; a learning call with every canceller that never blocks the cancellation; fewer things, higher use, overwhelm causes cancellations (rules-money-1.md)
 - M10 [the core offer's demand depends on something that will fade] Plan and prove the next offer before demand fades; invest only in needs that last; score candidates on six tests. (rules-money-1.md)
 - M11 [a client has just bought] Offer zero-delivery-cost add-ons that recover acquisition cost. (rules-money-1.md)
 - M12 [planning the year for continuity members] Short extra programmes for members each cycle; events and members' spaces later, with honesty, consent and no sharing between competitors. (rules-money-1.md)
@@ -88,7 +88,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - D17 [any login, account, payment detail or data the owner holds: leads, pilots, clients] Multi-factor and password manager everywhere, least access, weekly backups, phone-check bank changes, encryption. (rules-delivery.md)
 
 ### 8. Team and leadership (T)
-- T1 [hiring or managing employees who get leads, sell or deliver] [stage: S3+] After the first target: hire through a measured funnel with structured, fair selection, clear culture, output pay and lawful process; recruiting as selling, fast stages, first-fortnight check-ins, paths as behaviours; speak to each person's main driver; judge skill by the numbers a candidate tracks; owner knows each area's biggest problem and costs, signs off pay changes and large recurring costs.; acquisition under one owner, three leaders, every hire raises the bar, five reasons a task isn't done; commission tied to retention and satisfaction (rules-team.md)
+- T1 [hiring or managing employees who get leads, sell or deliver] [stage: S3+] After the first target: hire through a measured funnel with structured, fair selection, clear culture, output pay and lawful process; recruiting as selling, fast stages, first-fortnight check-ins, paths as behaviours; speak to each person's main driver; judge skill by the numbers a candidate tracks; owner knows each area's biggest problem and costs, signs off pay changes and large recurring costs.; acquisition under one owner, three leaders, every hire raises the bar, five reasons a task isn't done; commission tied to retention and satisfaction; shared team bonus, first sales hires set culture, hire sellers in batches (rules-team.md)
 - T2 [considering an agency, or paying any outside supplier] Pay for output, not hours; agree one written page first, keep ownership and least access, choose and manage suppliers on evidence; references at the owner's size, load test before launch, never outsource the core without someone who can judge it. (rules-team.md)
 - T3 [considering a partner or a first hire] [stage: S3+] Only when the roadmap stage allows; a partner must bring measurable value, with exit terms agreed in writing first; profit share before equity; a technical partner when the core is technical; equity by measured contribution, salary for working partners, needed functions hired not given equity, partner red flags. (rules-team.md)
 
