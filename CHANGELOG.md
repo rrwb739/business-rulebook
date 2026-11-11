@@ -1,6 +1,16 @@
-Business rulebook version: v54 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v55 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v55, 2026-11-11
+Sources 174 to 176 (Alex Hormozi, YouTube): "Give me 20 Minutes and I'll Give You Back 20 Years of Your Life", "13 Years of No BS Business Advice in 79 Mins", "You're Wasting 80% of Your Time".
+- F23: maker and manager time as the foundation of time management (owner's instruction), three stages of protecting maker time, meeting windows, weekly meeting deletion and cost, team quiet days; sleep basics first and chores bought back in order of cost per hour saved.
+- M5: yearly price review against costs and inflation; big price tests judged on a set number of calls, with the margin arithmetic.
+- M9: a learning call with everyone who cancels, never blocking the cancellation.
+- L60: repeat the core messages; reminding beats teaching.
+- O25: proof recent, visual, plentiful and told from the pain; testimonial at peak satisfaction.
+- M24: after the first target, products from leftovers that add no new operation.
+- T1: acquisition under one owner, three leaders, every hire raises the team's average, five reasons a task isn't done.
 
 ## v54, 2026-11-11
 Owner's instruction: F33 widened to find the best business for any particular person and their own monthly target.

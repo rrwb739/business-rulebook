@@ -1,4 +1,4 @@
-Business rulebook version: v54 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v55 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -25,11 +25,11 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - M2 [setting or raising any price] Price on value, never cost; stay clearly premium; raise only after raising value; never cut price to win; one published price for all; charge for the scarce part; same work worth more to bigger buyers; never cut price for existing clients to answer a competitor. (rules-money-1.md)
 - M3 [setting a revenue goal or a price] Work backwards: goal divided by price gives clients needed; check it fits hours and outreach capacity; compare high-price and low-price shapes on audience, acquisition cost, fulfilment and refunds; fastest route is usually an expensive offer to few buyers; no universal price point. (rules-money-1.md)
 - M4 [setting or reviewing the price] Competitor price check, narrowing when crowded, quarterly price review, and four acceptable-price questions asked only of avatar buyers. (rules-money-1.md)
-- M5 [first clients of any offer, pilot pricing, discount requests or negotiation] First few clients free for written commitments, referred strangers with a self-paid charity stake; then full price, staged rises, close-rate bands as a price check, notice before rises. (rules-money-1.md)
+- M5 [first clients of any offer, pilot pricing, discount requests or negotiation] First few clients free for written commitments, referred strangers with a self-paid charity stake; then full price, staged rises, close-rate bands as a price check, notice before rises.; yearly price review against costs and inflation, big tests judged on a set number of calls (rules-money-1.md)
 - M6 [pricing, or clients not doing the work] A price that stings a little builds commitment and perceived value; check the price doesn't read as too cheap. (rules-money-1.md)
 - M7 [pricing or running a sales call] Three tiers (DIY, core, premium at about 10x) about 5x apart; barbell check; build from the top down; premium listed first. (rules-money-1.md)
 - M8 [the core offer is ending for a client] Offer continuity as the next step; design it in from day one; the continuity offer is a proper sales call. (rules-money-1.md)
-- M9 [designing or running continuity] Find leave points, log cancellations by reason, track retention by batch, separate experience from results, yearly letter. (rules-money-1.md)
+- M9 [designing or running continuity] Find leave points, log cancellations by reason, track retention by batch, separate experience from results, yearly letter.; a learning call with every canceller that never blocks the cancellation (rules-money-1.md)
 - M10 [the core offer's demand depends on something that will fade] Plan and prove the next offer before demand fades; invest only in needs that last; score candidates on six tests. (rules-money-1.md)
 - M11 [a client has just bought] Offer zero-delivery-cost add-ons that recover acquisition cost. (rules-money-1.md)
 - M12 [planning the year for continuity members] Short extra programmes for members each cycle; events and members' spaces later, with honesty, consent and no sharing between competitors. (rules-money-1.md)
@@ -44,7 +44,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - M21 [free early-client or delivery places are full] Free clients choose to pay or step aside for a paying client; collect their review either way. (rules-money-1.md)
 - M22 [deciding how much to deliver, or making delivery more efficient] Overdeliver first, then systemise; group before hiring; label early extras as temporary; existing clients keep what they bought. (rules-money-1.md)
 - M23 [judging whether advertising or outreach is profitable; opens every Strategy tab answer, instructions.md step 2a] The rulebook's most important number. Lifetime gross profit to acquisition cost: 3:1 floor, higher with each human step; how to estimate lifetime value. (rules-money-1.md)
-- M24 [designing or changing the money model, or reviewing results] A money model is a sequence of four offer types; lead with the best-ratio front end and stack the rest behind it. (rules-money-2.md)
+- M24 [designing or changing the money model, or reviewing results] A money model is a sequence of four offer types; lead with the best-ratio front end and stack the rest behind it.; after the first target, products from leftovers that add no operation (rules-money-2.md)
 - M25 [deciding what to build next in the money model] Build in five stages, one offer at a time until reliable and automatic; simple scales; fix back to front. (rules-money-2.md)
 - M26 [checking cash, or before any prepaid or free-time offer] Track runway; ring-fence prepaid cash; daily cash checks early; separate business account before the first payment. (rules-money-2.md)
 - M27 [any offer, sales call or refund request] Offer at the moment of need, never push; rollover then refund without a fight; ethics and receiving-end tests; true cues only; disputes and gifts. (rules-money-2.md)
@@ -88,7 +88,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - D17 [any login, account, payment detail or data the owner holds: leads, pilots, clients] Multi-factor and password manager everywhere, least access, weekly backups, phone-check bank changes, encryption. (rules-delivery.md)
 
 ### 8. Team and leadership (T)
-- T1 [hiring or managing employees who get leads, sell or deliver] [stage: S3+] After the first target: hire through a measured funnel with structured, fair selection, clear culture, output pay and lawful process; recruiting as selling, fast stages, first-fortnight check-ins, paths as behaviours; speak to each person's main driver; judge skill by the numbers a candidate tracks; owner knows each area's biggest problem and costs, signs off pay changes and large recurring costs. (rules-team.md)
+- T1 [hiring or managing employees who get leads, sell or deliver] [stage: S3+] After the first target: hire through a measured funnel with structured, fair selection, clear culture, output pay and lawful process; recruiting as selling, fast stages, first-fortnight check-ins, paths as behaviours; speak to each person's main driver; judge skill by the numbers a candidate tracks; owner knows each area's biggest problem and costs, signs off pay changes and large recurring costs.; acquisition under one owner, three leaders, every hire raises the bar, five reasons a task isn't done (rules-team.md)
 - T2 [considering an agency, or paying any outside supplier] Pay for output, not hours; agree one written page first, keep ownership and least access, choose and manage suppliers on evidence; references at the owner's size, load test before launch, never outsource the core without someone who can judge it. (rules-team.md)
 - T3 [considering a partner or a first hire] [stage: S3+] Only when the roadmap stage allows; a partner must bring measurable value, with exit terms agreed in writing first; profit share before equity; a technical partner when the core is technical; equity by measured contribution, salary for working partners, needed functions hired not given equity, partner red flags. (rules-team.md)
 
