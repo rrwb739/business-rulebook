@@ -1,4 +1,4 @@
-Business rulebook version: v70 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v71 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -17,11 +17,11 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - C10 [a prospect says no or stalls] Resolve the concern, then ask again, while rapport holds; expect a first no. (rules-sales.md)
 - C11 [the end of any call] Book the next step before hanging up and ask who else would benefit; one light introduction ask after a no. (rules-sales.md)
 - C12 [negotiating price or terms] [Fixed] Have an alternative first, anchor high but credible, trade on terms in real steps only; "can you do it for more?", and a lower price only with less scope. (rules-sales.md)
-- C13 [before a block of sales calls, or practising sales] Practise selling like any skill: short daily reps, role-play, a rubric per CLOSER step, call reviews and a don't-say list; judge calls on script adherence before the close.; new sellers trained on good recordings, self-critique first, drill one part at a time (rules-sales.md)
+- C13 [before a block of sales calls, or practising sales] Practise selling like any skill: short daily reps, role-play, a rubric per CLOSER step, call reviews and a don't-say list; judge calls on script adherence before the close.; new sellers trained on good recordings, self-critique first, drill one part at a time; when the owner closes far better, reps set appointments and the owner closes until reps match on the same script. (rules-sales.md)
 - C14 [an obstacle, objection or stall on a call] [Fixed] Learn the reason behind each objection type, answer curiosity, acknowledge, associate, ask; keep a true story bank; answers by type; decision makers invited, never pressed against a partner.; questions not statements, agree with the true part, their own criteria, willing to walk away (rules-sales.md)
 
 ### 6. Money models (M)
-- M1 [pricing, offer design, monthly review] Three growth levers; judge clients on lifetime gross profit including the owner's hours; aim for 80% gross margin on services; define the owner's hourly rate; price is usually the strongest profit lever.; the smallest unit must profit at full capacity before adding volume (rules-money-1.md)
+- M1 [pricing, offer design, monthly review] Three growth levers; judge clients on lifetime gross profit including the owner's hours; aim for 80% gross margin on services; define the owner's hourly rate; price is usually the strongest profit lever.; the smallest unit must profit at full capacity before adding volume; a written pricing formula gives every quote a floor (full delivery cost plus target margin), value sets the price above it; job or package prices, not hourly; same-day quotes. (rules-money-1.md)
 - M2 [setting or raising any price] Price on value, never cost; stay clearly premium; raise only after raising value; never cut price to win; one published price for all; charge for the scarce part; same work worth more to bigger buyers; never cut price for existing clients to answer a competitor.; feeling like posing means the claim is wrong, not the price (rules-money-1.md)
 - M3 [setting a revenue goal or a price] Work backwards: goal divided by price gives clients needed; check it fits hours and outreach capacity; compare high-price and low-price shapes on audience, acquisition cost, fulfilment and refunds; fastest route is usually an expensive offer to few buyers; no universal price point. (rules-money-1.md)
 - M4 [setting or reviewing the price] Competitor price check, narrowing when crowded, quarterly price review, and four acceptable-price questions asked only of avatar buyers. (rules-money-1.md)
@@ -138,3 +138,9 @@ How to use: general patterns live in the sections above; a K entry is the specif
 - K13 [a service giving a percentage gain, sold to small clients] Sell the same work to much larger clients and price on the value; check work quality, then who it's sold to, before blaming sales. (rules-cases.md)
 - K14 [a creative or expert service where the idea is valued above the making] Sell the concept or diagnosis as the paid product; price execution separately or hand it off with a brief. (rules-cases.md)
 - K15 [a seasonal service business profitable in one season and losing or laying off in the other] Accept the swing; one service per season with the same crews, never "off season"; fix the losing season's sales then price; keep the line with the better ratio. (rules-cases.md)
+- K16 [a high-end local practice whose wealthy clients share clubs and communities] Client-hosted events at their clubs spread through peers at almost no cost; referral built into every visit; give away instead of discounting. (rules-cases.md)
+- K17 [a project service with improvised prices, thin margins and reps closing worse than the owner] Quote formula, price lock, prepaid and multi-year terms, reps set and owner closes, same-day quotes, industry events. (rules-cases.md)
+- K18 [a family practice where one senior practitioner does all the core work] Hire practitioners, senior moves to teaching, raise prices on a very high close rate, more cash up front. (rules-cases.md)
+- K19 [a cash-strapped business running a big giveaway] Cautionary: thousands of leads unconverted; set follow-up capacity before the surge. (rules-cases.md)
+- K20 [an expert coaching business with the owner as bottleneck and long pitches] Team answers repeat questions, short weekly webinar, proper one-to-one price, upsell part-way through the programme. (rules-cases.md)
+

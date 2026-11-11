@@ -1,6 +1,14 @@
-Business rulebook version: v70 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v71 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v71, 2026-11-11
+Source 192: "8 Entrepreneurs Compete For $100,000" (Alex Hormozi, Scale or Fail competition episode).
+- L79 (new): in-person events as a lead source, including client-hosted events.
+- L72: set follow-up capacity before any lead surge.
+- M1: written pricing formula as every quote's floor; job or package prices, not hourly; same-day quotes.
+- C13: reps set appointments while the owner closes until they match.
+- K16 to K20 (new): client-hosted events for a high-end practice; project service pricing and events; family practice with one senior practitioner; giveaway flood (cautionary); expert coaching bottleneck.
 
 ## v70, 2026-11-11
 Owner's instruction: patterns that recur across businesses go into the general sections; K keeps only the specific situation. Source 191: "Do You Want to Be the Expert or Build the Business?" (Alex Hormozi, YouTube call-in).
