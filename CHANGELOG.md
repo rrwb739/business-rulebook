@@ -1,6 +1,11 @@
-Business rulebook version: v59 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v60 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v60, 2026-11-11
+Source 181: "How to Make Money So Fast It Feels ILLEGAL" (Alex Hormozi, YouTube).
+- M23: 30-day cash of at least twice the cost to win and serve a client; the cost of a permanent client and aiming at their traits.
+- M19: business value as retained profit times the multiple; unsold growth is tax deferred, never tax-free.
 
 ## v59, 2026-11-11
 Source 180: "Business Was Hard Until I Understood These 4 Concepts" (Alex Hormozi, YouTube).
