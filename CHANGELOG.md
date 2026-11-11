@@ -1,6 +1,10 @@
-Business rulebook version: v71 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v72 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v72, 2026-11-11
+Owner's instruction: save the owner-finding mechanism for agency-run social accounts.
+- L80 (new): find the owner behind an agency-run account, first contact off-platform, personal account as warm-up only, platform limits handled by behaviour, UK consent rule, the agency as a possible lead getter.
 
 ## v71, 2026-11-11
 Source 192: "8 Entrepreneurs Compete For $100,000" (Alex Hormozi, Scale or Fail competition episode).
