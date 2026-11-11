@@ -1,6 +1,10 @@
-Business rulebook version: v67 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v68 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v68, 2026-11-11
+Source 189: "Same Work, Different Customer, Different Value" (Alex Hormozi with a guest, YouTube clip).
+- K12 to K14 (new): selling to a shrinking industry; the same percentage-gain service sold to larger clients; selling the idea, not the execution.
 
 ## v67, 2026-11-11
 Source 188: "10x Your Profit. 10x Your Pricing. 10x Your Business." (Alex Hormozi, YouTube).

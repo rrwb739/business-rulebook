@@ -1,4 +1,4 @@
-Business rulebook version: v67 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v68 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -134,3 +134,6 @@ How to use: a K entry is a strategy that worked for one kind of business, writte
 - K9 [a generalist professional service competing on price] Pick one client group passing the market tests, publish free practical content on their wider business goals from cross-client insight, sell the core service as the way there. (rules-cases.md)
 - K10 [a business whose audience has seen many kept promises, launching a new product] Launch to that audience first, take orders in arrival order, real queue only, full terms before payment. (rules-cases.md)
 - K11 [a brand pairing itself with a figure, cause or campaign its core buyers dislike] Cautionary: good advertising, bad branding; count who a pairing gains and loses before running it. (rules-cases.md)
+- K12 [selling a good new product to a shrinking industry] Cautionary: a good offer can't outrun a shrinking market; serve the growing side or pick a growing market. (rules-cases.md)
+- K13 [a service giving a percentage gain, sold to small clients] Sell the same work to much larger clients and price on the value; check work quality, then who it's sold to, before blaming sales. (rules-cases.md)
+- K14 [a creative or expert service where the idea is valued above the making] Sell the concept or diagnosis as the paid product; price execution separately or hand it off with a brief. (rules-cases.md)
