@@ -1,6 +1,10 @@
-Business rulebook version: v68 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v69 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v69, 2026-11-11
+Source 190: "How I'd Pick the Next Service to Scale" (Alex Hormozi with a workshop attendee, YouTube clip).
+- K15 (new): seasonal service business, one service per season with the same crews, fix sales then price in the losing season.
 
 ## v68, 2026-11-11
 Source 189: "Same Work, Different Customer, Different Value" (Alex Hormozi with a guest, YouTube clip).

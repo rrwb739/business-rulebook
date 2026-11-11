@@ -1,4 +1,4 @@
-Business rulebook version: v68 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v69 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -137,3 +137,4 @@ How to use: a K entry is a strategy that worked for one kind of business, writte
 - K12 [selling a good new product to a shrinking industry] Cautionary: a good offer can't outrun a shrinking market; serve the growing side or pick a growing market. (rules-cases.md)
 - K13 [a service giving a percentage gain, sold to small clients] Sell the same work to much larger clients and price on the value; check work quality, then who it's sold to, before blaming sales. (rules-cases.md)
 - K14 [a creative or expert service where the idea is valued above the making] Sell the concept or diagnosis as the paid product; price execution separately or hand it off with a brief. (rules-cases.md)
+- K15 [a seasonal service business profitable in one season and losing or laying off in the other] Accept the swing; one service per season with the same crews, never "off season"; fix the losing season's sales then price; keep the line with the better ratio. (rules-cases.md)
