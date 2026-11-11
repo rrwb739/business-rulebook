@@ -1,6 +1,13 @@
-Business rulebook version: v76 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v77 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v77, 2026-11-11
+Source 195: "If You Only Watch One Money Video, Make It This" (Sharran Srivatsaa, YouTube interview).
+- F2: four-step decision method; never decide under pressure to rush.
+- T3: the four goods before any deal; read deal structure with an adviser; sweat equity for a written share.
+- X19: yearly tax-planning review with a qualified adviser.
+- K23 (new): cautionary case of an investment lost to a fake company.
 
 ## v76, 2026-11-11
 Source 194: "Helping an Agency Fix Their Sales Process" (Alex Hormozi with a workshop attendee, YouTube clip).
