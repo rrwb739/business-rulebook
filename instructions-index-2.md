@@ -1,4 +1,4 @@
-Business rulebook version: v47 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v48 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -6,7 +6,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 
 ### 5. Sales (C)
 - C1 [a prospect shows buying interest] [Fixed] Close on a call: payment link after the yes, agreement in writing, read details back, honour terms quoted in error, test payments end to end. (rules-sales.md)
-- C2 [setting up the sales process] [Fixed] Qualify before calls and send a true, structured pre-call video and an honest pre-call form; brief and check every one-to-many asset. (rules-sales.md)
+- C2 [setting up the sales process] [Fixed] Qualify before calls and send a true, structured pre-call video and an honest pre-call form; brief and check every one-to-many asset; a second video before any upsell conversation. (rules-sales.md)
 - C3 [a lead books a call] [Fixed] Contact straight away, book soon, fix show rate first: named confirmation, honest slots, service-only reminders, same-day no-show rebooking; a true prepared-for-you item walked through on the call. (rules-sales.md)
 - C4 [preparing for a sales call] Research about 10% of the call's length, mostly on the prospect; use one fact in the first minute; keep notes factual and minimal. (rules-sales.md)
 - C5 [on a sales call] [Fixed] Follow CLOSER (clarify, label, overview, sell, explain, reinforce) with the diagnostic inside it; no ask until they've said why they need a fix; likes and dislikes from past attempts. (rules-sales.md)
@@ -52,7 +52,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - M29 [lead magnet, first sales call, or the DIY tier] Decoy offer: free stripped-down version beside the core offer; scripts, gating, show-up tests and the first-step metric. (rules-money-2.md)
 - M30 [after the first target (F3), choosing the next attraction offer to test] [stage: S3+] Test in order: pay less now or more later, win your money back, giveaway, buy X get Y free. (rules-money-2.md)
 - M31 [a client finishes a step, a new problem appears, or the core offer is ending] Classic upsell at the moment of the next problem; timing, previews, bundles, activation points, paid priority turnaround of the same work, capped and only when always met, paid extra cover priced on expected claims, beyond the core guarantee and legal rights. (rules-money-2.md)
-- M32 [sales call, renewal, or proposing add-ons] Menu upsell: unsell what isn't needed, prescribe a written plan, ask A or B, ask how to pay; full total before signing. (rules-money-2.md)
+- M32 [sales call, renewal, or proposing add-ons] Menu upsell: unsell what isn't needed, prescribe a written plan, ask A or B with both options real, ask how to pay; full total before signing. (rules-money-2.md)
 - M33 [presenting price on a call] Anchor upsell: present a real premium at 5 to 10x first, then rescue with the core offer; log reactions to the anchor. (rules-money-2.md)
 - M34 [setting tier prices] Read the tier mix and adjust gaps or raise all prices accordingly. (rules-money-2.md)
 - M35 [win-back, an upset client, a competitor's unhappy client, or a current client buying again] Rollover upsell: credit what they paid towards an offer at least 4x the credit; win-back steps; voucher play later. (rules-money-2.md)
@@ -117,4 +117,5 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - X19 [setting tax reserves, claiming expenses or reliefs, or offering prizes, rewards, benefits or share options] [Fixed] Reserve rates with a tax adviser; Self Assessment or corporation tax; expenses, reliefs and benefits checked. (rules-legal.md)
 - X20 [choosing or reviewing the legal form, dealing with rivals or members who compete, chasing late business payments, holding cash, or protecting systems and brand] [Fixed] Legal form with an adviser; competition law; late payment interest; FSCS limit; Cyber Essentials and trademark checks. (rules-legal.md)
 - X21 [a US owner or US business setting the legal form or owner pay, renting the owner's home to the business, selling investments at a loss, giving to charity, or choosing health cover and savings] [Fixed] US owner tax items on their conditions: reasonable S corporation salary, home rental under 15 days at fair rent, capital loss limits and wash sales, appreciated shares to charity, health savings accounts. (rules-legal.md)
+- X22 [selling to consumers at their home or door to door, or agreeing any consumer contract away from the business's premises] [Fixed] UK off-premises rules: written pre-contract and cancellation information, 14-day right to cancel, early start only on a durable-medium request, leave when asked, respect no-cold-callers signs. (rules-legal.md)
 - US block: X21; the rest to fill from sources (see rules-legal.md).

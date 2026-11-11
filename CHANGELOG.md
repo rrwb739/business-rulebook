@@ -1,6 +1,12 @@
-Business rulebook version: v47 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v48 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v48, 2026-11-11
+Source 165: "How I Would Build a $10M Service Business (If I Had to Start Over)" (Alex Hormozi, YouTube).
+- X22 (new, [Fixed]): UK doorstep and off-premises selling: pre-contract and cancellation information in writing, 14-day right to cancel, early start only on a durable-medium request, leave when asked, respect no-cold-callers signs.
+- C2: a second short video before any upsell or menu conversation.
+- M32: A-or-B choices must both be real; never a choice of staff by sex or other protected characteristic.
 
 ## v47, 2026-11-11
 Source 164: "If I Had To Start a Business From Scratch, I'd Do This" (Alex Hormozi, YouTube).
