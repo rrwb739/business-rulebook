@@ -1,4 +1,4 @@
-Business rulebook version: v65 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v66 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Business rulebook: method and index
 
@@ -49,4 +49,4 @@ F = Strategy and thinking, S = Scaling roadmap, O = Offers, L = Leads and market
 
 ## Rule index
 
-The index (276 lines, one per rule ID) is split across two files so no line is shortened to meet the size cap: instructions-index-1.md (F, S, O, L) and instructions-index-2.md (C, M, D, T, W, X, K). Read both in full on every pass.
+The index (one line per rule ID) is split across two files so no line is shortened to meet the size cap: instructions-index-1.md (F, S, O, L) and instructions-index-2.md (C, M, D, T, W, X, K). Read both in full on every pass.

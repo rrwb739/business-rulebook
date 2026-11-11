@@ -1,6 +1,12 @@
-Business rulebook version: v65 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v66 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v66, 2026-11-11
+Source 187: "The Biggest Opportunity with the Agency Model" (Alex Hormozi, YouTube clip).
+- K8: agency or service with constant demand but low stickiness; rebuild delivery with checked AI and consistent pricing.
+- M10: a window opened by a technology still hard to use well counts as a fading demand window.
+- instructions.md: index line count removed (it went stale with every new rule).
 
 ## v65, 2026-11-11
 Owner's instruction: strategy from any source about a specific business is kept, generalised, in its own section.

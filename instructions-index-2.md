@@ -1,4 +1,4 @@
-Business rulebook version: v65 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v66 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -30,7 +30,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - M7 [pricing or running a sales call] Three tiers (DIY, core, premium at about 10x) about 5x apart; barbell check; build from the top down; premium listed first. (rules-money-1.md)
 - M8 [the core offer is ending for a client] Offer continuity as the next step; design it in from day one; the continuity offer is a proper sales call. (rules-money-1.md)
 - M9 [designing or running continuity] Find leave points, log cancellations by reason, track retention by batch, separate experience from results, yearly letter.; a learning call with every canceller that never blocks the cancellation; fewer things, higher use, overwhelm causes cancellations (rules-money-1.md)
-- M10 [the core offer's demand depends on something that will fade] Plan and prove the next offer before demand fades; invest only in needs that last; score candidates on six tests. (rules-money-1.md)
+- M10 [the core offer's demand depends on something that will fade] Plan and prove the next offer before demand fades, including a window opened by a technology still hard to use well; invest only in needs that last; score candidates on six tests. (rules-money-1.md)
 - M11 [a client has just bought] Offer zero-delivery-cost add-ons that recover acquisition cost. (rules-money-1.md)
 - M12 [planning the year for continuity members] Short extra programmes for members each cycle; events and members' spaces later, with honesty, consent and no sharing between competitors. (rules-money-1.md)
 - M13 [a client asks for something outside the core offer] Stay productised; add features only if they help most clients; decline kindly and log; do what's right without bending [Fixed] rules. (rules-money-1.md)
@@ -129,3 +129,4 @@ How to use: a K entry is a strategy that worked for one kind of business, writte
 - K5 [a core product that can be free or at cost, with a paired paid service] Free core to widen the funnel, earn on the paired service most users need; check cost per free user and cash. (rules-cases.md)
 - K6 [a low-price job sold door to door or in person, needed again] Win the first job, bundle repeats into a monthly membership so lifetime value pays for the selling; off-premises contract rules. (rules-cases.md)
 - K7 [a low-price automated online sale where some buyers can afford much more] Call team contacts recent automated buyers and offers the higher next step; lawful channel only. (rules-cases.md)
+- K8 [an agency or service business with constant demand but churn, low prices and labour-heavy delivery] Many vendors for a universal need signals low stickiness; rebuild delivery with checked AI, price consistently, keep clients longer; the advantage lasts while good AI is hard. (rules-cases.md)
