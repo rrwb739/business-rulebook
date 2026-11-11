@@ -8,7 +8,7 @@ A general rulebook for running and growing a business with Claude. It holds meth
 
 - instructions.md: the method Claude follows on every prompt.
 - instructions-index-1.md and instructions-index-2.md: the index of every rule, one line each.
-- rules-*.md: the full text of each rule, one or two files per section.
+- rules-*.md: the full text of each rule, one or more files per section.
 - templates/instructions-box.md: what to paste into your project's instructions box.
 - templates/business-filters.md: the F33 questions to answer before choosing a business.
 - prompts/: the first message for each chat tab.
