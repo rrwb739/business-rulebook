@@ -1,4 +1,4 @@
-Business rulebook version: v73 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v74 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 2: Strategy (F), Scaling roadmap (S), Offers (O), Leads and marketing (L)
 
@@ -142,7 +142,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - L37 [after delivering value, or a client finishes] [Fixed] Ask for honest reviews and introductions; thank by hand with nothing of value attached; reviews never conditional. (rules-leads-1.md)
 - L39 [any lead or advertising decision] Engaged leads are the output of advertising; offer, then leads, then sales; define "call-ready" and offer those leads a call fast. (rules-leads-2.md)
 - L40 [choosing how to get leads] The Core Four (warm, content, cold, ads) are the only ways; usual adoption order; master one before adding another. (rules-leads-2.md)
-- L41 [planning daily lead work] Rule of 100 for 100 days; fill the email budget replies first, then follow-ups, then new leads; keep a minimum in heavy weeks; send when the avatar reads, from reply times; zero-budget mix across contact forms, about 20 hand-written emails from one free account and L80 warm-ups, refused channels removed, paid sending setup only after a written trigger is met. (rules-leads-2.md)
+- L41 [planning daily lead work] Rule of 100 for 100 days; fill the email budget replies first, then follow-ups, then new leads; keep a minimum in heavy weeks; send when the avatar reads, from reply times; zero-budget mix when the owner can't use LinkedIn, can't buy sending domains, can't call or has no warm network: contact forms, about 20 hand-written emails from one free account and L80 warm-ups, refused channels removed, paid sending setup only after a written trigger is met. (rules-leads-2.md)
 - L42 [diagnosing poor results] Split advertising problems (targeting, volume) from sales problems; saturation is usually too little volume. (rules-leads-2.md)
 - L43 [a test seems to have failed] Judge only on readable samples (100 contacted for email); decide stopping rules in advance; check every condition before calling a channel failed. (rules-leads-2.md)
 - L44 [creating or improving the lead magnet, or building any opt-in, booking or landing page] [Fixed] Narrow complete solution revealing the next problem; seven steps, three types, four methods; simple lawful pages, tested. (rules-leads-2.md)

@@ -1,6 +1,10 @@
-Business rulebook version: v73 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v74 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v74, 2026-11-11
+Owner's clarification: the zero-budget mix is for anyone who wants to do outreach but can't use LinkedIn or buy sending domains.
+- L41: the zero-budget mix's conditions now name these cases, any one being enough; index line updated so business projects match it.
 
 ## v73, 2026-11-11
 Owner's instruction: save the zero-budget way to reach 100 outreach actions a day.
