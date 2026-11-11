@@ -1,6 +1,11 @@
-Business rulebook version: v77 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v78 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v78, 2026-11-11
+Source 196: "If You Only Watch One Money Video, Make It This" (Sharran Srivatsaa, YouTube video on seven laws of money).
+- M19: five questions before any outside investment; concentrate only with understanding and control; size bets to survive; hold good decisions; borrowing only against collateral for income assets after the first target.
+- F30: buy and build as a later-stage path.
 
 ## v77, 2026-11-11
 Source 195: "If You Only Watch One Money Video, Make It This" (Sharran Srivatsaa, YouTube interview).
