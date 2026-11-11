@@ -1,4 +1,4 @@
-Business rulebook version: v45 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v46 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 2: Strategy (F), Scaling roadmap (S), Offers (O), Leads and marketing (L)
 
@@ -29,7 +29,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - F22 [tempted by a new idea, or doubting the business] Focus means saying no; idea list with seven-question write-up; absence test before new ventures; better beats new; three sources of ideas, what can be sold. (rules-strategy-2.md)
 - F23 [planning the week, or feeling short of time] Time audit, protected outreach block, focus timer, fixed call windows and copy blocks, no big decisions after bad news. (rules-strategy-2.md)
 - F24 [starting any new skill: sales calls, emails, delivery] Commit to a rep count; review every 10 to 20 reps; about 20 focused hours before calling it too hard; keep a lessons log; common factors only if all top reps share them. (rules-strategy-2.md)
-- F25 [learning the market or a skill fast] Consultant interview method, genuine interviews only; buy skills with feedback; cheapest learning currency first; learn by working for the best operator reachable; read by current constraint. (rules-strategy-2.md)
+- F25 [learning the market or a skill fast] Consultant interview method, genuine interviews only, with start-and-give-up questions about past solutions; buy skills with feedback; cheapest learning currency first; learn by working for the best operator reachable; read by current constraint. (rules-strategy-2.md)
 - F26 [thinking about leaving a job to run the business full time] Only with 3 to 6 months' savings and 6 months in a row of matched income; use the job to learn. (rules-strategy-2.md)
 - F27 [someone criticises the owner in public, or a competitor talks the business down] [Fixed] Never argue point by point; fix repeated points; delay annoyed replies; never suppress genuine reviews. (rules-strategy-2.md)
 - F28 [the owner feels stuck, results plateau, or is choosing what to work on] Find the limiting function and the shape's built-in hard part; features are not bugs. (rules-strategy-2.md)
@@ -78,7 +78,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - O25 [writing the offer, messages or calls] Raise perceived likelihood with true proof, independent recognition and being easy to check. (rules-offers-1.md)
 - O26 [designing the offer or onboarding] Build an early emotional win and visible milestones; track days to activation. (rules-offers-1.md)
 - O27 [competing with free options, or writing about speed] Fast beats free: lead with speed against free alternatives. (rules-offers-1.md)
-- O28 [designing the offer or delivery] List every hidden cost to the client and cut or reverse it; every AI step must beat their current way. (rules-offers-1.md)
+- O28 [designing the offer or delivery] List every hidden cost to the client and cut or reverse it, including what other solutions make them start or give up; every AI step must beat their current way. (rules-offers-1.md)
 - O29 [deciding what to build or include] Triple down on what clients value, cut the rest, and justify any addition in writing first. (rules-offers-1.md)
 - O30 [building or rebuilding the offer] Build the Grand Slam offer in five steps; test the offer doc and an internal launch note before building. (rules-offers-2.md)
 - O31 [step 4 of O30, or stuck for ideas] Think divergently with the delivery cube, then the 10x and one-tenth test. (rules-offers-2.md)

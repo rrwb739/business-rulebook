@@ -1,6 +1,11 @@
-Business rulebook version: v45 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-10
+Business rulebook version: v46 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v46, 2026-11-11
+Source 163: "I'm Broke, What Business Do I Start?" (Alex Hormozi, YouTube).
+- O28: list what other solutions make the avatar start doing that they dislike and give up that they enjoy; remove each one the offer truly can.
+- F25: avatar interview questions on the struggle, its length, the bad and ideal experience, and what past solutions made them start or give up.
 
 ## v45, 2026-11-10
 Source 162: "Bad VS Good Email Marketing" (YouTube short, speaker not named).
