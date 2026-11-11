@@ -1,4 +1,4 @@
-Business rulebook version: v52 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v53 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -22,7 +22,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 
 ### 6. Money models (M)
 - M1 [pricing, offer design, monthly review] Three growth levers; judge clients on lifetime gross profit including the owner's hours; aim for 80% gross margin on services; define the owner's hourly rate; price is usually the strongest profit lever. (rules-money-1.md)
-- M2 [setting or raising any price] Price on value, never cost; stay clearly premium; raise only after raising value; never cut price to win; one published price for all; charge for the scarce part; same work worth more to bigger buyers. (rules-money-1.md)
+- M2 [setting or raising any price] Price on value, never cost; stay clearly premium; raise only after raising value; never cut price to win; one published price for all; charge for the scarce part; same work worth more to bigger buyers; never cut price for existing clients to answer a competitor. (rules-money-1.md)
 - M3 [setting a revenue goal or a price] Work backwards: goal divided by price gives clients needed; check it fits hours and outreach capacity; compare high-price and low-price shapes on audience, acquisition cost, fulfilment and refunds; fastest route is usually an expensive offer to few buyers; no universal price point. (rules-money-1.md)
 - M4 [setting or reviewing the price] Competitor price check, narrowing when crowded, quarterly price review, and four acceptable-price questions asked only of avatar buyers. (rules-money-1.md)
 - M5 [first clients of any offer, pilot pricing, discount requests or negotiation] First few clients free for written commitments, referred strangers with a self-paid charity stake; then full price, staged rises, close-rate bands as a price check, notice before rises. (rules-money-1.md)
@@ -39,7 +39,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - M16 [designing an upsell] [stage: S3+] Price an upsell at about 5x the core price, after the first target. (rules-money-1.md)
 - M17 [leads feel too expensive or slow] Fix with higher lifetime value, not cheaper leads. (rules-money-1.md)
 - M18 [considering affiliates or partners] Affiliates after the first target at a minimum price; partner bonuses earlier; prefer owned offers with a back end. (rules-money-1.md)
-- M19 [spending business money or deciding what to do with profit] Payback test on spend, payment split on arrival, reinvest first, barbell surplus, investment question list, wealth ladder. (rules-money-1.md)
+- M19 [spending business money or deciding what to do with profit] Payback test on spend, payment split on arrival, reinvest first, barbell surplus, investment question list and checks on opportunities from others, active money only inside the owner's skill, return on reinvested capital, wealth ladder. (rules-money-1.md)
 - M20 [designing the money model, or reviewing a new client] Cash collected in a client's first 30 days should exceed the cost to win and deliver to them. (rules-money-1.md)
 - M21 [free early-client or delivery places are full] Free clients choose to pay or step aside for a paying client; collect their review either way. (rules-money-1.md)
 - M22 [deciding how much to deliver, or making delivery more efficient] Overdeliver first, then systemise; group before hiring; label early extras as temporary; existing clients keep what they bought. (rules-money-1.md)
@@ -88,9 +88,9 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - D17 [any login, account, payment detail or data the owner holds: leads, pilots, clients] Multi-factor and password manager everywhere, least access, weekly backups, phone-check bank changes, encryption. (rules-delivery.md)
 
 ### 8. Team and leadership (T)
-- T1 [hiring or managing employees who get leads, sell or deliver] [stage: S3+] After the first target: hire through a measured funnel with structured, fair selection, clear culture, output pay and lawful process; recruiting as selling, fast stages, first-fortnight check-ins, paths as behaviours; speak to each person's main driver; judge skill by the numbers a candidate tracks. (rules-team.md)
-- T2 [considering an agency, or paying any outside supplier] Pay for output, not hours; agree one written page first, keep ownership and least access, choose and manage suppliers on evidence. (rules-team.md)
-- T3 [considering a partner or a first hire] [stage: S3+] Only when the roadmap stage allows; a partner must bring measurable value, with exit terms agreed in writing first; profit share before equity; a technical partner when the core is technical. (rules-team.md)
+- T1 [hiring or managing employees who get leads, sell or deliver] [stage: S3+] After the first target: hire through a measured funnel with structured, fair selection, clear culture, output pay and lawful process; recruiting as selling, fast stages, first-fortnight check-ins, paths as behaviours; speak to each person's main driver; judge skill by the numbers a candidate tracks; owner knows each area's biggest problem and costs, signs off pay changes and large recurring costs. (rules-team.md)
+- T2 [considering an agency, or paying any outside supplier] Pay for output, not hours; agree one written page first, keep ownership and least access, choose and manage suppliers on evidence; references at the owner's size, load test before launch, never outsource the core without someone who can judge it. (rules-team.md)
+- T3 [considering a partner or a first hire] [stage: S3+] Only when the roadmap stage allows; a partner must bring measurable value, with exit terms agreed in writing first; profit share before equity; a technical partner when the core is technical; equity by measured contribution, salary for working partners, needed functions hired not given equity, partner red flags. (rules-team.md)
 
 ### 9. Writing (W)
 - W1 [drafting any message, email, post or copy] Write in the owner's own voice and the instructions box's style; never synthetic; reread tone-risk messages as the recipient. (rules-writing.md)

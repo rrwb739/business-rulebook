@@ -1,6 +1,14 @@
-Business rulebook version: v52 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v53 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v53, 2026-11-11
+Source 171: "I Lost $100 Million... Here's What I Learned" (Alex Hormozi, YouTube).
+- M19: active money only inside the owner's skill; checks on opportunities brought by others; return on reinvested capital; every expense must show its return.
+- M2: never cut price for existing clients to answer a competitor; a price cut comes straight off profit.
+- T1: owner knows each area's biggest problem and costs; signs off company-wide pay changes and large recurring costs.
+- T2: references at the owner's size, load test before launch, referrals don't skip checks, never outsource the core without someone who can judge it, own the code.
+- T3: equity by measured contribution, salary for working partners, needed functions hired not given equity, partner red flags, no personal guarantees, two-signature shared accounts.
 
 ## v52, 2026-11-11
 Source 170: "Why You Can't Pick a Business to Start" (Alex Hormozi, YouTube short). Owner's instruction: save for future businesses and new projects.
