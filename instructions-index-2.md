@@ -1,4 +1,4 @@
-Business rulebook version: v75 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v76 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -6,7 +6,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 
 ### 5. Sales (C)
 - C1 [a prospect shows buying interest] [Fixed] Close on a call: payment link after the yes, card on file only with the true reason and a separate yes, agreement in writing, read details back, honour terms quoted in error, test payments end to end. (rules-sales.md)
-- C2 [setting up the sales process] [Fixed] Qualify before calls and send a true, structured pre-call video and an honest pre-call form; brief and check every one-to-many asset; a second video before any upsell conversation. (rules-sales.md)
+- C2 [setting up the sales process] [Fixed] Qualify before calls and send a true, structured pre-call video and an honest pre-call form; brief and check every one-to-many asset; a second video before any upsell conversation; pre-framing questions with real options only; the pre-call video says plainly what the offer is; good friction over bad, judged on gross profit per pound and closes per seller. (rules-sales.md)
 - C3 [a lead books a call] [Fixed] Contact straight away, book soon, fix show rate first: named confirmation, honest slots, service-only reminders, same-day no-show rebooking; a true prepared-for-you item walked through on the call.; invite sent while on the line, text if anything comes up; many short slots, same or next day, warm no-show message (rules-sales.md)
 - C4 [preparing for a sales call] Research about 10% of the call's length, mostly on the prospect; use one fact in the first minute; keep notes factual and minimal. (rules-sales.md)
 - C5 [on a sales call] [Fixed] Follow CLOSER (clarify, label, overview, sell, explain, reinforce) with the diagnostic inside it; no ask until they've said why they need a fix; likes and dislikes from past attempts.; pre-handle concerns in discovery, no free full diagnosis, a doubt check after yes, proposals answered on the call (rules-sales.md)
@@ -75,7 +75,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - D4 [building prompts or AI drafting for a client] [shape: service] AI asks clarifying questions first, trained like a new employee; named human check on every AI draft. (rules-delivery.md)
 - D5 [designing or reviewing sessions, training anyone, or turning the owner's repeated work into AI skills] Document, demonstrate, duplicate; a stranger must get results from the checklist alone; delegate, never abdicate; AI skills one workflow at a time, passed against the owner's own output, human review at every handoff; learned only when done in the real situation, praise straight after, then less often. (rules-delivery.md)
 - D6 [delivery work that repeats across clients] Template it so each new client costs less to deliver. (rules-delivery.md)
-- D7 [onboarding a new client] [shape: service] Small promises kept in 48 hours, first task done, welcome video, kickoff goal in their words, one-page map, weekly release. (rules-delivery.md)
+- D7 [onboarding a new client] [shape: service] Small promises kept in 48 hours, first task done, welcome video, kickoff goal in their words, one-page map, weekly release; first onboarding step a lawful fast-cash campaign from the client own unused assets so the service pays for itself in about 30 days; client actions tied to bonuses and conditional guarantees. (rules-delivery.md)
 - D8 [measuring usage or client results] [shape: service] Count questions at set points; watch "we" vs "it"; no individual staff monitoring; self-reporting triggers for the owner's misses. (rules-delivery.md)
 - D9 [deciding what to improve] Open questions on value; design partners; private feedback first; result vs experience issues; "keep only one thing" question; reach, impact, confidence, cost ranking; fixed improvement budget. (rules-delivery.md)
 - D10 [the owner's own admin] Use the business's own method on the owner's admin first; D3 order; 30-second logging; proper books reconciled monthly. (rules-delivery.md)
@@ -144,3 +144,4 @@ How to use: general patterns live in the sections above; a K entry is the specif
 - K19 [a cash-strapped business running a big giveaway] Cautionary: thousands of leads unconverted; set follow-up capacity before the surge. (rules-cases.md)
 - K20 [an expert coaching business with the owner as bottleneck and long pitches] Team answers repeat questions, short weekly webinar, proper one-to-one price, upsell part-way through the programme. (rules-cases.md)
 - K21 [an outlet owner who also coaches owners in the same trade, asked to do the work for them] Sell the outlets to focus, lead with a fixed-term done-for-you build then continuity, coaching as front end; online product sales with a service voucher as the acquisition method, lawfully. (rules-cases.md)
+- K22 [a consulting service with organic attention whose booked buyers don't understand the offer] Pre-call video and pre-framing questions, good friction, a fast-cash campaign from the client's own lists in onboarding, action-tied bonuses and guarantee. (rules-cases.md)

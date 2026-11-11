@@ -1,6 +1,13 @@
-Business rulebook version: v75 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v76 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v76, 2026-11-11
+Source 194: "Helping an Agency Fix Their Sales Process" (Alex Hormozi with a workshop attendee, YouTube clip).
+- F28: define, prove, why it matters, before fixing any stated problem.
+- C2: pre-framing questions with real options; plain pre-call video; good friction judged on gross profit per pound and closes per seller.
+- D7: fast-cash campaign from the client's own unused assets as the first onboarding step; client actions tied to bonuses and conditional guarantees.
+- K22 (new): consulting service whose booked buyers don't understand the offer.
 
 ## v75, 2026-11-11
 Source 193: "How I'd Use Education to Sell the Main Offer" (Alex Hormozi with a workshop attendee, YouTube clip).
