@@ -1,6 +1,11 @@
-Business rulebook version: v61 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v62 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v62, 2026-11-11
+Source 183: "The 80/20 Principle: Achieve More with Less" (audiobook). Owner's instruction: every "20% that gets 80%" goes through the 80/20 method first.
+- F31: the five-step 80/20 method for choosing the actions before writing the section.
+- Split (hard rule 8): F31 to F34 moved unchanged to rules-strategy-2b.md; index updated.
 
 ## v61, 2026-11-11
 Source 182: "Elon Musk explains his 5-step algorithm for running companies" (YouTube clip). Owner's instruction: make it the core rule, the SOP for everything.
