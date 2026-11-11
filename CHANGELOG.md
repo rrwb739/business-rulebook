@@ -1,6 +1,10 @@
-Business rulebook version: v63 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v64 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v64, 2026-11-11
+Source 186: "Helping an Agency Get More Clients" (Alex Hormozi, YouTube workshop clip).
+- D11: when the owner is the delivery limit, deliver what was promised, route extra requests, move access into tiers, change delivery for existing clients openly and on fair terms.
 
 ## v63, 2026-11-11
 Source 185: "13 Ways to DESTROY Your Competition (Legally)" (Alex Hormozi, YouTube).

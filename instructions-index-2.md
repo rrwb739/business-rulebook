@@ -1,4 +1,4 @@
-Business rulebook version: v63 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v64 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -79,7 +79,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - D8 [measuring usage or client results] [shape: service] Count questions at set points; watch "we" vs "it"; no individual staff monitoring; self-reporting triggers for the owner's misses. (rules-delivery.md)
 - D9 [deciding what to improve] Open questions on value; design partners; private feedback first; result vs experience issues; "keep only one thing" question; reach, impact, confidence, cost ranking; fixed improvement budget. (rules-delivery.md)
 - D10 [the owner's own admin] Use the business's own method on the owner's admin first; D3 order; 30-second logging; proper books reconciled monthly. (rules-delivery.md)
-- D11 [client acquisition starts working well] Check delivery capacity before raising outreach; build capacity a quarter before a planned push. (rules-delivery.md)
+- D11 [client acquisition starts working well] Check delivery capacity before raising outreach; build capacity a quarter before a planned push.; when the owner is the delivery limit, deliver what was promised, route extra requests, change delivery openly on fair terms (rules-delivery.md)
 - D12 [running the core offer's delivery] [shape: service] First win in week one; small rewards; progress against own baseline, no rankings; results round at the end. (rules-delivery.md)
 - D13 [training a client's staff] [shape: service] Correct the step, not the person; praise in public, correct in private; peer models; everyone gets a part. (rules-delivery.md)
 - D14 [any meeting, session or client conversation, or someone raises a problem] Every session ends in changed actions recorded as action, owner, hours, said back and logged. (rules-delivery.md)
