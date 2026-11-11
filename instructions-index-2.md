@@ -1,4 +1,4 @@
-Business rulebook version: v55 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v56 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -7,9 +7,9 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 ### 5. Sales (C)
 - C1 [a prospect shows buying interest] [Fixed] Close on a call: payment link after the yes, card on file only with the true reason and a separate yes, agreement in writing, read details back, honour terms quoted in error, test payments end to end. (rules-sales.md)
 - C2 [setting up the sales process] [Fixed] Qualify before calls and send a true, structured pre-call video and an honest pre-call form; brief and check every one-to-many asset; a second video before any upsell conversation. (rules-sales.md)
-- C3 [a lead books a call] [Fixed] Contact straight away, book soon, fix show rate first: named confirmation, honest slots, service-only reminders, same-day no-show rebooking; a true prepared-for-you item walked through on the call. (rules-sales.md)
+- C3 [a lead books a call] [Fixed] Contact straight away, book soon, fix show rate first: named confirmation, honest slots, service-only reminders, same-day no-show rebooking; a true prepared-for-you item walked through on the call.; invite sent while on the line, text if anything comes up (rules-sales.md)
 - C4 [preparing for a sales call] Research about 10% of the call's length, mostly on the prospect; use one fact in the first minute; keep notes factual and minimal. (rules-sales.md)
-- C5 [on a sales call] [Fixed] Follow CLOSER (clarify, label, overview, sell, explain, reinforce) with the diagnostic inside it; no ask until they've said why they need a fix; likes and dislikes from past attempts. (rules-sales.md)
+- C5 [on a sales call] [Fixed] Follow CLOSER (clarify, label, overview, sell, explain, reinforce) with the diagnostic inside it; no ask until they've said why they need a fix; likes and dislikes from past attempts.; pre-handle concerns in discovery, no free full diagnosis, a doubt check after yes, proposals answered on the call (rules-sales.md)
 - C6 [presenting bonuses on a one-to-one call] Ask for the sale first on the core offer; add one obstacle-removing bonus at a time after a no; never discount to close. (rules-sales.md)
 - C7 [presenting the price] [Fixed] Use the return close with their own cautious numbers, say it is expensive just before the number, state the price and stop; fix belief or the offer, not the pitch. (rules-sales.md)
 - C8 [a prospect hesitates, or the call gets lost in detail] Best case, worst case close; "let's zoom out". (rules-sales.md)
@@ -88,7 +88,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - D17 [any login, account, payment detail or data the owner holds: leads, pilots, clients] Multi-factor and password manager everywhere, least access, weekly backups, phone-check bank changes, encryption. (rules-delivery.md)
 
 ### 8. Team and leadership (T)
-- T1 [hiring or managing employees who get leads, sell or deliver] [stage: S3+] After the first target: hire through a measured funnel with structured, fair selection, clear culture, output pay and lawful process; recruiting as selling, fast stages, first-fortnight check-ins, paths as behaviours; speak to each person's main driver; judge skill by the numbers a candidate tracks; owner knows each area's biggest problem and costs, signs off pay changes and large recurring costs.; acquisition under one owner, three leaders, every hire raises the bar, five reasons a task isn't done (rules-team.md)
+- T1 [hiring or managing employees who get leads, sell or deliver] [stage: S3+] After the first target: hire through a measured funnel with structured, fair selection, clear culture, output pay and lawful process; recruiting as selling, fast stages, first-fortnight check-ins, paths as behaviours; speak to each person's main driver; judge skill by the numbers a candidate tracks; owner knows each area's biggest problem and costs, signs off pay changes and large recurring costs.; acquisition under one owner, three leaders, every hire raises the bar, five reasons a task isn't done; commission tied to retention and satisfaction (rules-team.md)
 - T2 [considering an agency, or paying any outside supplier] Pay for output, not hours; agree one written page first, keep ownership and least access, choose and manage suppliers on evidence; references at the owner's size, load test before launch, never outsource the core without someone who can judge it. (rules-team.md)
 - T3 [considering a partner or a first hire] [stage: S3+] Only when the roadmap stage allows; a partner must bring measurable value, with exit terms agreed in writing first; profit share before equity; a technical partner when the core is technical; equity by measured contribution, salary for working partners, needed functions hired not given equity, partner red flags. (rules-team.md)
 

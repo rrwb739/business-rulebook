@@ -1,6 +1,12 @@
-Business rulebook version: v55 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v56 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v56, 2026-11-11
+Source 177: "27 Years of No Bullsh*t Sales Advice in 16 Mins" (YouTube).
+- C5: pre-handle concerns in discovery, no free full diagnosis, one doubt check after yes, proposals answered on the call then the next call booked.
+- C3: send the follow-up invite while on the line; ask them to text if anything comes up.
+- T1: sales commission tied to clients who stay and are happy, with holdbacks on refunds and early cancellations.
 
 ## v55, 2026-11-11
 Sources 174 to 176 (Alex Hormozi, YouTube): "Give me 20 Minutes and I'll Give You Back 20 Years of Your Life", "13 Years of No BS Business Advice in 79 Mins", "You're Wasting 80% of Your Time".

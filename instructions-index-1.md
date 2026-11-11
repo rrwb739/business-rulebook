@@ -1,4 +1,4 @@
-Business rulebook version: v55 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v56 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 2: Strategy (F), Scaling roadmap (S), Offers (O), Leads and marketing (L)
 
