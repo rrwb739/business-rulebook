@@ -1,6 +1,14 @@
-Business rulebook version: v83 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v84 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v84, 2026-11-12
+Sources 203 to 205 (Alex Hormozi YouTube: personal brand and X-factor; three signs of a successful entrepreneur; concierge medicine Scale or Fail follow-up).
+- O2: the messenger stands out by combining true, uncommon traits around the central pillar, on top of real excellence.
+- F2: the dangerous-competitor check, action versus relieving a feeling, known hard versus unknown hard, revisiting big problems.
+- L66: referrals that raise the referrer's standing, guest places asked at each booking, newsletter P.S., inducement rules in regulated fields.
+- L79: test or demonstration at events, own paid half-day workshops, a permanent calendar of events that pay back.
+- K16: follow-up.
 
 ## v83, 2026-11-12
 Source 202: "Can I Save This Failing Theme Park in 90 Days?" (Alex Hormozi, YouTube).
