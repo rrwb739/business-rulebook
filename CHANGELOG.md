@@ -1,6 +1,9 @@
-Business rulebook version: v123 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v124 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v124 (12 November 2026)
+- M20: a small first step for cold buyers; the main offer at the first result. M40: set-up fee waived for a year or paid with short-term continuity. M9: show the value by pulling the client's numbers. L61: ad test budget per campaign. L44: walk the funnel monthly; cold-traffic page layout. K39 (new). Source 264.
 
 ## v123 (12 November 2026)
 - L60: asks point where sales already come from; mid-piece mention; old pieces updated; one question to each new follower. Source 261.
