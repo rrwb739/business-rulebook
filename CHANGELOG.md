@@ -1,6 +1,9 @@
-Business rulebook version: v132 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v133 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v133 (12 November 2026)
+- New M47 key-client risk. F30 key-person check, D5 checklist depth, L65 owner-free product improvement, L62 single-channel risk, L36 payment provider backups, T2 key supplier risk. Source 274.
 
 ## v132 (12 November 2026)
 - M45 standing review system; L65 branded items; X12 US FTC review rule and platform incentive ban. Source 273.
