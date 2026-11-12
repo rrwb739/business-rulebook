@@ -1,4 +1,4 @@
-Business rulebook version: v120 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v121 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 4: Strategy (F), Scaling roadmap (S), Offers (O)
 
@@ -58,7 +58,7 @@ One line per rule: ID, [trigger], summary, (file). Read all four parts in full o
 - O3 [writing the offer, bio, pitch, posts or messages] Use one positioning line everywhere, test clarity on outsiders, one big idea per piece, written to one reader. (rules-offers-1.md)
 - O4 [writing copy, pitches or scripts] Sell the destination, not the journey: benefit ladder, "so what?", one modest claim plus one true mechanism, one high-contrast picture. (rules-offers-1.md)
 - O5 [writing copy, messages or call scripts] The pain is the pitch: their words, specific moments, What-Who-When, a doable step with every risk line, weekly reading of their press. (rules-offers-1.md)
-- O6 [designing the offer or writing copy] Win on speed, risk or ease; cost bold promises, test them on 5 to 10 calls, and run costly ones capped first. (rules-offers-1.md)
+- O6 [designing the offer or writing copy] Win on speed, risk or ease; cost bold promises, test them on 5 to 10 calls, and run costly ones capped first; levers for speed (templates, preparing ahead, availability), risk (consistency of variables), ease (remove what clients say is hard); cheapest only as a whole-business design; lead with one. (rules-offers-1.md)
 - O7 [designing delivery or onboarding] Walk the client's journey, list every action they must take, and cut them one by one. (rules-offers-1.md)
 - O8 [writing, stating or choosing any guarantee] Build a specific guarantee with teeth from their fears; conditions that predict success; full terms first and valid claims honoured. (rules-offers-1.md)
 - O9 [a prospect raises a non-price objection] Solve it once, turn the fix into a bonus, and keep a rehearsed bank of answers. (rules-offers-1.md)
