@@ -1,6 +1,11 @@
-Business rulebook version: v109 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v110 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v110, 2026-11-12
+Source 246 (Alex Hormozi YouTube: supply or demand constrained). Source 245 logged with no rule change.
+- D11: supply or demand triage by the double-the-spend test, fixes for each, quarterly re-check.
+- C4: when the payer and the day-to-day decider differ, pitch to the decider.
 
 ## v109, 2026-11-12
 Source 244 (Alex Hormozi YouTube: why doing more makes less money). Source 243 logged with no rule change.
