@@ -1,4 +1,4 @@
-Business rulebook version: v102 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v103 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 3: Strategy (F), Scaling roadmap (S), Offers (O)
 
@@ -54,7 +54,7 @@ One line per rule: ID, [trigger], summary, (file). Read all three parts in full 
 
 ### 3. Offers (O)
 - O1 [designing or reviewing the offer] Make an offer so good the avatar feels stupid saying no; audit its five parts and track response, close rate and price per version. (rules-offers-1.md)
-- O2 [positioning, branding, choosing partners, endorsers or public appearances, or comparing with competitors] Sell in a category of one: get narrower until something true is unique, protect the owner's name, keep a checkable facts-only comparison; content production style matches the price position, chosen on purpose; collaborations checked against the name's associations; lo-fi on a separate channel or brand only after the first target; a brand is chosen associations built by pairing; advertising makes known, branding is what is made known; count who each pairing gains and loses; one central pillar every avatar member wants. (rules-offers-1.md)
+- O2 [positioning, branding, choosing partners, endorsers or public appearances, or comparing with competitors] Sell in a category of one: get narrower until something true is unique, protect the owner's name, keep a checkable facts-only comparison; content production style matches the price position, chosen on purpose; collaborations checked against the name's associations; lo-fi on a separate channel or brand only after the first target; a brand is chosen associations built by pairing; advertising makes known, branding is what is made known; count who each pairing gains and loses; one central pillar every avatar member wants; a small seller's true edge over the leader (the owner's own attention). (rules-offers-1.md)
 - O3 [writing the offer, bio, pitch, posts or messages] Use one positioning line everywhere, test clarity on outsiders, one big idea per piece, written to one reader. (rules-offers-1.md)
 - O4 [writing copy, pitches or scripts] Sell the destination, not the journey: benefit ladder, "so what?", one modest claim plus one true mechanism, one high-contrast picture. (rules-offers-1.md)
 - O5 [writing copy, messages or call scripts] The pain is the pitch: their words, specific moments, What-Who-When, a doable step with every risk line, weekly reading of their press. (rules-offers-1.md)
@@ -83,7 +83,7 @@ One line per rule: ID, [trigger], summary, (file). Read all three parts in full 
 - O28 [designing the offer or delivery] List every hidden cost to the client and cut or reverse it, including what other solutions make them start or give up; every AI step must beat their current way. (rules-offers-1.md)
 - O29 [deciding what to build or include] Triple down on what clients value, cut the rest, and justify any addition in writing first. (rules-offers-1.md)
 - O30 [building or rebuilding the offer] Build the Grand Slam offer in five steps; test the offer doc and an internal launch note before building. (rules-offers-2.md)
-- O31 [step 4 of O30, or stuck for ideas] Think divergently with the delivery cube, then the 10x and one-tenth test. (rules-offers-2.md)
+- O31 [step 4 of O30, or stuck for ideas] Think divergently with the delivery cube, then the 10x and one-tenth test; no cost judgement while listing; modest-cost, high-value ideas. (rules-offers-2.md)
 - O32 [step 5 of O30, or adding anything to the offer] Trim low-value items, stack the rest by problem with honest values, and cut needless choices. (rules-offers-2.md)
 - O33 [a prospect gives a reason not to buy] Solve every perceived problem the way they need, then template the fix. (rules-offers-2.md)
 - O34 [choosing delivery methods] Favour high-value, one-to-many assets; save one-to-one time for the biggest value adds. (rules-offers-2.md)

@@ -1,6 +1,11 @@
-Business rulebook version: v102 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v103 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v103, 2026-11-12
+Source 233 (Alex Hormozi YouTube: being unknown is an advantage).
+- O2: a small seller's true edge over the leader, stated only where checkable.
+- O31: no cost judgement while listing solutions; modest-cost, high-value ideas in trim.
 
 ## v102, 2026-11-12
 Source 228 (Alex Hormozi YouTube: Scale or Fail, waste collection).
