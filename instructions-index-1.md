@@ -1,4 +1,4 @@
-Business rulebook version: v96 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v97 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 2: Strategy (F), Scaling roadmap (S), Offers (O), Leads and marketing (L)
 
@@ -178,7 +178,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - L74 [when warm outreach becomes possible] Beginner's order: warm outreach then content; without a usable network, lean harder on volume and patience. (rules-leads-4.md)
 - L75 [reply or booking rates fall while volume and targeting stay the same; launching anything new; any unhappy client] Keep mistakes small and private; handle upset clients and own slips the same day. (rules-leads-4.md)
 - L76 [writing any message, choosing what to send, or deciding how much to give before asking] Match messages to awareness, give at least 3.5 to 1 ask, longer runway for higher price.; seasonal themes before, during and after each demand peak across all channels (rules-leads-4.md)
-- L79 [in-person events as a lead source: shows, booths, speaking slots, client-hosted events] Go where many of the avatar gather; score each event against M23 before paying; one reason to stop with a lawful on-the-spot opt-in; book meetings, contact within a day; client-hosted events with consent; judge on gross profit per pound.; get community event calendars from organisers, book the next event at each one (rules-leads-4.md)
+- L79 [in-person events as a lead source: shows, booths, speaking slots, client-hosted events] Go where many of the avatar gather; score each event against M23 before paying; one reason to stop with a lawful on-the-spot opt-in; book meetings, contact within a day; client-hosted events with consent; judge on gross profit per pound.; get community event calendars from organisers, book the next event at each one; renewals at client events: named greetings, teach then short close, day-two re-pitch, a real perk for committing (rules-leads-4.md)
 - L80 [a target's social accounts run by an agency or staff, or using Instagram or similar to reach small-business owners] Find the owner (tagged posts, website, review replies, business register), first contact by call, own email or contact form, personal account only as warm-up (follow, comment, one text note, no link); ramp volume, log warnings; UK personal accounts need consent; the agency as a possible lead getter. (rules-leads-4.md)
 - L77 moved to C13. (rules-leads-4.md)
 - L78 moved to C14. (rules-leads-4.md)

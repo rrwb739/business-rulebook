@@ -1,4 +1,4 @@
-Business rulebook version: v96 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v97 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -48,7 +48,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - M25 [deciding what to build next in the money model] Build in five stages, one offer at a time until reliable and automatic; simple scales; fix back to front. (rules-money-2.md)
 - M26 [checking cash, or before any prepaid or free-time offer] Track runway; ring-fence prepaid cash; daily cash checks early; separate business account before the first payment. (rules-money-2.md)
 - M27 [any offer, sales call or refund request] Offer at the moment of need, never push; rollover then refund without a fight; ethics and receiving-end tests; true cues only; disputes and gifts. (rules-money-2.md)
-- M28 [choosing or testing an attraction offer] Attraction offers bring cash upfront; the five types plus the independent free version; no small discounts; deep discounts only on splinters. (rules-money-2.md)
+- M28 [choosing or testing an attraction offer] Attraction offers bring cash upfront; the five types plus the independent free version; no small discounts; deep discounts only on splinters.; test one long session against multi-day challenges (rules-money-2.md)
 - M29 [lead magnet, first sales call, or the DIY tier] Decoy offer: free stripped-down version beside the core offer; scripts, gating, show-up tests and the first-step metric. (rules-money-2.md)
 - M30 [after the first target (F3), choosing the next attraction offer to test] [stage: S3+] Test in order: pay less now or more later, win your money back, giveaway, buy X get Y free. (rules-money-2.md)
 - M31 [a client finishes a step, a new problem appears, or the core offer is ending] Classic upsell at the moment of the next problem; timing, previews, bundles, activation points, paid priority turnaround of the same work, capped and only when always met, paid extra cover priced on expected claims, beyond the core guarantee and legal rights. (rules-money-2.md)
@@ -57,7 +57,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - M34 [setting tier prices] Read the tier mix and adjust gaps or raise all prices accordingly. (rules-money-2.md)
 - M35 [win-back, an upset client, a competitor's unhappy client, or a current client buying again] Rollover upsell: credit what they paid towards an offer at least 4x the credit; win-back steps; voucher play later.; monthly reactivation sequences to past clients, true angles only (rules-money-2.md)
 - M36 [any no] A no is to this offer: make another; downsells are trades; never discount the same thing; payment plan or feature downsell. (rules-money-2.md)
-- M37 [a buyer says it costs too much] Payment plan downsell ladder from most cash upfront to least; upfront saving of at least 10%; instalments end with delivery. (rules-money-2b.md)
+- M37 [a buyer says it costs too much] Payment plan downsell ladder from most cash upfront to least; upfront saving of at least 10%; instalments end with delivery.; partial up-front share before delivery, layaway as downsell (rules-money-2b.md)
 - M38 [a buyer declines continuity, or for any recurring offer that needs their work] Trial with penalty as a last downsell: success actions, fees per missed action, terms initialled first; troubleshooting. (rules-money-2b.md)
 - M39 [price objection after payment-plan options] Feature downsell: remove features to lower price until they buy; levers, 1 to 10 check, minimum package, disclosed barter. (rules-money-2b.md)
 - M40 [designing or pricing continuity] Continuity for ongoing value only; bill less often; price below the core offer; something used up each period; no lifetime deals; launches: annual only with a needed premium, monthly after the cart closes; a paid membership trial as a split test.; teaching: charge the skill up front, small continuity for what stays useful (rules-money-2b.md)
@@ -79,7 +79,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - D8 [measuring usage or client results] [shape: service] Count questions at set points; watch "we" vs "it"; no individual staff monitoring; self-reporting triggers for the owner's misses. (rules-delivery.md)
 - D9 [deciding what to improve] Open questions on value; design partners; private feedback first; result vs experience issues; "keep only one thing" question; reach, impact, confidence, cost ranking; fixed improvement budget. (rules-delivery.md)
 - D10 [the owner's own admin] Use the business's own method on the owner's admin first; D3 order; 30-second logging; proper books reconciled monthly. (rules-delivery.md)
-- D11 [client acquisition starts working well] Check delivery capacity before raising outreach; build capacity a quarter before a planned push.; when the owner is the delivery limit, deliver what was promised, route extra requests, change delivery openly on fair terms; a trained backup for every delivery role, funded by price (rules-delivery.md)
+- D11 [client acquisition starts working well] Check delivery capacity before raising outreach; build capacity a quarter before a planned push.; when the owner is the delivery limit, deliver what was promised, route extra requests, change delivery openly on fair terms; a trained backup for every delivery role, funded by price; four supply fixes (price, ratio, productise, hire) and the business each builds; groups presented as better; replace unlimited access with set calls and lifelines (rules-delivery.md)
 - D12 [running the core offer's delivery] [shape: service] First win in week one; small rewards; progress against own baseline, no rankings; results round at the end. (rules-delivery.md)
 - D13 [training a client's staff] [shape: service] Correct the step, not the person; praise in public, correct in private; peer models; everyone gets a part. (rules-delivery.md)
 - D14 [any meeting, session or client conversation, or someone raises a problem] Every session ends in changed actions recorded as action, owner, hours, said back and logged. (rules-delivery.md)
@@ -155,3 +155,4 @@ How to use: general patterns live in the sections above; a K entry is the specif
 - K30 [an online store with standard and custom products, one dominant ad platform and broken tracking] Fix attribution first, focus on the least price-sensitive buyers, custom route to a call on every page, twice-weekly list emails. (rules-cases.md)
 - K31 [an event-based training business with many one-day events, a few profitable multi-day camps and a copycat] Cut weak one-day dates, scale the camps, raise prices, let the copycat take the low-margin format. (rules-cases.md)
 - K32 [an information business with a cheap book funnel, one ad platform, stalled spend and slow payback] Customer content loop with consent, variations of the winning creative, lead scoring and a bigger calling team, trade-offs first on calls. (rules-cases.md)
+- K33 [a founder-delivered coaching business maxed out on time, with a low-price tier and costly multi-day challenges] One high offer in small groups plus events, no unlimited messaging, quarter up front, one long live session, renewals in person. (rules-cases.md)

@@ -1,6 +1,14 @@
-Business rulebook version: v96 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v97 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v97, 2026-11-12
+Source 222 (Alex Hormozi YouTube: scaling a service business, coaching case).
+- D11: four supply fixes and the business each builds; groups presented as better; set calls and lifelines.
+- M37: partial up-front share before delivery.
+- M28: test one long session against multi-day challenges.
+- L79: renewals at client events.
+- K33: new case pattern.
 
 ## v96, 2026-11-12
 Source 221 (Alex Hormozi YouTube: why ambitious people stay mediocre).
