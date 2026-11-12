@@ -1,6 +1,10 @@
-Business rulebook version: v105 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v106 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v106, 2026-11-12
+Source 239 (Alex Hormozi YouTube: generational wealth). Sources 237 and 238 logged with no rule change.
+- M19: fund unplanned purchases from new extra work taken on for them, not reserves or consumer debt.
 
 ## v105, 2026-11-12
 Source 236 (Alex Hormozi YouTube: the affiliate structure for a book launch). Source 235 (an Instagram summary reel) logged with no rule change.
