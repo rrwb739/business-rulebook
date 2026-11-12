@@ -1,6 +1,13 @@
-Business rulebook version: v85 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v86 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v86, 2026-11-12
+Sources 207 to 209 (Alex Hormozi YouTube: Scale or Fail trailer; trust; content in the age of AI).
+- Split (hard rule 8): L19 to L37 moved unchanged to rules-leads-1b.md; index references updated.
+- T3: what trust means and two checks before giving more of it.
+- T1: leaders never use disclosures against people and keep every promise.
+- L32: proof scaled to stakes; demonstration captured from delivery with consent.
 
 ## v85, 2026-11-12
 Source 206: "Building a $3,000,000 Business for a Stranger in 31 Minutes | Scale or Fail" (Alex Hormozi, YouTube).
