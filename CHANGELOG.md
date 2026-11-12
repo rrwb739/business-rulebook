@@ -1,6 +1,11 @@
-Business rulebook version: v116 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v117 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v117 (12 November 2026)
+- M40: one-time against consumable deliverables, consumables priced as if sold alone, instalments are a payment plan not continuity, continued education as sticky education, higher levels with fewer buyers. Source 254.
+- M9: churn judged against the avatar's volatility; a retention milestone after which clients stay; each continuity feature must justify the price alone. Source 254.
+- F30: value comes from retention and margin, not software; a strong cash-flow business that can't be sold is a legitimate choice; set when delayed reward is taken. Source 254.
 
 ## v116 (12 November 2026)
 - T1: the five reasons a task isn't done expanded into a five-question check (wanted, what in behaviours or outcomes, how, by when, blocked), asked in that order before motivation; written requests; end-of-day default; prerequisites over training basics; the capability framing; no keeping someone on because no one else would hire them; the same check on the owner's own stalled work. Source 253.
