@@ -1,4 +1,4 @@
-Business rulebook version: v131 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v132 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 3 of 4: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -65,7 +65,7 @@ One line per rule: ID, [trigger], summary, (file). Read all four parts in full o
 - M42 [offering free time or a discount for commitment] How to apply continuity discounts, cancellation fees and easy cancelling; exit interviews; warm endings. (rules-money-2b.md)
 - M43 [long-term continuity terms] Set-up fee of 3 to 5x the monthly rate, waived for a 12-month commitment; investigate if over 5% leave early. (rules-money-2b.md)
 - M44 moved to X3. (rules-money-2.md)
-- M45 [asking for a review or testimonial] [Fixed] Invite every client to review; success interviews; truthful clips with evidence and consent; no fake people. (rules-money-2b.md)
+- M45 [asking for a review or testimonial] [Fixed] Invite every client to review; success interviews; truthful clips with evidence and consent; no fake people; standing review system from the first client; one link at handover; per-person review share as a satisfaction measure, no quotas or bonuses. (rules-money-2b.md)
 - M46 [every working day, any "what next" question, plan or result] Daily numbers: update the ratio and pick the next action from it. (rules-money-1b.md)
 
 ### 7. Delivery and operations (D)
@@ -107,7 +107,7 @@ One line per rule: ID, [trigger], summary, (file). Read all four parts in full o
 - X9 [writing or approving any claim in copy, sales, a lead magnet, a demo, an event, a service standard, a label or client material] [Fixed] Every claim evidenced and true; no implied official status or endorsement; fair comparisons; nothing staged; no disguised pitches; no aggressive practices (DMCC s.228). (rules-legal.md)
 - X10 [stating any limit, cap, place count, deadline, expiring bonus or reason to act now, on any page or call to action] [Fixed] Every limit, deadline and reason to act now must be true and kept. (rules-legal.md)
 - X11 [offering or wording any guarantee, anti-guarantee, exclusion or promise to pay] [Fixed] Full guarantee terms before commitment; never "risk-free" with conditions; statutory remedies stay; exclusions reasonable; never sell legal rights; paid cover may be insurance. (rules-legal.md)
-- X12 [asking for, rewarding, publishing or responding to reviews] [Fixed] Genuine reviews only; invite all; incentives disclosed and never conditional; never suppress genuine reviews. (rules-legal.md)
+- X12 [asking for, rewarding, publishing or responding to reviews] [Fixed] Genuine reviews only; invite all; incentives disclosed and never conditional; never suppress genuine reviews; US FTC review rule; platforms ban any review incentive. (rules-legal.md)
 - X13 [capturing, editing or using a testimonial, case study, client post or illustrative person] [Fixed] Testimonials true, consented in writing, current and unedited in meaning; no actors or fakes presented as clients. (rules-legal.md)
 - X14 [publishing any ad, sponsored content, guest post, clip, affiliate promotion or comment that promotes the business, or any content mentioning another business the owner is connected to] [Fixed] Marketing must be identifiable as marketing; paid mentions and affiliate posts labelled as ads; connected businesses labelled "Ad" upfront, never endorsed unchecked. (rules-legal.md)
 - X15 [setting up or using any referral incentive, commission chain or referral charity donation] [Fixed] Disclose referral incentives; consent before contacting referred people; check charity and professional rules. (rules-legal.md)

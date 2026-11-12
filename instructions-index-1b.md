@@ -1,4 +1,4 @@
-Business rulebook version: v131 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v132 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 4: Leads and marketing (L)
 
@@ -69,7 +69,7 @@ One line per rule: ID, [trigger], summary, (file). Read all four parts in full o
 - L62 [growing lead flow from what already works] More, then better, then new; volume first; before anything new, write need-to-believes, budget, downside and what a win is.; judge more on absolute profit above the M23 floor; source share against owner hours; estimate lever gains by channel share, added not multiplied. (rules-leads-4.md)
 - L63 [testing anything in outreach or marketing] One test per channel per week with a log, fix the constraint, test front to back, 70/20/10, vary the wrapper of winners; a standing 10 to 20% challenger split on large sends. (rules-leads-4.md)
 - L64 [planning how to scale lead flow] Lead getters (referrals, employees, agencies, affiliates) do the Core Four for the business; start with referrals. (rules-leads-4.md)
-- L65 [any client relationship; designing referrals] Referrals beat churn to grow; build goodwill six ways; write the growth loop and fix its weakest link quarterly; three levels of influence (owner says, others say, buyers experience); keep the small promises inside content; measure the word-of-mouth share quarterly.; influence from status, power, credibility and likeness (rules-leads-4.md)
+- L65 [any client relationship; designing referrals] Referrals beat churn to grow; build goodwill six ways; write the growth loop and fix its weakest link quarterly; three levels of influence (owner says, others say, buyers experience); keep the small promises inside content; measure the word-of-mouth share quarterly.; influence from status, power, credibility and likeness; free branded items for recurring clients, never for reviews. (rules-leads-4.md)
 - L66 [asking for referrals] [Fixed] Ask at purchase and after results, "who" not "if", real introductions; incentive options, default two-sided; disclose incentives; word of mouth needs no reason to keep quiet and frequent contact with possible buyers; token-price friend trial for subscriptions. (rules-leads-4.md)
 - L67 moved to T1. (rules-leads-4.md)
 - L68 moved to T2. (rules-leads-4.md)

@@ -1,6 +1,9 @@
-Business rulebook version: v131 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v132 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v132 (12 November 2026)
+- M45 standing review system; L65 branded items; X12 US FTC review rule and platform incentive ban. Source 273.
 
 ## v131 (12 November 2026)
 - L62, L69, F30, F12, L44 merged. Source 272.
