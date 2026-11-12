@@ -1,6 +1,14 @@
-Business rulebook version: v106 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v107 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v107, 2026-11-12
+Source 240 (Alex Hormozi YouTube: fixing a high-end stylist's business).
+- C2: count calls to close and move decision information into the pre-call video; video offered as a choice; played on the call if unwatched.
+- L42: intent-based and interruption-based leads tracked as separate funnels.
+- M7: an anchor tier kept close to the core offer when few will buy it, still a real offer.
+- K35: new case pattern.
+- Split: rules-sales.md passed the cap with this merge, so C8 to C14 moved unchanged to rules-sales-b.md; index references updated.
 
 ## v106, 2026-11-12
 Source 239 (Alex Hormozi YouTube: generational wealth). Sources 237 and 238 logged with no rule change.
