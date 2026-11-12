@@ -5,6 +5,7 @@ Business rulebook version: v112 | index: instructions.md | rule text: the rules 
 ## v112, 2026-11-12
 Source 248 (Alex Hormozi YouTube: the magic of a simple business).
 - F30: once a slow, proven fix is chosen, give it its time rather than starting parallel fixes.
+- Split: rules-strategy-2.md reached the cap, so F28 to F30 moved unchanged to rules-strategy-2b.md; index references updated.
 
 ## v111, 2026-11-12
 Source 247 (Alex Hormozi YouTube: Scale or Fail, multi-location appointment service).
