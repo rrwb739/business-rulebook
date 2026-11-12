@@ -1,6 +1,9 @@
-Business rulebook version: v136 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v137 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v137 (12 November 2026)
+- T1 hire maths, job post as offer, no staff revenue shares, new pay on new hires first; M46 measurement and two pipelines; M5 existing-client price rise order; M9 goals, renewal occasions, client success handover. Source 279.
 
 ## v136 (12 November 2026)
 - M46 track only action-changing numbers, T1 three questions, F13 owner activities as verbs, L66 uneven referrals and reinvestment. Source 278.
