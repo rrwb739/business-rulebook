@@ -1,6 +1,10 @@
-Business rulebook version: v91 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v92 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v92, 2026-11-12
+Source 216 (Alex Hormozi YouTube: how to get customers to stay).
+- M9: joins against cancels, churn milestones, cancel-reason reviews, tiers only for ideal members, keep-one survey, busy and deep paths, daily presence, regulars.
 
 ## v91, 2026-11-12
 Source 215 (Alex Hormozi YouTube: helping four educational business owners).
