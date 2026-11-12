@@ -1,6 +1,10 @@
-Business rulebook version: v108 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v109 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v109, 2026-11-12
+Source 244 (Alex Hormozi YouTube: why doing more makes less money). Source 243 logged with no rule change.
+- F30: require a risk-adjusted gain well above the dip before any change; changes per function are scarce.
 
 ## v108, 2026-11-12
 Source 242 (Alex Hormozi YouTube: bringing in a partner). Source 241 logged with no rule change.
