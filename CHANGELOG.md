@@ -1,6 +1,11 @@
-Business rulebook version: v100 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v101 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v101, 2026-11-12
+Source 226 (Alex Hormozi YouTube: how to win at anything).
+- F30: changes cost a dip; one or two material changes a year for small teams.
+- L62: judge more on absolute profit above the ratio floor.
 
 ## v100, 2026-11-12
 Source 225 (Alex Hormozi YouTube: a business that runs itself).
