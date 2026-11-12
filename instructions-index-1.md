@@ -1,4 +1,4 @@
-Business rulebook version: v86 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v87 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 2: Strategy (F), Scaling roadmap (S), Offers (O), Leads and marketing (L)
 
@@ -19,12 +19,12 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - F12 [choosing pilots, pilots are done, every 10 new clients after, or qualifying a prospect] Ideal client from five columns and shared traits of the top 20%; red-flag list; two or more flags, don't sell. (rules-strategy-1.md)
 - F13 [deciding where the owner's hours go] Money per hour; keep the owner on the highest-value skill; log hours by attraction, conversion, delivery, account management. (rules-strategy-1.md)
 - F14 [fear is blocking a decision] Play out the worst case, keep a profitable solo floor, pick the better story at 85; ignore views from outside the avatar or behind the owner. (rules-strategy-1.md)
-- F15 [starting something the owner has not done before] Don't posture; learn from people ahead, give first in communities, show the work when asking; keep a list of the owner's Ten; copy what people ahead did at the owner's stage. (rules-strategy-1.md)
+- F15 [starting something the owner has not done before] Don't posture; learn from people ahead, give first in communities, show the work when asking; keep a list of the owner's Ten; copy what people ahead did at the owner's stage.; visit the industry hub in person (rules-strategy-1.md)
 - F16 [considering building software] Pre-sell a paid waitlist; no custom software before the first target; own code and accounts; budget twice the quote. (rules-strategy-1.md)
 - F17 moved to T3. (rules-strategy-2.md)
 - F18 [planning strategy or where to put resources] Ask what would make the business number one in its niche and what one thing solves most problems; check need-to-believes before funnel numbers. (rules-strategy-2.md)
 - F19 [solving any business problem with no single right answer] Think divergently, then pick; restate the worry as a question about one number. (rules-strategy-2.md)
-- F20 [the owner is stuck, or deciding what to learn next] Name the missing skill or belief and test it; sustain performance via the outreach streak; state stalls as behaviour. (rules-strategy-2.md)
+- F20 [the owner is stuck, or deciding what to learn next] Name the missing skill or belief and test it; sustain performance via the outreach streak; state stalls as behaviour.; unsure what to do: build capacity alongside outreach, keep slack in the day (rules-strategy-2.md)
 - F21 [writing the owner's bio, pitch or founder story] One true P and skill-stack line, never overstated; host bio; structured origin story; no client data in the founder log. (rules-strategy-2.md)
 - F22 [tempted by a new idea, or doubting the business] Focus means saying no; idea list with seven-question write-up; absence test before new ventures; better beats new; three sources of ideas, what can be sold; two businesses: a replacement test (can the better one replace the other net income within months), then exit the other on a written plan without chasing the top valuation. (rules-strategy-2.md)
 - F23 [planning the week, or feeling short of time] Foundation: maker time (few long uninterrupted blocks, planned first) and manager time (set meeting windows, back to front); three stages of protecting maker time; weekly meeting deletion and cost; team quiet days. Time audit, protected outreach block, focus timer, fixed call windows and copy blocks, no big decisions after bad news.; season of no while one priority is set, no obligation to reply, execute rather than gather information, same sleep times every day, consumption apps off the phone (rules-strategy-2.md)
@@ -135,7 +135,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - L30 [tracking sales, or judging any new channel or method] Track the whole funnel with leading indicators, paired numbers, checkable stage definitions, forecasts, lost reasons and a daily breaches list. (rules-leads-1b.md)
 - L31 [a client has measurable results] Ask for referrals and name the referrer when contacting; peer referrals are usually the best leads. (rules-leads-1b.md)
 - L32 [marketing, messages, calls or planning delivery] [Fixed] Proof beats promise: measure every client, publish results honestly, label pilots and demos, client as hero in case studies; higher stakes need more proof: third-party proof plus live demonstration, captured from delivery with consent, documented free audits when clients are few. (rules-leads-1b.md)
-- L33 [creating content or posts] Document the journey only with written consent and no client confidential data. (rules-leads-1b.md)
+- L33 [creating content or posts] Document the journey only with written consent and no client confidential data.; no proof yet: document countable effort, then a waitlist (rules-leads-1b.md)
 - L34 [someone turns down a free pilot or free offer] Find the hidden cost or missing belief, remove it, and ask the magic question with price and time fixed. (rules-leads-1b.md)
 - L35 [contacts who haven't bought yet] Keep non-buyers warm with useful, ask-free notes before key dates; change approach after 3 conversations without a decision. (rules-leads-1b.md)
 - L36 [choosing or relying on a lead source] Own the lead flow and list; back up single points of failure; log payment disputes monthly; ask before chasing a first late payment. (rules-leads-1b.md)
