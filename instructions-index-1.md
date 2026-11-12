@@ -1,4 +1,4 @@
-Business rulebook version: v134 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v135 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 4: Strategy (F), Scaling roadmap (S), Offers (O)
 
@@ -73,15 +73,15 @@ One line per rule: ID, [trigger], summary, (file). Read all four parts in full o
 - O18 [testing marketing] Test offer, headline, image, then path tools; keep the tool with the best completion rate and the loser as backup. (rules-offers-1.md)
 - O19 [planning content, the website or emails] Give away the how free in scrambled order; clients pay for the full sequence and implementation.; teach how it works to sell, sell the doing (rules-offers-1.md)
 - O20 [making content or videos] Effort goes before recording; one-to-many assets split time 40% research, 20% body, 20% headlines, 20% checking. (rules-offers-1.md)
-- O21 [designing, reviewing or pricing the offer] Value equation: raise dream outcome and likelihood, cut time delay and effort; score each driver 0 to 1; buyer-side five-step pass (F34 on the buyer's journey: delete, simplify, speed up the buyer's steps, then likelihood and a real guarantee, then price against the next best option's total cost). (rules-offers-1.md)
-- O22 [improving the offer] Focus on the bottom of the equation: faster and easier is hard to copy. (rules-offers-1.md)
-- O23 [improving the offer or the client experience] Perception is reality: make progress visible and look for psychological as well as logical fixes. (rules-offers-1.md)
-- O24 [writing copy, messages or the offer] Channel desires the avatar already has, frame by status, and win on likelihood, speed and effort when outcomes match. (rules-offers-1.md)
-- O25 [writing the offer, messages or calls] Raise perceived likelihood with true proof, independent recognition and being easy to check.; proof recent, visual, plentiful, told from the pain; testimonial at peak satisfaction (rules-offers-1.md)
-- O26 [designing the offer or onboarding] Build an early emotional win and visible milestones; track days to activation. (rules-offers-1.md)
-- O27 [competing with free options, or writing about speed] Fast beats free: lead with speed against free alternatives. (rules-offers-1.md)
-- O28 [designing the offer or delivery] List every hidden cost to the client and cut or reverse it, including what other solutions make them start or give up; every AI step must beat their current way. (rules-offers-1.md)
-- O29 [deciding what to build or include] Triple down on what clients value, cut the rest, and justify any addition in writing first. (rules-offers-1.md)
+- O21 [designing, reviewing or pricing the offer] Value equation: raise dream outcome and likelihood, cut time delay and effort; score each driver 0 to 1; buyer-side five-step pass (F34 on the buyer's journey: delete, simplify, speed up the buyer's steps, then likelihood and a real guarantee, then price against the next best option's total cost). (rules-offers-1b.md)
+- O22 [improving the offer] Focus on the bottom of the equation: faster and easier is hard to copy. (rules-offers-1b.md)
+- O23 [improving the offer or the client experience] Perception is reality: make progress visible and look for psychological as well as logical fixes. (rules-offers-1b.md)
+- O24 [writing copy, messages or the offer] Channel desires the avatar already has, frame by status, and win on likelihood, speed and effort when outcomes match. (rules-offers-1b.md)
+- O25 [writing the offer, messages or calls] Raise perceived likelihood with true proof, independent recognition and being easy to check.; proof recent, visual, plentiful, told from the pain; testimonial at peak satisfaction (rules-offers-1b.md)
+- O26 [designing the offer or onboarding] Build an early emotional win and visible milestones; track days to activation. (rules-offers-1b.md)
+- O27 [competing with free options, or writing about speed] Fast beats free: lead with speed against free alternatives. (rules-offers-1b.md)
+- O28 [designing the offer or delivery] List every hidden cost to the client and cut or reverse it, including what other solutions make them start or give up; every AI step must beat their current way. (rules-offers-1b.md)
+- O29 [deciding what to build or include] Triple down on what clients value, cut the rest, and justify any addition in writing first; pick rank-and-build or subtraction; keep-one and not-miss questions; remove for new clients first. (rules-offers-1b.md)
 - O30 [building or rebuilding the offer] Build the Grand Slam offer in five steps; test the offer doc and an internal launch note before building. (rules-offers-2.md)
 - O31 [step 4 of O30, or stuck for ideas] Think divergently with the delivery cube, then the 10x and one-tenth test; no cost judgement while listing; modest-cost, high-value ideas. (rules-offers-2.md)
 - O32 [step 5 of O30, or adding anything to the offer] Trim low-value items, stack the rest by problem with honest values, and cut needless choices. (rules-offers-2.md)
