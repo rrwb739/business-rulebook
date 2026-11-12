@@ -1,6 +1,10 @@
-Business rulebook version: v111 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v112 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v112, 2026-11-12
+Source 248 (Alex Hormozi YouTube: the magic of a simple business).
+- F30: once a slow, proven fix is chosen, give it its time rather than starting parallel fixes.
 
 ## v111, 2026-11-12
 Source 247 (Alex Hormozi YouTube: Scale or Fail, multi-location appointment service).
