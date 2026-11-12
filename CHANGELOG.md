@@ -1,6 +1,10 @@
-Business rulebook version: v81 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v82 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v82, 2026-11-12
+Source 201: "How to become rich with social media (my exact playbook)" (Alex Hormozi, YouTube).
+- L60: topics from the top 20% of buyers by spend; rank pieces by tracked revenue, not views; broad pieces still valuable to top buyers.
 
 ## v81, 2026-11-12
 Source 200: "How To Play To Win | Alex & Leila Answer Your Questions Live" (YouTube live Q&A).
