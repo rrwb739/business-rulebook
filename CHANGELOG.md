@@ -1,6 +1,13 @@
-Business rulebook version: v89 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v90 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v90, 2026-11-12
+Source 213 (Alex Hormozi YouTube: Scale or Fail, online store).
+- L61: returns that contradict the accounts mean broken tracking.
+- C2: pre-call video promises price ranges at the end; custom-order route on every product page.
+- L57: e-commerce list nurture.
+- K30: new case pattern.
 
 ## v89, 2026-11-12
 Source 212 (Alex Hormozi YouTube: helping six business owners scale).

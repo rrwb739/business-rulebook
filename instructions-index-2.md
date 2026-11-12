@@ -1,4 +1,4 @@
-Business rulebook version: v89 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v90 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -6,7 +6,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 
 ### 5. Sales (C)
 - C1 [a prospect shows buying interest] [Fixed] Close on a call: payment link after the yes, card on file only with the true reason and a separate yes, agreement in writing, read details back, honour terms quoted in error, test payments end to end. (rules-sales.md)
-- C2 [setting up the sales process] [Fixed] Qualify before calls and send a true, structured pre-call video and an honest pre-call form; brief and check every one-to-many asset; a second video before any upsell conversation; pre-framing questions with real options only; the pre-call video says plainly what the offer is; good friction over bad, judged on gross profit per pound and closes per seller. (rules-sales.md)
+- C2 [setting up the sales process] [Fixed] Qualify before calls and send a true, structured pre-call video and an honest pre-call form; brief and check every one-to-many asset; a second video before any upsell conversation; pre-framing questions with real options only; the pre-call video says plainly what the offer is; good friction over bad, judged on gross profit per pound and closes per seller.; pre-call video promises prices at the end; e-commerce custom route on every product page (rules-sales.md)
 - C3 [a lead books a call] [Fixed] Contact straight away, book soon, fix show rate first: named confirmation, honest slots, service-only reminders, same-day no-show rebooking; a true prepared-for-you item walked through on the call.; invite sent while on the line, text if anything comes up; many short slots, same or next day, warm no-show message; no-show ladder: commitment check, card held with a fair stated fee, paid consult credited, paid consult not credited. (rules-sales.md)
 - C4 [preparing for a sales call] Research about 10% of the call's length, mostly on the prospect; use one fact in the first minute; keep notes factual and minimal. (rules-sales.md)
 - C5 [on a sales call] [Fixed] Follow CLOSER (clarify, label, overview, sell, explain, reinforce) with the diagnostic inside it; no ask until they've said why they need a fix; likes and dislikes from past attempts.; pre-handle concerns in discovery, no free full diagnosis, a doubt check after yes, proposals answered on the call (rules-sales.md)
@@ -152,3 +152,4 @@ How to use: general patterns live in the sections above; a K entry is the specif
 - K27 [a profitable hobby membership sold through paid live challenges, capped by fear of ad spend] Annual only with a physical kit, monthly after cart close, hundreds of ads from members and clips, spend most at the end, limit from lifetime gross profit, test a paid trial. (rules-cases.md)
 - K28 [a profitable local home service with high close and show rates, one referral partner and ads to an unoptimised page] Price rise with break-even close rate, dedicated ad page, phone-size ad checks, spend after fixes, branded search, monthly reactivation, partners sell the entry check, community-event outbound. (rules-cases.md)
 - K29 [a door-to-door sales team moved onto bought leads that cost more than a client is worth] Back to outbound, inbound to the best closer as a promotion, one seller to iterate, an in-house marketer. (rules-cases.md)
+- K30 [an online store with standard and custom products, one dominant ad platform and broken tracking] Fix attribution first, focus on the least price-sensitive buyers, custom route to a call on every page, twice-weekly list emails. (rules-cases.md)
