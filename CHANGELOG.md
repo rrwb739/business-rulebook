@@ -1,6 +1,9 @@
-Business rulebook version: v129 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v130 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v130 (12 November 2026)
+- M19: when outside capital fits; return on capital for new units. F30: franchising. Source 271.
 
 ## v129 (12 November 2026)
 - M40, M41, L69, M20 merged. Source 270.
