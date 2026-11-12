@@ -2,6 +2,12 @@ Business rulebook version: v87 | index: instructions.md | rule text: the rules f
 
 # Changelog
 
+## v87, 2026-11-12
+Source 210 (Alex Hormozi YouTube: how to catch up in life).
+- F20: when unsure, build capacity alongside the outreach minimum; keep slack in the day.
+- F15: visit the industry's physical hub in person.
+- L33: with no proof yet, document countable effort, then a waitlist.
+
 ## v86, 2026-11-12
 Sources 207 to 209 (Alex Hormozi YouTube: Scale or Fail trailer; trust; content in the age of AI).
 - Split (hard rule 8): L19 to L37 moved unchanged to rules-leads-1b.md; index references updated.
