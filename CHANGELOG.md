@@ -1,6 +1,10 @@
-Business rulebook version: v98 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v99 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v99, 2026-11-12
+Source 224 (Alex Hormozi YouTube: 15 brutal truths).
+- F20: name the avoided trade, play the fear out in specifics.
 
 ## v98, 2026-11-12
 Source 223 (Alex Hormozi YouTube: watch this to get ahead, compilation).
