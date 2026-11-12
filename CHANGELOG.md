@@ -1,6 +1,9 @@
-Business rulebook version: v135 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v136 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v136 (12 November 2026)
+- M46 track only action-changing numbers, T1 three questions, F13 owner activities as verbs, L66 uneven referrals and reinvestment. Source 278.
 
 ## v135 (12 November 2026)
 - O29 product strategy and removal test, M40 billing-period value and structural churners, M19 value follows economics, C11 paid feedback after a no. rules-offers-1.md split (O21 to O29 to rules-offers-1b.md). Source 276.
