@@ -1,4 +1,4 @@
-Business rulebook version: v122 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v123 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 4 of 4: Case patterns (K)
 
@@ -43,3 +43,4 @@ How to use: general patterns live in the sections above; a K entry is the specif
 - K35 [a high-end personal service to wealthy individuals with a leaky opt-in page and a few partners bringing much of the revenue] Fix the page first, ten times the partner outreach to adjacent businesses, then a continuity anchor, continuity as the default next step and steady price rises. (rules-cases-b.md)
 - K36 [a multi-location appointment service with co-owning partners, weak rebooking and staff turnover] Settle the partnership first, speed to lead, peak pricing with member exemption, rebook and membership before the service, prepay at checkout, career path. (rules-cases-b.md)
 - K37 [a busy high-volume walk-in business, such as a restaurant, preparing a second location] Fix the first unit's per-order economics (price endings, menu, add-on scripts, comeback and review asks) before opening the next. (rules-cases-b.md)
+- K38 [a niche professional service with a content audience losing money across several lines] Cut the losing line, point all asks at the route that already sells, and sell a fixed outcome package at service margins. (rules-cases-b.md)

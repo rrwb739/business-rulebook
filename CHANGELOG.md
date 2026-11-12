@@ -1,6 +1,13 @@
-Business rulebook version: v122 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v123 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v123 (12 November 2026)
+- L60: asks point where sales already come from; mid-piece mention; old pieces updated; one question to each new follower. Source 261.
+- M2: sell a fixed outcome and say why hourly misaligns. Source 261.
+- M7: lower fee plus a share of the win against a higher flat fee. Source 261.
+- L79: speaking only when demand can be served, or charge the sales lost. Source 261.
+- K38 (new): niche professional service consolidating onto the line that makes money. Source 261.
 
 ## v122 (12 November 2026)
 - T1: product-line units with their own profit and loss and unit profit share; written cases for new lines, an incubator group, champions to lead them; in person or remote decided by role. Source 260.
