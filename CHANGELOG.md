@@ -1,6 +1,11 @@
-Business rulebook version: v82 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v83 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v83, 2026-11-12
+Source 202: "Can I Save This Failing Theme Park in 90 Days?" (Alex Hormozi, YouTube).
+- K19: the full seasonal giveaway play and its result.
+- L72: deadline campaigns peak at the end; hire callers when leads outrun them.
 
 ## v82, 2026-11-12
 Source 201: "How to become rich with social media (my exact playbook)" (Alex Hormozi, YouTube).
