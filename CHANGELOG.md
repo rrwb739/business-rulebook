@@ -1,6 +1,14 @@
-Business rulebook version: v80 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v81 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v81, 2026-11-12
+Source 200: "How To Play To Win | Alex & Leila Answer Your Questions Live" (YouTube live Q&A).
+- F30: attack the one constraint many ways at once, then prune; the constraint is usually the part the owner enjoys least.
+- C3: no-show ladder from commitment check to paid consultation.
+- C12: the same-price comparison question.
+- T1: define good in observable terms; authority matches responsibility; mediating conflict; personal issues and performance.
+- K25, K26 (new): fraud discovered after buying a business; retail showrooming.
 
 ## v80, 2026-11-12
 Source 199: Alex Hormozi email on universal closes.
