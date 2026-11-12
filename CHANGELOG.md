@@ -1,6 +1,9 @@
-Business rulebook version: v115 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v116 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v116 (12 November 2026)
+- T1: the five reasons a task isn't done expanded into a five-question check (wanted, what in behaviours or outcomes, how, by when, blocked), asked in that order before motivation; written requests; end-of-day default; prerequisites over training basics; the capability framing; no keeping someone on because no one else would hire them; the same check on the owner's own stalled work. Source 253.
 
 ## v115, 2026-11-12
 Housekeeping (no source).
