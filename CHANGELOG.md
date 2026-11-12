@@ -1,6 +1,10 @@
-Business rulebook version: v95 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v96 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v96, 2026-11-12
+Source 221 (Alex Hormozi YouTube: why ambitious people stay mediocre).
+- F34: industry averages are not standards.
 
 ## v95, 2026-11-12
 Source 220 (Alex Hormozi YouTube: how the top 1% think about money).
