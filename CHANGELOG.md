@@ -1,6 +1,14 @@
-Business rulebook version: v90 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v91 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v91, 2026-11-12
+Source 215 (Alex Hormozi YouTube: helping four educational business owners).
+- M40: teaching businesses charge the skill up front, small continuity.
+- M9: when many never start, sell only the profile that sticks.
+- L61: cold traffic converts worse than warm; launch the sales route with the ads.
+- T1: recruit key specialists from admired businesses; core functions in house.
+- K31: new case pattern.
 
 ## v90, 2026-11-12
 Source 213 (Alex Hormozi YouTube: Scale or Fail, online store).
