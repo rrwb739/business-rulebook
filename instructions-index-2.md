@@ -1,4 +1,4 @@
-Business rulebook version: v79 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v80 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -14,7 +14,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - C7 [presenting the price] [Fixed] Use the return close with their own cautious numbers, say it is expensive just before the number, state the price and stop; fix belief or the offer, not the pitch. (rules-sales.md)
 - C8 [a prospect hesitates, or the call gets lost in detail] Best case, worst case close; "let's zoom out". (rules-sales.md)
 - C9 [a prospect asks for more proof] [Fixed] Ask how much proof is enough, find the real fear, and offer consented, unrewarded client references. (rules-sales.md)
-- C10 [a prospect says no or stalls] Resolve the concern, then ask again, while rapport holds; expect a first no. (rules-sales.md)
+- C10 [a prospect says no or stalls] Resolve the concern, then ask again, while rapport holds; expect a first no; universal closes first (does this get you closer, main concern, reason, hypothetical, zoom out, 1 to 10, best and worst case only with a real guarantee), ask again after each, after three or four noes book the next call; never the reason close on someone who cannot afford it. (rules-sales.md)
 - C11 [the end of any call] Book the next step before hanging up and ask who else would benefit; one light introduction ask after a no. (rules-sales.md)
 - C12 [negotiating price or terms] [Fixed] Have an alternative first, anchor high but credible, trade on terms in real steps only; "can you do it for more?", and a lower price only with less scope. (rules-sales.md)
 - C13 [before a block of sales calls, or practising sales] Practise selling like any skill: short daily reps, role-play, a rubric per CLOSER step, call reviews and a don't-say list; judge calls on script adherence before the close.; new sellers trained on good recordings, self-critique first, drill one part at a time; when the owner closes far better, reps set appointments and the owner closes until reps match on the same script. (rules-sales.md)

@@ -1,6 +1,10 @@
-Business rulebook version: v79 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v80 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v80, 2026-11-12
+Source 199: Alex Hormozi email on universal closes.
+- C10: universal closes in order before objection-specific answers; ask again after each; after three or four noes book the next call; safeguards on affordability and guarantees.
 
 ## v79, 2026-11-11
 Source 197: "My Evidence Based Guide to Making Money Online [TIER LIST]" (Alex Hormozi, YouTube).
