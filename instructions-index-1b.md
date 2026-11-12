@@ -1,4 +1,4 @@
-Business rulebook version: v112 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v113 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 4: Leads and marketing (L)
 
@@ -77,7 +77,7 @@ One line per rule: ID, [trigger], summary, (file). Read all four parts in full o
 - L70 [planning the owner's day or week for leads] One-page advertising plan; one protected daily outreach block with nothing else in it; work recent actors first. (rules-leads-4b.md)
 - L71 [the owner is discouraged, comparing themselves with others, or wants to quit] Keep rolling, check inputs, take the next input rather than switching; reread the reasons list. (rules-leads-4b.md)
 - L72 [a lead replies, books or opts in] Speed to lead: contact as fast as possible; if set hours prevent it, notifications on and booking link ready; set follow-up capacity before any lead surge and cap the push to match; deadline campaigns peak at the end, keep going through the quiet middle and staff for the surge; hire callers when leads outrun them.; score leads at opt-in and call the highest first; dialler only within consent and calling rules (rules-leads-4b.md)
-- L73 [making any video, writing a subject line or first line, or opening a call or session] [Fixed] Most effort on the hook; proof, promise and plan in the order the audience needs; many hooks from real words and winners; true hook types only, including outcome-and-character hooks with real, labelled results; test outcome-first against tip hooks on avatar opt-ins. (rules-leads-4b.md)
+- L73 [making any video, writing a subject line or first line, or opening a call or session] [Fixed] Most effort on the hook; proof, promise and plan in the order the audience needs; many hooks from real words and winners; true hook types only, including outcome-and-character hooks with real, labelled results; test outcome-first against tip hooks on avatar opt-ins; four persuasion angles, specific moments in the avatar's words, call to action shown and page matching the ad. (rules-leads-4b.md)
 - L74 [when warm outreach becomes possible] Beginner's order: warm outreach then content; without a usable network, lean harder on volume and patience. (rules-leads-4b.md)
 - L75 [reply or booking rates fall while volume and targeting stay the same; launching anything new; any unhappy client] Keep mistakes small and private; handle upset clients and own slips the same day. (rules-leads-4b.md)
 - L76 [writing any message, choosing what to send, or deciding how much to give before asking] Match messages to awareness, give at least 3.5 to 1 ask, longer runway for higher price.; seasonal themes before, during and after each demand peak across all channels (rules-leads-4b.md)

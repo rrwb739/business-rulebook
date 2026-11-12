@@ -1,6 +1,11 @@
-Business rulebook version: v112 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v113 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v113, 2026-11-12
+Source 249 (Alex Hormozi YouTube: the four-step acquisition process).
+- L73: four persuasion angles, specific moments, call to action shown and matched by the page.
+- C2: FAQ section in the prospect's own phrasings; when to show the price in the video.
 
 ## v112, 2026-11-12
 Source 248 (Alex Hormozi YouTube: the magic of a simple business).
