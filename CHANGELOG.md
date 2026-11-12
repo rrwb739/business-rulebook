@@ -1,6 +1,13 @@
-Business rulebook version: v84 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v85 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v85, 2026-11-12
+Source 206: "Building a $3,000,000 Business for a Stranger in 31 Minutes | Scale or Fail" (Alex Hormozi, YouTube).
+- Split (hard rule 8): M19 to M23 and M46 moved unchanged to rules-money-1b.md; M37 to M45 moved unchanged to rules-money-2b.md; index file references updated.
+- L61: launch spend cadence, creative volume and sources, hooks and callouts as spend grows.
+- M40: annual-only launches with a needed premium; paid trial as a split test.
+- K27 (new): hobby membership capped by fear of ad spend.
 
 ## v84, 2026-11-12
 Sources 203 to 205 (Alex Hormozi YouTube: personal brand and X-factor; three signs of a successful entrepreneur; concierge medicine Scale or Fail follow-up).
