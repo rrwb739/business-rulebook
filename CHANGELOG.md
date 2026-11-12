@@ -1,6 +1,13 @@
-Business rulebook version: v92 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v93 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v93, 2026-11-12
+Source 217 (Alex Hormozi YouTube: growing an audience, compilation).
+- T2: learn-and-bring-in-house agency terms.
+- L65: influence from status, power, credibility and likeness.
+- L60: long and live formats build trust; view expectations by market size.
+- L69: creator partnership terms.
 
 ## v92, 2026-11-12
 Source 216 (Alex Hormozi YouTube: how to get customers to stay).
