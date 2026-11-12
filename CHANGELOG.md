@@ -1,6 +1,9 @@
-Business rulebook version: v119 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v120 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v120 (12 November 2026)
+- Tabs regrouped at the owner's request: Strategy, Daily numbers, Offer and money models, Marketing, Sales, leads and delivery, Weekly review. prompts/offer.md and money-models.md merged into offer-and-money-models.md; marketing-and-leads.md became marketing.md (marketing only); sales.md, delivery.md and the leads part merged into sales-leads-and-delivery.md; README step 4 updated. No rule changed.
 
 ## v119 (12 November 2026)
 - M23: the human-step ratios are floors; a fully manual model aims far higher before scaling because hiring growth is lumpy. Source 258.

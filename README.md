@@ -1,4 +1,4 @@
-Business rulebook version: v119 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v120 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Business rulebook
 
@@ -21,7 +21,7 @@ A general rulebook for running and growing a business with Claude. It holds meth
 1. In Claude, create a new project for your business.
 2. In the project's files, choose Add from GitHub and add this repository (all files).
 3. If no business is chosen yet, answer templates/business-filters.md first (F33). Then open templates/instructions-box.md, copy it into the project's instructions box, and fill in the fields. Write "not decided" for anything you don't know yet. Claude will propose those and mark them "Proposed, not decided" until you confirm them.
-4. Create one chat per tab and name them: Strategy, Daily numbers, Offer, Money models, Marketing and leads, Sales, Delivery, Weekly review.
+4. Create one chat per tab and name them: Strategy, Daily numbers, Offer and money models, Marketing, Sales, leads and delivery, Weekly review.
 5. Start in Strategy. Paste the first message from prompts/strategy.md. It sets your roadmap stage and fills the gaps in your instructions box. Then open the other tabs in the order above, each with its own first message from prompts/. From then on, start every working day in Daily numbers: paste the day's figures and it gives you the ratio and the one next action.
 6. When Claude proposes a fact or decision you agree with, paste the line it gives you into the instructions box yourself. The box is the only place your business's decisions live.
 
