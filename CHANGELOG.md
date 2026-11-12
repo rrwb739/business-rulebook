@@ -1,6 +1,9 @@
-Business rulebook version: v127 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v128 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v128 (12 November 2026)
+- L61, M7, L44, L57 merged. Source 268.
 
 ## v127 (12 November 2026)
 - M5, M19, M31, L57 merged; K42 (new). Source 267.
