@@ -1,8 +1,8 @@
 Business rulebook version: v101 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
-# Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
+# Rule index, part 3 of 3: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
-One line per rule: ID, [trigger], summary, (file). Read both parts in full on every pass (instructions.md, step 3).
+One line per rule: ID, [trigger], summary, (file). Read all three parts in full on every pass (instructions.md, step 3).
 
 ### 5. Sales (C)
 - C1 [a prospect shows buying interest] [Fixed] Close on a call: payment link after the yes, card on file only with the true reason and a separate yes, agreement in writing, read details back, honour terms quoted in error, test payments end to end. (rules-sales.md)

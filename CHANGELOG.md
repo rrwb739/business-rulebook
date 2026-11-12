@@ -6,6 +6,7 @@ Business rulebook version: v101 | index: instructions.md | rule text: the rules 
 Source 226 (Alex Hormozi YouTube: how to win at anything).
 - F30: changes cost a dip; one or two material changes a year for small teams.
 - L62: judge more on absolute profit above the ratio floor.
+- Split (hard rule 8): instructions-index-1.md reached 39.6KB, so the L section moved unchanged to instructions-index-1b.md; instructions.md and README name all three index files.
 
 ## v100, 2026-11-12
 Source 225 (Alex Hormozi YouTube: a business that runs itself).
