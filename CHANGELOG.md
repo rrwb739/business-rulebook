@@ -1,6 +1,11 @@
-Business rulebook version: v104 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v105 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v105, 2026-11-12
+Source 236 (Alex Hormozi YouTube: the affiliate structure for a book launch). Source 235 (an Instagram summary reel) logged with no rule change.
+- L69: launch promoter programme (rewards that help the promoter's audience, two tiers, effort-based threshold, sales page, tracking link, leaderboard, ready collateral).
+- Split: rules-leads-4.md passed the cap with this merge, so L70 to L80 moved unchanged to rules-leads-4b.md; index references updated.
 
 ## v104, 2026-11-12
 Owner's instruction, council run: the five-step algorithm applied to the buyer's journey to raise value. Source 234 (Alex Hormozi YouTube: setting goals wrong) logged, no rule change.
