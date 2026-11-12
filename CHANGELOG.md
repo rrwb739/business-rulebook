@@ -1,6 +1,14 @@
-Business rulebook version: v117 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v118 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v118 (12 November 2026)
+- M32: menu layout for businesses with menus (price and margin order, first-visit pick, pairings, one rotating special, free-item threshold), short add-on questions. Source 256.
+- M8: walk-in businesses: first-time visitors marked, surprise ending, personal comeback card; running-start loyalty card with a scarce perk. Source 256.
+- M15: write a new location's cost, time to profit, payback, launch and staffing first; soft open. Source 256.
+- M5: price endings and small per-item rises on high-volume businesses, tested. Source 256.
+- L69: pre-opening promoter night with a traceable offer. Source 256.
+- K37 (new): busy restaurant fixing the first unit before a second location. Source 256.
 
 ## v117 (12 November 2026)
 - M40: one-time against consumable deliverables, consumables priced as if sold alone, instalments are a payment plan not continuity, continued education as sticky education, higher levels with fewer buyers. Source 254.
