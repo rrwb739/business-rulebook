@@ -1,4 +1,4 @@
-Business rulebook version: v88 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v89 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 2: Strategy (F), Scaling roadmap (S), Offers (O), Leads and marketing (L)
 
@@ -105,7 +105,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - L1 [choosing, reviewing or questioning the market; every quarter] Score the market on pain, purchasing power, ease of targeting and growth; check the vehicle and any demand window; standing scan of publicly reported problems with a feasibility test; re-score quarterly. (rules-leads-1.md)
 - L2 [defining or checking the avatar, or any idea outside the niche] Define the avatar by objective criteria with reasons; turn away non-fits kindly; prefer steady buyers; expansion directions after the first target. (rules-leads-1.md)
 - L3 [results are poor, or the owner wants to change niche, market or business] Fix inputs, list, then offer (3 offers x 100 messages) before avatar or market; need-to-believes decide push or pivot. (rules-leads-1.md)
-- L4 [any outreach or lead generation] [Fixed] One Core Four channel until the first target; messaging apps, follow-up calls, post and events as tested media within it, lawfully. (rules-leads-1.md)
+- L4 [any outreach or lead generation] [Fixed] One Core Four channel until the first target; messaging apps, follow-up calls, post and events as tested media within it, lawfully.; pick the channel with most skill overlap; do more of one already working (rules-leads-1.md)
 - L5 moved to X2. (rules-leads-1.md)
 - L6 [setting up or scaling email] Separate sending domains, SPF/DKIM/DMARC, 30 to 40 a day per inbox; halve volume when bounces pass 3% or complaints 0.3%. (rules-leads-1.md)
 - L7 [deciding whether to automate outreach] AI may research, draft and send if each message has a checked personal detail; owner approves templates, samples 20 drafts daily, reads replies. (rules-leads-1.md)

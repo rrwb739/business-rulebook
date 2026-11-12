@@ -1,6 +1,15 @@
-Business rulebook version: v88 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v89 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v89, 2026-11-12
+Source 212 (Alex Hormozi YouTube: helping six business owners scale).
+- T1: short-term profit for better leaders; national hiring with relocation packages; outbound and inbound sellers as separate teams.
+- X18: control over hours and methods points to employment, UK and US.
+- D11: a trained backup for every delivery role.
+- L4: choose the channel by skill overlap; do more of one already working.
+- M19: keep passive investments passive.
+- K29: new case pattern.
 
 ## v88, 2026-11-12
 Source 211 (Alex Hormozi YouTube: Scale or Fail, home service business).
