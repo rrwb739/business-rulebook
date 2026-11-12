@@ -1,6 +1,10 @@
-Business rulebook version: v114 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v115 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v115, 2026-11-12
+Housekeeping (no source).
+- instructions.md: step 3 and the index note now say "all four" index files, matching the v111 split.
 
 ## v114, 2026-11-12
 Source 250 (Alex Hormozi YouTube: how to progress faster).

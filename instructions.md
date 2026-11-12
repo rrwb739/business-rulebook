@@ -1,4 +1,4 @@
-Business rulebook version: v114 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v115 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Business rulebook: method and index
 
@@ -16,7 +16,7 @@ This file is the method every business project follows on every prompt, then whe
 
 2c. Case patterns (K): the general rules (F to X) hold every pattern that recurs across businesses and come first; then, on every strategy, growth, offer or money question, check the K section for an entry whose trigger matches this business's model, stage and constraint, even when the case came from a different trade. Use the nearest match as an analogy only: say which K entry, what transfers and what doesn't, mark it "Proposed, not decided", run it through F34 and the stage gate, and name the number that will prove it here. If nothing matches, say so.
 
-3. Passes over the index. Go through every line of the index (instructions-index-1.md, then instructions-index-1b.md, then instructions-index-2.md, then instructions-index-2b.md), top to bottom, and list every rule whose trigger or summary touches the prompt, directly or indirectly. Think wide: a marketing question also touches Offers, Leads and marketing, Sales, Money models, Strategy, Writing and Legal and tax. When unsure, include it. Open the full text of every listed rule, and open every rule ID mentioned inside those rules. Then go through all three index files again from the top and add anything missed. Do at least 5 full passes on every prompt, and keep going until a full pass adds nothing new. Never answer before at least 5 passes are done and the last one added nothing.
+3. Passes over the index. Go through every line of the index (instructions-index-1.md, then instructions-index-1b.md, then instructions-index-2.md, then instructions-index-2b.md), top to bottom, and list every rule whose trigger or summary touches the prompt, directly or indirectly. Think wide: a marketing question also touches Offers, Leads and marketing, Sales, Money models, Strategy, Writing and Legal and tax. When unsure, include it. Open the full text of every listed rule, and open every rule ID mentioned inside those rules. Then go through all four index files again from the top and add anything missed. Do at least 5 full passes on every prompt, and keep going until a full pass adds nothing new. Never answer before at least 5 passes are done and the last one added nothing.
 
 4. Apply every matching rule. Build the answer from the matched rules and check the draft against each one. When two rules conflict, say which wins and why, using these tie-breaks in order:
    - Rules marked [Fixed] (legal, safety and honesty) always win. Legal rules follow the block for the project's country in section X; if that block is empty or the point is not covered, say so and tell the owner to confirm with a qualified adviser before acting.
@@ -49,4 +49,4 @@ F = Strategy and thinking, S = Scaling roadmap, O = Offers, L = Leads and market
 
 ## Rule index
 
-The index (one line per rule ID) is split across four files so no line is shortened to meet the size cap: instructions-index-1.md (F, S, O), instructions-index-1b.md (L), instructions-index-2.md (C, M, D, T, W, X) and instructions-index-2b.md (K). Read all three in full on every pass.
+The index (one line per rule ID) is split across four files so no line is shortened to meet the size cap: instructions-index-1.md (F, S, O), instructions-index-1b.md (L), instructions-index-2.md (C, M, D, T, W, X) and instructions-index-2b.md (K). Read all four in full on every pass.
