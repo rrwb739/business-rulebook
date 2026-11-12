@@ -1,6 +1,12 @@
-Business rulebook version: v101 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v102 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v102, 2026-11-12
+Source 228 (Alex Hormozi YouTube: Scale or Fail, waste collection).
+- M20: design the first transaction so blended first cash beats costs.
+- T1: commission sales hiring.
+- K34: new case pattern.
 
 ## v101, 2026-11-12
 Source 226 (Alex Hormozi YouTube: how to win at anything).
