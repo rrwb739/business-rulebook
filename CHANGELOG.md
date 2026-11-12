@@ -1,6 +1,15 @@
-Business rulebook version: v110 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v111 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v111, 2026-11-12
+Source 247 (Alex Hormozi YouTube: Scale or Fail, multi-location appointment service).
+- M8: rebook, membership and prepay sequence for repeat-visit services.
+- T1: career path with title and pay steps and a profit-share route.
+- T3: profit share over equity; working partners paid market rate first; exit options.
+- L14: source and referrer on the check-in form.
+- K36: new case pattern.
+- Splits: rules-cases.md passed the cap, so K26 to K36 moved unchanged to rules-cases-b.md; instructions-index-2.md passed the cap, so the K section moved unchanged to instructions-index-2b.md; instructions.md, README and the index headings updated.
 
 ## v110, 2026-11-12
 Source 246 (Alex Hormozi YouTube: supply or demand constrained). Source 245 logged with no rule change.

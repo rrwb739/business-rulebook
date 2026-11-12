@@ -1,8 +1,8 @@
-Business rulebook version: v110 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v111 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
-# Rule index, part 1 of 3: Strategy (F), Scaling roadmap (S), Offers (O)
+# Rule index, part 1 of 4: Strategy (F), Scaling roadmap (S), Offers (O)
 
-One line per rule: ID, [trigger], summary, (file). Read all three parts in full on every pass (instructions.md, step 3).
+One line per rule: ID, [trigger], summary, (file). Read all four parts in full on every pass (instructions.md, step 3).
 
 ### 1. Strategy and thinking (F)
 - F1 [any business decision or plan] Use Hormozi's frameworks as the default lens; check fit with the owner's set hours, legality in the project's country, and the number that shows it works. (rules-strategy-1.md)

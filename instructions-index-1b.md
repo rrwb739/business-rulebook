@@ -1,8 +1,8 @@
-Business rulebook version: v110 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v111 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
-# Rule index, part 2 of 3: Leads and marketing (L)
+# Rule index, part 2 of 4: Leads and marketing (L)
 
-One line per rule: ID, [trigger], summary, (file). Read all three parts in full on every pass (instructions.md, step 3).
+One line per rule: ID, [trigger], summary, (file). Read all four parts in full on every pass (instructions.md, step 3).
 
 ### 4. Leads and marketing (L)
 - L1 [choosing, reviewing or questioning the market; every quarter] Score the market on pain, purchasing power, ease of targeting and growth; check the vehicle and any demand window; standing scan of publicly reported problems with a feasibility test; re-score quarterly. (rules-leads-1.md)
@@ -18,7 +18,7 @@ One line per rule: ID, [trigger], summary, (file). Read all three parts in full 
 - L11 [writing any outreach or copy, or explaining anything to clients or staff] Clear, not clever: below US grade 3 to 5, cut hard, reader's own analogies, plain words, more "you" than "I". (rules-leads-1.md)
 - L12 [running outreach] Track every conversation; front-loaded follow-ups each with something new; never contact after a no; avoid the avatar's busiest weeks. (rules-leads-1.md)
 - L13 [a lead replies or books] Reply within the hour in outreach windows using ACA; answer quick questions first; handle hostile replies and redirects calmly. (rules-leads-1.md)
-- L14 [checking where leads come from] Tag every lead Seed, Net or Spear and keep their numbers separate; compare client quality by entry route. (rules-leads-1.md)
+- L14 [checking where leads come from] Tag every lead Seed, Net or Spear and keep their numbers separate; compare client quality by entry route; source and referrer on the check-in form for in-person services. (rules-leads-1.md)
 - L15 [leads are poor or too few] Add friction for poor leads, remove it for too few; low friction with poor leads means wrong targeting. (rules-leads-1.md)
 - L16 [after every 100 messages or 10 calls] No template change before about 300 sends or script change before 100 calls; compare best and worst 10%; one-page call sheet and sales method. (rules-leads-1.md)
 - L17 [results are low or volatile] Find what changed before the drop; results lag inputs by months; check input consistency before changing the offer. (rules-leads-1.md)
