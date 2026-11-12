@@ -1,6 +1,11 @@
-Business rulebook version: v121 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v122 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v122 (12 November 2026)
+- T1: product-line units with their own profit and loss and unit profit share; written cases for new lines, an incubator group, champions to lead them; in person or remote decided by role. Source 260.
+- M19: stop a project that reveals an uncapped downside, whatever has been spent; list regulated exposures first. Source 260.
+- X20: large assets held in separate entities outside the operating business, with an adviser. Source 260.
 
 ## v121 (12 November 2026)
 - O6: levers for speed, risk and ease; cheapest as a fourth way to win only as a whole-business design; lead marketing with one. Source 259.
