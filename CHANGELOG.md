@@ -1,6 +1,12 @@
-Business rulebook version: v99 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v100 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v100, 2026-11-12
+Source 225 (Alex Hormozi YouTube: a business that runs itself).
+- D5: green, yellow, red hand-off; decision rules with spending limits; scorecards.
+- T1: learning rate; group interviews.
+- L32: proof capture built into operations.
 
 ## v99, 2026-11-12
 Source 224 (Alex Hormozi YouTube: 15 brutal truths).

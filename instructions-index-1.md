@@ -1,4 +1,4 @@
-Business rulebook version: v99 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v100 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 2: Strategy (F), Scaling roadmap (S), Offers (O), Leads and marketing (L)
 
@@ -134,7 +134,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - L29 moved to C12. (rules-leads-1b.md)
 - L30 [tracking sales, or judging any new channel or method] Track the whole funnel with leading indicators, paired numbers, checkable stage definitions, forecasts, lost reasons and a daily breaches list. (rules-leads-1b.md)
 - L31 [a client has measurable results] Ask for referrals and name the referrer when contacting; peer referrals are usually the best leads. (rules-leads-1b.md)
-- L32 [marketing, messages, calls or planning delivery] [Fixed] Proof beats promise: measure every client, publish results honestly, label pilots and demos, client as hero in case studies; higher stakes need more proof: third-party proof plus live demonstration, captured from delivery with consent, documented free audits when clients are few. (rules-leads-1b.md)
+- L32 [marketing, messages, calls or planning delivery] [Fixed] Proof beats promise: measure every client, publish results honestly, label pilots and demos, client as hero in case studies; higher stakes need more proof: third-party proof plus live demonstration, captured from delivery with consent, documented free audits when clients are few.; proof capture built into operations so marketing doesn't need the owner's face (rules-leads-1b.md)
 - L33 [creating content or posts] Document the journey only with written consent and no client confidential data.; no proof yet: document countable effort, then a waitlist (rules-leads-1b.md)
 - L34 [someone turns down a free pilot or free offer] Find the hidden cost or missing belief, remove it, and ask the magic question with price and time fixed. (rules-leads-1b.md)
 - L35 [contacts who haven't bought yet] Keep non-buyers warm with useful, ask-free notes before key dates; change approach after 3 conversations without a decision. (rules-leads-1b.md)
