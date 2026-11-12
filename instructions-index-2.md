@@ -1,4 +1,4 @@
-Business rulebook version: v93 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v94 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 2: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -154,3 +154,4 @@ How to use: general patterns live in the sections above; a K entry is the specif
 - K29 [a door-to-door sales team moved onto bought leads that cost more than a client is worth] Back to outbound, inbound to the best closer as a promotion, one seller to iterate, an in-house marketer. (rules-cases.md)
 - K30 [an online store with standard and custom products, one dominant ad platform and broken tracking] Fix attribution first, focus on the least price-sensitive buyers, custom route to a call on every page, twice-weekly list emails. (rules-cases.md)
 - K31 [an event-based training business with many one-day events, a few profitable multi-day camps and a copycat] Cut weak one-day dates, scale the camps, raise prices, let the copycat take the low-margin format. (rules-cases.md)
+- K32 [an information business with a cheap book funnel, one ad platform, stalled spend and slow payback] Customer content loop with consent, variations of the winning creative, lead scoring and a bigger calling team, trade-offs first on calls. (rules-cases.md)

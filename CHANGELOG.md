@@ -1,6 +1,13 @@
-Business rulebook version: v93 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v94 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v94, 2026-11-12
+Source 218 (Alex Hormozi YouTube: Scale or Fail, travel education business).
+- L61: creative as the scaling limit; variations of winners; no AI fake customers.
+- L72: lead scoring at opt-in; diallers only within consent and calling rules.
+- O11: open calls with the trade-offs for too-good-to-be-true offers.
+- K32: new case pattern.
 
 ## v93, 2026-11-12
 Source 217 (Alex Hormozi YouTube: growing an audience, compilation).
