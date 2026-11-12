@@ -1,4 +1,4 @@
-Business rulebook version: v125 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v126 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 4 of 4: Case patterns (K)
 
@@ -46,3 +46,4 @@ How to use: general patterns live in the sections above; a K entry is the specif
 - K38 [a niche professional service with a content audience losing money across several lines] Cut the losing line, point all asks at the route that already sells, and sell a fixed outcome package at service margins. (rules-cases-b.md)
 - K39 [a consultancy selling a large project to strangers from cold ads] Sell a small, fast first step on one call, then the main project at the first result, with the first price credited. (rules-cases-b.md)
 - K40 [a consumable subscription bootstrapped from pre-sales] Pre-sell, convert first buyers by phone, use "for as long as you stay" bonuses and recurring promoter commissions, outsource all but the critical input. (rules-cases-b.md)
+- K41 [a practice paid by third-party payers whose payments are falling] Choose network efficiency or private payment; for private, one to three entry offers, a small paid assessment, sell at the end of it. (rules-cases-b.md)

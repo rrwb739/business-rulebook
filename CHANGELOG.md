@@ -1,6 +1,9 @@
-Business rulebook version: v125 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v126 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v126 (12 November 2026)
+- M31, C3, L69, L2 merged; K41 (new). Source 266.
 
 ## v125 (12 November 2026)
 - F2, F22, M19, T2, T1, T3, M41, L69, M1, L66, M9 merged; K40 (new). Source 265.
