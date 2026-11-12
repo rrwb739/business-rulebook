@@ -1,6 +1,10 @@
-Business rulebook version: v94 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v95 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v95, 2026-11-12
+Source 220 (Alex Hormozi YouTube: how the top 1% think about money).
+- F25: check a programme's prerequisites before buying.
 
 ## v94, 2026-11-12
 Source 218 (Alex Hormozi YouTube: Scale or Fail, travel education business).
