@@ -1,6 +1,11 @@
-Business rulebook version: v103 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v104 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v104, 2026-11-12
+Owner's instruction, council run: the five-step algorithm applied to the buyer's journey to raise value. Source 234 (Alex Hormozi YouTube: setting goals wrong) logged, no rule change.
+- O21: buyer-side five-step pass, then likelihood, a real guarantee, and price against the next best option's total cost.
+- F34: index pointer to O21.
 
 ## v103, 2026-11-12
 Source 233 (Alex Hormozi YouTube: being unknown is an advantage).

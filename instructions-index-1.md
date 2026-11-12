@@ -1,4 +1,4 @@
-Business rulebook version: v103 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v104 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 3: Strategy (F), Scaling roadmap (S), Offers (O)
 
@@ -38,7 +38,7 @@ One line per rule: ID, [trigger], summary, (file). Read all three parts in full 
 - F31 [every answer, in every chat, on every prompt; non-negotiable] Every answer ends with "The 20% that gets 80%": one to three actions in order, each with its number.; chosen by the 80/20 method: list candidates, name the result each moves, delete the trivial many, rank by result per hour, keep the vital few (rules-strategy-2b.md)
 - F32 [every answer, in every chat, on every prompt; non-negotiable] Stage gate: no work, plan or spend on a later roadmap stage until every current-stage step is closed with evidence. (rules-strategy-2b.md)
 - F33 [choosing which business to start, setting up a new business project with no business chosen yet, or stuck between too many ideas] Narrow before comparing: 20 filter questions asked one at a time (monthly target and date, owner's and buyers' countries, languages, remote or in person, what is sold, business or consumer buyers, sales motion, one-off or recurring, funding, hours, cash, time to first sale, skills, who and why, network, proof, assets, solo or team, what the owner refuses), then a pick-by date; strike out what fails, compare three to five on L1 and M23, check the target fits the hours; count vendors as a stickiness signal; score down shrinking buyer bases. (rules-strategy-2b.md)
-- F34 [every plan, process, task, offer, script, rule, tool, automation or system built, changed or reviewed; the core method, non-negotiable] The five-step algorithm in order: question each requirement (a named owner for each), delete, simplify, speed up, automate last; restart from step 1 when stuck; [Fixed] requirements never deleted.; industry averages are not standards: ask what limit prevents better and work backwards (rules-strategy-2b.md)
+- F34 [every plan, process, task, offer, script, rule, tool, automation or system built, changed or reviewed; the core method, non-negotiable] The five-step algorithm in order: question each requirement (a named owner for each), delete, simplify, speed up, automate last; restart from step 1 when stuck; [Fixed] requirements never deleted; industry averages are not standards: ask what limit prevents better and work backwards; for the buyer's side of an offer see O21. (rules-strategy-2b.md)
 
 ### 2. Scaling roadmap (stage gate F32) (S)
 - S0 [at roadmap stage 0 (see F32), asking what to do next, planning the week, or reaching this stage's exit] Improvise: solo, giving it away free; owner as researcher; free pilots, lead magnet, one channel, separate money, legal form and insurance before the first pilot. (rules-stages.md)
@@ -73,7 +73,7 @@ One line per rule: ID, [trigger], summary, (file). Read all three parts in full 
 - O18 [testing marketing] Test offer, headline, image, then path tools; keep the tool with the best completion rate and the loser as backup. (rules-offers-1.md)
 - O19 [planning content, the website or emails] Give away the how free in scrambled order; clients pay for the full sequence and implementation.; teach how it works to sell, sell the doing (rules-offers-1.md)
 - O20 [making content or videos] Effort goes before recording; one-to-many assets split time 40% research, 20% body, 20% headlines, 20% checking. (rules-offers-1.md)
-- O21 [designing, reviewing or pricing the offer] Value equation: raise dream outcome and likelihood, cut time delay and effort; score each driver 0 to 1. (rules-offers-1.md)
+- O21 [designing, reviewing or pricing the offer] Value equation: raise dream outcome and likelihood, cut time delay and effort; score each driver 0 to 1; buyer-side five-step pass (F34 on the buyer's journey: delete, simplify, speed up the buyer's steps, then likelihood and a real guarantee, then price against the next best option's total cost). (rules-offers-1.md)
 - O22 [improving the offer] Focus on the bottom of the equation: faster and easier is hard to copy. (rules-offers-1.md)
 - O23 [improving the offer or the client experience] Perception is reality: make progress visible and look for psychological as well as logical fixes. (rules-offers-1.md)
 - O24 [writing copy, messages or the offer] Channel desires the avatar already has, frame by status, and win on likelihood, speed and effort when outcomes match. (rules-offers-1.md)
