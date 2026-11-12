@@ -1,6 +1,11 @@
-Business rulebook version: v97 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v98 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v98, 2026-11-12
+Source 223 (Alex Hormozi YouTube: watch this to get ahead, compilation).
+- O19: teach how it works to sell, sell the doing.
+- C13: blackout memorisation and stop-and-correct role-play.
 
 ## v97, 2026-11-12
 Source 222 (Alex Hormozi YouTube: scaling a service business, coaching case).

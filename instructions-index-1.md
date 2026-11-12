@@ -1,4 +1,4 @@
-Business rulebook version: v97 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v98 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 2: Strategy (F), Scaling roadmap (S), Offers (O), Leads and marketing (L)
 
@@ -71,7 +71,7 @@ One line per rule: ID, [trigger], summary, (file). Read both parts in full on ev
 - O16 [writing an offer doc or pitch] Five parts: outcome, weekly deliverables, investment, risk reversal, and a true reason to act now. (rules-offers-1.md)
 - O17 [writing any call to action] Clear next step, reason and what happens next; each line sells only the next step; use the P.S. and escape routes well. (rules-offers-1.md)
 - O18 [testing marketing] Test offer, headline, image, then path tools; keep the tool with the best completion rate and the loser as backup. (rules-offers-1.md)
-- O19 [planning content, the website or emails] Give away the how free in scrambled order; clients pay for the full sequence and implementation. (rules-offers-1.md)
+- O19 [planning content, the website or emails] Give away the how free in scrambled order; clients pay for the full sequence and implementation.; teach how it works to sell, sell the doing (rules-offers-1.md)
 - O20 [making content or videos] Effort goes before recording; one-to-many assets split time 40% research, 20% body, 20% headlines, 20% checking. (rules-offers-1.md)
 - O21 [designing, reviewing or pricing the offer] Value equation: raise dream outcome and likelihood, cut time delay and effort; score each driver 0 to 1. (rules-offers-1.md)
 - O22 [improving the offer] Focus on the bottom of the equation: faster and easier is hard to copy. (rules-offers-1.md)
