@@ -1,6 +1,11 @@
-Business rulebook version: v118 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v119 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v119 (12 November 2026)
+- M23: the human-step ratios are floors; a fully manual model aims far higher before scaling because hiring growth is lumpy. Source 258.
+- T1: raise profit first so an expensive senior hire can be attempted two or three times. Source 258.
+- L66: word of mouth needs no reason to keep quiet and frequent contact with possible buyers; otherwise focus on retention. Source 258.
 
 ## v118 (12 November 2026)
 - M32: menu layout for businesses with menus (price and margin order, first-visit pick, pairings, one rotating special, free-item threshold), short add-on questions. Source 256.
