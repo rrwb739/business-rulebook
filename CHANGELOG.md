@@ -1,6 +1,9 @@
-Business rulebook version: v267 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v268 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v268 (14 November 2026)
+Source 492, "6 Ways Small Businesses Beat Big(ger) Competitors..." (Alex Hormozi). M39: a separate low-touch product only for leads who don't qualify for the core; track the core close rate before and after adding any downsell.
 
 ## v267 (13 November 2026)
 Source 489, "The day when everything changed for me..." (Alex Hormozi). C13: judge new sellers over at least one full sales cycle, recruit from the same kind of sale when pay allows, hire only the clear yes, respect other firms' covenants.
