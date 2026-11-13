@@ -1,6 +1,9 @@
-Business rulebook version: v248 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v249 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v249 (13 November 2026)
+Source 447, "This ONE Thing Will Make You A Better Entrepreneur" (Alex Hormozi). F25: matching paid learning to tactical or strategic problems, free routes first.
 
 ## v248 (13 November 2026)
 Source 446, "How I Wrote A #1 Bestseller with $0 and No Publisher" (Alex Hormozi). W1: show not tell, stakes, stories in long pieces, testing frameworks, honest avatar readers.
