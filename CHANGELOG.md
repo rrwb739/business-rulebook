@@ -1,6 +1,9 @@
-Business rulebook version: v220 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v221 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v221 (13 November 2026)
+Source 405, "The REAL Reason Your Business Isn't Growing" (Alex Hormozi). L62: plateau check, volume then formats then platforms then methods before anything new. L2: choose the expansion direction by the most money made for each client.
 
 ## v220 (13 November 2026)
 Source 400, "Why MrBeast Will be Worth $100 Billion" (Alex Hormozi). O2: brand strength measured by the premium over a near-identical alternative, reinvested. F15: a small peer group at the same stage.
