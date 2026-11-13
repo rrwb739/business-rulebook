@@ -1,6 +1,9 @@
-Business rulebook version: v146 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v147 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v147 (13 November 2026)
+- L60 organic and paid together, L58 framework method. Source 290.
 
 ## v146 (13 November 2026)
 - F30 four levers, O3 least-informed test, T1 hiring funnel, D7 group onboarding, D9 shared-problem fixes. Source 289.
