@@ -1,4 +1,4 @@
-Business rulebook version: v184 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v185 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 5: Leads and marketing (L)
 
@@ -41,7 +41,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - L33 [creating content or posts] Document the journey only with written consent and no client confidential data.; no proof yet: document countable effort, then a waitlist (rules-leads-1b.md)
 - L34 [someone turns down a free pilot or free offer] Find the hidden cost or missing belief, remove it, and ask the magic question with price and time fixed. (rules-leads-1b.md)
 - L35 [contacts who haven't bought yet] Keep non-buyers warm with useful, ask-free notes before key dates; change approach after 3 conversations without a decision. (rules-leads-1b.md)
-- L36 [choosing or relying on a lead source] Own the lead flow and list; back up single points of failure; log payment disputes monthly; ask before chasing a first late payment; two approved payment providers at full volume; check terms; data portability in writing; list email: worth reading, plain text, easy unsubscribe, segments, click rate, batch-written. (rules-leads-1b.md)
+- L36 [choosing or relying on a lead source] Own the lead flow and list; back up single points of failure; log payment disputes monthly; ask before chasing a first late payment; two approved payment providers at full volume; check terms; data portability in writing; list email: worth reading, plain text, easy unsubscribe, segments, click rate, batch-written; quarterly conversion event for non-buyers, tested on a tenth first. (rules-leads-1b.md)
 - L37 [after delivering value, or a client finishes] [Fixed] Ask for honest reviews and introductions; thank by hand with nothing of value attached; reviews never conditional. (rules-leads-1b.md)
 - L39 [any lead or advertising decision] Engaged leads are the output of advertising; offer, then leads, then sales; define "call-ready" and offer those leads a call fast. (rules-leads-2.md)
 - L40 [choosing how to get leads] The Core Four (warm, content, cold, ads) are the only ways; usual adoption order; master one before adding another. (rules-leads-2.md)

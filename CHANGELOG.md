@@ -1,6 +1,10 @@
-Business rulebook version: v184 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v185 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v185 (13 November 2026)
+
+Source 342 (quarterly email challenge). Merged into L36 (quarterly conversion event for non-buyers, tested on a tenth first; same offer through a different medium).
 
 ## v184 (13 November 2026)
 
