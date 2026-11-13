@@ -1,4 +1,4 @@
-Business rulebook version: v180 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v181 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 4 of 5: Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -34,7 +34,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 ### 10. Legal and tax (X)
 - X1 [any action, claim, offer, message, contract, hire or spend that the law could touch] [Fixed] Obey the project's country's law; every claim true and provable; if no block or not covered, say so and stop until checked; not legal advice; selling into another country brings its rules too. (rules-legal.md)
 - X2 [sending or planning any email, text, messaging app or other electronic marketing, or building or using a contact list] [Fixed] UK PECR and UK GDPR for electronic marketing: corporate subscribers only, sender shown, opt-out, suppression list, trading disclosures. (rules-legal.md)
-- X3 [designing, pricing or advertising any money model offer: free items, trials, terms, instalments, surcharges, reference prices, prize draws or subscriptions] [Fixed] UK rules on price statements, free offers, terms, credit, surcharges, reference prices, prize draws and subscriptions; UK: legal rights never presented as a guarantee or feature (DMCC Sch 20 para 11). (rules-legal.md)
+- X3 [designing, pricing or advertising any money model offer: free items, trials, terms, instalments, surcharges, reference prices, prize draws or subscriptions] [Fixed] UK rules on price statements, free offers, terms, credit, surcharges, reference prices, prize draws and subscriptions; UK: legal rights never presented as a guarantee or feature (DMCC Sch 20 para 11).; no drip pricing for UK consumers (rules-legal.md)
 - X4 [any offer, deliverable, bonus or advice that sits next to regulated professional work, or any decision on investing, hedging or raising outside money] [Fixed] No regulated advice or work without authorisation; never cover a client's regulatory penalties; regulated advice for investing and FSMA s21. (rules-legal.md)
 - X5 [any work, tool, recording, post or incident that touches a client's personal data] [Fixed] Client data stays in client systems or DPA-covered tools; client is controller; breaches reported to the client; insurer told first. (rules-legal.md)
 - X6 [making or planning any live marketing, follow-up or partner call] [Fixed] Screen against CTPS, TPS and own list; genuine caller ID; no automated calls; stay within Ofcom persistent misuse policy. (rules-legal.md)
