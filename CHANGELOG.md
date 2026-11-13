@@ -1,6 +1,11 @@
-Business rulebook version: v191 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v192 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v192 (13 November 2026)
+
+- C4: prep ratio by meeting type and stakes; prep close to the event; look from the buyer's side first.
+- F20: nerves as a sign of under-preparation; rehearse in real conditions.
 
 ## v191 (13 November 2026)
 
