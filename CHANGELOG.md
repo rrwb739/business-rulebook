@@ -1,6 +1,10 @@
-Business rulebook version: v169 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v170 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v170 (13 November 2026)
+
+Source 320 (launch documentary). Merged into L75 (launch pre-mortem: choke points tested with backups, rehearsal, trained phone staff).
 
 ## v169 (13 November 2026)
 
