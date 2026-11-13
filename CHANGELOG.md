@@ -1,6 +1,15 @@
-Business rulebook version: v194 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v195 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v195 (13 November 2026)
+
+- T1: many basic rules signal a low hiring bar; titles match scope; a struggling promoted manager moved fairly; a truthful mission.
+- W1: edit in passes, one kind of problem per pass.
+- D9: the owner uses the product as a buyer each quarter.
+- F30: heaviest promotion once word of mouth spreads the product.
+- F33: prefer markets where the offer can be far better.
+- Split: rules-team.md near the cap, so T2 and T3 moved unchanged to rules-team-b.md; index references updated.
 
 ## v194 (13 November 2026)
 
