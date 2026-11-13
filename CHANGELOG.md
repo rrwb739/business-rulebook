@@ -1,6 +1,9 @@
-Business rulebook version: v142 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v143 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v143 (13 November 2026)
+- F25 give your best skill in paid rooms; F11 ten-year frame. Source 286.
 
 ## v142 (13 November 2026)
 - F18 claim test; T1 incomplete checklists, feedback for slow roles, individual reinforcers. Source 285.
