@@ -1,6 +1,9 @@
-Business rulebook version: v243 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v244 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v244 (13 November 2026)
+Source 436, "This ONE Equation Will Make You RICH" (Alex Hormozi). O8: no guarantee condition chosen because almost no one will meet it.
 
 ## v243 (13 November 2026)
 Source 435, "How to get customers to pay forever" (Alex Hormozi). L65: the no-marketing test; repeat business counts like recurring.
