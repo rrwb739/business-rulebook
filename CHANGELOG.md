@@ -1,6 +1,10 @@
-Business rulebook version: v179 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v180 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v180 (13 November 2026)
+
+Source 334 (faster customers). Merged into L63 (test order, including the tools in the buyer's path) and L60 (effort before recording).
 
 ## v179 (13 November 2026)
 
