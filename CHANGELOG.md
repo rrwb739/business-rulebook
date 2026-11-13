@@ -1,6 +1,9 @@
-Business rulebook version: v257 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v258 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v258 (13 November 2026)
+Source 466, "2 Types of Business Risk and the One I Choose EVERY TIME" (Alex Hormozi). F33: idea risk against execution risk, compounding likely wins over long shots.
 
 ## v257 (13 November 2026)
 Source 465, "Biggest mistake that stopped me from getting past $30M" (Alex Hormozi). F30: the three margin squeezes of scaling one paid channel and how to offset them.
