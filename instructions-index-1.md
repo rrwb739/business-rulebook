@@ -1,4 +1,4 @@
-Business rulebook version: v230 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v231 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 5: Strategy (F), Scaling roadmap (S), Offers (O)
 
@@ -92,7 +92,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - O37 [any sales conversation, campaign or page] [Fixed] Urgency from true deadlines only; launch with Whisper, Tease, Shout; never let anyone in after a deadline; keep usual value at usual volume during a launch, launch messages on top and worth watching. (rules-offers-2.md)
 - O38 [after the first target, F3] [stage: S3+] A tiny, hard-capped, very high-priced direct-access tier, treated as a test. (rules-offers-2.md)
 - O39 [building or presenting bonuses] Stack named, priced, proven bonuses that each kill a reason they can't succeed and are each worth the price alone. (rules-offers-2.md)
-- O40 [deciding what's core and what's a bonus, or building assets] Pull standalone high-value items out as bonuses and keep a recorded bonus vault. (rules-offers-2.md)
+- O40 [deciding what's core and what's a bonus, or building assets] Pull standalone high-value items out as bonuses and keep a recorded bonus vault; by-products turned into near-free bonuses that bring clients back. (rules-offers-2.md)
 - O41 [adding bonuses from other businesses] Get exclusive perks from adjacent partners, rank deal types, disclose commission, review partners each group. (rules-offers-2.md)
 - O42 [choosing or adding a guarantee] Guarantee menu: payout types and guarantee types with when each fits; price cap on estimates. (rules-offers-2.md)
 - O43 [building or improving the offer] The 10x and one-tenth test; start high-touch, then move results into low-cost assets. (rules-offers-2.md)

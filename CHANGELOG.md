@@ -1,6 +1,9 @@
-Business rulebook version: v230 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v231 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v231 (13 November 2026)
+Source 418, "Hardcore Business Lessons I Learned From A Dealer" (Alex Hormozi). M31: guardrail on the anything-else close, off-season care service. O40: by-products as bonuses.
 
 ## v230 (13 November 2026)
 Source 417, "Why You Shouldn't Copy Me" (Alex Hormozi). O2: never copy a rival's identity or story, real beliefs that break the stereotype. L2: do the avatar's job before blaming marketing.
