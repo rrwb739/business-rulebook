@@ -1,6 +1,11 @@
-Business rulebook version: v202 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v203 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v203 (13 November 2026)
+
+- T1: reward over punishment, same-day specific praise, the honest-feedback question, fast trust both ways, good exits.
+- F34: a process must pay more downstream than it costs those doing it.
 
 ## v202 (13 November 2026)
 
