@@ -1,6 +1,10 @@
-Business rulebook version: v164 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v165 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v165 (13 November 2026)
+
+Source 314 (winning with AI). Merged into T1 (task list and workflows before any hire; raise the standard when work is automated, lawful exits) and F11 (barbell: new tools in operations, long bets on needs that won't change).
 
 ## v164 (13 November 2026)
 
