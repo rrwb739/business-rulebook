@@ -1,6 +1,10 @@
-Business rulebook version: v177 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v178 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v178 (13 November 2026)
+
+Source 332 (workshop Q&A). Merged into D11 (short of hires: recruiting as the business, bonus sized to gross profit per hire), D12 (low attendance: one-to-one start, booking within sessions, reminders) and D14 (own mistake: put it right and then some).
 
 ## v177 (13 November 2026)
 
