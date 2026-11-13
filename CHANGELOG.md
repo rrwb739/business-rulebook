@@ -1,6 +1,9 @@
-Business rulebook version: v213 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v214 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v214 (13 November 2026)
+Source 386, "I Doubled A Business in 60 Days to Show It's Not Luck (Part 1)" (Alex Hormozi). L72: one immediate second call when unanswered. C13: size the sales team to its calendar; prospecting and show-up as separate jobs.
 
 ## v213 (13 November 2026)
 Source 385, "I Tried This Simple Business Strategy for 60 Days" (Alex Hormozi). M9: activation point, stage-specific check-ins, leading indicators, satisfaction scores by staff member. M8: no free open-ended access after a paid term. T1: client-success bonus on retention measures.
