@@ -1,6 +1,11 @@
-Business rulebook version: v203 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v204 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v204 (13 November 2026)
+
+- L60: opening seconds confirm the thumbnail; thumbnails tested on watch time; real mistakes shared; one-to-many versions of unscalable moments.
+- O2: keep ownership of content and name; the personal brand changes with the owner.
 
 ## v203 (13 November 2026)
 
