@@ -1,6 +1,9 @@
-Business rulebook version: v138 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v139 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v139 (13 November 2026)
+- F23 match work to energy. Source 282 (source 281 an advert, no change).
 
 ## v138 (13 November 2026)
 - O13 peak days, L44 quiz offers, L60 native buying, O29 limited release tests, L69 big-firm partners, X1 selling abroad. Source 280.
