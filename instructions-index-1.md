@@ -1,4 +1,4 @@
-Business rulebook version: v240 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v241 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 5: Strategy (F), Scaling roadmap (S), Offers (O)
 
@@ -19,7 +19,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - F12 [choosing pilots, pilots are done, every 10 new clients after, or qualifying a prospect] Ideal client from five columns and shared traits of the top 20%; red-flag list; two or more flags, don't sell; name the event that starts the buying cycle. (rules-strategy-1.md)
 - F13 [deciding where the owner's hours go] Money per hour; keep the owner on the highest-value skill; log hours by attraction, conversion, delivery, account management; owner's activities as verbs, feeder or runner, cut the rest; scale by automate, hand off or one-to-many. (rules-strategy-1.md)
 - F14 [fear is blocking a decision] Play out the worst case, keep a profitable solo floor, pick the better story at 85; ignore views from outside the avatar or behind the owner. (rules-strategy-1.md)
-- F15 [starting something the owner has not done before] Don't posture; learn from people ahead, give first in communities, show the work when asking; keep a list of the owner's Ten; copy what people ahead did at the owner's stage.; visit the industry hub in person; a small peer group at the same stage studying what works together. (rules-strategy-1.md)
+- F15 [starting something the owner has not done before] Don't posture; learn from people ahead, give first in communities, show the work when asking; keep a list of the owner's Ten; copy what people ahead did at the owner's stage.; visit the industry hub in person; a small peer group at the same stage studying what works together; accept the first invite; 30 minutes' research and one useful thing before each meeting; judge circles by the units they think in. (rules-strategy-1.md)
 - F16 [considering building software] Pre-sell a paid waitlist; no custom software before the first target; own code and accounts; budget twice the quote. (rules-strategy-1.md)
 - F17 moved to T3. (rules-strategy-2.md)
 - F18 [planning strategy or where to put resources] Ask what would make the business number one in its niche and what one thing solves most problems; check need-to-believes before funnel numbers; three-question claim test: what it means, how you know, so what; invert: list the quickest ways to ruin it, then do the opposite of each. (rules-strategy-2.md)
