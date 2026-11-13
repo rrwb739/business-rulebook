@@ -1,4 +1,4 @@
-Business rulebook version: v207 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v208 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 5: Leads and marketing (L)
 
@@ -49,7 +49,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - L42 [diagnosing poor results] Split advertising problems (targeting, volume) from sales problems; saturation is usually too little volume; intent-based and interruption-based leads tracked as separate funnels. (rules-leads-2.md)
 - L43 [a test seems to have failed] Judge only on readable samples (100 contacted for email); decide stopping rules in advance; check every condition before calling a channel failed. (rules-leads-2.md)
 - L44 [creating or improving the lead magnet, or building any opt-in, booking or landing page] [Fixed] Narrow complete solution revealing the next problem; seven steps, three types, four methods; simple lawful pages, tested.; paid traffic gets its own page, no extra click; site buttons can point to it; walk the funnel monthly; cold-traffic page layout; sales page: several buttons, a buying-question tool, FAQ, speed, fair comparison, all fees, how to cancel; opt-in placeholder 6.6% median, 15 to 30% strong; immediate beats bigger but slower; quiz or challenge that unlocks a personalised offer; ask only what will be used; separate consent; low open rates: lead magnet value first, then subject line tests. (rules-leads-2.md)
-- L45 [presenting, naming or testing the lead magnet] Test headline first with cheap tests from the avatar; behaviour beats stated intent; webinars only after the first target. (rules-leads-2.md)
+- L45 [presenting, naming or testing the lead magnet] Test headline first with cheap tests from the avatar; behaviour beats stated intent; webinars only after the first target; decide teach or sell before a talk; if selling, give the offer its full time, never a rushed half pitch. (rules-leads-2.md)
 - L46 [deciding how good the free stuff is] Give away the secrets, sell the implementation; cost free delivery per customer against lifetime gross profit; say plainly it is free and why. (rules-leads-2.md)
 - L47 [writing any call to action] [Fixed] Say exactly what to do and why now, with only real scarcity and urgency; one ask at a time, easy to act, say-do loops before the big ask. (rules-leads-3.md)
 - L48 [cold outreach in general] Solve strangers' three problems in order: list, personalised fast value, more contacts in more ways; sell in steps; it's a numbers game. (rules-leads-3.md)

@@ -1,6 +1,9 @@
-Business rulebook version: v207 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v208 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v208 (13 November 2026)
+Source 378, "I'm Facing A Billion Dollar Decision" (Alex Hormozi). F2: on a first business take the lower-risk, higher-odds path; commit fully once chosen; never take a reputational risk with only a downside. L45: decide teach or sell before a talk; a selling talk gives the offer its full time.
 
 ## v207 (13 November 2026)
 Source 376, "Charlie Munger Changed My Life [8 Lessons]" (Alex Hormozi). F18: invert a hard goal (list the quickest ways to ruin it, then do the opposite). M19: too-hard pile when a deal's profit isn't obvious without a model; leave a fair share in deals worth repeating.
