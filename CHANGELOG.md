@@ -1,6 +1,10 @@
-Business rulebook version: v157 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v158 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v158 (13 November 2026)
+
+Source 303 (the algorithm for content). Merged into F34 (working questions per step; worked against elapsed time; judge AI spend by results) and F21 (whole story including failures; impostor feeling as an overstated claim; speak only where there is proof).
 
 ## v157 (13 November 2026)
 
