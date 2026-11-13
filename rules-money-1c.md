@@ -1,4 +1,4 @@
-Business rulebook version: v251 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v252 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 ## Money models (M), continued (M9 to M18)
 
