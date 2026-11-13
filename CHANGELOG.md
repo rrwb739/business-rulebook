@@ -1,6 +1,9 @@
-Business rulebook version: v231 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v232 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v232 (13 November 2026)
+Source 419, "17 Life-Changing Conversations I Wish I Had Earlier" (Alex Hormozi). T3: partners don't move until agreed. M19: written investment rules by what the owner knows.
 
 ## v231 (13 November 2026)
 Source 418, "Hardcore Business Lessons I Learned From A Dealer" (Alex Hormozi). M31: guardrail on the anything-else close, off-season care service. O40: by-products as bonuses.
