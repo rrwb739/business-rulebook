@@ -1,6 +1,9 @@
-Business rulebook version: v222 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v223 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v223 (13 November 2026)
+Source 409, "How to Build a LEGIT Online Course" (Alex Hormozi). M40: education that teaches earning (selective admission, published outcome data, know-how free and implementation paid, earned certificates, substantiated earnings claims; US proposed rule status noted).
 
 ## v222 (13 November 2026)
 Source 408, "3 Simple Fixes that Grow Any Business" (Alex Hormozi). F28: a service that produces a client's result may own that result's economics after the first target. L69: audience owner routes beyond sponsorship.
