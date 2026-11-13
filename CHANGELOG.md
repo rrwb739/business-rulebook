@@ -1,6 +1,10 @@
-Business rulebook version: v163 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v164 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v164 (13 November 2026)
+
+Source 312 (a recruiting video on one group's money flow). Merged into T1 (recruiting video before interviews).
 
 ## v163 (13 November 2026)
 
