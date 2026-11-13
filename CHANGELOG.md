@@ -1,6 +1,10 @@
-Business rulebook version: v187 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v188 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v188 (13 November 2026)
+
+Source 345 (goose and eggs). Merged into M19 (check deals exist for the type; keep a founder-led engine and sell what it produces) and X17 (trigger widened to licensing the name or methods; US franchise test).
 
 ## v187 (13 November 2026)
 
