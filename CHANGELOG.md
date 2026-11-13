@@ -1,6 +1,10 @@
-Business rulebook version: v173 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v174 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v174 (13 November 2026)
+
+Source 325 (sales tone). Merged into C13 (five plain delivery controls marked in the script; longest pause after the ask; feedback in plain terms).
 
 ## v173 (13 November 2026)
 
