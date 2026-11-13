@@ -1,6 +1,9 @@
-Business rulebook version: v216 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v217 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v217 (13 November 2026)
+Source 391, "I Reverse Engineered the Perfect Business" (Alex Hormozi). F30: sale-ready numbers. O2: transfer the face of the marketing to a successor. M9: stickiness levers. T1: judge operators on total work removed. M1: rank products by gross profit and lead with the best.
 
 ## v216 (13 November 2026)
 Source 390, "I Helped 6 Business Owners Make More Money" (Alex Hormozi). New C15: selling to large organisations. L9: test four or five data tools on equal samples. T3: the cautious partner writes the conditions for the next step.
