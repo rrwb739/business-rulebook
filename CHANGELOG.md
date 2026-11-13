@@ -1,6 +1,9 @@
-Business rulebook version: v139 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v140 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v140 (13 November 2026)
+- F30 top item only and finish before starting; T1 priority push and shared numbers. Source 283.
 
 ## v139 (13 November 2026)
 - F23 match work to energy. Source 282 (source 281 an advert, no change).
