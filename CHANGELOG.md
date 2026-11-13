@@ -1,6 +1,10 @@
-Business rulebook version: v160 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v161 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v161 (13 November 2026)
+
+Source 308 (local moving company). Merged into C14 (commodity price objection: widen the comparison with true factors), O42 (price cap on estimates), O6 (internal skill levels as a true selling point), L69 (client upgrade beats a cash fee; the firm's head and client pack).
 
 ## v160 (13 November 2026)
 

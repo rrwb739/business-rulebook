@@ -1,4 +1,4 @@
-Business rulebook version: v160 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v161 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 4: Strategy (F), Scaling roadmap (S), Offers (O)
 
@@ -58,7 +58,7 @@ One line per rule: ID, [trigger], summary, (file). Read all four parts in full o
 - O3 [writing the offer, bio, pitch, posts or messages] Use one positioning line everywhere, test clarity on outsiders, one big idea per piece, written to one reader; test the explanation on the least informed likely buyer until they get it at once. (rules-offers-1.md)
 - O4 [writing copy, pitches or scripts] Sell the destination, not the journey: benefit ladder, "so what?", one modest claim plus one true mechanism, one high-contrast picture. (rules-offers-1.md)
 - O5 [writing copy, messages or call scripts] The pain is the pitch: their words, specific moments, What-Who-When, a doable step with every risk line, weekly reading of their press. (rules-offers-1.md)
-- O6 [designing the offer or writing copy] Win on speed, risk or ease; cost bold promises, test them on 5 to 10 calls, and run costly ones capped first; levers for speed (templates, preparing ahead, availability), risk (consistency of variables), ease (remove what clients say is hard); cheapest only as a whole-business design; lead with one. (rules-offers-1.md)
+- O6 [designing the offer or writing copy] Win on speed, risk or ease; cost bold promises, test them on 5 to 10 calls, and run costly ones capped first; levers for speed (templates, preparing ahead, availability), risk (consistency of variables), ease (remove what clients say is hard); cheapest only as a whole-business design; lead with one; internal skill levels as a true selling point. (rules-offers-1.md)
 - O7 [designing delivery or onboarding] Walk the client's journey, list every action they must take, and cut them one by one. (rules-offers-1.md)
 - O8 [writing, stating or choosing any guarantee] Build a specific guarantee with teeth from their fears; conditions that predict success; full terms first and valid claims honoured. (rules-offers-1.md)
 - O9 [a prospect raises a non-price objection] Solve it once, turn the fix into a bonus, and keep a rehearsed bank of answers. (rules-offers-1.md)
@@ -94,7 +94,7 @@ One line per rule: ID, [trigger], summary, (file). Read all four parts in full o
 - O39 [building or presenting bonuses] Stack named, priced, proven bonuses that each kill a reason they can't succeed and are each worth the price alone. (rules-offers-2.md)
 - O40 [deciding what's core and what's a bonus, or building assets] Pull standalone high-value items out as bonuses and keep a recorded bonus vault. (rules-offers-2.md)
 - O41 [adding bonuses from other businesses] Get exclusive perks from adjacent partners, rank deal types, disclose commission, review partners each group. (rules-offers-2.md)
-- O42 [choosing or adding a guarantee] Guarantee menu: payout types and guarantee types with when each fits. (rules-offers-2.md)
+- O42 [choosing or adding a guarantee] Guarantee menu: payout types and guarantee types with when each fits; price cap on estimates. (rules-offers-2.md)
 - O43 [building or improving the offer] The 10x and one-tenth test; start high-touch, then move results into low-cost assets. (rules-offers-2.md)
 - O44 merged into O39 and O41. (rules-offers-2.md)
 - O45 [a prospect hesitates over an unconditional guarantee, or choosing guarantee types] Scripts for guarantee hesitation, extra guarantee types and stacking options. (rules-offers-2.md)
