@@ -1,6 +1,11 @@
-Business rulebook version: v192 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v193 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v193 (13 November 2026)
+
+- F25: best-student stance; credit is cumulative; a bad programme still teaches what not to do.
+- D14: "it didn't work" checked step by step against what was taught before changing the method.
 
 ## v192 (13 November 2026)
 
