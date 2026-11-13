@@ -1,6 +1,9 @@
-Business rulebook version: v214 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v215 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v215 (13 November 2026)
+Source 389, "How to Get Rich [Full Interview with Dave Ramsey]" (Alex Hormozi). O2: vet partners and advertisers on the family test and drop failing ones fast; consider not selling the product the business advises on; disclose paid ties.
 
 ## v214 (13 November 2026)
 Source 386, "I Doubled A Business in 60 Days to Show It's Not Luck (Part 1)" (Alex Hormozi). L72: one immediate second call when unanswered. C13: size the sales team to its calendar; prospecting and show-up as separate jobs.
