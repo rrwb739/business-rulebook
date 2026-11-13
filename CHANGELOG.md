@@ -1,6 +1,12 @@
-Business rulebook version: v204 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v205 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v205 (13 November 2026)
+
+- T1: management and expert tracks; one mission decision rule; quarterly results shared; owner in the detail on what matters most.
+- L69: let a known person help design the promotion; never count the partner's money.
+- F33: while choosing a first business, tell people a business is being started.
 
 ## v204 (13 November 2026)
 
