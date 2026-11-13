@@ -1,6 +1,9 @@
-Business rulebook version: v250 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v251 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v251 (13 November 2026)
+Source 453, "How to Grow an Audience if You Have 0 Followers" (Alex Hormozi). L41: keep the outreach minimum through busy weeks; judge days on actions.
 
 ## v250 (13 November 2026)
 Source 448, "My Best Sales Tactic" (Alex Hormozi). M32: habit-anchored prescriptions, budget ordering, no listed-to-cross-out items.
