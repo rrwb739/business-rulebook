@@ -1,6 +1,10 @@
-Business rulebook version: v161 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v162 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v162 (13 November 2026)
+
+Source 310 (five traits of a strong business). Merged into F33 (five-trait score: sticky, margin, growing market, low complexity and capital, moat).
 
 ## v161 (13 November 2026)
 
