@@ -1,6 +1,10 @@
-Business rulebook version: v154 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v155 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v155 (13 November 2026)
+
+Source 299 (personal brand in three stages). Merged into O2 (credibility first; associations through what the avatar likes; brand moments with a public goal and stakes after the first target).
 
 ## v154 (13 November 2026)
 
