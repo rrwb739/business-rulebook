@@ -1,6 +1,9 @@
-Business rulebook version: v226 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v227 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v227 (13 November 2026)
+Source 414, "The SEASON OF NO" (Alex Hormozi). F23: ranked goal list with one priority and written minimums, a list of what is given up, the full cost of interruptions.
 
 ## v226 (13 November 2026)
 Source 413, "I'm Broke, What Should I Sell?" (Alex Hormozi). F22: attention and endorsement as sellable things, ideas from family's work, little cash means selling time first. O31: service hours and days, staffing trade-off.
