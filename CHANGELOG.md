@@ -1,6 +1,9 @@
-Business rulebook version: v237 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v238 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v238 (13 November 2026)
+Source 426, "7 Secrets Behind Chick-fil-A's $50B Empire" (Alex Hormozi). F22: new items often take sales from the core; don't change what works out of boredom.
 
 ## v237 (13 November 2026)
 Source 425, "42 Recession Proof Money Hacks" (Alex Hormozi). M19: starter deals, the path back for money and repayment order, time to double, aligned personal and business money rules.
