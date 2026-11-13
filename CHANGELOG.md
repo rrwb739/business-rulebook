@@ -1,6 +1,9 @@
-Business rulebook version: v219 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v220 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v220 (13 November 2026)
+Source 400, "Why MrBeast Will be Worth $100 Billion" (Alex Hormozi). O2: brand strength measured by the premium over a near-identical alternative, reinvested. F15: a small peer group at the same stage.
 
 ## v219 (13 November 2026)
 Source 396, "My $100M Leads Affiliate Marketing Guide" (Alex Hormozi). O37: keep usual value at usual volume during a launch. L69: run promoters as a second audience with a stated message rhythm and staged material.
