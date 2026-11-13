@@ -1,6 +1,10 @@
-Business rulebook version: v181 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v182 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v182 (13 November 2026)
+
+Source 337 (paid ads Q&A). Merged into L61 (retargeting and own-name search; creative split from winners; friction by lead quality; free group as lead magnet) and L32 (rank proof by how hard it is to fake).
 
 ## v181 (13 November 2026)
 
