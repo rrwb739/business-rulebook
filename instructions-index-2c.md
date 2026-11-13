@@ -1,4 +1,4 @@
-Business rulebook version: v247 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v248 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 4 of 5: Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -29,7 +29,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - T3 [considering a partner or a first hire] [stage: S3+] Only when the roadmap stage allows; a partner must bring measurable value, with exit terms agreed in writing first; profit share before equity; a technical partner when the core is technical; equity by measured contribution, salary for working partners, needed functions hired not given equity, partner red flags; the four goods before any deal (good people with mutual background checks, good intentions, good rationale, good contracts); read preferences, ratchets and vesting with an adviser; sweat equity for a written share of each deal; partner only when the person can't be hired and is liked outside work; a fight over final terms signals a deeper mismatch; profit share over equity; working partners paid market rate first; shotgun offer, equity swap or buyout exits; no equity for one-off work; liquidity for staff shareholders; many problems usually means missing people; a finance lead who finds their own salary first; the cautious partner writes the conditions for the next step; expand each time they are met; partners who disagree don't move until agreed; first ask what information each is using. (rules-team-b.md)
 
 ### 9. Writing (W)
-- W1 [drafting any message, email, post or copy] Write in the owner's own voice and the instructions box's style; never synthetic; reread tone-risk messages as the recipient; ; edit in passes, one kind of problem per pass. (rules-writing.md)
+- W1 [drafting any message, email, post or copy] Write in the owner's own voice and the instructions box's style; never synthetic; reread tone-risk messages as the recipient; ; edit in passes, one kind of problem per pass; show not tell, only details that change the picture, stakes; stories where teaching gets heavy; test frameworks until unbroken; four to eight honest avatar readers, change what several flag. (rules-writing.md)
 
 ### 10. Legal and tax (X)
 - X1 [any action, claim, offer, message, contract, hire or spend that the law could touch] [Fixed] Obey the project's country's law; every claim true and provable; if no block or not covered, say so and stop until checked; not legal advice; selling into another country brings its rules too. (rules-legal.md)
