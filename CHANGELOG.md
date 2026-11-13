@@ -1,6 +1,10 @@
-Business rulebook version: v148 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v149 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v149 (13 November 2026)
+
+Source 293 (audience Q&A). Merged into F30 (buying businesses by parts, key person by component skills), M9 (churn as constraint, activation point, client data condition), M11 (care plan after a one-off result, X11), M31 (what to advertise by upsell maths), M40 (usage charge for structural churners), M19 (offer to buy the business, hiring timing), D11 (loved delivery: price before format), T1 (culture as what is tolerated, instruction detail by skill), T2 (agency best practices, results window), L44 (low open rates), L69 (partners who visit the avatar, partner outreach on thin margins).
 
 ## v148 (13 November 2026)
 - C13 sales turnaround and drills, M2 goal pricing, F28 fix the model first, T3 missing people and finance first, M9 consulting stage. Source 292 (source 291 no change).
