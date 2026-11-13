@@ -1,4 +1,4 @@
-Business rulebook version: v223 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v224 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 3 of 5: Sales (C), Money models (M)
 
@@ -47,7 +47,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - M23 [judging whether advertising or outreach is profitable; opens every Strategy tab answer, instructions.md step 2a] The rulebook's most important number. Lifetime gross profit to acquisition cost: 3:1 floor, higher with each human step; how to estimate lifetime value.; 30-day cash of at least twice the cost to win and serve, the cost of a permanent client; the human-step ratios are floors; aim far higher before scaling a fully manual model; cost to win a client rising faster than ad costs signals bad word of mouth. (rules-money-1b.md)
 - M24 [designing or changing the money model, or reviewing results] A money model is a sequence of four offer types; lead with the best-ratio front end and stack the rest behind it.; after the first target, products from leftovers that add no operation (rules-money-2.md)
 - M25 [deciding what to build next in the money model] Build in five stages, one offer at a time until reliable and automatic; simple scales; fix back to front. (rules-money-2.md)
-- M26 [checking cash, or before any prepaid or free-time offer] Track runway; ring-fence prepaid cash; daily cash checks early; separate business account before the first payment. (rules-money-2.md)
+- M26 [checking cash, or before any prepaid or free-time offer] Track runway; ring-fence prepaid cash; daily cash checks early; separate business account before the first payment; before leaving a job: about six months' savings, business income matching the job for about six months, overheads cut. (rules-money-2.md)
 - M27 [any offer, sales call or refund request] Offer at the moment of need, never push; rollover then refund without a fight; ethics and receiving-end tests; true cues only; disputes and gifts. (rules-money-2.md)
 - M28 [choosing or testing an attraction offer] Attraction offers bring cash upfront; the five types plus the independent free version; no small discounts; deep discounts only on splinters.; test one long session against multi-day challenges; buy X get Y free: more free than paid, prepay blocks, paid item at genuine normal price (X3), capped, prepaid only, occasional. (rules-money-2.md)
 - M29 [lead magnet, first sales call, or the DIY tier] Decoy offer: free stripped-down version beside the core offer; scripts, gating, show-up tests and the first-step metric. (rules-money-2.md)

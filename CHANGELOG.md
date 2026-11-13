@@ -1,6 +1,9 @@
-Business rulebook version: v223 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v224 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v224 (13 November 2026)
+Source 411, "How to go ALL IN on your side hustle" (Alex Hormozi). M26: before leaving a job, about six months' savings, business income matching the job for about six months, overheads cut.
 
 ## v223 (13 November 2026)
 Source 409, "How to Build a LEGIT Online Course" (Alex Hormozi). M40: education that teaches earning (selective admission, published outcome data, know-how free and implementation paid, earned certificates, substantiated earnings claims; US proposed rule status noted).
