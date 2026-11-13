@@ -1,6 +1,10 @@
-Business rulebook version: v159 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v160 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v160 (13 November 2026)
+
+Source 306 (parent-coaching group programme). [Fixed] X3: UK, legal rights never presented as a guarantee or feature (DMCC Act 2024 Sch 20 para 11). Merged into M7 (self-checkout priced below the assisted route), C2 (weekly group presentation for enquirers, FAQs by frequency), D15 (suggested replies from past answers, human-checked).
 
 ## v159 (13 November 2026)
 
