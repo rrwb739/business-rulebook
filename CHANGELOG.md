@@ -1,6 +1,9 @@
-Business rulebook version: v217 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v218 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v218 (13 November 2026)
+Source 393, "Behind the Scenes of The $100M Leads Launch" (Alex Hormozi). L45: one idea per slide with a visual. F23: meetings name the problem and who is needed, end once decided.
 
 ## v217 (13 November 2026)
 Source 391, "I Reverse Engineered the Perfect Business" (Alex Hormozi). F30: sale-ready numbers. O2: transfer the face of the marketing to a successor. M9: stickiness levers. T1: judge operators on total work removed. M1: rank products by gross profit and lead with the best.
