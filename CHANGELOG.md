@@ -1,6 +1,9 @@
-Business rulebook version: v252 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v253 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v253 (13 November 2026)
+Source 460, "1.2M Followers in 6 Months: My Content Marketing Strategy REVEALED" (Alex Hormozi). L59: content as nurture before the first target; staged growth after it.
 
 ## v252 (13 November 2026)
 Source 457, "Launch A Physical Product Brand The Right Way" (Alex Hormozi). F33: choosing a consumer product tied to existing daily acts, with personalisation as a moat.
