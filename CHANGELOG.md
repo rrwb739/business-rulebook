@@ -1,6 +1,9 @@
-Business rulebook version: v209 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v210 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v210 (13 November 2026)
+Source 382, "How to get rich this Black Friday" (Alex Hormozi). M28: buy X get Y free method (more free than paid, prepay blocks, genuine normal price, capped, occasional). M7: seasonal premium drop to about 5% of clients with true places and live count.
 
 ## v209 (13 November 2026)
 Source 380, "The Business Model That's So Simple, Anyone Can Try It" (Alex Hormozi). L50: opener asking whether they already have a provider; name a nearby client only with permission. L61: show the avatar in ads; versions with different people. C1: stop selling after the yes; card details only through the payment provider.
