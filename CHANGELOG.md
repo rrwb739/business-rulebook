@@ -1,6 +1,11 @@
-Business rulebook version: v196 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v197 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v197 (13 November 2026)
+
+- L69: choosing and reaching one creator partner: the bigger audience sets the shape, contact in circles, labelled projections, gifts within X16.
+- O2: sell from the true position (small means attention, large means track record).
 
 ## v196 (13 November 2026)
 
