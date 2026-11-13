@@ -1,6 +1,9 @@
-Business rulebook version: v263 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v264 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v264 (13 November 2026)
+Source 480, "I emailed myself all of my failures for the last 5 years...this is what I learned.." (Alex Hormozi). M10: when results jump, check for a market wave before crediting the method; push hard while it lasts and plan for the fade.
 
 ## v263 (13 November 2026)
 Source 479, "I sold 8 businesses by age 32 [here's how]" (Alex Hormozi). New M48: the process of selling all or part of the business (deal killers first, written priorities, adviser choice and fees, judging offers on cash kept, diligence, purchase agreement points, walk-away).
