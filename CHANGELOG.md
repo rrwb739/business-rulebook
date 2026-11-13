@@ -1,6 +1,9 @@
-Business rulebook version: v208 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v209 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v209 (13 November 2026)
+Source 380, "The Business Model That's So Simple, Anyone Can Try It" (Alex Hormozi). L50: opener asking whether they already have a provider; name a nearby client only with permission. L61: show the avatar in ads; versions with different people. C1: stop selling after the yes; card details only through the payment provider.
 
 ## v208 (13 November 2026)
 Source 378, "I'm Facing A Billion Dollar Decision" (Alex Hormozi). F2: on a first business take the lower-risk, higher-odds path; commit fully once chosen; never take a reputational risk with only a downside. L45: decide teach or sell before a talk; a selling talk gives the offer its full time.
