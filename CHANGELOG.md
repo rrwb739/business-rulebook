@@ -1,6 +1,10 @@
-Business rulebook version: v149 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v150 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v150 (13 November 2026)
+
+Source 294 (focus talk). Merged into F22 (wanted-no weekly question, meeting test against the goal's activities, returns concentrate at the top) and C13 (record calls from the start, best-calls playlist).
 
 ## v149 (13 November 2026)
 
