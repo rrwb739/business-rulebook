@@ -1,6 +1,9 @@
-Business rulebook version: v254 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v255 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v255 (13 November 2026)
+Source 463, "Applying $100M Offers to E-Commerce" (Alex Hormozi). O8: e-commerce demonstration videos, try-before-you-buy, search-word naming.
 
 ## v254 (13 November 2026)
 Source 462, "10 KEYS to a TERRIBLE Business Partnership" (Alex Hormozi). T3: what a partner must bring, alignment checks, the same-data test, a fair share from the start.

@@ -1,4 +1,4 @@
-Business rulebook version: v254 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v255 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 5: Strategy (F), Scaling roadmap (S), Offers (O)
 
@@ -60,7 +60,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - O5 [writing copy, messages or call scripts] The pain is the pitch: their words, specific moments, What-Who-When, a doable step with every risk line, weekly reading of their press. (rules-offers-1.md)
 - O6 [designing the offer or writing copy] Win on speed, risk or ease; cost bold promises, test them on 5 to 10 calls, and run costly ones capped first; levers for speed (templates, preparing ahead, availability), risk (consistency of variables), ease (remove what clients say is hard); cheapest only as a whole-business design; lead with one; internal skill levels as a true selling point. (rules-offers-1.md)
 - O7 [designing delivery or onboarding] Walk the client's journey, list every action they must take, and cut them one by one. (rules-offers-1.md)
-- O8 [writing, stating or choosing any guarantee] Build a specific guarantee with teeth from their fears; conditions that predict success; full terms first and valid claims honoured; guarantee as a paid option; never set a guarantee condition chosen because almost no one will meet it (X3). (rules-offers-1.md)
+- O8 [writing, stating or choosing any guarantee] Build a specific guarantee with teeth from their fears; conditions that predict success; full terms first and valid claims honoured; guarantee as a paid option; never set a guarantee condition chosen because almost no one will meet it (X3); e-commerce: in-use demonstration video, try-before-you-buy as a guarantee, product names in the buyer's search words and outcome. (rules-offers-1.md)
 - O9 [a prospect raises a non-price objection] Solve it once, turn the fix into a bonus, and keep a rehearsed bank of answers. (rules-offers-1.md)
 - O10 [designing the offer or its messaging] Cut what the buyer must believe to one internal belief sentence; settle the rest with free content, one piece per logged objection, old belief broken before the new one. (rules-offers-1.md)
 - O11 [writing copy or answering doubts] Admit weaknesses first, then "but" and the matching strength; never lie or imply a bigger business.; too-good-to-be-true offers: open calls with the trade-offs (rules-offers-1.md)
