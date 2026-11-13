@@ -1,6 +1,10 @@
-Business rulebook version: v182 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v183 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v183 (13 November 2026)
+
+Source 339 (documenting mistakes). Merged into F24 (log expectation against outcome; outside conditions in wins) and F22 (no new venture over the runner's capacity objection).
 
 ## v182 (13 November 2026)
 
