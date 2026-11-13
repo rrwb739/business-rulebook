@@ -1,6 +1,9 @@
-Business rulebook version: v147 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v148 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v148 (13 November 2026)
+- C13 sales turnaround and drills, M2 goal pricing, F28 fix the model first, T3 missing people and finance first, M9 consulting stage. Source 292 (source 291 no change).
 
 ## v147 (13 November 2026)
 - L60 organic and paid together, L58 framework method. Source 290.
