@@ -1,6 +1,10 @@
-Business rulebook version: v168 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v169 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v169 (13 November 2026)
+
+Source 318 (the first $100,000 saved). Merged into F23 (promote, deliver, build daily split).
 
 ## v168 (13 November 2026)
 
