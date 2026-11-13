@@ -1,6 +1,10 @@
-Business rulebook version: v175 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v176 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v176 (13 November 2026)
+
+Source 330 (new money). Merged into M19 (wanted upgrades that fail the payback test funded by a defined extra project, not core income, savings or open-ended debt).
 
 ## v175 (13 November 2026)
 
