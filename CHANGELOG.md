@@ -1,6 +1,10 @@
-Business rulebook version: v176 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v177 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v177 (13 November 2026)
+
+Source 331 (negotiation). Merged into C12 (list every movable term and trade one at a time; several bids; combine offered options; price a mistake by its fix cost; honest reassurance after accepting a first number).
 
 ## v176 (13 November 2026)
 
