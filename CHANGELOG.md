@@ -1,6 +1,9 @@
-Business rulebook version: v211 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v212 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v212 (13 November 2026)
+Source 384, "Brutally Honest Advice to My Younger Poorer Self" (Alex Hormozi). F25: seven-level advice ladder. F27: decide from customers, never to beat a rival; being copied means being ahead.
 
 ## v211 (13 November 2026)
 Source 383, "How to make SO much money it makes you sick" (Alex Hormozi). F30: risk-reducing tasks qualify alongside the four levers. M1: thin unit margin, recover about one point a month for twelve months before growth marketing. M19: simplify the unit format before rollout; don't rely on one cheap channel.
