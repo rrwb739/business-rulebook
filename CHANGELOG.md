@@ -1,6 +1,10 @@
-Business rulebook version: v197 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v198 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v198 (13 November 2026)
+
+- M9: falling use as the first warning with escalating contact; personal check-ins, systematised not automated; unlockables by tenure and action (never for reviews); bring-a-friend events; order of fixes.
 
 ## v197 (13 November 2026)
 
