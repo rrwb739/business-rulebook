@@ -1,6 +1,10 @@
-Business rulebook version: v153 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v154 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v154 (13 November 2026)
+
+Source 298 (debate on his posts). Merged into M2 (don't blend profit and helping in the price) and M19 (loss-making counts as reinvesting only with a written return thesis; plans discounted for execution risk).
 
 ## v153 (13 November 2026)
 
