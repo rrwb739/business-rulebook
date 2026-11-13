@@ -1,6 +1,9 @@
-Business rulebook version: v218 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v219 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v219 (13 November 2026)
+Source 396, "My $100M Leads Affiliate Marketing Guide" (Alex Hormozi). O37: keep usual value at usual volume during a launch. L69: run promoters as a second audience with a stated message rhythm and staged material.
 
 ## v218 (13 November 2026)
 Source 393, "Behind the Scenes of The $100M Leads Launch" (Alex Hormozi). L45: one idea per slide with a visual. F23: meetings name the problem and who is needed, end once decided.

@@ -1,4 +1,4 @@
-Business rulebook version: v218 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v219 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 5: Strategy (F), Scaling roadmap (S), Offers (O)
 
@@ -89,7 +89,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - O34 [choosing delivery methods] Favour high-value, one-to-many assets; save one-to-one time for the biggest value adds. (rules-offers-2.md)
 - O35 [presenting, launching or promoting the offer] Enhancers raise demand without changing the offer; keep supply below demand. (rules-offers-2.md)
 - O36 [selling places, groups or the lead magnet] [Fixed] Scarcity from real caps only, stated with real counts; scarcity decides when, never whether. (rules-offers-2.md)
-- O37 [any sales conversation, campaign or page] [Fixed] Urgency from true deadlines only; launch with Whisper, Tease, Shout; never let anyone in after a deadline. (rules-offers-2.md)
+- O37 [any sales conversation, campaign or page] [Fixed] Urgency from true deadlines only; launch with Whisper, Tease, Shout; never let anyone in after a deadline; keep usual value at usual volume during a launch, launch messages on top and worth watching. (rules-offers-2.md)
 - O38 [after the first target, F3] [stage: S3+] A tiny, hard-capped, very high-priced direct-access tier, treated as a test. (rules-offers-2.md)
 - O39 [building or presenting bonuses] Stack named, priced, proven bonuses that each kill a reason they can't succeed and are each worth the price alone. (rules-offers-2.md)
 - O40 [deciding what's core and what's a bonus, or building assets] Pull standalone high-value items out as bonuses and keep a recorded bonus vault. (rules-offers-2.md)
