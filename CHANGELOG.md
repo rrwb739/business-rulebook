@@ -1,6 +1,10 @@
-Business rulebook version: v185 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v186 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v186 (13 November 2026)
+
+Source 343 (scale the unscalable). Merged into D9 (ask which one thing could go).
 
 ## v185 (13 November 2026)
 
