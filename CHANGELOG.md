@@ -1,6 +1,10 @@
-Business rulebook version: v162 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v163 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v163 (13 November 2026)
+
+Source 311 (AI across the business). Merged into F34 (AI as tool not identity; owner automates own workflow; fair comparison after equal training).
 
 ## v162 (13 November 2026)
 
