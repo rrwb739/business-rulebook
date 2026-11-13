@@ -1,6 +1,9 @@
-Business rulebook version: v141 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v142 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v142 (13 November 2026)
+- F18 claim test; T1 incomplete checklists, feedback for slow roles, individual reinforcers. Source 285.
 
 ## v141 (13 November 2026)
 - F22 ideas wait and time for the future; M19 bet sizing. Source 284.

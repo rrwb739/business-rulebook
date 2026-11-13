@@ -1,4 +1,4 @@
-Business rulebook version: v141 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v142 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 4: Strategy (F), Scaling roadmap (S), Offers (O)
 
@@ -22,7 +22,7 @@ One line per rule: ID, [trigger], summary, (file). Read all four parts in full o
 - F15 [starting something the owner has not done before] Don't posture; learn from people ahead, give first in communities, show the work when asking; keep a list of the owner's Ten; copy what people ahead did at the owner's stage.; visit the industry hub in person (rules-strategy-1.md)
 - F16 [considering building software] Pre-sell a paid waitlist; no custom software before the first target; own code and accounts; budget twice the quote. (rules-strategy-1.md)
 - F17 moved to T3. (rules-strategy-2.md)
-- F18 [planning strategy or where to put resources] Ask what would make the business number one in its niche and what one thing solves most problems; check need-to-believes before funnel numbers. (rules-strategy-2.md)
+- F18 [planning strategy or where to put resources] Ask what would make the business number one in its niche and what one thing solves most problems; check need-to-believes before funnel numbers; three-question claim test: what it means, how you know, so what. (rules-strategy-2.md)
 - F19 [solving any business problem with no single right answer] Think divergently, then pick; restate the worry as a question about one number. (rules-strategy-2.md)
 - F20 [the owner is stuck, or deciding what to learn next] Name the missing skill or belief and test it; sustain performance via the outreach streak; state stalls as behaviour.; unsure what to do: build capacity alongside outreach, keep slack in the day; name the trade being avoided and play the fear out in specifics (rules-strategy-2.md)
 - F21 [writing the owner's bio, pitch or founder story] One true P and skill-stack line, never overstated; host bio; structured origin story; no client data in the founder log. (rules-strategy-2.md)
