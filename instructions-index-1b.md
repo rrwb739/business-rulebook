@@ -1,4 +1,4 @@
-Business rulebook version: v229 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v230 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 5: Leads and marketing (L)
 
@@ -6,7 +6,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 
 ### 4. Leads and marketing (L)
 - L1 [choosing, reviewing or questioning the market; every quarter] Score the market on pain, purchasing power, ease of targeting and growth; check the vehicle and any demand window; standing scan of publicly reported problems with a feasibility test; re-score quarterly. (rules-leads-1.md)
-- L2 [defining or checking the avatar, or any idea outside the niche] Define the avatar by objective criteria with reasons; turn away non-fits kindly; prefer steady buyers; expansion directions after the first target; go down market only when retention there is strong; choose the expansion direction by the most money made for each client. (rules-leads-1.md)
+- L2 [defining or checking the avatar, or any idea outside the niche] Define the avatar by objective criteria with reasons; turn away non-fits kindly; prefer steady buyers; expansion directions after the first target; go down market only when retention there is strong; choose the expansion direction by the most money made for each client; never done the avatar's job and clients leave: do it before blaming marketing. (rules-leads-1.md)
 - L3 [results are poor, or the owner wants to change niche, market or business] Fix inputs, list, then offer (3 offers x 100 messages) before avatar or market; need-to-believes decide push or pivot. (rules-leads-1.md)
 - L4 [any outreach or lead generation] [Fixed] One Core Four channel until the first target; messaging apps, follow-up calls, post and events as tested media within it, lawfully.; pick the channel with most skill overlap; do more of one already working (rules-leads-1.md)
 - L5 moved to X2. (rules-leads-1.md)

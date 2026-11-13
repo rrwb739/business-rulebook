@@ -1,6 +1,9 @@
-Business rulebook version: v229 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v230 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v230 (13 November 2026)
+Source 417, "Why You Shouldn't Copy Me" (Alex Hormozi). O2: never copy a rival's identity or story, real beliefs that break the stereotype. L2: do the avatar's job before blaming marketing.
 
 ## v229 (13 November 2026)
 Source 416, "HOW TO GET WHAT YOU WANT" (Alex Hormozi). L32: proof where buyers wait, the how-much-proof question, real credentials only. L46: small gifts sized to the person.
