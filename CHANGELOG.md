@@ -1,6 +1,9 @@
-Business rulebook version: v232 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v233 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v233 (13 November 2026)
+Source 421, "I Built 4 Businesses In A Row To Show It's Not Luck" (Alex Hormozi). D9: improve from the best performers' shared practices. T1: headcount from workload, top-down hiring, choosing which debt. T2: in-house technical leadership for software. rules-delivery.md split: D12 to D17 now in rules-delivery-b.md.
 
 ## v232 (13 November 2026)
 Source 419, "17 Life-Changing Conversations I Wish I Had Earlier" (Alex Hormozi). T3: partners don't move until agreed. M19: written investment rules by what the owner knows.
