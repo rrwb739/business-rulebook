@@ -1,6 +1,9 @@
-Business rulebook version: v245 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v246 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v246 (13 November 2026)
+Source 440, "14 Life Lessons I Wish I Knew Earlier" (Alex Hormozi). C12: four-point terms. L66: a repeatable one-sentence description.
 
 ## v245 (13 November 2026)
 Source 439, "10 Different Ways To Break Down Making $1 Million" (Alex Hormozi). F30: buying small businesses with deferred payments, combining them.
