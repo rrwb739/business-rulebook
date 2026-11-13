@@ -1,6 +1,9 @@
-Business rulebook version: v206 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v207 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v207 (13 November 2026)
+Source 376, "Charlie Munger Changed My Life [8 Lessons]" (Alex Hormozi). F18: invert a hard goal (list the quickest ways to ruin it, then do the opposite). M19: too-hard pile when a deal's profit isn't obvious without a model; leave a fair share in deals worth repeating.
 
 ## v206 (13 November 2026)
 Source 375, "Million Dollar Equations" (Alex Hormozi). M20: four payback levers (prepay first and last, set-up fee shown in the total, upsell, third-party finance only within X3) and a month-by-month cash timeline. M19: each new unit tracked on payback month, first-year return and profit at capacity against full opening cost; active units need far above passive returns; launch to open near capacity. M46: monthly ceiling check (new clients a month times lifetime gross profit, and divided by churn) on trailing averages, with capacity or headcount planned from the gap.
