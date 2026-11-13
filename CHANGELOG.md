@@ -1,6 +1,9 @@
-Business rulebook version: v258 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v259 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v259 (13 November 2026)
+Source 471, "How to CLOSE THE SALE when the prospect says, 'I left my wallet at home..'" (Alex Hormozi). C10: the "wrong card" stall after a yes (reconfirm, pay in the provider's own page) and a first charge set for payday only for a buyer who can afford it, with no unwanted card or invented policy.
 
 ## v258 (13 November 2026)
 Source 466, "2 Types of Business Risk and the One I Choose EVERY TIME" (Alex Hormozi). F33: idea risk against execution risk, compounding likely wins over long shots.
