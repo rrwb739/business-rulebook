@@ -1,6 +1,9 @@
-Business rulebook version: v255 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v256 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v256 (13 November 2026)
+Source 464, "The SIMPLE Managerial Framework that changed my business" (Alex Hormozi). T1: don't default to moving an underperformer into another role.
 
 ## v255 (13 November 2026)
 Source 463, "Applying $100M Offers to E-Commerce" (Alex Hormozi). O8: e-commerce demonstration videos, try-before-you-buy, search-word naming.
