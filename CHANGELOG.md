@@ -1,6 +1,9 @@
-Business rulebook version: v224 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v225 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v225 (13 November 2026)
+Source 412, "How I Set Goals That ACTUALLY MAKE MONEY" (Alex Hormozi). F2: goals tie to one of three results, input and output with baselines, no directional movement means a new hypothesis, measuring can be the goal. T1: employees write quarterly goals in the F2 form.
 
 ## v224 (13 November 2026)
 Source 411, "How to go ALL IN on your side hustle" (Alex Hormozi). M26: before leaving a job, about six months' savings, business income matching the job for about six months, overheads cut.
