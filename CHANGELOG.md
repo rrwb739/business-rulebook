@@ -1,6 +1,12 @@
-Business rulebook version: v190 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v191 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v191 (13 November 2026)
+
+- F20: a stall stated as a fact about the world is restated as a skill gap and checked against what would physically stop it.
+- F22: where money comes easily, test whether a side line or by-product is the real business, under the better-vehicle test.
+- F28: [shape: e-commerce] repeat purchase among ideal buyers before brand or reach; low sell-through is a warning; fewer outlets worked in person.
 
 ## v190 (13 November 2026)
 
