@@ -1,6 +1,9 @@
-Business rulebook version: v236 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v237 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v237 (13 November 2026)
+Source 425, "42 Recession Proof Money Hacks" (Alex Hormozi). M19: starter deals, the path back for money and repayment order, time to double, aligned personal and business money rules.
 
 ## v236 (13 November 2026)
 Source 424, "Get RICH With These 24 Investing Rules" (Alex Hormozi). M19: written if-then deal rules. D7: deliver as if the client could leave next week.
