@@ -1,6 +1,10 @@
-Business rulebook version: v158 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v159 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v159 (13 November 2026)
+
+Source 304 (three decision questions). Merged into F2 (same questions for team proposals; what would it take; do nothing as an option).
 
 ## v158 (13 November 2026)
 
