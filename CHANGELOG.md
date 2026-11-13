@@ -1,6 +1,10 @@
-Business rulebook version: v170 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v171 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v171 (13 November 2026)
+
+Source 321 (learning method). Merged into F24 (iterations per day; sub-skills as observable actions; observe what the best do; top-tenth loops).
 
 ## v170 (13 November 2026)
 
