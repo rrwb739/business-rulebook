@@ -1,6 +1,9 @@
-Business rulebook version: v264 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v265 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v265 (13 November 2026)
+Source 485, "How the best entrepreneurs REDEFINE reality.." (Alex Hormozi). C14: linking the decision to a value the buyer stated in their own words, only where the offer truly serves it, never a label they didn't claim or a guilt trap.
 
 ## v264 (13 November 2026)
 Source 480, "I emailed myself all of my failures for the last 5 years...this is what I learned.." (Alex Hormozi). M10: when results jump, check for a market wave before crediting the method; push hard while it lasts and plan for the fade.
