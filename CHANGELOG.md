@@ -1,6 +1,10 @@
-Business rulebook version: v183 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v184 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v184 (13 November 2026)
+
+Source 341 (seven owners Q&A). Merged into M40 (repeat revenue without a subscription), M39 (delivery model by what the buyer's time is worth), F28 (study the largest player) and D7 (short no-ask updates).
 
 ## v183 (13 November 2026)
 
