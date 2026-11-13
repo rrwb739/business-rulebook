@@ -1,6 +1,9 @@
-Business rulebook version: v269 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v270 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v270 (14 November 2026)
+Source 495, "$100M Salesman Reveals #1 Persuasion Hack" (Alex Hormozi). C13: a weekly meeting of sales and delivery sharing consented client wins and misunderstandings; a seller's slump treated as lost belief before lost skill.
 
 ## v269 (14 November 2026)
 Source 494, "What Millionaires Know That You Don't" (Alex Hormozi). T1: learn what excellent looks like in a role from someone who has built it several times; don't promote the best individual performer to manager by default; the cost of a mis-hire.
