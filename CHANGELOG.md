@@ -1,6 +1,9 @@
-Business rulebook version: v244 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v245 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v245 (13 November 2026)
+Source 439, "10 Different Ways To Break Down Making $1 Million" (Alex Hormozi). F30: buying small businesses with deferred payments, combining them.
 
 ## v244 (13 November 2026)
 Source 436, "This ONE Equation Will Make You RICH" (Alex Hormozi). O8: no guarantee condition chosen because almost no one will meet it.
