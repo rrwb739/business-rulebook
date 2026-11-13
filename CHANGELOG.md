@@ -1,6 +1,10 @@
-Business rulebook version: v150 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v151 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v151 (13 November 2026)
+
+Source 295 (the business you are really in). Merged into T1 (paired output and quality measures), O2 (differentiator the buyer can see), F28 (price the wall, then commit).
 
 ## v150 (13 November 2026)
 
