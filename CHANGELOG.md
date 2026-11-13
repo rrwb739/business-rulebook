@@ -1,6 +1,9 @@
-Business rulebook version: v242 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v243 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v243 (13 November 2026)
+Source 435, "How to get customers to pay forever" (Alex Hormozi). L65: the no-marketing test; repeat business counts like recurring.
 
 ## v242 (13 November 2026)
 Source 433, "A YouTuber Asked Me How To Business" (Alex Hormozi). L69: sell sponsorship actively, co-hosts. F33: size options by buyers times gross profit, discounted by copyability.
