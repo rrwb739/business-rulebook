@@ -1,6 +1,10 @@
-Business rulebook version: v198 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v199 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v199 (13 November 2026)
+
+- O2: brand judged on reach, influence and direction; random pairings weaken it; outweigh a bad pairing.
 
 ## v198 (13 November 2026)
 
