@@ -1,6 +1,10 @@
-Business rulebook version: v167 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v168 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v168 (13 November 2026)
+
+Source 317 (six levels of being paid). Merged into M2 (payment-terms ladder; outcome fees on revenue not profit; priced risk).
 
 ## v167 (13 November 2026)
 
