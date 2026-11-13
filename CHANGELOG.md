@@ -1,6 +1,9 @@
-Business rulebook version: v262 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v263 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v263 (13 November 2026)
+Source 479, "I sold 8 businesses by age 32 [here's how]" (Alex Hormozi). New M48: the process of selling all or part of the business (deal killers first, written priorities, adviser choice and fees, judging offers on cash kept, diligence, purchase agreement points, walk-away).
 
 ## v262 (13 November 2026)
 Source 477, "KEYNOTE: Small To BIG. The Big 4 Customer Acquisition Models." (Alex Hormozi). L69: full integration into a partner's onboarding by solving its biggest problem, the reseller-training route, and gifts to partners kept within X18 and X19.
