@@ -1,4 +1,4 @@
-Business rulebook version: v137 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v138 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 4: Strategy (F), Scaling roadmap (S), Offers (O)
 
@@ -65,7 +65,7 @@ One line per rule: ID, [trigger], summary, (file). Read all four parts in full o
 - O10 [designing the offer or its messaging] Cut what the buyer must believe to one internal belief sentence; settle the rest with free content, one piece per logged objection, old belief broken before the new one. (rules-offers-1.md)
 - O11 [writing copy or answering doubts] Admit weaknesses first, then "but" and the matching strength; never lie or imply a bigger business.; too-good-to-be-true offers: open calls with the trade-offs (rules-offers-1.md)
 - O12 [writing posts, emails or pages] Say who it is for and who it isn't, state the real commitment, polarise on method and fit, never people. (rules-offers-1.md)
-- O13 [writing promotions, hooks or angles; or responses are dropping; or an offer is tiring] Keep the core offer and change the wrapper, in a fixed refresh order; use the dos list before calling it tired. (rules-offers-1.md)
+- O13 [writing promotions, hooks or angles; or responses are dropping; or an offer is tiring] Keep the core offer and change the wrapper, in a fixed refresh order; use the dos list before calling it tired; peak days: a month's preparation, page built for the day, few best sellers, start-here first-time offer, real end date. (rules-offers-1.md)
 - O14 [designing a lead magnet or free offer] Solve one narrow problem that reveals the next one the core offer solves; never the core problem free. (rules-offers-1.md)
 - O15 [naming the offer, a promotion, a bonus or a lead magnet] Name with the MAGIC formula, run the say-it test, test names against a control, no unproven figures in names. (rules-offers-1.md)
 - O16 [writing an offer doc or pitch] Five parts: outcome, weekly deliverables, investment, risk reversal, and a true reason to act now. (rules-offers-1.md)
@@ -81,7 +81,7 @@ One line per rule: ID, [trigger], summary, (file). Read all four parts in full o
 - O26 [designing the offer or onboarding] Build an early emotional win and visible milestones; track days to activation. (rules-offers-1b.md)
 - O27 [competing with free options, or writing about speed] Fast beats free: lead with speed against free alternatives. (rules-offers-1b.md)
 - O28 [designing the offer or delivery] List every hidden cost to the client and cut or reverse it, including what other solutions make them start or give up; every AI step must beat their current way. (rules-offers-1b.md)
-- O29 [deciding what to build or include] Triple down on what clients value, cut the rest, and justify any addition in writing first; pick rank-and-build or subtraction; keep-one and not-miss questions; remove for new clients first. (rules-offers-1b.md)
+- O29 [deciding what to build or include] Triple down on what clients value, cut the rest, and justify any addition in writing first; pick rank-and-build or subtraction; keep-one and not-miss questions; remove for new clients first; test new items with a limited scheduled release to the list before building them out. (rules-offers-1b.md)
 - O30 [building or rebuilding the offer] Build the Grand Slam offer in five steps; test the offer doc and an internal launch note before building. (rules-offers-2.md)
 - O31 [step 4 of O30, or stuck for ideas] Think divergently with the delivery cube, then the 10x and one-tenth test; no cost judgement while listing; modest-cost, high-value ideas. (rules-offers-2.md)
 - O32 [step 5 of O30, or adding anything to the offer] Trim low-value items, stack the rest by problem with honest values, and cut needless choices. (rules-offers-2.md)

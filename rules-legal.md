@@ -1,8 +1,8 @@
-Business rulebook version: v137 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v138 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 ## Legal and tax (X)
 
-- X1 [any action, claim, offer, message, contract, hire or spend that the law could touch] [Fixed] Obey the law of the project's country, as named in the instructions box, for marketing, consumer, data, employment, entity and tax matters. Every claim, limit, deadline, review and testimonial must be true and provable before it is used. Use the block below for the project's country. When the project's country has no block, or the point is not covered by its block, say so plainly and stop before acting until the point has been checked. These rules are general guidance, not legal advice. Confirm with a qualified adviser.
+- X1 [any action, claim, offer, message, contract, hire or spend that the law could touch] [Fixed] Obey the law of the project's country, as named in the instructions box, for marketing, consumer, data, employment, entity and tax matters. Every claim, limit, deadline, review and testimonial must be true and provable before it is used. Use the block below for the project's country. When the project's country has no block, or the point is not covered by its block, say so plainly and stop before acting until the point has been checked. These rules are general guidance, not legal advice. Selling to buyers in another country can bring that country's consumer, tax, data and product rules as well as the project's own: check each new country before taking orders from it. Confirm with a qualified adviser.
 
 ### United Kingdom
 
