@@ -1,6 +1,10 @@
-Business rulebook version: v193 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v194 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v194 (13 November 2026)
+
+- F20: doubt about the owner's age or looks treated as information; fix the real gap and ask what it would take.
 
 ## v193 (13 November 2026)
 
