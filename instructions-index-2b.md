@@ -1,8 +1,8 @@
-Business rulebook version: v178 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v179 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
-# Rule index, part 4 of 4: Case patterns (K)
+# Rule index, part 5 of 5: Case patterns (K)
 
-One line per rule: ID, [trigger], summary, (file). Read all four parts in full on every pass (instructions.md, step 3).
+One line per rule: ID, [trigger], summary, (file). Read all five parts in full on every pass (instructions.md, step 3).
 
 ### 11. Case patterns (K)
 How to use: general patterns live in the sections above; a K entry is the specific situation where one kind of business used a pattern, written in general words, with its linked rules naming where the pattern is held. Match the business's model, stage and constraint against each trigger; use a match as an analogy marked "Proposed, not decided", never as proof. Rules in other sections win over K.

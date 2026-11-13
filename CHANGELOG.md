@@ -1,6 +1,10 @@
-Business rulebook version: v178 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v179 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v179 (13 November 2026)
+
+Source 333 (multi-site clinic teardown). Merged into C3 (paid booking with the true reason; pricing details before the visit), C5 (assess, offer, then first help), C13 (best rep's process as screens or checklist), L62 (agency target and ceiling; spend to the return floor; local long-tail search) and F30 (order by effort against impact; execution before model). Split: instructions-index-2.md into instructions-index-2.md (C, M) and instructions-index-2c.md (D, T, W, X); the index is now five files.
 
 ## v178 (13 November 2026)
 
