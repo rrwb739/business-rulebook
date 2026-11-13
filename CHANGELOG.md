@@ -1,6 +1,9 @@
-Business rulebook version: v233 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v234 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v234 (13 November 2026)
+Source 422, "How The World's RICHEST Man Made His Money" (Alex Hormozi). M2: four price positions, speed and convenience for wealthy buyers.
 
 ## v233 (13 November 2026)
 Source 421, "I Built 4 Businesses In A Row To Show It's Not Luck" (Alex Hormozi). D9: improve from the best performers' shared practices. T1: headcount from workload, top-down hiring, choosing which debt. T2: in-house technical leadership for software. rules-delivery.md split: D12 to D17 now in rules-delivery-b.md.
