@@ -1,6 +1,10 @@
-Business rulebook version: v189 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v190 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v190 (13 November 2026)
+
+Source 349 (business-only content). Merged into L60 (topics from buyers; assume a first-time viewer; show what only the owner can; short pieces for recognition with retargeting).
 
 ## v189 (13 November 2026)
 
