@@ -1,6 +1,9 @@
-Business rulebook version: v265 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v266 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v266 (13 November 2026)
+Source 488, "Starting a software company is a TERRIBLE F@#$ING IDEA... [TRIGGER WARNING]" (Alex Hormozi). M19: owner-built software must pass buy, use and tell on its own before a service business funds it; otherwise improve retention and refer clients to an existing tool.
 
 ## v265 (13 November 2026)
 Source 485, "How the best entrepreneurs REDEFINE reality.." (Alex Hormozi). C14: linking the decision to a value the buyer stated in their own words, only where the offer truly serves it, never a label they didn't claim or a guilt trap.
