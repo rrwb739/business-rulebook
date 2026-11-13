@@ -1,6 +1,10 @@
-Business rulebook version: v186 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v187 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v187 (13 November 2026)
+
+Source 344 (pricing and billing cycles). Merged into M40 (running total of value against total paid) and M5 (judge price steps on gross profit per sales conversation; move up, not down).
 
 ## v186 (13 November 2026)
 
