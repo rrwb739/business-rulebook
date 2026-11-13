@@ -1,6 +1,9 @@
-Business rulebook version: v256 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v257 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v257 (13 November 2026)
+Source 465, "Biggest mistake that stopped me from getting past $30M" (Alex Hormozi). F30: the three margin squeezes of scaling one paid channel and how to offset them.
 
 ## v256 (13 November 2026)
 Source 464, "The SIMPLE Managerial Framework that changed my business" (Alex Hormozi). T1: don't default to moving an underperformer into another role.
