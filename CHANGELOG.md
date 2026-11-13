@@ -1,6 +1,9 @@
-Business rulebook version: v246 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v247 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v247 (13 November 2026)
+Source 445, "How To Build Large Sales Teams" (Alex Hormozi). C13: weekly coaching per seller, two-week standard, testimonials at huddle, one named decision per call.
 
 ## v246 (13 November 2026)
 Source 440, "14 Life Lessons I Wish I Knew Earlier" (Alex Hormozi). C12: four-point terms. L66: a repeatable one-sentence description.
