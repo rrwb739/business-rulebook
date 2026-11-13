@@ -1,6 +1,9 @@
-Business rulebook version: v239 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v240 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v240 (13 November 2026)
+Source 431, "The Best Student Side Hustle in 2026" (Alex Hormozi). M22: small-group pricing, selling the outcome around its driving input.
 
 ## v239 (13 November 2026)
 Source 427, "Building a Frozen Yogurt Store in 11 Minutes" (Alex Hormozi). M32: self-serve pricing and ordering. F33: buying a franchise, liquidation equipment, low-ticket acquisition.
