@@ -1,6 +1,9 @@
-Business rulebook version: v266 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v267 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v267 (13 November 2026)
+Source 489, "The day when everything changed for me..." (Alex Hormozi). C13: judge new sellers over at least one full sales cycle, recruit from the same kind of sale when pay allows, hire only the clear yes, respect other firms' covenants.
 
 ## v266 (13 November 2026)
 Source 488, "Starting a software company is a TERRIBLE F@#$ING IDEA... [TRIGGER WARNING]" (Alex Hormozi). M19: owner-built software must pass buy, use and tell on its own before a service business funds it; otherwise improve retention and refer clients to an existing tool.
