@@ -1,6 +1,10 @@
-Business rulebook version: v156 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v157 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v157 (13 November 2026)
+
+Source 301 (event planning). Merged into M1 (live quote calculator; price lock within stated scope limits) and M31 (ask how many a year and sell the year; pre-renewal video).
 
 ## v156 (13 November 2026)
 
