@@ -1,6 +1,9 @@
-Business rulebook version: v253 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v254 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v254 (13 November 2026)
+Source 462, "10 KEYS to a TERRIBLE Business Partnership" (Alex Hormozi). T3: what a partner must bring, alignment checks, the same-data test, a fair share from the start.
 
 ## v253 (13 November 2026)
 Source 460, "1.2M Followers in 6 Months: My Content Marketing Strategy REVEALED" (Alex Hormozi). L59: content as nurture before the first target; staged growth after it.
