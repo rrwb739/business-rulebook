@@ -1,6 +1,9 @@
-Business rulebook version: v261 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v262 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v262 (13 November 2026)
+Source 477, "KEYNOTE: Small To BIG. The Big 4 Customer Acquisition Models." (Alex Hormozi). L69: full integration into a partner's onboarding by solving its biggest problem, the reseller-training route, and gifts to partners kept within X18 and X19.
 
 ## v261 (13 November 2026)
 Source 475, "How I built a 1.2M follower audience in 6 months" (Alex Hormozi). L47: short calls to action at the start, middle and end of long content, rotated from a bank of wordings and judged on the action counted.
