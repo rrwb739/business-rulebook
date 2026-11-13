@@ -1,6 +1,10 @@
-Business rulebook version: v171 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v172 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v172 (13 November 2026)
+
+Source 323 (premium first). Merged into M7 (three prompts for the premium tier; speed for wealthy buyers; state price then pause; capped one-to-one early). Split: rules-money-1.md into rules-money-1.md (M1 to M8) and rules-money-1c.md (M9 to M18), rules moved unchanged, index updated.
 
 ## v171 (13 November 2026)
 
