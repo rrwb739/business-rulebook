@@ -1,6 +1,11 @@
-Business rulebook version: v199 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v200 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v200 (13 November 2026)
+
+- L66: referral share against churn share shows growth without marketing.
+- M40: community features rated by care and willingness to pay; built around an identity.
 
 ## v199 (13 November 2026)
 
