@@ -1,6 +1,10 @@
-Business rulebook version: v155 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v156 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v156 (13 November 2026)
+
+Source 300 (choosing which games to play). Merged into F22 (who sets the scoring, want the prize, worth the price) and M46 (optimise the dominant number).
 
 ## v155 (13 November 2026)
 

@@ -1,4 +1,4 @@
-Business rulebook version: v155 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v156 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 3 of 4: Sales (C), Money models (M), Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -66,7 +66,7 @@ One line per rule: ID, [trigger], summary, (file). Read all four parts in full o
 - M43 [long-term continuity terms] Set-up fee of 3 to 5x the monthly rate, waived for a 12-month commitment; investigate if over 5% leave early. (rules-money-2b.md)
 - M44 moved to X3. (rules-money-2.md)
 - M45 [asking for a review or testimonial] [Fixed] Invite every client to review; success interviews; truthful clips with evidence and consent; no fake people; standing review system from the first client; one link at handover; per-person review share as a satisfaction measure, no quotas or bonuses. (rules-money-2b.md)
-- M46 [every working day, any "what next" question, plan or result] Daily numbers: update the ratio and pick the next action from it; track a number only if its change would change an action; measuring improves a step; two pipelines, click to close and close to resell. (rules-money-1b.md)
+- M46 [every working day, any "what next" question, plan or result] Daily numbers: update the ratio and pick the next action from it; track a number only if its change would change an action; measuring improves a step; two pipelines, click to close and close to resell; optimise the dominant number. (rules-money-1b.md)
 - M47 [a client near or above 20% of revenue, or a large client on offer] Key-client risk: four fixes (more small clients, lock in with term, notice and proportionate exit charge, more of the same size via a repeatable channel, or decline a chance whale); check top-client share monthly. (rules-money-2b.md)
 
 ### 7. Delivery and operations (D)
