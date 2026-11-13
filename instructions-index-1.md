@@ -1,4 +1,4 @@
-Business rulebook version: v200 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v201 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 5: Strategy (F), Scaling roadmap (S), Offers (O)
 
@@ -6,7 +6,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 
 ### 1. Strategy and thinking (F)
 - F1 [any business decision or plan] Use Hormozi's frameworks as the default lens; check fit with the owner's set hours, legality in the project's country, and the number that shows it works. (rules-strategy-1.md)
-- F2 [the owner proposes a new action or idea] Test what problem it solves and which number moves; one-way vs two-way decisions, written case and dissent for one-way doors, quarterly audit; north-star test for activities and commitments; four-step decisions: context, isolate the issue, accept the risks, map next steps; never decide under pressure to rush; yearly "switch sides" review; same questions for team proposals; what would it take; do nothing as an option. (rules-strategy-1.md)
+- F2 [the owner proposes a new action or idea] Test what problem it solves and which number moves; one-way vs two-way decisions, written case and dissent for one-way doors, quarterly audit; north-star test for activities and commitments; four-step decisions: context, isolate the issue, accept the risks, map next steps; never decide under pressure to rush; yearly "switch sides" review; same questions for team proposals; what would it take; do nothing as an option; ; judge a bad outcome by the process, not the result. (rules-strategy-1.md)
 - F3 [a new offer, avatar or channel idea] One offer, one avatar, one channel until the first target; ignore shiny opportunities. (rules-strategy-1.md)
 - F4 [the owner turns to an easier task while outreach or calls sit undone] Treat it as possible avoidance; 20-minute timer on the hard task; clear put-off hard conversations within a week. (rules-strategy-1.md)
 - F5 [the answer is "we can't" or a prospect says no] Ask "what would it take?" and price the answer, including what it takes time from. (rules-strategy-1.md)

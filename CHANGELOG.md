@@ -1,6 +1,11 @@
-Business rulebook version: v200 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v201 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v201 (13 November 2026)
+
+- F2: judge a bad outcome by the decision process.
+- T1: raise work quality with "what would you do with two more hours?".
 
 ## v200 (13 November 2026)
 
