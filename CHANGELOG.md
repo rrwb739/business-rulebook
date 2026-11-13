@@ -1,6 +1,10 @@
-Business rulebook version: v151 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v152 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v152 (13 November 2026)
+
+Source 296 (information against traditional businesses). Merged into F33 (end goal first: income or sellable asset; switch fully, no test bed).
 
 ## v151 (13 November 2026)
 
