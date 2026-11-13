@@ -1,6 +1,9 @@
-Business rulebook version: v225 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v226 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v226 (13 November 2026)
+Source 413, "I'm Broke, What Should I Sell?" (Alex Hormozi). F22: attention and endorsement as sellable things, ideas from family's work, little cash means selling time first. O31: service hours and days, staffing trade-off.
 
 ## v225 (13 November 2026)
 Source 412, "How I Set Goals That ACTUALLY MAKE MONEY" (Alex Hormozi). F2: goals tie to one of three results, input and output with baselines, no directional movement means a new hypothesis, measuring can be the goal. T1: employees write quarterly goals in the F2 form.
