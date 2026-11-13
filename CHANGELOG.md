@@ -1,6 +1,10 @@
-Business rulebook version: v201 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v202 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v202 (13 November 2026)
+
+- F27: ignore attacks by default; agree or one-up truthfully; reply publicly only to bigger accounts, with humour; never repeat a denial.
 
 ## v201 (13 November 2026)
 
