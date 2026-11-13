@@ -1,6 +1,9 @@
-Business rulebook version: v259 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v260 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v260 (13 November 2026)
+Source 473, "Top 10 Fast Business Lessons From My Last 10 Years" (Alex Hormozi). F2: a steady, believable quarterly growth target checked against the last four quarters. F22: ask existing clients to choose between more of the current offer and a new line before building it.
 
 ## v259 (13 November 2026)
 Source 471, "How to CLOSE THE SALE when the prospect says, 'I left my wallet at home..'" (Alex Hormozi). C10: the "wrong card" stall after a yes (reconfirm, pay in the provider's own page) and a first charge set for payday only for a buyer who can afford it, with no unwanted card or invented policy.
