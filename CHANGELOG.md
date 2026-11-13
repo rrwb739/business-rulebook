@@ -1,6 +1,9 @@
-Business rulebook version: v215 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v216 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v216 (13 November 2026)
+Source 390, "I Helped 6 Business Owners Make More Money" (Alex Hormozi). New C15: selling to large organisations. L9: test four or five data tools on equal samples. T3: the cautious partner writes the conditions for the next step.
 
 ## v215 (13 November 2026)
 Source 389, "How to Get Rich [Full Interview with Dave Ramsey]" (Alex Hormozi). O2: vet partners and advertisers on the family test and drop failing ones fast; consider not selling the product the business advises on; disclose paid ties.
