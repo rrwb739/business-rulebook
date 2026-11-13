@@ -1,6 +1,9 @@
-Business rulebook version: v260 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v261 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v261 (13 November 2026)
+Source 475, "How I built a 1.2M follower audience in 6 months" (Alex Hormozi). L47: short calls to action at the start, middle and end of long content, rotated from a bank of wordings and judged on the action counted.
 
 ## v260 (13 November 2026)
 Source 473, "Top 10 Fast Business Lessons From My Last 10 Years" (Alex Hormozi). F2: a steady, believable quarterly growth target checked against the last four quarters. F22: ask existing clients to choose between more of the current offer and a new line before building it.
