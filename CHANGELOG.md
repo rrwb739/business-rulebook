@@ -1,6 +1,10 @@
-Business rulebook version: v188 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v189 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v189 (13 November 2026)
+
+Source 347 (why owners stay small). Merged into L58 (local business content builds trust for leads from other channels).
 
 ## v188 (13 November 2026)
 
