@@ -1,6 +1,9 @@
-Business rulebook version: v228 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v229 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v229 (13 November 2026)
+Source 416, "HOW TO GET WHAT YOU WANT" (Alex Hormozi). L32: proof where buyers wait, the how-much-proof question, real credentials only. L46: small gifts sized to the person.
 
 ## v228 (13 November 2026)
 Source 415, "How to Grow ANY Local Business" (Alex Hormozi). F30: four checks for franchised against owned units.

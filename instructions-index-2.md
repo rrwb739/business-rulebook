@@ -1,4 +1,4 @@
-Business rulebook version: v228 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v229 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 3 of 5: Sales (C), Money models (M)
 
