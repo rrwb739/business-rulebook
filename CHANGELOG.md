@@ -1,6 +1,10 @@
-Business rulebook version: v152 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v153 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v153 (13 November 2026)
+
+Source 297 (outworking everyone). Merged into F30 (daily long block on the constraint lever, then hand it on) and F34 (tenth-of-the-time and expert frames before long fixes).
 
 ## v152 (13 November 2026)
 
