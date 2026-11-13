@@ -1,6 +1,10 @@
-Business rulebook version: v174 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v175 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v175 (13 November 2026)
+
+Source 329 (first gym, 26 lessons). Merged into F20 (barter spare capacity when cash is short; ask openly for help), F22 (test demand by area before a lease; pre-sell before opening; next site after six months without the owner), O8 (guarantee as a paid option) and X19 (barter is a taxed sale in the UK; trigger now includes bartering).
 
 ## v174 (13 November 2026)
 
