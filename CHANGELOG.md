@@ -1,6 +1,9 @@
-Business rulebook version: v235 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v236 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v236 (13 November 2026)
+Source 424, "Get RICH With These 24 Investing Rules" (Alex Hormozi). M19: written if-then deal rules. D7: deliver as if the client could leave next week.
 
 ## v235 (13 November 2026)
 Source 423, "I Challenged My Team To Replace Themselves with AI" (Alex Hormozi). F34: each person finds tools to replace a week of their own tasks; AI likeness of the owner never passed off as live.
