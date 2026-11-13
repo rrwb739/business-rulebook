@@ -1,6 +1,9 @@
-Business rulebook version: v238 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v239 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v239 (13 November 2026)
+Source 427, "Building a Frozen Yogurt Store in 11 Minutes" (Alex Hormozi). M32: self-serve pricing and ordering. F33: buying a franchise, liquidation equipment, low-ticket acquisition.
 
 ## v238 (13 November 2026)
 Source 426, "7 Secrets Behind Chick-fil-A's $50B Empire" (Alex Hormozi). F22: new items often take sales from the core; don't change what works out of boredom.

@@ -1,4 +1,4 @@
-Business rulebook version: v238 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v239 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 3 of 5: Sales (C), Money models (M)
 
@@ -53,7 +53,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - M29 [lead magnet, first sales call, or the DIY tier] Decoy offer: free stripped-down version beside the core offer; scripts, gating, show-up tests and the first-step metric. (rules-money-2.md)
 - M30 [after the first target (F3), choosing the next attraction offer to test] [stage: S3+] Test in order: pay less now or more later, win your money back, giveaway, buy X get Y free. (rules-money-2.md)
 - M31 [a client finishes a step, a new problem appears, or the core offer is ending] Classic upsell at the moment of the next problem; timing, previews, bundles, activation points, paid priority turnaround of the same work, capped and only when always met, paid extra cover priced on expected claims, beyond the core guarantee and legal rights; advertise one to three entry services, sell the rest inside; an in-package offer, within marketplace rules; what to advertise by entry plus upsell maths; ask how many a year and sell the year; pre-renewal video; the anything-else close only confirms agreed items, never a no as consent; paid off-season care service for seasonal products, explained by analogy. (rules-money-2.md)
-- M32 [sales call, renewal, or proposing add-ons] Menu upsell: unsell what isn't needed, prescribe a written plan, ask A or B with both options real, ask how to pay; full total before signing; menus ranked by price and margin, first-visit pick, pairings, one rotating special, free-item threshold above average order. (rules-money-2.md)
+- M32 [sales call, renewal, or proposing add-ons] Menu upsell: unsell what isn't needed, prescribe a written plan, ask A or B with both options real, ask how to pay; full total before signing; menus ranked by price and margin, first-visit pick, pairings, one rotating special, free-item threshold above average order; self-serve: usage pricing, highest-margin items first, sensible default size; never rig the process against the buyer's intent. (rules-money-2.md)
 - M33 [presenting price on a call] Anchor upsell: present a real premium at 5 to 10x first, then rescue with the core offer; log reactions to the anchor. (rules-money-2.md)
 - M34 [setting tier prices] Read the tier mix and adjust gaps or raise all prices accordingly. (rules-money-2.md)
 - M35 [win-back, an upset client, a competitor's unhappy client, or a current client buying again] Rollover upsell: credit what they paid towards an offer at least 4x the credit; win-back steps; voucher play later.; monthly reactivation sequences to past clients, true angles only (rules-money-2.md)
