@@ -1,4 +1,4 @@
-Business rulebook version: v195 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v196 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Business rulebook
 
@@ -14,7 +14,7 @@ A general rulebook for running and growing a business with Claude. It holds meth
 - templates/business-filters.md: the F33 questions to answer before choosing a business.
 - prompts/: the first message for each chat tab.
 - tools.md: the tools register, reviewed tools listed by the roadmap stage they're for.
-- CHANGELOG.md: what changed in each version.
+- CHANGELOG.md and CHANGELOG-1.md: what changed in each version (newest first; older entries in CHANGELOG-1.md).
 
 ## Set up a business project
 
