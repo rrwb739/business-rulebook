@@ -1,6 +1,10 @@
-Business rulebook version: v172 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v173 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v173 (13 November 2026)
+
+Source 324 (mental toughness). Merged into F20 (four measures of a setback; act at the normal standard despite the mood; use the setback for a fix; protect sleep and meals in hard weeks).
 
 ## v172 (13 November 2026)
 
