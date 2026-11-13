@@ -1,6 +1,9 @@
-Business rulebook version: v143 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v144 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v144 (13 November 2026)
+- D7 onboarding, D15 expectations and support logging, M9 save team with cancellation limit, M23 CAC against ad costs. Source 287.
 
 ## v143 (13 November 2026)
 - F25 give your best skill in paid rooms; F11 ten-year frame. Source 286.
