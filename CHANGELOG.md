@@ -1,6 +1,10 @@
-Business rulebook version: v165 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v166 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v166 (13 November 2026)
+
+Source 315 (four product-business owners). Merged into T2 (bench of contractors for sporadic work), O2 (e-commerce: one brand around the winning product), F22 (audience owners add products instead of growing the audience; sunk cost).
 
 ## v165 (13 November 2026)
 
