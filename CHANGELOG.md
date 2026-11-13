@@ -1,6 +1,10 @@
-Business rulebook version: v166 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v167 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v167 (13 November 2026)
+
+Source 316 (five service-business owners). Merged into M40 (small-business recurring services: avoid the labour-heavy middle price), F34 (data before AI), T1 (sales hiring as a parallel funnel; gross profit per seller against cost).
 
 ## v166 (13 November 2026)
 
