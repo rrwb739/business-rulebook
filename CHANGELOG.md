@@ -1,6 +1,9 @@
-Business rulebook version: v234 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v235 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v235 (13 November 2026)
+Source 423, "I Challenged My Team To Replace Themselves with AI" (Alex Hormozi). F34: each person finds tools to replace a week of their own tasks; AI likeness of the owner never passed off as live.
 
 ## v234 (13 November 2026)
 Source 422, "How The World's RICHEST Man Made His Money" (Alex Hormozi). M2: four price positions, speed and convenience for wealthy buyers.
