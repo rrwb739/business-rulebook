@@ -1,6 +1,9 @@
-Business rulebook version: v241 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v242 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v242 (13 November 2026)
+Source 433, "A YouTuber Asked Me How To Business" (Alex Hormozi). L69: sell sponsorship actively, co-hosts. F33: size options by buyers times gross profit, discounted by copyability.
 
 ## v241 (13 November 2026)
 Source 432, "Why Looking Poor is actually Smart" (Alex Hormozi). F15: accept the first invite, prepare and bring value, judge circles by their units.
