@@ -1,6 +1,9 @@
-Business rulebook version: v273 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v274 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v274 (14 November 2026)
+Source 508, "I paid 0% tax on 56% of my income...here's how.." (Alex Hormozi). X19: checks before any promoted tax-saving scheme (plain-words explanation by an independent adviser, full cost including unwinding, users of over a decade, promoter and entity checks, HMRC named lists; use reliefs as intended; deferral is not removal). M19: never buy something just because it is deductible.
 
 ## v273 (14 November 2026)
 Source 506, "I Sold My Company at 31: My Detailed Breakdown of the Decision" (Alex Hormozi). M48: decide whether to sell before preparing (reasons, after-tax cash against the kept stake, whether a role change gives the same); keep deciding for clients, not for how a buyer would see it.
