@@ -1,6 +1,9 @@
-Business rulebook version: v301 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v302 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v302 (2026-11-14)
+Source 581, "Here's Why I Always Give Away a % of My Business" (Alex Hormozi). T3: phantom equity for key employees in hard-to-measure roles: share of sale proceeds, vesting with a cliff, lapses on leaving, taxed as employment income.
 
 ## v301 (2026-11-14)
 Source 576, "We fired everyone who was late...this is why.." (Alex Hormozi). T1: ask new starters what their manager told them; enforce stated standards from the first breach through the lawful process, never instant dismissal.
