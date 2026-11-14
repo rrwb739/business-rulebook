@@ -1,6 +1,9 @@
-Business rulebook version: v288 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v289 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v289 (14 November 2026)
+Source 540, "The Only 4 Ways To Scale A Service Business (PICK ONE)" (Alex Hormozi). F30: four vehicles for scaling a proven service (owned units, franchising, licensing, software), with when each fits.
 
 ## v288 (14 November 2026)
 Source 538, "Every business is limited by the constraint. Here's how to find it." (Alex Hormozi). T1: group interviews when interview time limits hiring for high-volume front-line roles; four communication calendars (prospects, clients, staff, candidates).
