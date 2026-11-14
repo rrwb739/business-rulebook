@@ -1,6 +1,9 @@
-Business rulebook version: v303 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v304 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v304 (2026-11-14)
+Source 584, "A BILLIONAIRE told me how to make BILLION DOLLARS...here's my plan..." (Alex Hormozi). T1: for the three leader roles, hire only someone clearly exceptional, give real authority and a profit share with a way to buy in.
 
 ## v303 (2026-11-14)
 Source 583, "I OWN 6 multimillion dollar companies...this is how I do it..." (Alex Hormozi). M48: after handover, the owner acts as an adviser: quarterly reviews, no tasks from meetings, off the team's day-to-day chat, one channel for senior leaders.
