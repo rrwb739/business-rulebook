@@ -1,6 +1,9 @@
-Business rulebook version: v313 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v314 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v314 (14 November 2026)
+- T3: map acquisition, product and operations and give each partner one; two partners on one role means one isn't needed; every activity gets one named owner; write working expectations; the agreement negotiation as a stress test (source 623).
 
 ## v313 (14 November 2026)
 - F30: when buying a small business, find sellers directly, agree the price first and then the terms, and check profit covers all loans and deferred payments on cautious inputs (source 619).
