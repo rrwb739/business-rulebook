@@ -1,6 +1,9 @@
-Business rulebook version: v323 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v324 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v324 (14 November 2026)
+- Money-1c continuity: price weekly and bill every four weeks (13 payments a year), stated clearly; set the delivery schedule from collected cash and the 80% margin (source 665).
 
 ## v323 (14 November 2026)
 - T1: every role gets a paired volume and quality number reported together (source 660).
