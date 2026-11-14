@@ -1,6 +1,9 @@
-Business rulebook version: v311 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v312 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v312 (14 November 2026)
+- T1: several product lines each run as a profit unit on a shared core; launch a line only with a leader as capable as the owner; prefer growth-minded salaried leaders, and ask former owners why they want a salaried role (source 617).
 
 ## v311 (14 November 2026)
 - L32: true results figures can be framed as a fraction, a rate, a gain or what it pays for; fix group, outcome and time frame before looking, name any slice, "half did better" only of a median (source 616).
