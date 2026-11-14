@@ -1,6 +1,9 @@
-Business rulebook version: v279 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v280 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v280 (14 November 2026)
+Source 515, "*REVEALED* Compensation plans that ACTUALLY WORK..." (Alex Hormozi). T1: variable pay for roles not paid on sales (leaders split company and own objectives; self-set monthly goals for front-line roles as an option to test), within X18.
 
 ## v279 (14 November 2026)
 Source 513, "How I Put Out So Much Content Despite Being Part-Time" (Alex and Leila Hormozi). L58: record ideas while fresh, frame advice as what the owner has seen work, no pieces sourced only from others' content, skip filler (settled with L60's volume target by scope). CHANGELOG.md passed the size cap: entries v157 and earlier moved unchanged to CHANGELOG-1.md (hard rule 8).
