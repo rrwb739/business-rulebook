@@ -1,6 +1,9 @@
-Business rulebook version: v293 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v294 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v294 (2026-11-14)
+Source 553, "I STARTED AND SOLD 6 BUSINESSES BY AGE 32...my boring formula.." (Alex Hormozi). M48: list and hand over every role the owner still plays (two-month-away test), and judge profit with those roles paid at market rate.
 
 ## v293 (2026-11-14)
 Source 552, "My 7 year journey to making my first million." (Alex Hormozi). L36: tell payment providers in writing before a planned refund spike or model change. T1: commission only on cash received. M18: when a partner delivers, control delivery or agree refunds and no-solicit in writing. M15: closing a unit cleanly.
