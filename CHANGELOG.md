@@ -1,6 +1,9 @@
-Business rulebook version: v324 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v325 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v325 (2026-11-14)
+- F28 (rules-strategy-2b.md): when cash is short, look for cash opportunities and survival threats before strengths and weaknesses; fastest cash comes from existing customers, with the play chosen by how soon the money is needed (limited paid-in-full places, a short programme with add-ons, a recurring tier on a free trial with the later price stated). Source 675.
 
 ## v324 (14 November 2026)
 - Money-1c continuity: price weekly and bill every four weeks (13 payments a year), stated clearly; set the delivery schedule from collected cash and the 80% margin (source 665).
