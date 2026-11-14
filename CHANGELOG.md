@@ -1,6 +1,9 @@
-Business rulebook version: v308 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v309 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v309 (14 November 2026)
+- F30: for each function the owner has let go, the owner should be able to name its current problems; only good news means the owner is too far away, so ask for more transparency without taking the work back (source 609).
 
 ## v308 (2026-11-14)
 Source 600, "The Talent Grid - How I Recognize Skill in Self & Team" (Alex Hormozi). F30: in the quarterly key-person check, grade the owner's level in each function (doing, teaching, a system that trains without the owner) and move one up each quarter.
