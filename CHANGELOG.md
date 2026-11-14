@@ -1,6 +1,9 @@
-Business rulebook version: v283 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v284 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v284 (14 November 2026)
+Source 529, "The first product you must sell in a new business..." (Alex Hormozi). M7: settled by scope with a single core offer for small businesses (tiers as anchor and downsell only, budgets met with payment options). M37: to test, a larger upfront payment with a lower recurring fee.
 
 ## v283 (14 November 2026)
 Source 528, "How I recruit the best employees in the world..." (Alex Hormozi). T1: contact applicants within a day, a written interview script, and a business whose name marks a strong CV.
