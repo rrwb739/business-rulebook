@@ -1,6 +1,9 @@
-Business rulebook version: v298 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v299 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v299 (2026-11-14)
+Source 567, "The Biggest Mistake Everyone is Making" (Alex Hormozi). F22: the owner test (six months of growth on under about five hours a week from the owner) before any second business.
 
 ## v298 (2026-11-14)
 Source 566, "I Built a Business That Runs Without Me" (Alex Hormozi). T1: when handing off the owner's role, hire for the owner's next role too; an interview round that teaches the owner nothing means hire none.
