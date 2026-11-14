@@ -1,6 +1,9 @@
-Business rulebook version: v282 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v283 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v283 (14 November 2026)
+Source 528, "How I recruit the best employees in the world..." (Alex Hormozi). T1: contact applicants within a day, a written interview script, and a business whose name marks a strong CV.
 
 ## v282 (14 November 2026)
 Source 522, "How I find MILLION DOLLAR opportunities..." (Alex Hormozi). F33: size an opportunity by units at scale, profit per unit and whether demand outpaces supply; reconsider the vehicle after years without progress, under L1. rules-strategy-2b.md split: F33 and F34 moved unchanged to rules-strategy-2c.md (hard rule 8).
