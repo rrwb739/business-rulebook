@@ -1,6 +1,9 @@
-Business rulebook version: v315 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v316 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v316 (14 November 2026)
+- F2: review wins by their outside causes and losses by the owner's own part; once fast action is a habit, put time between a trigger and the response, often none (source 633).
 
 ## v315 (14 November 2026)
 - F2: judge past decisions by the information and reasoning at the time, not the outcome; test a changed decision rule against all similar past decisions; change it only on a recurring miscalculation (source 629).
