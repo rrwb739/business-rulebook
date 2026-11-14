@@ -1,6 +1,9 @@
-Business rulebook version: v322 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v323 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v323 (14 November 2026)
+- T1: every role gets a paired volume and quality number reported together (source 660).
 
 ## v322 (14 November 2026)
 - F2: before changing a working process, write upside, downside and whether the business can live with the downside; count the cost of change, one change at a time against the proven version (source 658).
