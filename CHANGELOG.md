@@ -1,6 +1,9 @@
-Business rulebook version: v309 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v310 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v310 (14 November 2026)
+- T1: at each review, judge each person against what the owner would do in their role (initiative not taken, questions not asked); rating everyone excellent means not looking closely (source 612).
 
 ## v309 (14 November 2026)
 - F30: for each function the owner has let go, the owner should be able to name its current problems; only good news means the owner is too far away, so ask for more transparency without taking the work back (source 609).
