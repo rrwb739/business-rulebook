@@ -1,6 +1,9 @@
-Business rulebook version: v304 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v305 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v305 (2026-11-14)
+Source 587, "How I RAISE PRICES without losing sales...(using this psychological trick)" (Alex Hormozi). M2: a price rise through an instalment total above the target, the old price as the first instalment and the target as the pay-in-full figure.
 
 ## v304 (2026-11-14)
 Source 584, "A BILLIONAIRE told me how to make BILLION DOLLARS...here's my plan..." (Alex Hormozi). T1: for the three leader roles, hire only someone clearly exceptional, give real authority and a profit share with a way to buy in.
