@@ -1,6 +1,9 @@
-Business rulebook version: v277 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v278 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v278 (14 November 2026)
+Source 512, "7 figure CONFIDENTIAL meeting LEAKED - business growth STRATEGY exposed..." (Alex Hormozi). M15: merge weak units and get one unit to strong profit before more units, a licence or a franchise; small-town markets. M48: staff or client buyers funded by a loan and part seller finance.
 
 ## v277 (14 November 2026)
 Source 511, "Watch these 55 minutes if you want to be a millionaire in 2022.." (Alex Hormozi). O31: the base units anything sold is made of, and the referral-only prompt. T1: hiring run as a funnel, interviews sized to turnover plus growth.
