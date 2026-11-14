@@ -1,6 +1,9 @@
-Business rulebook version: v297 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v298 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v298 (2026-11-14)
+Source 566, "I Built a Business That Runs Without Me" (Alex Hormozi). T1: when handing off the owner's role, hire for the owner's next role too; an interview round that teaches the owner nothing means hire none.
 
 ## v297 (2026-11-14)
 Source 562, "How to Pick the Right Mentor" (Alex Hormozi). T2: tier a supplier's fee so it rewards what the owner wants; judge professional advisers on intent and skill separately, and read up before choosing.
