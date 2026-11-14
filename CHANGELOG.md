@@ -1,6 +1,9 @@
-Business rulebook version: v294 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v295 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v295 (2026-11-14)
+Source 557, "A BILLIONAIRE taught me how to think like a BILLIONAIRE.." (Alex Hormozi). F28: name the problem first, sort it as a survival threat, a normal cost or a tension to manage, and replace yes-or-no verdicts with how far and where.
 
 ## v294 (2026-11-14)
 Source 553, "I STARTED AND SOLD 6 BUSINESSES BY AGE 32...my boring formula.." (Alex Hormozi). M48: list and hand over every role the owner still plays (two-month-away test), and judge profit with those roles paid at market rate.
