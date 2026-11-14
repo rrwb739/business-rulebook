@@ -1,6 +1,9 @@
-Business rulebook version: v275 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v276 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v276 (14 November 2026)
+Source 510, "How I Scaled My Sales Team [Compensation, Recruiting & Training]" (Alex Hormozi). T1: sales role ladders (about four levels, each about eight weeks of output, visible, drop-backs, the top level earns a promotion trial), light screening for first-touch callers, half-day call blocks. D9: clients vote on problems; the shared practices tested on the weakest clients for 30 days and results shared, failures included.
 
 ## v275 (14 November 2026)
 Source 509, "30 Minutes of sales training that will explode your business in 2022" (Alex Hormozi). T1: sales contests on a fixed cycle of about six weeks in small mixed teams; small pay steps at closed-sale milestones.
