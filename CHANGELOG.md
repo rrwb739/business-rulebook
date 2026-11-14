@@ -1,6 +1,9 @@
-Business rulebook version: v295 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v296 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v296 (2026-11-14)
+Source 561, "We're giving away all our money." (Alex Hormozi). D17: once there is a public audience, state how the business contacts people and that it never asks for money in comments or messages; report impersonators.
 
 ## v295 (2026-11-14)
 Source 557, "A BILLIONAIRE taught me how to think like a BILLIONAIRE.." (Alex Hormozi). F28: name the problem first, sort it as a survival threat, a normal cost or a tension to manage, and replace yes-or-no verdicts with how far and where.
