@@ -1,6 +1,9 @@
-Business rulebook version: v307 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v308 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v308 (2026-11-14)
+Source 600, "The Talent Grid - How I Recognize Skill in Self & Team" (Alex Hormozi). F30: in the quarterly key-person check, grade the owner's level in each function (doing, teaching, a system that trains without the owner) and move one up each quarter.
 
 ## v307 (2026-11-14)
 Source 596, "What I Learned After Countless Failed Business Partnerships" (Alex Hormozi). T3: on a partner exit, say what was agreed and not done, ask what is fair, and split shared debt in a short signed note.
