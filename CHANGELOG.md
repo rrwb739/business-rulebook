@@ -3,7 +3,7 @@ Business rulebook version: v281 | index: instructions.md | rule text: the rules 
 # Changelog
 
 ## v281 (14 November 2026)
-Source 517, "$100M CEO: \"How to make the HARD decisions that change your life\"" (Alex Hormozi). F2: conditions for large, hard-to-reverse decisions (a swinging answer on unchanged facts is state, not data; rested, fed, away, needing neither outcome; list what would prove each option wrong).
+Source 517, "$100M CEO: "How to make the HARD decisions that change your life"" (Alex Hormozi). F2: conditions for large, hard-to-reverse decisions (a swinging answer on unchanged facts is state, not data; rested, fed, away, needing neither outcome; list what would prove each option wrong).
 
 ## v280 (14 November 2026)
 Source 515, "*REVEALED* Compensation plans that ACTUALLY WORK..." (Alex Hormozi). T1: variable pay for roles not paid on sales (leaders split company and own objectives; self-set monthly goals for front-line roles as an option to test), within X18.
