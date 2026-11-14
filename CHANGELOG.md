@@ -1,6 +1,9 @@
-Business rulebook version: v325 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v326 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v326 (2026-11-14)
+- M15 (rules-money-1c.md): closing a side line to focus on a larger business: stop new clients, written notice with the same service to the end date, recommend trusted providers, any referral payment agreed in writing and disclosed (X14, X17). Source 764.
 
 ## v325 (2026-11-14)
 - F28 (rules-strategy-2b.md): when cash is short, look for cash opportunities and survival threats before strengths and weaknesses; fastest cash comes from existing customers, with the play chosen by how soon the money is needed (limited paid-in-full places, a short programme with add-ons, a recurring tier on a free trial with the later price stated). Source 675.
