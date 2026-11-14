@@ -1,6 +1,10 @@
-Business rulebook version: v318 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v319 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v319 (14 November 2026)
+- T1: a team or role created to fix a metric gets the metric and a review date; stop the work if it hasn't moved (source 637).
+- F2: chart two years of monthly results to find seasonality; set seasonal targets and warn the team before low months (source 637).
 
 ## v318 (14 November 2026)
 - T1: change pay only to solve a named attraction, retention or top-performer problem, within pay law (X18); ask for team hours by task before approving a new hire (source 636).
