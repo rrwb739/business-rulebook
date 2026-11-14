@@ -1,6 +1,9 @@
-Business rulebook version: v305 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v306 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v306 (2026-11-14)
+Source 589, "How gurus lie about how much MONEY they make...I'm calling it out.." (Alex Hormozi). T2: when results are cited to sell advice, ask which figure it is and weigh the owner's yearly cash after reinvestment; use plain measures in the business's own claims.
 
 ## v305 (2026-11-14)
 Source 587, "How I RAISE PRICES without losing sales...(using this psychological trick)" (Alex Hormozi). M2: a price rise through an instalment total above the target, the old price as the first instalment and the target as the pay-in-full figure.
