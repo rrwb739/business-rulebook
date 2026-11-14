@@ -1,6 +1,9 @@
-Business rulebook version: v328 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v329 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v329 (2026-11-14)
+- T1 (rules-team.md): source a first marketing lead from owners of small agencies who have won clients without a brand. Source 803.
 
 ## v328 (2026-11-14)
 - T1 (rules-team.md): when the owner wants one hire to take over everything else, group tasks by skill and hire narrower roles rather than one person with every skill. Source 799.
