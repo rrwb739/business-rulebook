@@ -1,6 +1,9 @@
-Business rulebook version: v306 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v307 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v307 (2026-11-14)
+Source 596, "What I Learned After Countless Failed Business Partnerships" (Alex Hormozi). T3: on a partner exit, say what was agreed and not done, ask what is fair, and split shared debt in a short signed note.
 
 ## v306 (2026-11-14)
 Source 589, "How gurus lie about how much MONEY they make...I'm calling it out.." (Alex Hormozi). T2: when results are cited to sell advice, ask which figure it is and weigh the owner's yearly cash after reinvestment; use plain measures in the business's own claims.
