@@ -1,6 +1,158 @@
 Business rulebook version: v279 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
-# Changelog, continued (v115 and earlier)
+# Changelog, continued (v157 and earlier)
+
+## v157 (13 November 2026)
+
+Source 301 (event planning). Merged into M1 (live quote calculator; price lock within stated scope limits) and M31 (ask how many a year and sell the year; pre-renewal video).
+
+## v156 (13 November 2026)
+
+Source 300 (choosing which games to play). Merged into F22 (who sets the scoring, want the prize, worth the price) and M46 (optimise the dominant number).
+
+## v155 (13 November 2026)
+
+Source 299 (personal brand in three stages). Merged into O2 (credibility first; associations through what the avatar likes; brand moments with a public goal and stakes after the first target).
+
+## v154 (13 November 2026)
+
+Source 298 (debate on his posts). Merged into M2 (don't blend profit and helping in the price) and M19 (loss-making counts as reinvesting only with a written return thesis; plans discounted for execution risk).
+
+## v153 (13 November 2026)
+
+Source 297 (outworking everyone). Merged into F30 (daily long block on the constraint lever, then hand it on) and F34 (tenth-of-the-time and expert frames before long fixes).
+
+## v152 (13 November 2026)
+
+Source 296 (information against traditional businesses). Merged into F33 (end goal first: income or sellable asset; switch fully, no test bed).
+
+## v151 (13 November 2026)
+
+Source 295 (the business you are really in). Merged into T1 (paired output and quality measures), O2 (differentiator the buyer can see), F28 (price the wall, then commit).
+
+## v150 (13 November 2026)
+
+Source 294 (focus talk). Merged into F22 (wanted-no weekly question, meeting test against the goal's activities, returns concentrate at the top) and C13 (record calls from the start, best-calls playlist).
+
+## v149 (13 November 2026)
+
+Source 293 (audience Q&A). Merged into F30 (buying businesses by parts, key person by component skills), M9 (churn as constraint, activation point, client data condition), M11 (care plan after a one-off result, X11), M31 (what to advertise by upsell maths), M40 (usage charge for structural churners), M19 (offer to buy the business, hiring timing), D11 (loved delivery: price before format), T1 (culture as what is tolerated, instruction detail by skill), T2 (agency best practices, results window), L44 (low open rates), L69 (partners who visit the avatar, partner outreach on thin margins).
+
+## v148 (13 November 2026)
+- C13 sales turnaround and drills, M2 goal pricing, F28 fix the model first, T3 missing people and finance first, M9 consulting stage. Source 292 (source 291 no change).
+
+## v147 (13 November 2026)
+- L60 organic and paid together, L58 framework method. Source 290.
+
+## v146 (13 November 2026)
+- F30 four levers, O3 least-informed test, T1 hiring funnel, D7 group onboarding, D9 shared-problem fixes. Source 289.
+
+## v145 (13 November 2026)
+- M19 three ways to add value and multiple levers. Source 288.
+
+## v144 (13 November 2026)
+- D7 onboarding, D15 expectations and support logging, M9 save team with cancellation limit, M23 CAC against ad costs. Source 287.
+
+## v143 (13 November 2026)
+- F25 give your best skill in paid rooms; F11 ten-year frame. Source 286.
+
+## v142 (13 November 2026)
+- F18 claim test; T1 incomplete checklists, feedback for slow roles, individual reinforcers. Source 285.
+
+## v141 (13 November 2026)
+- F22 ideas wait and time for the future; M19 bet sizing. Source 284.
+
+## v140 (13 November 2026)
+- F30 top item only and finish before starting; T1 priority push and shared numbers. Source 283.
+
+## v139 (13 November 2026)
+- F23 match work to energy. Source 282 (source 281 an advert, no change).
+
+## v138 (13 November 2026)
+- O13 peak days, L44 quiz offers, L60 native buying, O29 limited release tests, L69 big-firm partners, X1 selling abroad. Source 280.
+
+## v137 (12 November 2026)
+- T1 hire maths, job post as offer, no staff revenue shares, new pay on new hires first; M46 measurement and two pipelines; M5 existing-client price rise order; M9 goals, renewal occasions, client success handover. Source 279.
+
+## v136 (12 November 2026)
+- M46 track only action-changing numbers, T1 three questions, F13 owner activities as verbs, L66 uneven referrals and reinvestment. Source 278.
+
+## v135 (12 November 2026)
+- O29 product strategy and removal test, M40 billing-period value and structural churners, M19 value follows economics, C11 paid feedback after a no. rules-offers-1.md split (O21 to O29 to rules-offers-1b.md). Source 276.
+
+## v134 (12 November 2026)
+- F23 task-hour deadlines and greyscale test, F24 real reps, F9 written reasons. Source 275.
+
+## v133 (12 November 2026)
+- New M47 key-client risk. F30 key-person check, D5 checklist depth, L65 owner-free product improvement, L62 single-channel risk, L36 payment provider backups, T2 key supplier risk. Source 274.
+
+## v132 (12 November 2026)
+- M45 standing review system; L65 branded items; X12 US FTC review rule and platform incentive ban. Source 273.
+
+## v131 (12 November 2026)
+- L62, L69, F30, F12, L44 merged. Source 272.
+
+## v130 (12 November 2026)
+- M19: when outside capital fits; return on capital for new units. F30: franchising. Source 271.
+
+## v129 (12 November 2026)
+- M40, M41, L69, M20 merged. Source 270.
+
+## v128 (12 November 2026)
+- L61, M7, L44, L57 merged. Source 268.
+
+## v127 (12 November 2026)
+- M5, M19, M31, L57 merged; K42 (new). Source 267.
+
+## v126 (12 November 2026)
+- M31, C3, L69, L2 merged; K41 (new). Source 266.
+
+## v125 (12 November 2026)
+- F2, F22, M19, T2, T1, T3, M41, L69, M1, L66, M9 merged; K40 (new). Source 265.
+
+## v124 (12 November 2026)
+- M20: a small first step for cold buyers; the main offer at the first result. M40: set-up fee waived for a year or paid with short-term continuity. M9: show the value by pulling the client's numbers. L61: ad test budget per campaign. L44: walk the funnel monthly; cold-traffic page layout. K39 (new). Source 264.
+
+## v123 (12 November 2026)
+- L60: asks point where sales already come from; mid-piece mention; old pieces updated; one question to each new follower. Source 261.
+- M2: sell a fixed outcome and say why hourly misaligns. Source 261.
+- M7: lower fee plus a share of the win against a higher flat fee. Source 261.
+- L79: speaking only when demand can be served, or charge the sales lost. Source 261.
+- K38 (new): niche professional service consolidating onto the line that makes money. Source 261.
+
+## v122 (12 November 2026)
+- T1: product-line units with their own profit and loss and unit profit share; written cases for new lines, an incubator group, champions to lead them; in person or remote decided by role. Source 260.
+- M19: stop a project that reveals an uncapped downside, whatever has been spent; list regulated exposures first. Source 260.
+- X20: large assets held in separate entities outside the operating business, with an adviser. Source 260.
+
+## v121 (12 November 2026)
+- O6: levers for speed, risk and ease; cheapest as a fourth way to win only as a whole-business design; lead marketing with one. Source 259.
+
+## v120 (12 November 2026)
+- Tabs regrouped at the owner's request: Strategy, Daily numbers, Offer and money models, Marketing, Sales, leads and delivery, Weekly review. prompts/offer.md and money-models.md merged into offer-and-money-models.md; marketing-and-leads.md became marketing.md (marketing only); sales.md, delivery.md and the leads part merged into sales-leads-and-delivery.md; README step 4 updated. No rule changed.
+
+## v119 (12 November 2026)
+- M23: the human-step ratios are floors; a fully manual model aims far higher before scaling because hiring growth is lumpy. Source 258.
+- T1: raise profit first so an expensive senior hire can be attempted two or three times. Source 258.
+- L66: word of mouth needs no reason to keep quiet and frequent contact with possible buyers; otherwise focus on retention. Source 258.
+
+## v118 (12 November 2026)
+- M32: menu layout for businesses with menus (price and margin order, first-visit pick, pairings, one rotating special, free-item threshold), short add-on questions. Source 256.
+- M8: walk-in businesses: first-time visitors marked, surprise ending, personal comeback card; running-start loyalty card with a scarce perk. Source 256.
+- M15: write a new location's cost, time to profit, payback, launch and staffing first; soft open. Source 256.
+- M5: price endings and small per-item rises on high-volume businesses, tested. Source 256.
+- L69: pre-opening promoter night with a traceable offer. Source 256.
+- K37 (new): busy restaurant fixing the first unit before a second location. Source 256.
+
+## v117 (12 November 2026)
+- M40: one-time against consumable deliverables, consumables priced as if sold alone, instalments are a payment plan not continuity, continued education as sticky education, higher levels with fewer buyers. Source 254.
+- M9: churn judged against the avatar's volatility; a retention milestone after which clients stay; each continuity feature must justify the price alone. Source 254.
+- F30: value comes from retention and margin, not software; a strong cash-flow business that can't be sold is a legitimate choice; set when delayed reward is taken. Source 254.
+
+## v116 (12 November 2026)
+- T1: the five reasons a task isn't done expanded into a five-question check (wanted, what in behaviours or outcomes, how, by when, blocked), asked in that order before motivation; written requests; end-of-day default; prerequisites over training basics; the capability framing; no keeping someone on because no one else would hire them; the same check on the owner's own stalled work. Source 253.
+
+Older entries (v115 and earlier) are in CHANGELOG-1.md.
 
 ## v115, 2026-11-12
 Housekeeping (no source).
