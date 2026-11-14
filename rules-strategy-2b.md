@@ -1,4 +1,4 @@
-Business rulebook version: v274 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v275 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 ## Strategy and thinking (F), continued
 

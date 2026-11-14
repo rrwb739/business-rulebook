@@ -1,6 +1,9 @@
-Business rulebook version: v274 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v275 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v275 (14 November 2026)
+Source 509, "30 Minutes of sales training that will explode your business in 2022" (Alex Hormozi). T1: sales contests on a fixed cycle of about six weeks in small mixed teams; small pay steps at closed-sale milestones.
 
 ## v274 (14 November 2026)
 Source 508, "I paid 0% tax on 56% of my income...here's how.." (Alex Hormozi). X19: checks before any promoted tax-saving scheme (plain-words explanation by an independent adviser, full cost including unwinding, users of over a decade, promoter and entity checks, HMRC named lists; use reliefs as intended; deferral is not removal). M19: never buy something just because it is deductible.
