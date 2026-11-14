@@ -1,6 +1,9 @@
-Business rulebook version: v290 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v291 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v291 (14 November 2026)
+Source 549, "How To Make BUCKETS of Money In SERVICE Businesses" (Alex Hormozi). O36: as a rough guide, sell about a fifth of the places known demand could fill, so the next round sells out too; the cap stays real.
 
 ## v290 (14 November 2026)
 Source 543, "How to get unlimited funding to build your business in 30 days..." (Alex Hormozi). M20: 30-day cash at 1x cost is the floor and 2x the target; never fund acquisition on borrowed money such as a credit card's interest-free period.
