@@ -1,6 +1,9 @@
-Business rulebook version: v312 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v313 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v313 (14 November 2026)
+- F30: when buying a small business, find sellers directly, agree the price first and then the terms, and check profit covers all loans and deferred payments on cautious inputs (source 619).
 
 ## v312 (14 November 2026)
 - T1: several product lines each run as a profit unit on a shared core; launch a line only with a leader as capable as the owner; prefer growth-minded salaried leaders, and ask former owners why they want a salaried role (source 617).
