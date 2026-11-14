@@ -1,4 +1,4 @@
-Business rulebook version: v270 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v271 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 5: Strategy (F), Scaling roadmap (S), Offers (O)
 
@@ -17,7 +17,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - F10 [the owner asks what to do next, reports a result, or plans the week] Read the project's stage from the instructions box; map it to S0 to S3; lead levels and product ladder; next step for this stage only. (rules-strategy-1.md)
 - F11 [setting goals] Input goals, high daily minimums, 12-week detailed plans, 50% buffer on own estimates, no private deadlines, one verified stretch goal; ten-year frame; a goal big enough to force a more leveraged method; barbell: new tools in operations, long bets on needs that won't change. (rules-strategy-1.md)
 - F12 [choosing pilots, pilots are done, every 10 new clients after, or qualifying a prospect] Ideal client from five columns and shared traits of the top 20%; red-flag list; two or more flags, don't sell; name the event that starts the buying cycle. (rules-strategy-1.md)
-- F13 [deciding where the owner's hours go] Money per hour; keep the owner on the highest-value skill; log hours by attraction, conversion, delivery, account management; owner's activities as verbs, feeder or runner, cut the rest; scale by automate, hand off or one-to-many. (rules-strategy-1.md)
+- F13 [deciding where the owner's hours go] Money per hour; keep the owner on the highest-value skill; log hours by attraction, conversion, delivery, account management; owner's activities as verbs, feeder or runner, cut the rest; scale by automate, hand off or one-to-many; hire by gap between owner's hourly value and replacement cost; freed hours go to higher-value work; choose early shortcuts deliberately. (rules-strategy-1.md)
 - F14 [fear is blocking a decision] Play out the worst case, keep a profitable solo floor, pick the better story at 85; ignore views from outside the avatar or behind the owner. (rules-strategy-1.md)
 - F15 [starting something the owner has not done before] Don't posture; learn from people ahead, give first in communities, show the work when asking; keep a list of the owner's Ten; copy what people ahead did at the owner's stage.; visit the industry hub in person; a small peer group at the same stage studying what works together; accept the first invite; 30 minutes' research and one useful thing before each meeting; judge circles by the units they think in. (rules-strategy-1.md)
 - F16 [considering building software] Pre-sell a paid waitlist; no custom software before the first target; own code and accounts; budget twice the quote. (rules-strategy-1.md)

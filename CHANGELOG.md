@@ -1,6 +1,9 @@
-Business rulebook version: v270 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v271 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v271 (14 November 2026)
+Source 503, "The first 5 hires EVERY entrepreneur should make...or go broke..." (Alex Hormozi). F13: hiring order by the gap between the owner's hourly value and replacement cost; freed hours go to higher-value work; early shortcuts chosen deliberately as debts.
 
 ## v270 (14 November 2026)
 Source 495, "$100M Salesman Reveals #1 Persuasion Hack" (Alex Hormozi). C13: a weekly meeting of sales and delivery sharing consented client wins and misunderstandings; a seller's slump treated as lost belief before lost skill.
