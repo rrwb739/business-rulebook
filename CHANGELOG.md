@@ -4,6 +4,7 @@ Business rulebook version: v315 | index: instructions.md | rule text: the rules 
 
 ## v315 (14 November 2026)
 - F2: judge past decisions by the information and reasoning at the time, not the outcome; test a changed decision rule against all similar past decisions; change it only on a recurring miscalculation (source 629).
+- CHANGELOG.md passed the size cap: entries v175 and earlier moved unchanged to CHANGELOG-1.md (hard rule 8).
 
 ## v314 (14 November 2026)
 - T3: map acquisition, product and operations and give each partner one; two partners on one role means one isn't needed; every activity gets one named owner; write working expectations; the agreement negotiation as a stress test (source 623).
@@ -469,75 +470,3 @@ Source 331 (negotiation). Merged into C12 (list every movable term and trade one
 ## v176 (13 November 2026)
 
 Source 330 (new money). Merged into M19 (wanted upgrades that fail the payback test funded by a defined extra project, not core income, savings or open-ended debt).
-
-## v175 (13 November 2026)
-
-Source 329 (first gym, 26 lessons). Merged into F20 (barter spare capacity when cash is short; ask openly for help), F22 (test demand by area before a lease; pre-sell before opening; next site after six months without the owner), O8 (guarantee as a paid option) and X19 (barter is a taxed sale in the UK; trigger now includes bartering).
-
-## v174 (13 November 2026)
-
-Source 325 (sales tone). Merged into C13 (five plain delivery controls marked in the script; longest pause after the ask; feedback in plain terms).
-
-## v173 (13 November 2026)
-
-Source 324 (mental toughness). Merged into F20 (four measures of a setback; act at the normal standard despite the mood; use the setback for a fix; protect sleep and meals in hard weeks).
-
-## v172 (13 November 2026)
-
-Source 323 (premium first). Merged into M7 (three prompts for the premium tier; speed for wealthy buyers; state price then pause; capped one-to-one early). Split: rules-money-1.md into rules-money-1.md (M1 to M8) and rules-money-1c.md (M9 to M18), rules moved unchanged, index updated.
-
-## v171 (13 November 2026)
-
-Source 321 (learning method). Merged into F24 (iterations per day; sub-skills as observable actions; observe what the best do; top-tenth loops).
-
-## v170 (13 November 2026)
-
-Source 320 (launch documentary). Merged into L75 (launch pre-mortem: choke points tested with backups, rehearsal, trained phone staff).
-
-## v169 (13 November 2026)
-
-Source 318 (the first $100,000 saved). Merged into F23 (promote, deliver, build daily split).
-
-## v168 (13 November 2026)
-
-Source 317 (six levels of being paid). Merged into M2 (payment-terms ladder; outcome fees on revenue not profit; priced risk).
-
-## v167 (13 November 2026)
-
-Source 316 (five service-business owners). Merged into M40 (small-business recurring services: avoid the labour-heavy middle price), F34 (data before AI), T1 (sales hiring as a parallel funnel; gross profit per seller against cost).
-
-## v166 (13 November 2026)
-
-Source 315 (four product-business owners). Merged into T2 (bench of contractors for sporadic work), O2 (e-commerce: one brand around the winning product), F22 (audience owners add products instead of growing the audience; sunk cost).
-
-## v165 (13 November 2026)
-
-Source 314 (winning with AI). Merged into T1 (task list and workflows before any hire; raise the standard when work is automated, lawful exits) and F11 (barbell: new tools in operations, long bets on needs that won't change).
-
-## v164 (13 November 2026)
-
-Source 312 (a recruiting video on one group's money flow). Merged into T1 (recruiting video before interviews).
-
-## v163 (13 November 2026)
-
-Source 311 (AI across the business). Merged into F34 (AI as tool not identity; owner automates own workflow; fair comparison after equal training).
-
-## v162 (13 November 2026)
-
-Source 310 (five traits of a strong business). Merged into F33 (five-trait score: sticky, margin, growing market, low complexity and capital, moat).
-
-## v161 (13 November 2026)
-
-Source 308 (local moving company). Merged into C14 (commodity price objection: widen the comparison with true factors), O42 (price cap on estimates), O6 (internal skill levels as a true selling point), L69 (client upgrade beats a cash fee; the firm's head and client pack).
-
-## v160 (13 November 2026)
-
-Source 306 (parent-coaching group programme). [Fixed] X3: UK, legal rights never presented as a guarantee or feature (DMCC Act 2024 Sch 20 para 11). Merged into M7 (self-checkout priced below the assisted route), C2 (weekly group presentation for enquirers, FAQs by frequency), D15 (suggested replies from past answers, human-checked).
-
-## v159 (13 November 2026)
-
-Source 304 (three decision questions). Merged into F2 (same questions for team proposals; what would it take; do nothing as an option).
-
-## v158 (13 November 2026)
-
-Source 303 (the algorithm for content). Merged into F34 (working questions per step; worked against elapsed time; judge AI spend by results) and F21 (whole story including failures; impostor feeling as an overstated claim; speak only where there is proof).
