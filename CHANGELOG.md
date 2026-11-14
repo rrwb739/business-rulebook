@@ -1,6 +1,9 @@
-Business rulebook version: v317 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v318 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v318 (14 November 2026)
+- T1: change pay only to solve a named attraction, retention or top-performer problem, within pay law (X18); ask for team hours by task before approving a new hire (source 636).
 
 ## v317 (14 November 2026)
 - L18: set the growth target on one leading number the team drives (seller-accepted qualified leads), not sales; slow channels get a written first-judgement date (source 635).
