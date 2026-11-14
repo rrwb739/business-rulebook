@@ -1,6 +1,9 @@
-Business rulebook version: v286 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v287 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v287 (14 November 2026)
+Source 537, "Explaining How Anyone Can Make $100M Offers" (Alex Hormozi interviewed). O39: one or two bonuses that solve problems that only arise once the client succeeds.
 
 ## v286 (14 November 2026)
 Source 535, "How I CRUSH copycats, thieves and competition." (Alex Hormozi). F27: when a former client or employee copies the business or courts its clients, no model change and no naming; give clients more; contracts and IP protection for material actually taken.
