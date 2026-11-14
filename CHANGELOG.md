@@ -1,6 +1,9 @@
-Business rulebook version: v271 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v272 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v272 (14 November 2026)
+Source 505, "$100M CEO: How I know who to trust..." (Alex Hormozi). T1: values must exclude someone, use the team's words, all three required, applied to clients and partners; interview for character, honesty and taking feedback.
 
 ## v271 (14 November 2026)
 Source 503, "The first 5 hires EVERY entrepreneur should make...or go broke..." (Alex Hormozi). F13: hiring order by the gap between the owner's hourly value and replacement cost; freed hours go to higher-value work; early shortcuts chosen deliberately as debts.
