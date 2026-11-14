@@ -1,6 +1,9 @@
-Business rulebook version: v320 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v321 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v321 (14 November 2026)
+- Leads-4 referral rule: when monthly referral rate exceeds monthly churn, the base grows without paid acquisition; close that gap as a growth target (source 654).
 
 ## v320 (14 November 2026)
 - Strategy yearly review (strategy-1): count opportunity cost, what the same team and assets would earn in the best other market; test a clearly better use on the side first (source 653).
