@@ -1,6 +1,9 @@
-Business rulebook version: v272 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v273 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v273 (14 November 2026)
+Source 506, "I Sold My Company at 31: My Detailed Breakdown of the Decision" (Alex Hormozi). M48: decide whether to sell before preparing (reasons, after-tax cash against the kept stake, whether a role change gives the same); keep deciding for clients, not for how a buyer would see it.
 
 ## v272 (14 November 2026)
 Source 505, "$100M CEO: How I know who to trust..." (Alex Hormozi). T1: values must exclude someone, use the team's words, all three required, applied to clients and partners; interview for character, honesty and taking feedback.
