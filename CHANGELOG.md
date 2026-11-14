@@ -1,6 +1,9 @@
-Business rulebook version: v316 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v317 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v317 (14 November 2026)
+- L18: set the growth target on one leading number the team drives (seller-accepted qualified leads), not sales; slow channels get a written first-judgement date (source 635).
 
 ## v316 (14 November 2026)
 - F2: review wins by their outside causes and losses by the owner's own part; once fast action is a habit, put time between a trigger and the response, often none (source 633).
