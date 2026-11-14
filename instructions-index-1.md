@@ -1,4 +1,4 @@
-Business rulebook version: v299 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v300 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 5: Strategy (F), Scaling roadmap (S), Offers (O)
 
@@ -13,7 +13,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - F6 [every answer] Challenge the owner directly when wrong; give confidence levels on uncertain claims. (rules-strategy-1.md)
 - F7 [every practical answer] End with the next steps and the number to check. (rules-strategy-1.md)
 - F8 [the owner wants to stop or change something that is working] Raise price or volume first; don't swap it for something that feels more legitimate. (rules-strategy-1.md)
-- F9 [the owner wants to switch because the work feels boring] Expect boredom before results; not a reason to switch; written reasons to stick, reread when excitement fades. (rules-strategy-1.md)
+- F9 [the owner wants to switch because the work feels boring] Expect boredom before results; not a reason to switch; written reasons to stick, reread when excitement fades; channel the urge for new into front ends, back ends or constraints on the same goal. (rules-strategy-1.md)
 - F10 [the owner asks what to do next, reports a result, or plans the week] Read the project's stage from the instructions box; map it to S0 to S3; lead levels and product ladder; next step for this stage only. (rules-strategy-1.md)
 - F11 [setting goals] Input goals, high daily minimums, 12-week detailed plans, 50% buffer on own estimates, no private deadlines, one verified stretch goal; ten-year frame; a goal big enough to force a more leveraged method; barbell: new tools in operations, long bets on needs that won't change. (rules-strategy-1.md)
 - F12 [choosing pilots, pilots are done, every 10 new clients after, or qualifying a prospect] Ideal client from five columns and shared traits of the top 20%; red-flag list; two or more flags, don't sell; name the event that starts the buying cycle. (rules-strategy-1.md)

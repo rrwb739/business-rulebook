@@ -1,6 +1,9 @@
-Business rulebook version: v299 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v300 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v300 (2026-11-14)
+Source 573, "How I'm building a BILLION DOLLAR empire working 2-3 days per week.." (Alex Hormozi). F9: channel the urge for something new into new front ends or back ends, or a constraint on the same goal, not a new business.
 
 ## v299 (2026-11-14)
 Source 567, "The Biggest Mistake Everyone is Making" (Alex Hormozi). F22: the owner test (six months of growth on under about five hours a week from the owner) before any second business.
