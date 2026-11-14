@@ -1,6 +1,10 @@
-Business rulebook version: v326 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v327 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v327 (2026-11-14)
+- T1 (rules-team.md): enforce a standard only once it was known, achievable and chosen against; respond every time, immediately and in proportion, stepping up through the written disciplinary process; a repeated pattern ends in a lawful exit even for a high performer (X18). Source 784.
+- C1 (rules-sales.md): build the sales process for buyers who don't yet know the owner; warm leads still buy through it, a warm-only process fails on cold leads. Source 787.
 
 ## v326 (2026-11-14)
 - M15 (rules-money-1c.md): closing a side line to focus on a larger business: stop new clients, written notice with the same service to the end date, recommend trusted providers, any referral payment agreed in writing and disclosed (X14, X17). Source 764.
