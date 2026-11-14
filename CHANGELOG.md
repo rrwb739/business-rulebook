@@ -1,6 +1,9 @@
-Business rulebook version: v327 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v328 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v328 (2026-11-14)
+- T1 (rules-team.md): when the owner wants one hire to take over everything else, group tasks by skill and hire narrower roles rather than one person with every skill. Source 799.
 
 ## v327 (2026-11-14)
 - T1 (rules-team.md): enforce a standard only once it was known, achievable and chosen against; respond every time, immediately and in proportion, stepping up through the written disciplinary process; a repeated pattern ends in a lawful exit even for a high performer (X18). Source 784.
