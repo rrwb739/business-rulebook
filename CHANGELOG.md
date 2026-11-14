@@ -1,6 +1,9 @@
-Business rulebook version: v302 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v303 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v303 (2026-11-14)
+Source 583, "I OWN 6 multimillion dollar companies...this is how I do it..." (Alex Hormozi). M48: after handover, the owner acts as an adviser: quarterly reviews, no tasks from meetings, off the team's day-to-day chat, one channel for senior leaders.
 
 ## v302 (2026-11-14)
 Source 581, "Here's Why I Always Give Away a % of My Business" (Alex Hormozi). T3: phantom equity for key employees in hard-to-measure roles: share of sale proceeds, vesting with a cliff, lapses on leaving, taxed as employment income.
