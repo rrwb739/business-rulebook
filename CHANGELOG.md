@@ -1,6 +1,9 @@
-Business rulebook version: v281 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v282 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v282 (14 November 2026)
+Source 522, "How I find MILLION DOLLAR opportunities..." (Alex Hormozi). F33: size an opportunity by units at scale, profit per unit and whether demand outpaces supply; reconsider the vehicle after years without progress, under L1. rules-strategy-2b.md split: F33 and F34 moved unchanged to rules-strategy-2c.md (hard rule 8).
 
 ## v281 (14 November 2026)
 Source 517, "$100M CEO: "How to make the HARD decisions that change your life"" (Alex Hormozi). F2: conditions for large, hard-to-reverse decisions (a swinging answer on unchanged facts is state, not data; rested, fed, away, needing neither outcome; list what would prove each option wrong).
