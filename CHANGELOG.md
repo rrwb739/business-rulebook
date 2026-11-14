@@ -1,6 +1,9 @@
-Business rulebook version: v285 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v286 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v286 (14 November 2026)
+Source 535, "How I CRUSH copycats, thieves and competition." (Alex Hormozi). F27: when a former client or employee copies the business or courts its clients, no model change and no naming; give clients more; contracts and IP protection for material actually taken.
 
 ## v285 (14 November 2026)
 Source 532, "How I make friends with BILLIONAIRES [5 Steps]" (Alex Hormozi). F15: new contacts (names, an immediate message with both names, useful help unasked, yes to the first invitation within F1 hours and the outreach minimum, ask more than once when inviting, describe problems instead of asking).
