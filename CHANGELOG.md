@@ -1,6 +1,9 @@
-Business rulebook version: v292 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v293 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v293 (2026-11-14)
+Source 552, "My 7 year journey to making my first million." (Alex Hormozi). L36: tell payment providers in writing before a planned refund spike or model change. T1: commission only on cash received. M18: when a partner delivers, control delivery or agree refunds and no-solicit in writing. M15: closing a unit cleanly.
 
 ## v292 (14 November 2026)
 Source 551, "How to sell a product - The most PURSUASIVE tactic you can use..." (Alex Hormozi). O32: make the full offer or none; no shortened, rushed pitch; give value only when the slot doesn't suit an offer.
