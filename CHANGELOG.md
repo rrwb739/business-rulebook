@@ -1,6 +1,9 @@
-Business rulebook version: v300 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v301 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v301 (2026-11-14)
+Source 576, "We fired everyone who was late...this is why.." (Alex Hormozi). T1: ask new starters what their manager told them; enforce stated standards from the first breach through the lawful process, never instant dismissal.
 
 ## v300 (2026-11-14)
 Source 573, "How I'm building a BILLION DOLLAR empire working 2-3 days per week.." (Alex Hormozi). F9: channel the urge for something new into new front ends or back ends, or a constraint on the same goal, not a new business.
