@@ -1,6 +1,9 @@
-Business rulebook version: v314 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v315 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v315 (14 November 2026)
+- F2: judge past decisions by the information and reasoning at the time, not the outcome; test a changed decision rule against all similar past decisions; change it only on a recurring miscalculation (source 629).
 
 ## v314 (14 November 2026)
 - T3: map acquisition, product and operations and give each partner one; two partners on one role means one isn't needed; every activity gets one named owner; write working expectations; the agreement negotiation as a stress test (source 623).
