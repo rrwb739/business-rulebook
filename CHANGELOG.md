@@ -1,6 +1,9 @@
-Business rulebook version: v291 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v292 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v292 (14 November 2026)
+Source 551, "How to sell a product - The most PURSUASIVE tactic you can use..." (Alex Hormozi). O32: make the full offer or none; no shortened, rushed pitch; give value only when the slot doesn't suit an offer.
 
 ## v291 (14 November 2026)
 Source 549, "How To Make BUCKETS of Money In SERVICE Businesses" (Alex Hormozi). O36: as a rough guide, sell about a fifth of the places known demand could fill, so the next round sells out too; the cap stays real.
