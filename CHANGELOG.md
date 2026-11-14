@@ -1,6 +1,9 @@
-Business rulebook version: v329 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v330 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v330 (2026-11-14)
+- M33 (rules-money-2.md): price may also be shown in a smaller unit (per day or week) if the billed amount and frequency are shown just as clearly beside it (X9). Source 823.
 
 ## v329 (2026-11-14)
 - T1 (rules-team.md): source a first marketing lead from owners of small agencies who have won clients without a brand. Source 803.
