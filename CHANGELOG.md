@@ -1,6 +1,9 @@
-Business rulebook version: v276 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v277 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v277 (14 November 2026)
+Source 511, "Watch these 55 minutes if you want to be a millionaire in 2022.." (Alex Hormozi). O31: the base units anything sold is made of, and the referral-only prompt. T1: hiring run as a funnel, interviews sized to turnover plus growth.
 
 ## v276 (14 November 2026)
 Source 510, "How I Scaled My Sales Team [Compensation, Recruiting & Training]" (Alex Hormozi). T1: sales role ladders (about four levels, each about eight weeks of output, visible, drop-backs, the top level earns a promotion trial), light screening for first-touch callers, half-day call blocks. D9: clients vote on problems; the shared practices tested on the weakest clients for 30 days and results shared, failures included.
