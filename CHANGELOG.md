@@ -1,6 +1,9 @@
-Business rulebook version: v296 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v297 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v297 (2026-11-14)
+Source 562, "How to Pick the Right Mentor" (Alex Hormozi). T2: tier a supplier's fee so it rewards what the owner wants; judge professional advisers on intent and skill separately, and read up before choosing.
 
 ## v296 (2026-11-14)
 Source 561, "We're giving away all our money." (Alex Hormozi). D17: once there is a public audience, state how the business contacts people and that it never asks for money in comments or messages; report impersonators.
