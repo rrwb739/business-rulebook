@@ -1,6 +1,10 @@
-Business rulebook version: v381 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v382 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v382 (15 November 2026)
+- T6: a five-step coaching conversation that leaves the work with the person; no memo, no meeting; three-year picture, one-year target and 90-day actions with two or three priorities each.
+- Source: Sharran Srivatsaa, live "How the Top 1% CEOs Create Businesses That Run Without Them" (source 1057).
 
 ## v381 (15 November 2026)
 - M19: before buying a business, ask and independently check why the owner is selling; tie part of the price to a handover and results where it depends on one person.
