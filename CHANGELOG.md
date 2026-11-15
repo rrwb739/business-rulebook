@@ -1,6 +1,10 @@
-Business rulebook version: v335 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v336 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v336 (2026-11-15)
+- L41 (rules-leads-2.md): order the day in three blocks: getting customers first, then delivery and urgent work, then one-time assets. Sources 893, 896.
+- C13 (rules-sales-b.md): grow a sales team through training rather than selection. Source 897.
 
 ## v335 (2026-11-15)
 - T1 (rules-team.md): theft found is treated as a likely pattern: investigate, gross misconduct process, recover, report where appropriate, tighten controls (X18). Source 889.
