@@ -1,6 +1,10 @@
-Business rulebook version: v378 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v379 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v379 (15 November 2026)
+- F3: when results stall, separate a model problem from an execution problem: if others make the same model work, fix execution first.
+- Source: Sharran Srivatsaa, live "Answering Your Money Questions" (source 1047).
 
 ## v378 (15 November 2026)
 - D14: when the business has been paid more than agreed or gained from an error the client never noticed, tell the client and return it unasked.
