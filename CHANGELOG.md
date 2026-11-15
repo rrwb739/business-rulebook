@@ -1,6 +1,11 @@
-Business rulebook version: v391 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v392 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v392 (15 November 2026)
+- F28: test a named constraint by asking whether doubling it alone would raise cash collected; advice that moved nothing usually means the constraint was misnamed.
+- F23: weekly review and preview: follow-ups from last week's calendar, preparation for the next two weeks.
+- Sources: Sharran Srivatsaa Shorts (sources 1304, 1309).
 
 ## v391 (15 November 2026)
 - M19: when buying a business or online asset, verify revenue independently (read-only access, statements, a test purchase), pay through escrow or a solicitor against a signed contract listing every login and asset, and test a new payment route with a small amount.
