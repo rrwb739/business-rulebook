@@ -1,4 +1,4 @@
-Business rulebook version: v406 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v407 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 3 of 5: Sales (C), Money models (M)
 
@@ -12,7 +12,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - C5 [on a sales call] [Fixed] Follow CLOSER (clarify, label, overview, sell, explain, reinforce) with the diagnostic inside it; no ask until they've said why they need a fix; likes and dislikes from past attempts.; pre-handle concerns in discovery, no free full diagnosis, a doubt check after yes, proposals answered on the call; assess, offer, then first help. (rules-sales.md)
 - C6 [presenting bonuses on a one-to-one call] Ask for the sale first on the core offer; add one obstacle-removing bonus at a time after a no; never discount to close. (rules-sales.md)
 - C7 [presenting the price] [Fixed] Use the return close with their own cautious numbers, say it is expensive just before the number, state the price and stop; fix belief or the offer, not the pitch. (rules-sales.md)
-- C8 [a prospect hesitates, or the call gets lost in detail] Best case, worst case close; "let's zoom out". (rules-sales-b.md)
+- C8 [a prospect hesitates, or the call gets lost in detail] Best case, worst case close; "let's zoom out".; work back from the buyer's own deadline (rules-sales-b.md)
 - C9 [a prospect asks for more proof] [Fixed] Ask how much proof is enough, find the real fear, and offer consented, unrewarded client references. (rules-sales-b.md)
 - C10 [a prospect says no or stalls] Resolve the concern, then ask again, while rapport holds; expect a first no; universal closes first (does this get you closer, main concern, reason, hypothetical, zoom out, 1 to 10, best and worst case only with a real guarantee), ask again after each, after three or four noes book the next call; never the reason close on someone who cannot afford it; "wrong card" stall: reconfirm, provider's page; first charge on payday only if they can afford it. (rules-sales-b.md)
 - C11 [the end of any call] Book the next step before hanging up and ask who else would benefit; one light introduction ask after a no; after a no, one ask for a short paid feedback call, research only. (rules-sales-b.md)

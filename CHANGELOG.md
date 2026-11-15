@@ -1,6 +1,11 @@
-Business rulebook version: v406 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v407 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v407 (15 November 2026)
+- L69: two give-first routes to partners: a guest interview show named for the area or niche, and a recommendation swap where each emails its own list (no data shared, rewards disclosed).
+- C8: when the buyer has a real deadline, work back from it in front of them to the start date; urgency only from their own date.
+- Sources: Sharran Srivatsaa Shorts (sources 1754, 1759, 1768).
 
 ## v406 (15 November 2026)
 - T3: before partnering, watch how they treat people with no power over them, how they handle problems and whether they follow through unprompted.
