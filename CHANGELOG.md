@@ -1,6 +1,11 @@
-Business rulebook version: v342 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v343 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v343 (15 November 2026)
+Source 981 (live stream, "What really matters at the end of life").
+- L1: an idea fails the market test when a free or cheap alternative is good enough; displacing one needs a far better offer; low-value consumer products usually need word of mouth, not ads.
+- L4: [shape: local] after the first target, a small local pool can justify the next channel sooner, once the first shows saturation.
 
 ## v342 (15 November 2026)
 Source 980 (live stream, "I Live Streamed For 30 Days. Here's What I Learned.").
