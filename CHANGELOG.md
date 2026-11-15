@@ -1,6 +1,11 @@
-Business rulebook version: v351 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v352 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v352 (15 November 2026)
+Source 991 (live stream, "He Makes $1.5M a Year... and Keeps 1.3% of It").
+- M15: payback and return per unit, lean build-outs, a grand opening pulls payback forward.
+- M20: lease depreciating equipment rather than buy, to grow on cash flow.
 
 ## v351 (15 November 2026)
 Source 990 (live stream, "Should He Walk Away From His $1.4M Business To Start Over?").
