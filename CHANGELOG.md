@@ -1,6 +1,10 @@
-Business rulebook version: v331 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v332 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v332 (2026-11-15)
+- T1 (rules-team.md): hire break-even: full yearly cost divided by margin gives the extra revenue the owner's freed hours must bring in. Source 849.
+- D11 (rules-delivery.md): staff walk-in demand from the same weekday last year adjusted for growth, with a surge plan. Source 847.
 
 ## v331 (2026-11-15)
 - M19 (rules-money-1b.md): deal terms must still make sense if the owner stops liking the other side; no concessions out of friendship. Source 833.
