@@ -1,6 +1,10 @@
-Business rulebook version: v367 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v368 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v368 (15 November 2026)
+Source 1009 (live stream, an earlier book launch presentation, 1h27).
+- O35: launch promotion is added on top of the regular content at its usual volume, planned weeks ahead.
 
 ## v367 (15 November 2026)
 Source 1007 (live stream, audience Q&A on goals, 1h29).

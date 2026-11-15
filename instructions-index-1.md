@@ -1,4 +1,4 @@
-Business rulebook version: v367 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v368 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 5: Strategy (F), Scaling roadmap (S), Offers (O)
 
@@ -88,7 +88,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - O32 [step 5 of O30, or adding anything to the offer] Trim low-value items, stack the rest by problem with honest values, and cut needless choices; full offer or none: no rushed or shortened pitch; value only when the slot does not suit an offer. (rules-offers-2.md)
 - O33 [a prospect gives a reason not to buy] Solve every perceived problem the way they need, then template the fix. (rules-offers-2.md)
 - O34 [choosing delivery methods] Favour high-value, one-to-many assets; save one-to-one time for the biggest value adds. (rules-offers-2.md)
-- O35 [presenting, launching or promoting the offer] Enhancers raise demand without changing the offer; keep supply below demand. (rules-offers-2.md)
+- O35 [presenting, launching or promoting the offer] Enhancers raise demand without changing the offer; keep supply below demand.; launch promotion added on top of regular content (rules-offers-2.md)
 - O36 [selling places, groups or the lead magnet] [Fixed] Scarcity from real caps only, stated with real counts; scarcity decides when, never whether; sell about a fifth of known demand so the next round sells out too. (rules-offers-2.md)
 - O37 [any sales conversation, campaign or page] [Fixed] Urgency from true deadlines only; launch with Whisper, Tease, Shout; never let anyone in after a deadline; keep usual value at usual volume during a launch, launch messages on top and worth watching.; sell-down to a real stop date (rules-offers-2.md)
 - O38 [after the first target, F3] [stage: S3+] A tiny, hard-capped, very high-priced direct-access tier, treated as a test. (rules-offers-2.md)
