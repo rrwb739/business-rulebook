@@ -1,6 +1,13 @@
-Business rulebook version: v354 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v355 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v355 (15 November 2026)
+Source 995 (live stream, "Alex Hormozi Answers Your Questions").
+- C3: reminders confirm the pre-call video was watched and every decision maker will attend; proof video while preparing an in-person quote.
+- M28: free tool or tier users as zero-cost leads; call step at sign-up; limited free tier; next-problem paid offer.
+- L73: real-stakes content from recorded client sessions with consent; reuse hook structures, not content.
+- L61: winning-ad log for AI variations; client-made content as a disclosed endorsement (X14).
 
 ## v354 (15 November 2026)
 Source 994 (live stream, "Alex Hormozi Answers Your Questions (Ask Me Anything)").
