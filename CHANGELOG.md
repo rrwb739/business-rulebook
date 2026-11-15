@@ -1,6 +1,10 @@
-Business rulebook version: v383 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v384 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v384 (15 November 2026)
+- M48: once a year, under confidentiality, ask a few likely buyers what they would pay and what would make it worth meaningfully more; use the answers as an input to next year's plan.
+- Source: Sharran Srivatsaa, live "This Formula Has Made More Millionaires Than a Harvard MBA" (source 1061).
 
 ## v383 (15 November 2026)
 - T6: credit named people for exactly what they did, never only "the team".
