@@ -1,6 +1,10 @@
-Business rulebook version: v402 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v403 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v403 (15 November 2026)
+- F23: get a rough first version of any new piece of work out fast and improve it from real reactions.
+- Source: Sharran Srivatsaa, Short "The fastest way to make something great is to make a lot of something imperfect." (source 1650).
 
 ## v402 (15 November 2026)
 - F22: script the no once (current priority and when the door reopens) and give the team the same wording.
