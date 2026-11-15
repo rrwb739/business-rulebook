@@ -1,6 +1,11 @@
-Business rulebook version: v363 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v364 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v364 (15 November 2026)
+Source 1004 (live stream, "We get 34.2M Views a Month. Here's how (just copy me)", 2h54).
+- L60: judge content by real responses from the avatar, not views; four elements of influence in each piece; long form and live over short clips; test new styles as extras, never replacements.
+- L47: rotate lead magnets on a daily channel, three-second calls, mostly light asks.
 
 ## v363 (15 November 2026)
 Source 1003 (live stream, "How to actually achieve anything | Hormozi Hotline", 2h19).
