@@ -1,6 +1,13 @@
-Business rulebook version: v344 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v345 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v345 (15 November 2026)
+Source 983 (live stream, "How To Progress Way Faster Than Anyone Else").
+- F22: grow by subtraction, a quarterly prune list; extra revenue lines only without new workflows; owner versus chief executive; bigger goals make no easier.
+- O6: tendered markets, own deal flow and total-cost selling.
+- L61: first ads for a new local service (consented footage from free or at-cost first jobs, lead forms, phone alerts).
+- D7: scheduled updates during long lead times, even with no news.
 
 ## v344 (15 November 2026)
 Source 982 (live stream, "14 Years of Actually Good Advice").
