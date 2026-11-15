@@ -1,6 +1,11 @@
-Business rulebook version: v347 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v348 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v348 (15 November 2026)
+Source 987 (live stream, "Answering Your Sales Question Live").
+- L37: review ask as a step staff cannot skip, script, daily count; confidential services check confidentiality and regulator rules first.
+- F30: the constraint's number first in every daily huddle and summary.
 
 ## v347 (15 November 2026)
 Source 986 (live stream, "My Take on Elon Musk's First Principles Framework").
