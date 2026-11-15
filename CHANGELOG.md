@@ -1,6 +1,10 @@
-Business rulebook version: v389 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v390 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v390 (15 November 2026)
+- D17: keep reserves in a separate account whose details are never shared; run payments through an operating account and move surplus on a set day.
+- Source: Sharran Srivatsaa, Short "Separate the account number you share from the accounts where you hold money" (source 1231).
 
 ## v389 (15 November 2026)
 - X20: sign contracts in the company's name with your role; agree in writing who owns brand assets (name, channels, list, methods) and license them if the owner keeps them.
