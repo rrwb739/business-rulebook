@@ -1,6 +1,10 @@
-Business rulebook version: v372 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v373 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v373 (15 November 2026)
+- T2: ask every candidate adviser or agent the same three questions (process, common avoidable mistakes, how everyone is paid); no clear process or no straight answer on pay rules them out.
+- Source: Sharran Srivatsaa, "Everything You Need To Know About Buying a House" (source 1034).
 
 ## v372 (15 November 2026)
 - T1: two structured interview questions (teach me something; how did you prepare), scored on the anchored scale, and never marking a candidate down for negotiating pay.
