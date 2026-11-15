@@ -1,4 +1,4 @@
-Business rulebook version: v370 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v371 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 4 of 5: Delivery (D), Team (T), Writing (W), Legal and tax (X)
 
@@ -33,6 +33,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 
 ### 9. Writing (W)
 - W1 [drafting any message, email, post or copy] Write in the owner's own voice and the instructions box's style; never synthetic; reread tone-risk messages as the recipient; ; edit in passes, one kind of problem per pass; show not tell, only details that change the picture, stakes; stories where teaching gets heavy; test frameworks until unbroken; four to eight honest avatar readers, change what several flag.; sell the outcome, not the tool (rules-writing.md)
+- W2 [presenting or explaining an idea: a talk, a meeting update, a slide deck, a pitch or a video script] At most three main ideas; order why, what, how, now; why and the map before the steps; a simple shape where it helps; draft out loud, then restructure. (rules-writing.md)
 
 ### 10. Legal and tax (X)
 - X1 [any action, claim, offer, message, contract, hire or spend that the law could touch] [Fixed] Obey the project's country's law; every claim true and provable; if no block or not covered, say so and stop until checked; not legal advice; selling into another country brings its rules too. (rules-legal.md)

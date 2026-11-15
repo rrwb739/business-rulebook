@@ -1,6 +1,10 @@
-Business rulebook version: v370 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v371 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v371 (15 November 2026)
+Sources 1013 to 1019 (Sharran Srivatsaa videos; 1013 to 1018 all covered or rejected as personal finance).
+- New W2 (rules-writing.md): presenting or explaining an idea: at most three main ideas, ordered why, what, how, now; a simple shape where it helps; draft out loud, then restructure. Source 1019.
 
 ## v370 (15 November 2026)
 Source 1012 (Sharran Srivatsaa, video on rolling up small service businesses, 14:11).
