@@ -1,6 +1,11 @@
-Business rulebook version: v376 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v377 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v377 (15 November 2026)
+- M26: after the first target, arrange an unused business overdraft or credit line while the accounts are strong.
+- T3: the owners' agreement covers first refusal on a leaving owner's shares, how they are valued, and when a sale is forced or blocked.
+- Source: Sharran Srivatsaa, "How Wealth Actually Survives Generations" (source 1043).
 
 ## v376 (15 November 2026)
 - F2: a four-question review after any setback that must end in a concrete written change; "if we did not already have this, would we choose it today?"
