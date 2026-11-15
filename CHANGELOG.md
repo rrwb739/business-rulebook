@@ -1,6 +1,11 @@
-Business rulebook version: v346 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v347 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v347 (15 November 2026)
+Source 986 (live stream, "My Take on Elon Musk's First Principles Framework").
+- F34: time on task versus elapsed time; shorter update cycles; monthly check that AI tool spend raises results.
+- L61: show people from each buyer segment; organic content warms, ads retarget with lawful consent.
 
 ## v346 (15 November 2026)
 Source 984 (live stream, "How To Think Like The Top 1% | Sales Masterclass").
