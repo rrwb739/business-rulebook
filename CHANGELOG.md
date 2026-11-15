@@ -5,7 +5,7 @@ Business rulebook version: v391 | index: instructions.md | rule text: the rules 
 ## v391 (15 November 2026)
 - M19: when buying a business or online asset, verify revenue independently (read-only access, statements, a test purchase), pay through escrow or a solicitor against a signed contract listing every login and asset, and test a new payment route with a small amount.
 - S2: draft and wait before replying to an angry or insulting message; client complaints still get a reply within a working day.
-- Sources: Sharran Srivatsaa Shorts (sources 1257, 1265).
+- Sources: Sharran Srivatsaa Shorts (sources 1257, 1266).
 
 ## v390 (15 November 2026)
 - D17: keep reserves in a separate account whose details are never shared; run payments through an operating account and move surplus on a set day.
