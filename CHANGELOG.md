@@ -1,6 +1,13 @@
-Business rulebook version: v345 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v346 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v346 (15 November 2026)
+Source 984 (live stream, "How To Think Like The Top 1% | Sales Masterclass").
+- C2: qualification versus education diagnosis, cheapest places for education, quotes presented live, targeted demos, optimise ads for the buyer event, one sales and marketing loop, seller pay structures.
+- L32: show the typical result, keep proof recent.
+- M40: maintenance plans that credit towards the next purchase; keep monthly beside annual until churn is known.
+- C14: selling against a much bigger rival.
 
 ## v345 (15 November 2026)
 Source 983 (live stream, "How To Progress Way Faster Than Anyone Else").
