@@ -1,6 +1,12 @@
-Business rulebook version: v349 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v350 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v350 (15 November 2026)
+Source 989 (live stream, "Get Rich While You're Young", 2:35, transcribed in full).
+- M19: small businesses valued on seller's discretionary earnings, often with part paid later.
+- L55: learn one to one from suppliers serving the same kind of business, or out-of-area owners.
+- C2: keep a front-end paid step that converts to the larger deal; value it before removing it.
 
 ## v349 (15 November 2026)
 Source 988 (live stream, "My Social Media Strategy for 2026").
