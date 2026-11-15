@@ -1,6 +1,10 @@
-Business rulebook version: v373 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v374 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v374 (15 November 2026)
+- X20: a limited company's liability shield holds only if it is run as separate in practice; directors' remaining personal liability; moving assets out of reach of a likely claim can be undone and can be an offence.
+- Source: Sharran Srivatsaa, "This is Exactly How You Can Become Financially Free" (source 1038).
 
 ## v373 (15 November 2026)
 - T2: ask every candidate adviser or agent the same three questions (process, common avoidable mistakes, how everyone is paid); no clear process or no straight answer on pay rules them out.
