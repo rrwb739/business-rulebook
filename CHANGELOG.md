@@ -1,6 +1,9 @@
-Business rulebook version: v339 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v340 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v340 (15 November 2026)
+- F27: moved unchanged from rules-strategy-2.md (near the size cap) to rules-strategy-2c.md, pointer left in the old place; added that vague criticism is first turned into what fell short, how the person knows, and why it matters, and a remark that cannot answer these gets no change. Source 957 (YouTube Short).
 
 ## v339 (15 November 2026)
 - O2 (rules-offers-1.md): added that one strongly negative association can outweigh many good ones, so screen pairings for that risk first and end a damaging one quickly; a name with far more good associations can absorb a minor bad one. Source 949 (YouTube Short). Supported by negativity-bias research (Baumeister and others, 2001), medium confidence on how far it transfers to brands.
