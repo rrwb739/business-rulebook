@@ -1,6 +1,10 @@
-Business rulebook version: v340 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v341 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v341 (15 November 2026)
+- F33 (rules-strategy-2c.md): added technical risk (a known need that is hard to meet) beside idea and execution risk; it can pay most but needs proof before buyers believe, while execution risk is the surest money. Source 975.
+- T1 (rules-team.md): when the first senior hire would take a third to half of a year's profit, fund it with the reserve kept and a period of extra high-margin owner work rather than waiting. Sources 976 and 979 (YouTube Shorts).
 
 ## v340 (15 November 2026)
 - F27: moved unchanged from rules-strategy-2.md (near the size cap) to rules-strategy-2c.md, pointer left in the old place; added that vague criticism is first turned into what fell short, how the person knows, and why it matters, and a remark that cannot answer these gets no change. Source 957 (YouTube Short).
