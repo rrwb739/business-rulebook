@@ -1,6 +1,10 @@
-Business rulebook version: v401 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v402 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v402 (15 November 2026)
+- F22: script the no once (current priority and when the door reopens) and give the team the same wording.
+- Source: Sharran Srivatsaa, Short "If you want to focus on what really matters, you have to say no to a lot of other things." (source 1581).
 
 ## v401 (15 November 2026)
 - D7: agree at kickoff the measurable trigger for any likely hard conversation, then point back to it when it fires.
