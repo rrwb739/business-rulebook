@@ -1,6 +1,9 @@
-Business rulebook version: v333 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v334 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v334 (2026-11-15)
+- T3 (rules-team-b.md): never a new process with a new person (prove it first, then hand it over); for senior roles prefer people who want to build inside a company over would-be owners. Sources 862, 866.
 
 ## v333 (2026-11-15)
 - M15 (rules-money-1c.md): selling a side line: prefer a quick sale to the top price when the owner's hours are worth more in the main business; short deadline. Source 861.
