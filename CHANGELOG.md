@@ -1,6 +1,10 @@
-Business rulebook version: v413 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v414 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v414 (15 November 2026)
+- T2: for a coach or consultant, ask who they got this exact result for and speak to two of them.
+- Source: Sharran Srivatsaa, Short "How to Find the Right Coach for Your Goals!" (source 1922).
 
 ## v413 (15 November 2026)
 - L66 [Fixed]: give clients a when-then trigger to pass on a free resource when someone mentions the problem.
