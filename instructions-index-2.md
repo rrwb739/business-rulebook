@@ -1,4 +1,4 @@
-Business rulebook version: v332 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v333 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 3 of 5: Sales (C), Money models (M)
 
@@ -36,7 +36,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - M12 [planning the year for continuity members] Short extra programmes for members each cycle; events and members' spaces later, with honesty, consent and no sharing between competitors. (rules-money-1c.md)
 - M13 [a client asks for something outside the core offer] Stay productised; add features only if they help most clients; decline kindly and log; do what's right without bending [Fixed] rules. (rules-money-1c.md)
 - M14 [opening a new delivery batch or offer] Pre-sell before delivery; never take money for what won't be delivered. (rules-money-1c.md)
-- M15 [a full delivery batch is running] One full batch must make enough before adding offers or batches; if not, raise the price; new location: cost, time to profit, payback, launch and staffing written first; soft open; merge weak units, one strong unit before more, licence or franchise; small-town markets; closing a unit cleanly; closing a side line: no new clients, written notice, same service to the end, hand clients to trusted providers with any referral fee disclosed. (rules-money-1c.md)
+- M15 [a full delivery batch is running] One full batch must make enough before adding offers or batches; if not, raise the price; new location: cost, time to profit, payback, launch and staffing written first; soft open; merge weak units, one strong unit before more, licence or franchise; small-town markets; closing a unit cleanly; closing a side line: no new clients, written notice, same service to the end, hand clients to trusted providers with any referral fee disclosed; or sell it fast when the owner's hours are worth more elsewhere. (rules-money-1c.md)
 - M16 [designing an upsell] [stage: S3+] Price an upsell at about 5x the core price, after the first target. (rules-money-1c.md)
 - M17 [leads feel too expensive or slow] Fix with higher lifetime value, not cheaper leads. (rules-money-1c.md)
 - M18 [considering affiliates or partners] Affiliates after the first target at a minimum price; partner bonuses earlier; prefer owned offers with a back end; partner delivery: control it or agree refunds and no-solicit. (rules-money-1c.md)

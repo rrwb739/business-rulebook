@@ -1,6 +1,9 @@
-Business rulebook version: v332 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v333 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v333 (2026-11-15)
+- M15 (rules-money-1c.md): selling a side line: prefer a quick sale to the top price when the owner's hours are worth more in the main business; short deadline. Source 861.
 
 ## v332 (2026-11-15)
 - T1 (rules-team.md): hire break-even: full yearly cost divided by margin gives the extra revenue the owner's freed hours must bring in. Source 849.
