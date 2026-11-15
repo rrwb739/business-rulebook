@@ -1,6 +1,10 @@
-Business rulebook version: v350 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v351 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v351 (15 November 2026)
+Source 990 (live stream, "Should He Walk Away From His $1.4M Business To Start Over?").
+- F22: try a new acquisition channel before a new business; deliver the first offer's promise before building the next products.
 
 ## v350 (15 November 2026)
 Source 989 (live stream, "Get Rich While You're Young", 2:35, transcribed in full).
