@@ -1,6 +1,10 @@
-Business rulebook version: v382 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v383 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v383 (15 November 2026)
+- T6: credit named people for exactly what they did, never only "the team".
+- Source: Sharran Srivatsaa, live "Every Rule That Helped Me Build 2x Billion Dollar Businesses" (source 1058).
 
 ## v382 (15 November 2026)
 - T6: a five-step coaching conversation that leaves the work with the person; no memo, no meeting; three-year picture, one-year target and 90-day actions with two or three priorities each.
