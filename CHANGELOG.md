@@ -1,6 +1,14 @@
-Business rulebook version: v356 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v357 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v357 (15 November 2026)
+Source 997 (live stream, "Alex Hormozi Answers Your Questions", 2h19).
+- T4: pair speed or volume pay with a quality measure; rework always paid; public praise and action on corner-cutting.
+- M40: first-order churn: default reorder, edit/skip/halve by message before each charge, billing cadence test, higher price as an avatar signal.
+- L2: check a growth target against the size of the buyer pool.
+- W1: sell the outcome, not the tool.
+- D5: written decision box for each delegated role.
 
 ## v356 (15 November 2026)
 Source 996 (live stream, "Alex Hormozi Answers Your Questions").
