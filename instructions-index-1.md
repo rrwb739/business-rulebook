@@ -1,4 +1,4 @@
-Business rulebook version: v341 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v342 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 5: Strategy (F), Scaling roadmap (S), Offers (O)
 
@@ -72,7 +72,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - O17 [writing any call to action] Clear next step, reason and what happens next; each line sells only the next step; use the P.S. and escape routes well. (rules-offers-1.md)
 - O18 [testing marketing] Test offer, headline, image, then path tools; keep the tool with the best completion rate and the loser as backup. (rules-offers-1.md)
 - O19 [planning content, the website or emails] Give away the how free in scrambled order; clients pay for the full sequence and implementation.; teach how it works to sell, sell the doing (rules-offers-1.md)
-- O20 [making content or videos] Effort goes before recording; one-to-many assets split time 40% research, 20% body, 20% headlines, 20% checking. (rules-offers-1.md)
+- O20 [making content or videos] Effort goes before recording; one-to-many assets split time 40% research, 20% body, 20% headlines, 20% checking.; live stream checklist (rules-offers-1.md)
 - O21 [designing, reviewing or pricing the offer] Value equation: raise dream outcome and likelihood, cut time delay and effort; score each driver 0 to 1; buyer-side five-step pass (F34 on the buyer's journey: delete, simplify, speed up the buyer's steps, then likelihood and a real guarantee, then price against the next best option's total cost). (rules-offers-1b.md)
 - O22 [improving the offer] Focus on the bottom of the equation: faster and easier is hard to copy. (rules-offers-1b.md)
 - O23 [improving the offer or the client experience] Perception is reality: make progress visible and look for psychological as well as logical fixes. (rules-offers-1b.md)

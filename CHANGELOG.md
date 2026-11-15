@@ -1,6 +1,14 @@
-Business rulebook version: v341 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v342 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v342 (15 November 2026)
+Source 980 (live stream, "I Live Streamed For 30 Days. Here's What I Learned.").
+- L37: one bad or false review is answered with volume of genuine reviews, one factual reply and one report; a high but not perfect average tends to convert better than a perfect one (Medill Spiegel Research Center with PowerReviews: purchase likelihood peaks around 4.2 to 4.5 stars, or 4.0 to 4.7 in the later summary).
+- M20: stage project payments; weigh the hours to chase an unpaid debt against the hours to win a new client.
+- O20: live stream checklist.
+- T4 (new, rules-team-b.md): act on persistent shortfalls sooner; capture a key person's method before deciding.
+- X24 (new, rules-legal-b.md) [Fixed]: financial distress and closing with paid-for work owed; UK wrongful trading.
 
 ## v341 (15 November 2026)
 - F33 (rules-strategy-2c.md): added technical risk (a known need that is hard to meet) beside idea and execution risk; it can pay most but needs proof before buyers believe, while execution risk is the surest money. Source 975.
