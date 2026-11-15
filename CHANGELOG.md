@@ -1,6 +1,10 @@
-Business rulebook version: v421 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v422 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v422 (15 November 2026)
+- L69 [Fixed]: the strongest give to a target partner is real introductions to potential clients, two or three before asking for anything.
+- Source: Sharran Srivatsaa, Short "How to get more referrals" (source 2248).
 
 ## v421 (15 November 2026)
 - L50: added a test of emailing leads that morning with the calling number in the signature before calling.
