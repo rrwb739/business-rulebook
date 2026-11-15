@@ -1,6 +1,10 @@
-Business rulebook version: v407 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v408 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v408 (15 November 2026)
+- L39: mark each engaged lead's step from what they said or did (replies, friendly, says what, says when, asks for help); calls first to steps 4 and 5.
+- Source: Sharran Srivatsaa, Short "The Secret to Better Leads in Your CRM" (source 1777).
 
 ## v407 (15 November 2026)
 - L69: two give-first routes to partners: a guest interview show named for the area or niche, and a recommendation swap where each emails its own list (no data shared, rewards disclosed).

@@ -1,4 +1,4 @@
-Business rulebook version: v407 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v408 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 5: Leads and marketing (L)
 
@@ -43,7 +43,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - L35 [contacts who haven't bought yet] Keep non-buyers warm with useful, ask-free notes before key dates; change approach after 3 conversations without a decision. (rules-leads-1b.md)
 - L36 [choosing or relying on a lead source] Own the lead flow and list; back up single points of failure; log payment disputes monthly; ask before chasing a first late payment; two approved payment providers at full volume; check terms; data portability in writing; list email: worth reading, plain text, easy unsubscribe, segments, click rate, batch-written; quarterly conversion event for non-buyers, tested on a tenth first; tell providers before refund spikes or model changes. (rules-leads-1b.md)
 - L37 [after delivering value, or a client finishes] [Fixed] Ask for honest reviews and introductions; thank by hand with nothing of value attached; reviews never conditional.; answer one bad or false review with volume of genuine ones; review ask as a required step, confidential services; in-person ask by the crew lead, staff bonus never tied to rating (rules-leads-1b.md)
-- L39 [any lead or advertising decision] Engaged leads are the output of advertising; offer, then leads, then sales; define "call-ready" and offer those leads a call fast. (rules-leads-2.md)
+- L39 [any lead or advertising decision] Engaged leads are the output of advertising; offer, then leads, then sales; define "call-ready" and offer those leads a call fast.; five engagement steps in the lead sheet (rules-leads-2.md)
 - L40 [choosing how to get leads] The Core Four (warm, content, cold, ads) are the only ways; usual adoption order; master one before adding another. (rules-leads-2.md)
 - L41 [planning daily lead work] Rule of 100 for 100 days; fill the email budget replies first, then follow-ups, then new leads; keep a minimum in heavy weeks; send when the avatar reads, from reply times; zero-budget mix when the owner can't use LinkedIn, can't buy sending domains, can't call or has no warm network: contact forms, about 20 hand-written emails from one free account and L80 warm-ups, refused channels removed, paid sending setup only after a written trigger is met; keep the minimum during busy, paid weeks to avoid feast and famine; judge days on actions done; day in three blocks: customers first, then delivery, then one-time assets. (rules-leads-2.md)
 - L42 [diagnosing poor results] Split advertising problems (targeting, volume) from sales problems; saturation is usually too little volume; intent-based and interruption-based leads tracked as separate funnels. (rules-leads-2.md)
