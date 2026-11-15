@@ -1,6 +1,10 @@
-Business rulebook version: v418 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v419 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v419 (15 November 2026)
+- M27: when a buyer shares a money difficulty, thank them, keep it confidential, pause before fixes, then work out options; record only what the sale needs.
+- Source: Sharran Srivatsaa, Short "How to deal with client problems" (source 2146).
 
 ## v418 (15 November 2026)
 - C5 [Fixed]: when "tell me more" gets a vague answer, offer a sorting choice (this quarter or next) and then ask what drives it.

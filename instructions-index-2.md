@@ -1,4 +1,4 @@
-Business rulebook version: v418 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v419 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 3 of 5: Sales (C), Money models (M)
 
@@ -48,7 +48,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - M24 [designing or changing the money model, or reviewing results] A money model is a sequence of four offer types; lead with the best-ratio front end and stack the rest behind it.; after the first target, products from leftovers that add no operation (rules-money-2.md)
 - M25 [deciding what to build next in the money model] Build in five stages, one offer at a time until reliable and automatic; simple scales; fix back to front. (rules-money-2.md)
 - M26 [checking cash, or before any prepaid or free-time offer] Track runway; ring-fence prepaid cash; daily cash checks early; separate business account before the first payment; before leaving a job: about six months' savings, business income matching the job for about six months, overheads cut.; arrange an unused credit line while strong, after the first target; agree 30-day supplier terms and pay on the agreed date (rules-money-2.md)
-- M27 [any offer, sales call or refund request] Offer at the moment of need, never push; rollover then refund without a fight; ethics and receiving-end tests; true cues only; disputes and gifts. (rules-money-2.md)
+- M27 [any offer, sales call or refund request] Offer at the moment of need, never push; rollover then refund without a fight; ethics and receiving-end tests; true cues only; disputes and gifts.; care before solutions when a buyer shares money trouble (rules-money-2.md)
 - M28 [choosing or testing an attraction offer] Attraction offers bring cash upfront; the five types plus the independent free version; no small discounts; deep discounts only on splinters.; test one long session against multi-day challenges; buy X get Y free: more free than paid, prepay blocks, paid item at genuine normal price (X3), capped, prepaid only, occasional.; free users as zero-cost leads, move them up with a call step (rules-money-2.md)
 - M29 [lead magnet, first sales call, or the DIY tier] Decoy offer: free stripped-down version beside the core offer; scripts, gating, show-up tests and the first-step metric. (rules-money-2.md)
 - M30 [after the first target (F3), choosing the next attraction offer to test] [stage: S3+] Test in order: pay less now or more later, win your money back, giveaway, buy X get Y free. (rules-money-2.md)
