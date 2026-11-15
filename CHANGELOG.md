@@ -1,6 +1,11 @@
-Business rulebook version: v362 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v363 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v363 (15 November 2026)
+Source 1003 (live stream, "How to actually achieve anything | Hormozi Hotline", 2h19).
+- D7: software trial churn measured from paid conversion, acquisition cost per paying customer, activation rewarded with stated terms.
+- C13: real-setting rehearsal and early activity recognition for field reps; trainer bonus with paid sign-off support.
 
 ## v362 (15 November 2026)
 Source 1002 (live stream, "Brutally Honest Advice For Mental Toughness | Hormozi Hotline", 4h11).
