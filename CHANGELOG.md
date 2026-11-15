@@ -1,6 +1,9 @@
-Business rulebook version: v404 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v405 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v405 (15 November 2026)
+- F24 and F25: moved unchanged from rules-strategy-2.md (at the size cap) to rules-strategy-2c.md, pointers left in the old place; index updated.
 
 ## v404 (15 November 2026)
 - F23: end each day asking what there is to show in results and what one thing would make tomorrow better; plan projects in two-week blocks and slot new requests into the next block with a date.
