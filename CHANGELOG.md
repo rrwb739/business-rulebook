@@ -1,6 +1,14 @@
-Business rulebook version: v365 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v366 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v366 (15 November 2026)
+Source 1006 (live stream, the original book launch event with Q&A and owner calls, 7h01).
+- New T5: when the team is the wrong size or shape (keep near-term capacity; design roles before people; separate decision from communication; exits through X18).
+- D17: a second approver for payments out and for new payees or changed bank details; confirm requests on a number already on file.
+- D11: a sales team on inbound demand is a one-time conversion lift; growth then comes from reaching more of the avatar.
+- M31: products bought once: extended warranty, maintenance and accessories, with the UK insurance-regulation check for warranties.
+- M40: the first programme set at the shortest believable time; test shorter, paid-up-front first programmes where monthly buyers cancel.
 
 ## v365 (15 November 2026)
 Source 1005 (live stream replay of a book launch event with a 3-hour call-in segment, 6h41).
