@@ -1,6 +1,10 @@
-Business rulebook version: v395 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v396 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v396 (15 November 2026)
+- X19 [Fixed]: a deductible cost saves only the tax rate on it, so never buy something just because it is deductible; a tax credit cuts the tax itself.
+- Source: Sharran Srivatsaa, Short on tax credits against tax deductions (source 1375).
 
 ## v395 (15 November 2026)
 - F23: start any task or project on the day it is set, even if only the first small piece.
