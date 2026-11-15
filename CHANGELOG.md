@@ -1,6 +1,10 @@
-Business rulebook version: v337 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v338 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v338 (2026-11-15)
+- M15 (rules-money-1c.md): before a lease in a new area, run the same small ad test in several areas as an honest opening-soon waiting list; answer everyone who joins (X2). Source 928.
+- C13 (rules-sales-b.md): sellers who lack the owner's expertise run a fit check and book the buyer with the specialist rather than a consultative close. Source 925.
 
 ## v337 (2026-11-15)
 - T3 (rules-team-b.md): partner disagreements: share all information first, critique the idea not the person, agree in advance who decides a split. Source 907.
