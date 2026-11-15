@@ -1,6 +1,10 @@
-Business rulebook version: v397 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v398 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v398 (15 November 2026)
+- F34: when using AI on the business's numbers, give it the specific business questions first and check its figures against the source; also fixed a missing space in F34.
+- Source: Sharran Srivatsaa, Short "How I use claude for business" (source 1438).
 
 ## v397 (15 November 2026)
 - T3: agree how partners raise problems with each other: specific action, effect and the change wanted, never character labels; agree channels for hard conversations.
