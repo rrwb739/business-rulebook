@@ -1,6 +1,12 @@
-Business rulebook version: v343 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v344 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v344 (15 November 2026)
+Source 982 (live stream, "14 Years of Actually Good Advice").
+- M20: three fast-cash sources (prepay from current clients, past spend as credit towards a larger package, limited prepaid offer to the list); bulk or standing agreements where buyers expect credit.
+- M38: make the continuation offer mid-programme.
+- T4: brace the person before bad news.
 
 ## v343 (15 November 2026)
 Source 981 (live stream, "What really matters at the end of life").
