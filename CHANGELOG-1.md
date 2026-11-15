@@ -1,6 +1,168 @@
 Business rulebook version: v347 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
-# Changelog, continued (v175 and earlier)
+# Changelog, continued (v250 to v151)
+
+## v250 (13 November 2026)
+Source 448, "My Best Sales Tactic" (Alex Hormozi). M32: habit-anchored prescriptions, budget ordering, no listed-to-cross-out items.
+
+## v249 (13 November 2026)
+Source 447, "This ONE Thing Will Make You A Better Entrepreneur" (Alex Hormozi). F25: matching paid learning to tactical or strategic problems, free routes first.
+
+## v248 (13 November 2026)
+Source 446, "How I Wrote A #1 Bestseller with $0 and No Publisher" (Alex Hormozi). W1: show not tell, stakes, stories in long pieces, testing frameworks, honest avatar readers.
+
+## v247 (13 November 2026)
+Source 445, "How To Build Large Sales Teams" (Alex Hormozi). C13: weekly coaching per seller, two-week standard, testimonials at huddle, one named decision per call.
+
+## v246 (13 November 2026)
+Source 440, "14 Life Lessons I Wish I Knew Earlier" (Alex Hormozi). C12: four-point terms. L66: a repeatable one-sentence description.
+
+## v245 (13 November 2026)
+Source 439, "10 Different Ways To Break Down Making $1 Million" (Alex Hormozi). F30: buying small businesses with deferred payments, combining them.
+
+## v244 (13 November 2026)
+Source 436, "This ONE Equation Will Make You RICH" (Alex Hormozi). O8: no guarantee condition chosen because almost no one will meet it.
+
+## v243 (13 November 2026)
+Source 435, "How to get customers to pay forever" (Alex Hormozi). L65: the no-marketing test; repeat business counts like recurring.
+
+## v242 (13 November 2026)
+Source 433, "A YouTuber Asked Me How To Business" (Alex Hormozi). L69: sell sponsorship actively, co-hosts. F33: size options by buyers times gross profit, discounted by copyability.
+
+## v241 (13 November 2026)
+Source 432, "Why Looking Poor is actually Smart" (Alex Hormozi). F15: accept the first invite, prepare and bring value, judge circles by their units.
+
+## v240 (13 November 2026)
+Source 431, "The Best Student Side Hustle in 2026" (Alex Hormozi). M22: small-group pricing, selling the outcome around its driving input.
+
+## v239 (13 November 2026)
+Source 427, "Building a Frozen Yogurt Store in 11 Minutes" (Alex Hormozi). M32: self-serve pricing and ordering. F33: buying a franchise, liquidation equipment, low-ticket acquisition.
+
+## v238 (13 November 2026)
+Source 426, "7 Secrets Behind Chick-fil-A's $50B Empire" (Alex Hormozi). F22: new items often take sales from the core; don't change what works out of boredom.
+
+## v237 (13 November 2026)
+Source 425, "42 Recession Proof Money Hacks" (Alex Hormozi). M19: starter deals, the path back for money and repayment order, time to double, aligned personal and business money rules.
+
+## v236 (13 November 2026)
+Source 424, "Get RICH With These 24 Investing Rules" (Alex Hormozi). M19: written if-then deal rules. D7: deliver as if the client could leave next week.
+
+## v235 (13 November 2026)
+Source 423, "I Challenged My Team To Replace Themselves with AI" (Alex Hormozi). F34: each person finds tools to replace a week of their own tasks; AI likeness of the owner never passed off as live.
+
+## v234 (13 November 2026)
+Source 422, "How The World's RICHEST Man Made His Money" (Alex Hormozi). M2: four price positions, speed and convenience for wealthy buyers.
+
+## v233 (13 November 2026)
+Source 421, "I Built 4 Businesses In A Row To Show It's Not Luck" (Alex Hormozi). D9: improve from the best performers' shared practices. T1: headcount from workload, top-down hiring, choosing which debt. T2: in-house technical leadership for software. rules-delivery.md split: D12 to D17 now in rules-delivery-b.md.
+
+## v232 (13 November 2026)
+Source 419, "17 Life-Changing Conversations I Wish I Had Earlier" (Alex Hormozi). T3: partners don't move until agreed. M19: written investment rules by what the owner knows.
+
+## v231 (13 November 2026)
+Source 418, "Hardcore Business Lessons I Learned From A Dealer" (Alex Hormozi). M31: guardrail on the anything-else close, off-season care service. O40: by-products as bonuses.
+
+## v230 (13 November 2026)
+Source 417, "Why You Shouldn't Copy Me" (Alex Hormozi). O2: never copy a rival's identity or story, real beliefs that break the stereotype. L2: do the avatar's job before blaming marketing.
+
+## v229 (13 November 2026)
+Source 416, "HOW TO GET WHAT YOU WANT" (Alex Hormozi). L32: proof where buyers wait, the how-much-proof question, real credentials only. L46: small gifts sized to the person.
+
+## v228 (13 November 2026)
+Source 415, "How to Grow ANY Local Business" (Alex Hormozi). F30: four checks for franchised against owned units.
+
+## v227 (13 November 2026)
+Source 414, "The SEASON OF NO" (Alex Hormozi). F23: ranked goal list with one priority and written minimums, a list of what is given up, the full cost of interruptions.
+
+## v226 (13 November 2026)
+Source 413, "I'm Broke, What Should I Sell?" (Alex Hormozi). F22: attention and endorsement as sellable things, ideas from family's work, little cash means selling time first. O31: service hours and days, staffing trade-off.
+
+## v225 (13 November 2026)
+Source 412, "How I Set Goals That ACTUALLY MAKE MONEY" (Alex Hormozi). F2: goals tie to one of three results, input and output with baselines, no directional movement means a new hypothesis, measuring can be the goal. T1: employees write quarterly goals in the F2 form.
+
+## v224 (13 November 2026)
+Source 411, "How to go ALL IN on your side hustle" (Alex Hormozi). M26: before leaving a job, about six months' savings, business income matching the job for about six months, overheads cut.
+
+## v223 (13 November 2026)
+Source 409, "How to Build a LEGIT Online Course" (Alex Hormozi). M40: education that teaches earning (selective admission, published outcome data, know-how free and implementation paid, earned certificates, substantiated earnings claims; US proposed rule status noted).
+
+## v222 (13 November 2026)
+Source 408, "3 Simple Fixes that Grow Any Business" (Alex Hormozi). F28: a service that produces a client's result may own that result's economics after the first target. L69: audience owner routes beyond sponsorship.
+
+## v221 (13 November 2026)
+Source 405, "The REAL Reason Your Business Isn't Growing" (Alex Hormozi). L62: plateau check, volume then formats then platforms then methods before anything new. L2: choose the expansion direction by the most money made for each client.
+
+## v220 (13 November 2026)
+Source 400, "Why MrBeast Will be Worth $100 Billion" (Alex Hormozi). O2: brand strength measured by the premium over a near-identical alternative, reinvested. F15: a small peer group at the same stage.
+
+## v219 (13 November 2026)
+Source 396, "My $100M Leads Affiliate Marketing Guide" (Alex Hormozi). O37: keep usual value at usual volume during a launch. L69: run promoters as a second audience with a stated message rhythm and staged material.
+
+## v218 (13 November 2026)
+Source 393, "Behind the Scenes of The $100M Leads Launch" (Alex Hormozi). L45: one idea per slide with a visual. F23: meetings name the problem and who is needed, end once decided.
+
+## v217 (13 November 2026)
+Source 391, "I Reverse Engineered the Perfect Business" (Alex Hormozi). F30: sale-ready numbers. O2: transfer the face of the marketing to a successor. M9: stickiness levers. T1: judge operators on total work removed. M1: rank products by gross profit and lead with the best.
+
+## v216 (13 November 2026)
+Source 390, "I Helped 6 Business Owners Make More Money" (Alex Hormozi). New C15: selling to large organisations. L9: test four or five data tools on equal samples. T3: the cautious partner writes the conditions for the next step.
+
+## v215 (13 November 2026)
+Source 389, "How to Get Rich [Full Interview with Dave Ramsey]" (Alex Hormozi). O2: vet partners and advertisers on the family test and drop failing ones fast; consider not selling the product the business advises on; disclose paid ties.
+
+## v214 (13 November 2026)
+Source 386, "I Doubled A Business in 60 Days to Show It's Not Luck (Part 1)" (Alex Hormozi). L72: one immediate second call when unanswered. C13: size the sales team to its calendar; prospecting and show-up as separate jobs.
+
+## v213 (13 November 2026)
+Source 385, "I Tried This Simple Business Strategy for 60 Days" (Alex Hormozi). M9: activation point, stage-specific check-ins, leading indicators, satisfaction scores by staff member. M8: no free open-ended access after a paid term. T1: client-success bonus on retention measures.
+
+## v212 (13 November 2026)
+Source 384, "Brutally Honest Advice to My Younger Poorer Self" (Alex Hormozi). F25: seven-level advice ladder. F27: decide from customers, never to beat a rival; being copied means being ahead.
+
+## v211 (13 November 2026)
+Source 383, "How to make SO much money it makes you sick" (Alex Hormozi). F30: risk-reducing tasks qualify alongside the four levers. M1: thin unit margin, recover about one point a month for twelve months before growth marketing. M19: simplify the unit format before rollout; don't rely on one cheap channel.
+
+## v210 (13 November 2026)
+Source 382, "How to get rich this Black Friday" (Alex Hormozi). M28: buy X get Y free method (more free than paid, prepay blocks, genuine normal price, capped, occasional). M7: seasonal premium drop to about 5% of clients with true places and live count.
+
+## v209 (13 November 2026)
+Source 380, "The Business Model That's So Simple, Anyone Can Try It" (Alex Hormozi). L50: opener asking whether they already have a provider; name a nearby client only with permission. L61: show the avatar in ads; versions with different people. C1: stop selling after the yes; card details only through the payment provider.
+
+## v208 (13 November 2026)
+Source 378, "I'm Facing A Billion Dollar Decision" (Alex Hormozi). F2: on a first business take the lower-risk, higher-odds path; commit fully once chosen; never take a reputational risk with only a downside. L45: decide teach or sell before a talk; a selling talk gives the offer its full time.
+
+## v207 (13 November 2026)
+Source 376, "Charlie Munger Changed My Life [8 Lessons]" (Alex Hormozi). F18: invert a hard goal (list the quickest ways to ruin it, then do the opposite). M19: too-hard pile when a deal's profit isn't obvious without a model; leave a fair share in deals worth repeating.
+
+## v206 (13 November 2026)
+Source 375, "Million Dollar Equations" (Alex Hormozi). M20: four payback levers (prepay first and last, set-up fee shown in the total, upsell, third-party finance only within X3) and a month-by-month cash timeline. M19: each new unit tracked on payback month, first-year return and profit at capacity against full opening cost; active units need far above passive returns; launch to open near capacity. M46: monthly ceiling check (new clients a month times lifetime gross profit, and divided by churn) on trailing averages, with capacity or headcount planned from the gap.
+
+## v205 (13 November 2026)
+
+- T1: management and expert tracks; one mission decision rule; quarterly results shared; owner in the detail on what matters most.
+- L69: let a known person help design the promotion; never count the partner's money.
+- F33: while choosing a first business, tell people a business is being started.
+
+## v204 (13 November 2026)
+
+- L60: opening seconds confirm the thumbnail; thumbnails tested on watch time; real mistakes shared; one-to-many versions of unscalable moments.
+- O2: keep ownership of content and name; the personal brand changes with the owner.
+
+## v203 (13 November 2026)
+
+- T1: reward over punishment, same-day specific praise, the honest-feedback question, fast trust both ways, good exits.
+- F34: a process must pay more downstream than it costs those doing it.
+
+## v202 (13 November 2026)
+
+- F27: ignore attacks by default; agree or one-up truthfully; reply publicly only to bigger accounts, with humour; never repeat a denial.
+
+## v201 (13 November 2026)
+
+- F2: judge a bad outcome by the decision process.
+- T1: raise work quality with "what would you do with two more hours?".
+
+Older entries (v200 and earlier) are in CHANGELOG-1.md.
 
 ## v200 (13 November 2026)
 
