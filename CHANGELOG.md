@@ -1,6 +1,10 @@
-Business rulebook version: v366 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v367 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v367 (15 November 2026)
+Source 1007 (live stream, audience Q&A on goals, 1h29).
+- F25: with no business yet, a paid learner job inside a small business in the target trade, learning how it wins customers first.
 
 ## v366 (15 November 2026)
 Source 1006 (live stream, the original book launch event with Q&A and owner calls, 7h01).
