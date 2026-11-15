@@ -1,6 +1,10 @@
-Business rulebook version: v379 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v380 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v380 (15 November 2026)
+- T6: state the vision as one concrete line the team can test opportunities against, with its anti-vision; ask each person starting a role what tools and support they need and provide them before judging results.
+- Source: Sharran Srivatsaa, live "The REAL Job of A CEO" (source 1052).
 
 ## v379 (15 November 2026)
 - F3: when results stall, separate a model problem from an execution problem: if others make the same model work, fix execution first.
