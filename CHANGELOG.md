@@ -1,6 +1,13 @@
-Business rulebook version: v364 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v365 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v365 (15 November 2026)
+Source 1005 (live stream replay of a book launch event with a 3-hour call-in segment, 6h41).
+- M40: sell renewals mid-term; offer the subscription at the moment of a one-off sale, with the one-off priced well above one period.
+- C14: handle a cheaper competing quote by line-by-line comparison and an ownership-cost walk-through; match only within margin, preferably first period only, and log the margin effect.
+- L79: speaking slots judged by avatar density, an end-of-talk form in place of a pitch, organiser attendee lists only with confirmed consent.
+- L57: tag readers by the topic they click and send one automated offer on that topic.
 
 ## v364 (15 November 2026)
 Source 1004 (live stream, "We get 34.2M Views a Month. Here's how (just copy me)", 2h54).
