@@ -1,6 +1,10 @@
-Business rulebook version: v400 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v401 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v401 (15 November 2026)
+- D7: agree at kickoff the measurable trigger for any likely hard conversation, then point back to it when it fires.
+- Source: Sharran Srivatsaa, Short "Set clear expectations early so tough conversations later feel logical, not emotional." (source 1543).
 
 ## v400 (15 November 2026)
 - L66: thank the best clients on a fixed schedule (no pitch, within X16 limits) and log referrals after each.
