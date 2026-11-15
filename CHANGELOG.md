@@ -1,6 +1,10 @@
-Business rulebook version: v374 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v375 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v375 (15 November 2026)
+- W2: insight, story, lesson for memorable points; situation, complication, resolution for results and recommendations; give the way of thinking with the answer when advising; keep a phrase notebook.
+- Source: Sharran Srivatsaa, "Give Me 16 Minutes, and You'll Speak like the 1% Elite" (source 1041).
 
 ## v374 (15 November 2026)
 - X20: a limited company's liability shield holds only if it is run as separate in practice; directors' remaining personal liability; moving assets out of reach of a likely claim can be undone and can be an offence.
