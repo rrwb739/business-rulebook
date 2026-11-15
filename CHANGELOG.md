@@ -1,6 +1,10 @@
-Business rulebook version: v336 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v337 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v337 (2026-11-15)
+- T3 (rules-team-b.md): partner disagreements: share all information first, critique the idea not the person, agree in advance who decides a split. Source 907.
+- M19 (rules-money-1b.md): make a personal brand transferable: owner as the company's spokesperson, company name prominent, move ads and content to company accounts about 18 months before a sale. Source 911.
 
 ## v336 (2026-11-15)
 - L41 (rules-leads-2.md): order the day in three blocks: getting customers first, then delivery and urgent work, then one-time assets. Sources 893, 896.
