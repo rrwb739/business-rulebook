@@ -1,6 +1,10 @@
-Business rulebook version: v377 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v378 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v378 (15 November 2026)
+- D14: when the business has been paid more than agreed or gained from an error the client never noticed, tell the client and return it unasked.
+- Source: Sharran Srivatsaa, "Everything I Learned at Goldman Sachs in 17 Minutes" (source 1045).
 
 ## v377 (15 November 2026)
 - M26: after the first target, arrange an unused business overdraft or credit line while the accounts are strong.
