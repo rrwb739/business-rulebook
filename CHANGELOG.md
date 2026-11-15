@@ -1,6 +1,13 @@
-Business rulebook version: v353 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v354 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v354 (15 November 2026)
+Source 994 (live stream, "Alex Hormozi Answers Your Questions (Ask Me Anything)").
+- C1: paid low-price workshop for cold traffic; opt-in qualifying question; judge on qualified attendees.
+- L61: daily spend near one acquisition cost with matching creative volume; search reaches urgent price-shoppers, interruption ads reach ongoing buyers; credit today's purchase towards the plan.
+- D7: live group onboarding for self-serve software; churn split by channel, buyer type and activation step.
+- D11: several contingency recruiters for one-off roles; own funnel and cost per hire for repeat roles.
 
 ## v353 (15 November 2026)
 Sources 992 (no change) and 993 (live stream, "Alex Hormozi Answers Your Questions on Reddit").
