@@ -1,6 +1,10 @@
-Business rulebook version: v380 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v381 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v381 (15 November 2026)
+- M19: before buying a business, ask and independently check why the owner is selling; tie part of the price to a handover and results where it depends on one person.
+- Source: Sharran Srivatsaa, live "The Biggest Wealth Building Opportunity In America" (source 1053).
 
 ## v380 (15 November 2026)
 - T6: state the vision as one concrete line the team can test opportunities against, with its anti-vision; ask each person starting a role what tools and support they need and provide them before judging results.
