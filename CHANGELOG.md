@@ -1,6 +1,12 @@
-Business rulebook version: v357 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v358 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v358 (15 November 2026)
+Source 998 (live stream, "Alex Hormozi Answers Your Questions", 2h19).
+- L45: word-for-word pitch decks for other presenters, master script from the best past pitches, home run-throughs before going live.
+- O5: why-people-buy document from recorded sales calls, fed into the pre-call video and script.
+- M40: small yearly review retainer after large bespoke projects.
 
 ## v357 (15 November 2026)
 Source 997 (live stream, "Alex Hormozi Answers Your Questions", 2h19).
