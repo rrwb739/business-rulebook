@@ -7,7 +7,7 @@ Business rulebook version: v405 | index: instructions.md | rule text: the rules 
 
 ## v404 (15 November 2026)
 - F23: end each day asking what there is to show in results and what one thing would make tomorrow better; plan projects in two-week blocks and slot new requests into the next block with a date.
-- Sources: Sharran Srivatsaa Shorts (sources 1694, 1696, 1702).
+- Sources: Sharran Srivatsaa Shorts (sources 1694, 1696, 1703).
 
 ## v403 (15 November 2026)
 - F23: get a rough first version of any new piece of work out fast and improve it from real reactions.
