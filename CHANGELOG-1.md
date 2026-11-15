@@ -1,6 +1,99 @@
-Business rulebook version: v422 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v423 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
-# Changelog, continued (v300 to v151)
+# Changelog, continued (v330 to v181)
+
+## v330 (2026-11-14)
+- M33 (rules-money-2.md): price may also be shown in a smaller unit (per day or week) if the billed amount and frequency are shown just as clearly beside it (X9). Source 823.
+
+## v329 (2026-11-14)
+- T1 (rules-team.md): source a first marketing lead from owners of small agencies who have won clients without a brand. Source 803.
+
+## v328 (2026-11-14)
+- T1 (rules-team.md): when the owner wants one hire to take over everything else, group tasks by skill and hire narrower roles rather than one person with every skill. Source 799.
+
+## v327 (2026-11-14)
+- T1 (rules-team.md): enforce a standard only once it was known, achievable and chosen against; respond every time, immediately and in proportion, stepping up through the written disciplinary process; a repeated pattern ends in a lawful exit even for a high performer (X18). Source 784.
+- C1 (rules-sales.md): build the sales process for buyers who don't yet know the owner; warm leads still buy through it, a warm-only process fails on cold leads. Source 787.
+
+## v326 (2026-11-14)
+- M15 (rules-money-1c.md): closing a side line to focus on a larger business: stop new clients, written notice with the same service to the end date, recommend trusted providers, any referral payment agreed in writing and disclosed (X14, X17). Source 764.
+
+## v325 (2026-11-14)
+- F28 (rules-strategy-2b.md): when cash is short, look for cash opportunities and survival threats before strengths and weaknesses; fastest cash comes from existing customers, with the play chosen by how soon the money is needed (limited paid-in-full places, a short programme with add-ons, a recurring tier on a free trial with the later price stated). Source 675.
+
+## v324 (14 November 2026)
+- Money-1c continuity: price weekly and bill every four weeks (13 payments a year), stated clearly; set the delivery schedule from collected cash and the 80% margin (source 665).
+
+## v323 (14 November 2026)
+- T1: every role gets a paired volume and quality number reported together (source 660).
+
+## v322 (14 November 2026)
+- F2: before changing a working process, write upside, downside and whether the business can live with the downside; count the cost of change, one change at a time against the proven version (source 658).
+
+## v321 (14 November 2026)
+- Leads-4 referral rule: when monthly referral rate exceeds monthly churn, the base grows without paid acquisition; close that gap as a growth target (source 654).
+
+## v320 (14 November 2026)
+- Strategy yearly review (strategy-1): count opportunity cost, what the same team and assets would earn in the best other market; test a clearly better use on the side first (source 653).
+
+## v319 (14 November 2026)
+- T1: a team or role created to fix a metric gets the metric and a review date; stop the work if it hasn't moved (source 637).
+- F2: chart two years of monthly results to find seasonality; set seasonal targets and warn the team before low months (source 637).
+
+## v318 (14 November 2026)
+- T1: change pay only to solve a named attraction, retention or top-performer problem, within pay law (X18); ask for team hours by task before approving a new hire (source 636).
+
+## v317 (14 November 2026)
+- L18: set the growth target on one leading number the team drives (seller-accepted qualified leads), not sales; slow channels get a written first-judgement date (source 635).
+
+## v316 (14 November 2026)
+- F2: review wins by their outside causes and losses by the owner's own part; once fast action is a habit, put time between a trigger and the response, often none (source 633).
+
+## v315 (14 November 2026)
+- F2: judge past decisions by the information and reasoning at the time, not the outcome; test a changed decision rule against all similar past decisions; change it only on a recurring miscalculation (source 629).
+- CHANGELOG.md passed the size cap: entries v175 and earlier moved unchanged to CHANGELOG-1.md (hard rule 8).
+
+## v314 (14 November 2026)
+- T3: map acquisition, product and operations and give each partner one; two partners on one role means one isn't needed; every activity gets one named owner; write working expectations; the agreement negotiation as a stress test (source 623).
+
+## v313 (14 November 2026)
+- F30: when buying a small business, find sellers directly, agree the price first and then the terms, and check profit covers all loans and deferred payments on cautious inputs (source 619).
+
+## v312 (14 November 2026)
+- T1: several product lines each run as a profit unit on a shared core; launch a line only with a leader as capable as the owner; prefer growth-minded salaried leaders, and ask former owners why they want a salaried role (source 617).
+
+## v311 (14 November 2026)
+- L32: true results figures can be framed as a fraction, a rate, a gain or what it pays for; fix group, outcome and time frame before looking, name any slice, "half did better" only of a median (source 616).
+
+## v310 (14 November 2026)
+- T1: at each review, judge each person against what the owner would do in their role (initiative not taken, questions not asked); rating everyone excellent means not looking closely (source 612).
+
+## v309 (14 November 2026)
+- F30: for each function the owner has let go, the owner should be able to name its current problems; only good news means the owner is too far away, so ask for more transparency without taking the work back (source 609).
+
+## v308 (2026-11-14)
+Source 600, "The Talent Grid - How I Recognize Skill in Self & Team" (Alex Hormozi). F30: in the quarterly key-person check, grade the owner's level in each function (doing, teaching, a system that trains without the owner) and move one up each quarter.
+
+## v307 (2026-11-14)
+Source 596, "What I Learned After Countless Failed Business Partnerships" (Alex Hormozi). T3: on a partner exit, say what was agreed and not done, ask what is fair, and split shared debt in a short signed note.
+
+## v306 (2026-11-14)
+Source 589, "How gurus lie about how much MONEY they make...I'm calling it out.." (Alex Hormozi). T2: when results are cited to sell advice, ask which figure it is and weigh the owner's yearly cash after reinvestment; use plain measures in the business's own claims.
+
+## v305 (2026-11-14)
+Source 587, "How I RAISE PRICES without losing sales...(using this psychological trick)" (Alex Hormozi). M2: a price rise through an instalment total above the target, the old price as the first instalment and the target as the pay-in-full figure.
+
+## v304 (2026-11-14)
+Source 584, "A BILLIONAIRE told me how to make BILLION DOLLARS...here's my plan..." (Alex Hormozi). T1: for the three leader roles, hire only someone clearly exceptional, give real authority and a profit share with a way to buy in.
+
+## v303 (2026-11-14)
+Source 583, "I OWN 6 multimillion dollar companies...this is how I do it..." (Alex Hormozi). M48: after handover, the owner acts as an adviser: quarterly reviews, no tasks from meetings, off the team's day-to-day chat, one channel for senior leaders.
+
+## v302 (2026-11-14)
+Source 581, "Here's Why I Always Give Away a % of My Business" (Alex Hormozi). T3: phantom equity for key employees in hard-to-measure roles: share of sale proceeds, vesting with a cliff, lapses on leaving, taxed as employment income.
+
+## v301 (2026-11-14)
+Source 576, "We fired everyone who was late...this is why.." (Alex Hormozi). T1: ask new starters what their manager told them; enforce stated standards from the first breach through the lawful process, never instant dismissal.
 
 ## v300 (2026-11-14)
 Source 573, "How I'm building a BILLION DOLLAR empire working 2-3 days per week.." (Alex Hormozi). F9: channel the urge for something new into new front ends or back ends, or a constraint on the same goal, not a new business.
@@ -409,124 +502,4 @@ Source 337 (paid ads Q&A). Merged into L61 (retargeting and own-name search; cre
 
 Source 335 (email newsletter). Merged into L36 (emailing the list), M45 (ask for the worst moment), M40 (annual fee only if shown upfront) and X3 (UK drip pricing ban for consumers).
 
-## v180 (13 November 2026)
-
-Source 334 (faster customers). Merged into L63 (test order, including the tools in the buyer's path) and L60 (effort before recording).
-
-## v179 (13 November 2026)
-
-Source 333 (multi-site clinic teardown). Merged into C3 (paid booking with the true reason; pricing details before the visit), C5 (assess, offer, then first help), C13 (best rep's process as screens or checklist), L62 (agency target and ceiling; spend to the return floor; local long-tail search) and F30 (order by effort against impact; execution before model). Split: instructions-index-2.md into instructions-index-2.md (C, M) and instructions-index-2c.md (D, T, W, X); the index is now five files.
-
-## v178 (13 November 2026)
-
-Source 332 (workshop Q&A). Merged into D11 (short of hires: recruiting as the business, bonus sized to gross profit per hire), D12 (low attendance: one-to-one start, booking within sessions, reminders) and D14 (own mistake: put it right and then some).
-
-## v177 (13 November 2026)
-
-Source 331 (negotiation). Merged into C12 (list every movable term and trade one at a time; several bids; combine offered options; price a mistake by its fix cost; honest reassurance after accepting a first number).
-
-## v176 (13 November 2026)
-
-Source 330 (new money). Merged into M19 (wanted upgrades that fail the payback test funded by a defined extra project, not core income, savings or open-ended debt).
-
-## v175 (13 November 2026)
-
-Source 329 (first gym, 26 lessons). Merged into F20 (barter spare capacity when cash is short; ask openly for help), F22 (test demand by area before a lease; pre-sell before opening; next site after six months without the owner), O8 (guarantee as a paid option) and X19 (barter is a taxed sale in the UK; trigger now includes bartering).
-
-## v174 (13 November 2026)
-
-Source 325 (sales tone). Merged into C13 (five plain delivery controls marked in the script; longest pause after the ask; feedback in plain terms).
-
-## v173 (13 November 2026)
-
-Source 324 (mental toughness). Merged into F20 (four measures of a setback; act at the normal standard despite the mood; use the setback for a fix; protect sleep and meals in hard weeks).
-
-## v172 (13 November 2026)
-
-Source 323 (premium first). Merged into M7 (three prompts for the premium tier; speed for wealthy buyers; state price then pause; capped one-to-one early). Split: rules-money-1.md into rules-money-1.md (M1 to M8) and rules-money-1c.md (M9 to M18), rules moved unchanged, index updated.
-
-## v171 (13 November 2026)
-
-Source 321 (learning method). Merged into F24 (iterations per day; sub-skills as observable actions; observe what the best do; top-tenth loops).
-
-## v170 (13 November 2026)
-
-Source 320 (launch documentary). Merged into L75 (launch pre-mortem: choke points tested with backups, rehearsal, trained phone staff).
-
-## v169 (13 November 2026)
-
-Source 318 (the first $100,000 saved). Merged into F23 (promote, deliver, build daily split).
-
-## v168 (13 November 2026)
-
-Source 317 (six levels of being paid). Merged into M2 (payment-terms ladder; outcome fees on revenue not profit; priced risk).
-
-## v167 (13 November 2026)
-
-Source 316 (five service-business owners). Merged into M40 (small-business recurring services: avoid the labour-heavy middle price), F34 (data before AI), T1 (sales hiring as a parallel funnel; gross profit per seller against cost).
-
-## v166 (13 November 2026)
-
-Source 315 (four product-business owners). Merged into T2 (bench of contractors for sporadic work), O2 (e-commerce: one brand around the winning product), F22 (audience owners add products instead of growing the audience; sunk cost).
-
-## v165 (13 November 2026)
-
-Source 314 (winning with AI). Merged into T1 (task list and workflows before any hire; raise the standard when work is automated, lawful exits) and F11 (barbell: new tools in operations, long bets on needs that won't change).
-
-## v164 (13 November 2026)
-
-Source 312 (a recruiting video on one group's money flow). Merged into T1 (recruiting video before interviews).
-
-## v163 (13 November 2026)
-
-Source 311 (AI across the business). Merged into F34 (AI as tool not identity; owner automates own workflow; fair comparison after equal training).
-
-## v162 (13 November 2026)
-
-Source 310 (five traits of a strong business). Merged into F33 (five-trait score: sticky, margin, growing market, low complexity and capital, moat).
-
-## v161 (13 November 2026)
-
-Source 308 (local moving company). Merged into C14 (commodity price objection: widen the comparison with true factors), O42 (price cap on estimates), O6 (internal skill levels as a true selling point), L69 (client upgrade beats a cash fee; the firm's head and client pack).
-
-## v160 (13 November 2026)
-
-Source 306 (parent-coaching group programme). [Fixed] X3: UK, legal rights never presented as a guarantee or feature (DMCC Act 2024 Sch 20 para 11). Merged into M7 (self-checkout priced below the assisted route), C2 (weekly group presentation for enquirers, FAQs by frequency), D15 (suggested replies from past answers, human-checked).
-
-## v159 (13 November 2026)
-
-Source 304 (three decision questions). Merged into F2 (same questions for team proposals; what would it take; do nothing as an option).
-
-## v158 (13 November 2026)
-
-Source 303 (the algorithm for content). Merged into F34 (working questions per step; worked against elapsed time; judge AI spend by results) and F21 (whole story including failures; impostor feeling as an overstated claim; speak only where there is proof).
-
-## v157 (13 November 2026)
-
-Source 301 (event planning). Merged into M1 (live quote calculator; price lock within stated scope limits) and M31 (ask how many a year and sell the year; pre-renewal video).
-
-## v156 (13 November 2026)
-
-Source 300 (choosing which games to play). Merged into F22 (who sets the scoring, want the prize, worth the price) and M46 (optimise the dominant number).
-
-## v155 (13 November 2026)
-
-Source 299 (personal brand in three stages). Merged into O2 (credibility first; associations through what the avatar likes; brand moments with a public goal and stakes after the first target).
-
-## v154 (13 November 2026)
-
-Source 298 (debate on his posts). Merged into M2 (don't blend profit and helping in the price) and M19 (loss-making counts as reinvesting only with a written return thesis; plans discounted for execution risk).
-
-## v153 (13 November 2026)
-
-Source 297 (outworking everyone). Merged into F30 (daily long block on the constraint lever, then hand it on) and F34 (tenth-of-the-time and expert frames before long fixes).
-
-## v152 (13 November 2026)
-
-Source 296 (information against traditional businesses). Merged into F33 (end goal first: income or sellable asset; switch fully, no test bed).
-
-## v151 (13 November 2026)
-
-Source 295 (the business you are really in). Merged into T1 (paired output and quality measures), O2 (differentiator the buyer can see), F28 (price the wall, then commit).
-
-Older entries (v150 and earlier) are in CHANGELOG-2.md.
+Older entries (v180 and earlier) are in CHANGELOG-2.md.

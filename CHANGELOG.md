@@ -1,6 +1,13 @@
-Business rulebook version: v422 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v423 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v423 (15 November 2026)
+
+Source 2403 (Sharran Srivatsaa Short, bonus structures).
+
+- T1: test each bonus number three ways (the person knows it, can track it themselves, can change it by their own work).
+- CHANGELOG.md passed the size cap: entries v330 to v301 moved unchanged to CHANGELOG-1.md, and v180 to v151 moved from CHANGELOG-1.md to CHANGELOG-2.md (hard rule 8).
 
 ## v422 (15 November 2026)
 - L69 [Fixed]: the strongest give to a target partner is real introductions to potential clients, two or three before asking for anything.
@@ -433,97 +440,4 @@ Source 980 (live stream, "I Live Streamed For 30 Days. Here's What I Learned.").
 
 ## v331 (2026-11-15)
 - M19 (rules-money-1b.md): deal terms must still make sense if the owner stops liking the other side; no concessions out of friendship. Source 833.
-
-## v330 (2026-11-14)
-- M33 (rules-money-2.md): price may also be shown in a smaller unit (per day or week) if the billed amount and frequency are shown just as clearly beside it (X9). Source 823.
-
-## v329 (2026-11-14)
-- T1 (rules-team.md): source a first marketing lead from owners of small agencies who have won clients without a brand. Source 803.
-
-## v328 (2026-11-14)
-- T1 (rules-team.md): when the owner wants one hire to take over everything else, group tasks by skill and hire narrower roles rather than one person with every skill. Source 799.
-
-## v327 (2026-11-14)
-- T1 (rules-team.md): enforce a standard only once it was known, achievable and chosen against; respond every time, immediately and in proportion, stepping up through the written disciplinary process; a repeated pattern ends in a lawful exit even for a high performer (X18). Source 784.
-- C1 (rules-sales.md): build the sales process for buyers who don't yet know the owner; warm leads still buy through it, a warm-only process fails on cold leads. Source 787.
-
-## v326 (2026-11-14)
-- M15 (rules-money-1c.md): closing a side line to focus on a larger business: stop new clients, written notice with the same service to the end date, recommend trusted providers, any referral payment agreed in writing and disclosed (X14, X17). Source 764.
-
-## v325 (2026-11-14)
-- F28 (rules-strategy-2b.md): when cash is short, look for cash opportunities and survival threats before strengths and weaknesses; fastest cash comes from existing customers, with the play chosen by how soon the money is needed (limited paid-in-full places, a short programme with add-ons, a recurring tier on a free trial with the later price stated). Source 675.
-
-## v324 (14 November 2026)
-- Money-1c continuity: price weekly and bill every four weeks (13 payments a year), stated clearly; set the delivery schedule from collected cash and the 80% margin (source 665).
-
-## v323 (14 November 2026)
-- T1: every role gets a paired volume and quality number reported together (source 660).
-
-## v322 (14 November 2026)
-- F2: before changing a working process, write upside, downside and whether the business can live with the downside; count the cost of change, one change at a time against the proven version (source 658).
-
-## v321 (14 November 2026)
-- Leads-4 referral rule: when monthly referral rate exceeds monthly churn, the base grows without paid acquisition; close that gap as a growth target (source 654).
-
-## v320 (14 November 2026)
-- Strategy yearly review (strategy-1): count opportunity cost, what the same team and assets would earn in the best other market; test a clearly better use on the side first (source 653).
-
-## v319 (14 November 2026)
-- T1: a team or role created to fix a metric gets the metric and a review date; stop the work if it hasn't moved (source 637).
-- F2: chart two years of monthly results to find seasonality; set seasonal targets and warn the team before low months (source 637).
-
-## v318 (14 November 2026)
-- T1: change pay only to solve a named attraction, retention or top-performer problem, within pay law (X18); ask for team hours by task before approving a new hire (source 636).
-
-## v317 (14 November 2026)
-- L18: set the growth target on one leading number the team drives (seller-accepted qualified leads), not sales; slow channels get a written first-judgement date (source 635).
-
-## v316 (14 November 2026)
-- F2: review wins by their outside causes and losses by the owner's own part; once fast action is a habit, put time between a trigger and the response, often none (source 633).
-
-## v315 (14 November 2026)
-- F2: judge past decisions by the information and reasoning at the time, not the outcome; test a changed decision rule against all similar past decisions; change it only on a recurring miscalculation (source 629).
-- CHANGELOG.md passed the size cap: entries v175 and earlier moved unchanged to CHANGELOG-1.md (hard rule 8).
-
-## v314 (14 November 2026)
-- T3: map acquisition, product and operations and give each partner one; two partners on one role means one isn't needed; every activity gets one named owner; write working expectations; the agreement negotiation as a stress test (source 623).
-
-## v313 (14 November 2026)
-- F30: when buying a small business, find sellers directly, agree the price first and then the terms, and check profit covers all loans and deferred payments on cautious inputs (source 619).
-
-## v312 (14 November 2026)
-- T1: several product lines each run as a profit unit on a shared core; launch a line only with a leader as capable as the owner; prefer growth-minded salaried leaders, and ask former owners why they want a salaried role (source 617).
-
-## v311 (14 November 2026)
-- L32: true results figures can be framed as a fraction, a rate, a gain or what it pays for; fix group, outcome and time frame before looking, name any slice, "half did better" only of a median (source 616).
-
-## v310 (14 November 2026)
-- T1: at each review, judge each person against what the owner would do in their role (initiative not taken, questions not asked); rating everyone excellent means not looking closely (source 612).
-
-## v309 (14 November 2026)
-- F30: for each function the owner has let go, the owner should be able to name its current problems; only good news means the owner is too far away, so ask for more transparency without taking the work back (source 609).
-
-## v308 (2026-11-14)
-Source 600, "The Talent Grid - How I Recognize Skill in Self & Team" (Alex Hormozi). F30: in the quarterly key-person check, grade the owner's level in each function (doing, teaching, a system that trains without the owner) and move one up each quarter.
-
-## v307 (2026-11-14)
-Source 596, "What I Learned After Countless Failed Business Partnerships" (Alex Hormozi). T3: on a partner exit, say what was agreed and not done, ask what is fair, and split shared debt in a short signed note.
-
-## v306 (2026-11-14)
-Source 589, "How gurus lie about how much MONEY they make...I'm calling it out.." (Alex Hormozi). T2: when results are cited to sell advice, ask which figure it is and weigh the owner's yearly cash after reinvestment; use plain measures in the business's own claims.
-
-## v305 (2026-11-14)
-Source 587, "How I RAISE PRICES without losing sales...(using this psychological trick)" (Alex Hormozi). M2: a price rise through an instalment total above the target, the old price as the first instalment and the target as the pay-in-full figure.
-
-## v304 (2026-11-14)
-Source 584, "A BILLIONAIRE told me how to make BILLION DOLLARS...here's my plan..." (Alex Hormozi). T1: for the three leader roles, hire only someone clearly exceptional, give real authority and a profit share with a way to buy in.
-
-## v303 (2026-11-14)
-Source 583, "I OWN 6 multimillion dollar companies...this is how I do it..." (Alex Hormozi). M48: after handover, the owner acts as an adviser: quarterly reviews, no tasks from meetings, off the team's day-to-day chat, one channel for senior leaders.
-
-## v302 (2026-11-14)
-Source 581, "Here's Why I Always Give Away a % of My Business" (Alex Hormozi). T3: phantom equity for key employees in hard-to-measure roles: share of sale proceeds, vesting with a cliff, lapses on leaving, taxed as employment income.
-
-## v301 (2026-11-14)
-Source 576, "We fired everyone who was late...this is why.." (Alex Hormozi). T1: ask new starters what their manager told them; enforce stated standards from the first breach through the lawful process, never instant dismissal.
 
