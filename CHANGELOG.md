@@ -1,6 +1,10 @@
-Business rulebook version: v394 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v395 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v395 (15 November 2026)
+- F23: start any task or project on the day it is set, even if only the first small piece.
+- Source: Sharran Srivatsaa, Short "Act now." (source 1368).
 
 ## v394 (15 November 2026)
 - T6: weigh a proven top performer's small ask (a modest rise, remote working) against the full cost of replacing them; decide on results and role, never personal circumstances, and offer the same to others meeting the bar.
