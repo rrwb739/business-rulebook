@@ -1,6 +1,11 @@
-Business rulebook version: v352 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v353 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v353 (15 November 2026)
+Sources 992 (no change) and 993 (live stream, "Alex Hormozi Answers Your Questions on Reddit").
+- M2: never average rivals or add a fixed markup; charge most at the start when need peaks; space tiers so each adds real revenue.
+- L32: confidential results told unnamed with consent; proof in the present (demonstration, consented recordings, free trial).
 
 ## v352 (15 November 2026)
 Source 991 (live stream, "He Makes $1.5M a Year... and Keeps 1.3% of It").
