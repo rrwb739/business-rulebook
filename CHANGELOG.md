@@ -1,6 +1,10 @@
-Business rulebook version: v398 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v399 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v399 (15 November 2026)
+- D7: set the working rules at kickoff (input, rounds of changes, response times, who has final say on what) and get a yes before work starts.
+- Source: Sharran Srivatsaa, Short "How To Set The Rules With Clients" (source 1508).
 
 ## v398 (15 November 2026)
 - F34: when using AI on the business's numbers, give it the specific business questions first and check its figures against the source; also fixed a missing space in F34.
