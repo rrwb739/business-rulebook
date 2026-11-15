@@ -1,6 +1,11 @@
-Business rulebook version: v375 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v376 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v376 (15 November 2026)
+- F2: a four-question review after any setback that must end in a concrete written change; "if we did not already have this, would we choose it today?"
+- T1: one neutral first-conversation question on practical barriers to taking the role, never about family or caring duties.
+- Source: Sharran Srivatsaa, "The Psychology of Failure" (source 1042).
 
 ## v375 (15 November 2026)
 - W2: insight, story, lesson for memorable points; situation, complication, resolution for results and recommendations; give the way of thinking with the answer when advising; keep a phrase notebook.
