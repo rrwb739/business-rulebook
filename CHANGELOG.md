@@ -1,6 +1,9 @@
-Business rulebook version: v338 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v339 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v339 (15 November 2026)
+- O2 (rules-offers-1.md): added that one strongly negative association can outweigh many good ones, so screen pairings for that risk first and end a damaging one quickly; a name with far more good associations can absorb a minor bad one. Source 949 (YouTube Short). Supported by negativity-bias research (Baumeister and others, 2001), medium confidence on how far it transfers to brands.
 
 ## v338 (2026-11-15)
 - M15 (rules-money-1c.md): before a lease in a new area, run the same small ad test in several areas as an honest opening-soon waiting list; answer everyone who joins (X2). Source 928.
