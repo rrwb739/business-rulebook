@@ -1,6 +1,10 @@
-Business rulebook version: v396 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v397 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v397 (15 November 2026)
+- T3: agree how partners raise problems with each other: specific action, effect and the change wanted, never character labels; agree channels for hard conversations.
+- Source: Sharran Srivatsaa, Short "Relationships are 100/0" (source 1427).
 
 ## v396 (15 November 2026)
 - X19 [Fixed]: a deductible cost saves only the tax rate on it, so never buy something just because it is deductible; a tax credit cuts the tax itself.
