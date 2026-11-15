@@ -1,6 +1,14 @@
-Business rulebook version: v358 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v359 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v359 (15 November 2026)
+Source 999 (live stream, "How To Learn Anything Faster Than Everyone Else", 2h58).
+- C13: aim for about 70% of call slots booked.
+- M37: instalments collected soon and timed to the buyer's income.
+- M19: disclose every known issue when selling the business.
+- X18: theft or dishonesty through the gross misconduct process.
+- D11: client pods so one leaver can't take the relationship.
 
 ## v358 (15 November 2026)
 Source 998 (live stream, "Alex Hormozi Answers Your Questions", 2h19).
