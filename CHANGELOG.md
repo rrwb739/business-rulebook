@@ -5,7 +5,7 @@ Business rulebook version: v387 | index: instructions.md | rule text: the rules 
 ## v387 (15 November 2026)
 - M5: closing nearly every qualified buyer signals the price is too low; keep stepping up, judged on gross profit per call.
 - T2: give candidate advisers a one-page written brief and bring specific written questions; keep client and personal data out of any AI drafting.
-- Sources: Sharran Srivatsaa Shorts (sources 1152, 1169, 1171).
+- Sources: Sharran Srivatsaa Shorts (sources 1152, 1168, 1171).
 
 ## v386 (15 November 2026)
 - M19: revenue-based finance for marketing only once acquisition cost and lifetime gross profit are proven over several cohorts; compare full cost with other options and take advice.
