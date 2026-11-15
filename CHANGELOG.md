@@ -1,6 +1,10 @@
-Business rulebook version: v409 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v410 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v410 (15 November 2026)
+- F23: at the weekly review, move tasks untouched for weeks to a named later quarter and delete them if nobody asks by then.
+- Source: Sharran Srivatsaa, Short "Stop Doing Irrelevant Tasks" (source 1821).
 
 ## v409 (15 November 2026)
 - L32 [Fixed]: record the benchmark the client would rely on and the result for every job, and show the gap across all recent jobs; show the steps involved before saying the business handles everything.
