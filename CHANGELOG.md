@@ -4,7 +4,7 @@ Business rulebook version: v389 | index: instructions.md | rule text: the rules 
 
 ## v389 (15 November 2026)
 - X20: sign contracts in the company's name with your role; agree in writing who owns brand assets (name, channels, list, methods) and license them if the owner keeps them.
-- Sources: Sharran Srivatsaa Shorts (sources 1197, 1199).
+- Sources: Sharran Srivatsaa Shorts (sources 1197, 1200).
 
 ## v388 (15 November 2026)
 - M26: agree 30-day terms with regular suppliers so cash comes in before it goes out, then pay every supplier on the agreed date.
