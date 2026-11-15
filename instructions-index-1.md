@@ -1,4 +1,4 @@
-Business rulebook version: v390 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v391 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 1 of 5: Strategy (F), Scaling roadmap (S), Offers (O)
 
@@ -44,7 +44,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 ### 2. Scaling roadmap (stage gate F32) (S)
 - S0 [at roadmap stage 0 (see F32), asking what to do next, planning the week, or reaching this stage's exit] Improvise: solo, giving it away free; owner as researcher; free pilots, lead magnet, one channel, separate money, legal form and insurance before the first pilot. (rules-stages.md)
 - S1 [at roadmap stage 1 (see F32), asking what to do next, planning the week, or reaching this stage's exit] Monetize: solo, first full-price sale clearing M1's margin; fix the offer to V1, proof, ask for money, two ways to get paid. (rules-stages.md)
-- S2 [at roadmap stage 2 (see F32), asking what to do next, planning the week, or reaching this stage's exit] Advertise: solo, consistent daily outreach, one fixed script, HEAR complaint handling, testimonials, tax reserve; exit at the first target. (rules-stages.md)
+- S2 [at roadmap stage 2 (see F32), asking what to do next, planning the week, or reaching this stage's exit] Advertise: solo, consistent daily outreach, one fixed script, HEAR complaint handling, testimonials, tax reserve; exit at the first target.; draft and wait before replying to angry messages (rules-stages.md)
 - S3 [at roadmap stage 3 (see F32), asking what to do next, planning the week, or reaching this stage's exit] Stabilize: 1 to 4 employees, owner as trainer; fix top complaint, nurture, qualification, onboarding, first hiring funnel, payroll and collections. (rules-stages.md)
 - S4 [at roadmap stage 4 (see F32), asking what to do next, planning the week, or reaching this stage's exit] Prioritize: 5 to 9 employees; niche down to the best clients, V2, rep KPIs, CS metrics, handbook, P&L and cash flow. (rules-stages.md)
 - S5 [at roadmap stage 5 (see F32), asking what to do next, planning the week, or reaching this stage's exit] Productize: 10 to 19 employees; second premium product for existing clients, lead scoring, game tape, support templates, fair exits. (rules-stages.md)
