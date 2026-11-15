@@ -1,6 +1,10 @@
-Business rulebook version: v414 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v415 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v415 (15 November 2026)
+- C5 [Fixed]: ask what range feels comfortable, or whether total or monthly matters more, never "what's your budget?".
+- Source: Sharran Srivatsaa, Short "Stop Triggering Sales Resistance" (source 1982).
 
 ## v414 (15 November 2026)
 - T2: for a coach or consultant, ask who they got this exact result for and speak to two of them.
