@@ -1,6 +1,10 @@
-Business rulebook version: v408 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v409 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v409 (15 November 2026)
+- L32 [Fixed]: record the benchmark the client would rely on and the result for every job, and show the gap across all recent jobs; show the steps involved before saying the business handles everything.
+- Sources: Sharran Srivatsaa Shorts (sources 1804, 1812).
 
 ## v408 (15 November 2026)
 - L39: mark each engaged lead's step from what they said or did (replies, friendly, says what, says when, asks for help); calls first to steps 4 and 5.
