@@ -1,6 +1,10 @@
-Business rulebook version: v387 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v388 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v388 (15 November 2026)
+- M26: agree 30-day terms with regular suppliers so cash comes in before it goes out, then pay every supplier on the agreed date.
+- Source: Sharran Srivatsaa, Short "Set payment terms before the work starts to protect your cash flow" (source 1174).
 
 ## v387 (15 November 2026)
 - M5: closing nearly every qualified buyer signals the price is too low; keep stepping up, judged on gross profit per call.
