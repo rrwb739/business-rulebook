@@ -1,6 +1,10 @@
-Business rulebook version: v359 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v360 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v360 (15 November 2026)
+Source 1000 (live stream, "Brutally Honest Advice To Achieve Your Goals", 1h54).
+- L4: handwritten card or small physical item for a short list of high-value business targets, token value only.
 
 ## v359 (15 November 2026)
 Source 999 (live stream, "How To Learn Anything Faster Than Everyone Else", 2h58).
