@@ -1,6 +1,9 @@
-Business rulebook version: v330 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v331 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v331 (2026-11-15)
+- M19 (rules-money-1b.md): deal terms must still make sense if the owner stops liking the other side; no concessions out of friendship. Source 833.
 
 ## v330 (2026-11-14)
 - M33 (rules-money-2.md): price may also be shown in a smaller unit (per day or week) if the billed amount and frequency are shown just as clearly beside it (X9). Source 823.
