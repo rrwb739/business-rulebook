@@ -1,6 +1,10 @@
-Business rulebook version: v419 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v420 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v420 (15 November 2026)
+- L50: added a test of opening cold calls with a brief apology for interrupting against none (his "data shows" claim is unverified, so it is a test, not a rule).
+- Source: Sharran Srivatsaa, Short "COLD CALLS DON'T WORK" (source 2218).
 
 ## v419 (15 November 2026)
 - M27: when a buyer shares a money difficulty, thank them, keep it confidential, pause before fixes, then work out options; record only what the sale needs.

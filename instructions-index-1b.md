@@ -1,4 +1,4 @@
-Business rulebook version: v419 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v420 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Rule index, part 2 of 5: Leads and marketing (L)
 
@@ -54,7 +54,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - L47 [writing any call to action] [Fixed] Say exactly what to do and why now, with only real scarcity and urgency; one ask at a time, easy to act, say-do loops before the big ask; in long content: short asks at start, middle and end, rotated from a bank of wordings.; rotate lead magnets, three-second light asks (rules-leads-3.md)
 - L48 [cold outreach in general] Solve strangers' three problems in order: list, personalised fast value, more contacts in more ways; sell in steps; it's a numbers game. (rules-leads-3.md)
 - L49 [building the cold list] Lists in order: scraping tools, brokers, hand-built; test samples; first 1,000 names; groups are the warmest cold audience; check lists before use. (rules-leads-3.md)
-- L50 [writing any cold message] Personalise with true checkable facts, plain text, big fast value first; call opener, voicemail and gatekeeper method; true source and fit criteria when asked where their number came from; standing tests; voicemail callback reasons true and specific; every template read on a phone first; seen-but-silent close-off as a short voice or video note on the channel already used, lawful, no pressure, tested against text; opener: do they already have someone (both answers ready; existing buyers are better prospects); name a nearby client only with permission. (rules-leads-3.md)
+- L50 [writing any cold message] Personalise with true checkable facts, plain text, big fast value first; call opener, voicemail and gatekeeper method; true source and fit criteria when asked where their number came from; standing tests; voicemail callback reasons true and specific; every template read on a phone first; seen-but-silent close-off as a short voice or video note on the channel already used, lawful, no pressure, tested against text; opener: do they already have someone (both answers ready; existing buyers are better prospects); name a nearby client only with permission.; test an apology opener on cold calls (rules-leads-3.md)
 - L51 [deciding how much to automate] Automate sending; the smaller the universe the less to automate; research depth scales with deal size. (rules-leads-3.md)
 - L52 [following up] [Fixed] Contact every lead more than once in more than one way; stop on request; recontact non-responders after 3 to 6 months. (rules-leads-3.md)
 - L53 [cold outreach benchmarks] Published benchmarks are placeholders, replaced with own after 100 to 300 contacts; judge on replies, not opens; later test personal video. (rules-leads-3.md)
