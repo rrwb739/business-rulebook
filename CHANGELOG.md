@@ -1,6 +1,10 @@
-Business rulebook version: v415 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v416 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v416 (15 November 2026)
+- D7: agree a fixed weekly client update day and raise anything significant first, so the client never chases.
+- Sources: Sharran Srivatsaa Shorts (sources 1862, 2000).
 
 ## v415 (15 November 2026)
 - C5 [Fixed]: ask what range feels comfortable, or whether total or monthly matters more, never "what's your budget?".
