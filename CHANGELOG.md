@@ -1,6 +1,10 @@
-Business rulebook version: v369 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v370 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v370 (15 November 2026)
+Source 1012 (Sharran Srivatsaa, video on rolling up small service businesses, 14:11).
+- M19: roll-ups: the combined firm must run better than the parts; buyers price buy against build; walk every deal to the end (cost to buy against cost to run, who is paid first if it goes badly, assets inherited); seller shares plus guaranteed lending, proven on the first few purchases, with advice.
 
 ## v369 (15 November 2026)
 Structural split, no rule text removed.
