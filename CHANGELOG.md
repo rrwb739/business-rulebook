@@ -1,6 +1,11 @@
-Business rulebook version: v405 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v406 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v406 (15 November 2026)
+- T3: before partnering, watch how they treat people with no power over them, how they handle problems and whether they follow through unprompted.
+- M19: in the first year after buying a business, keep the staff and clients that made it valuable and change little until the numbers are understood.
+- Sources: Sharran Srivatsaa Shorts (sources 1725, 1729).
 
 ## v405 (15 November 2026)
 - F24 and F25: moved unchanged from rules-strategy-2.md (at the size cap) to rules-strategy-2c.md, pointers left in the old place; index updated.
