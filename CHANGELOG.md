@@ -1,6 +1,11 @@
-Business rulebook version: v399 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v400 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v400 (15 November 2026)
+- L66: thank the best clients on a fixed schedule (no pitch, within X16 limits) and log referrals after each.
+- T3: fund the death and exit plan (insurance on each owner's life or a reserve, with regulated advice) so a death doesn't force a sale.
+- Sources: Sharran Srivatsaa Shorts (sources 1524, 1531).
 
 ## v399 (15 November 2026)
 - D7: set the working rules at kickoff (input, rounds of changes, response times, who has final say on what) and get a yes before work starts.
