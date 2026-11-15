@@ -1,6 +1,11 @@
-Business rulebook version: v371 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v372 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v372 (15 November 2026)
+- T1: two structured interview questions (teach me something; how did you prepare), scored on the anchored scale, and never marking a candidate down for negotiating pay.
+- T6: when work misses a standard that was never shown, the leader owns the gap and gives two or three finished examples of good work.
+- Source: Sharran Srivatsaa, "If You Only Watch One Business Video, Make It This" (source 1025).
 
 ## v371 (15 November 2026)
 Sources 1013 to 1019 (Sharran Srivatsaa videos; 1013 to 1018 all covered or rejected as personal finance).
