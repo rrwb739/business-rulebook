@@ -1,6 +1,10 @@
-Business rulebook version: v412 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v413 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v413 (15 November 2026)
+- L66 [Fixed]: give clients a when-then trigger to pass on a free resource when someone mentions the problem.
+- Source: Sharran Srivatsaa, Short "Turn Clients into a Referral Machine" (source 1898).
 
 ## v412 (15 November 2026)
 - L36: deliver lead magnets as plain emails from the owner's normal inbox, asking for a reply to confirm arrival.
