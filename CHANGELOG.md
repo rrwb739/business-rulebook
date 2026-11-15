@@ -1,6 +1,10 @@
-Business rulebook version: v393 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v394 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v394 (15 November 2026)
+- T6: weigh a proven top performer's small ask (a modest rise, remote working) against the full cost of replacing them; decide on results and role, never personal circumstances, and offer the same to others meeting the bar.
+- Source: Sharran Srivatsaa, Short "Don't risk the empire for a pot of gold" (source 1334).
 
 ## v393 (15 November 2026)
 - T6: ten-minute group huddle for people who sell or book: yesterday's count and today's committed count, written up for all to see.
