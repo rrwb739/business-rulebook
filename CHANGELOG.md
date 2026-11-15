@@ -1,6 +1,11 @@
-Business rulebook version: v410 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v411 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v411 (15 November 2026)
+- L35: never a bare "just checking in"; every contact carries something useful or one specific question.
+- D17: the weekly backup includes the email list.
+- Sources: Sharran Srivatsaa Shorts (sources 1854, 1858).
 
 ## v410 (15 November 2026)
 - F23: at the weekly review, move tasks untouched for weeks to a named later quarter and delete them if nobody asks by then.
