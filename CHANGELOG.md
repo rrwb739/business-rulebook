@@ -1,6 +1,16 @@
-Business rulebook version: v361 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v362 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v362 (15 November 2026)
+Source 1002 (live stream, "Brutally Honest Advice For Mental Toughness | Hormozi Hotline", 4h11).
+- New F35 (rules-strategy-2c.md): steadiness under setbacks as four practised skills judged by behaviour.
+- New X25 [Fixed] (rules-legal-b.md): never pay for patient or service-user referrals; US Anti-Kickback Statute and safe harbours, UK Bribery Act.
+- M40: running totals and budget question for usage-billed clients; subscription or one-off chosen by lifetime earnings per click.
+- D11: two coaching team models.
+- L69: regulated referral sources under X25, launch then integrate.
+- L2: avoid mid-priced labour-heavy services to small owners.
+- M19: keep a sale need-to-know within TUPE duties; keep growing during diligence.
 
 ## v361 (15 November 2026)
 Source 1001 (live stream, "How to Build a Business That Runs Without You", 1h41).
