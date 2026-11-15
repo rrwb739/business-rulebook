@@ -1,6 +1,11 @@
-Business rulebook version: v360 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v361 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v361 (15 November 2026)
+Source 1001 (live stream, "How to Build a Business That Runs Without You", 1h41).
+- M40: annual prepay offer sized against the average member lifetime.
+- L69: in project businesses, track retention and acquisition per referring partner.
 
 ## v360 (15 November 2026)
 Source 1000 (live stream, "Brutally Honest Advice To Achieve Your Goals", 1h54).
