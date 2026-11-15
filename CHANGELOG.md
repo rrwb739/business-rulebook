@@ -1,6 +1,12 @@
-Business rulebook version: v423 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v424 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v424 (15 November 2026)
+
+Source 2490 (Sharran Srivatsaa Short, signature presentation).
+
+- L79: one core talk of about 25 to 30 minutes, cut to about 10 or expanded to an hour or workshop to fit each speaking slot.
 
 ## v423 (15 November 2026)
 
