@@ -5,7 +5,7 @@ Business rulebook version: v417 | index: instructions.md | rule text: the rules 
 ## v417 (15 November 2026)
 - C5 [Fixed]: word the why-ladder as "what" questions where a bare "why" would sound like a demand to justify.
 - C13: a new seller role-plays about an hour a day for their first week before live calls.
-- Sources: Sharran Srivatsaa Shorts (sources 2042, 2056).
+- Sources: Sharran Srivatsaa Shorts (sources 2042, 2057).
 
 ## v416 (15 November 2026)
 - D7: agree a fixed weekly client update day and raise anything significant first, so the client never chases.
