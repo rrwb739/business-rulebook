@@ -1,6 +1,10 @@
-Business rulebook version: v392 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v393 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v393 (15 November 2026)
+- T6: ten-minute group huddle for people who sell or book: yesterday's count and today's committed count, written up for all to see.
+- Source: Sharran Srivatsaa, Short "The fastest way to improve performance isn't more motivation. It's accountability." (source 1320).
 
 ## v392 (15 November 2026)
 - F28: test a named constraint by asking whether doubling it alone would raise cash collected; advice that moved nothing usually means the constraint was misnamed.
