@@ -1,6 +1,10 @@
-Business rulebook version: v411 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v412 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v412 (15 November 2026)
+- L36: deliver lead magnets as plain emails from the owner's normal inbox, asking for a reply to confirm arrival.
+- Source: Sharran Srivatsaa, Short "This Email Hack Will 3X Your Response Rate Instantly!" (source 1871).
 
 ## v411 (15 November 2026)
 - L35: never a bare "just checking in"; every contact carries something useful or one specific question.
