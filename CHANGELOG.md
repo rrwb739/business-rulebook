@@ -1,6 +1,12 @@
-Business rulebook version: v424 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v425 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v425 (15 November 2026)
+
+Source 2534 (Sharran Srivatsaa Short, meeting structure).
+
+- T6: meeting agendas list only the decisions to make; the organiser sends a recap of decisions made and actions with owners and dates.
 
 ## v424 (15 November 2026)
 
