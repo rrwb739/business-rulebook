@@ -1,6 +1,10 @@
-Business rulebook version: v384 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v385 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v385 (15 November 2026)
+- T1: write the first hire's role from the owner's list of recurring tasks that block growth, not a copied job description.
+- Source: Sharran Srivatsaa, Short "Before You Hire, Solve the Pain of Today" (source 1070).
 
 ## v384 (15 November 2026)
 - M48: once a year, under confidentiality, ask a few likely buyers what they would pay and what would make it worth meaningfully more; use the answers as an input to next year's plan.
