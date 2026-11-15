@@ -1,6 +1,10 @@
-Business rulebook version: v420 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v421 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v421 (15 November 2026)
+- L50: added a test of emailing leads that morning with the calling number in the signature before calling.
+- Source: Sharran Srivatsaa, Short "the BEST way to cold call" (source 2232).
 
 ## v420 (15 November 2026)
 - L50: added a test of opening cold calls with a brief apology for interrupting against none (his "data shows" claim is unverified, so it is a test, not a rule).
