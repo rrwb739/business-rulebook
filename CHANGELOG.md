@@ -1,6 +1,11 @@
-Business rulebook version: v348 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v349 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v349 (15 November 2026)
+Source 988 (live stream, "My Social Media Strategy for 2026").
+- O8: sell to the goal, with the amount of work set from the assessed gap and a guarantee conditional on the buyer's part.
+- M20: self-funded growth rate when stock is bought ahead; equity rather than overselling.
 
 ## v348 (15 November 2026)
 Source 987 (live stream, "Answering Your Sales Question Live").
