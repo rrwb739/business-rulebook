@@ -1,6 +1,11 @@
-Business rulebook version: v368 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v369 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v369 (15 November 2026)
+Structural split, no rule text removed.
+- T1 (rules-team.md) now covers hiring, recruiting and pay; its management sentences moved word for word to new T6 (new file rules-team-c.md): standards, feedback, check-ins, culture, team structure and reporting. T1 had filled its file to the size limit as one rule.
+- T6: added the two lessons logged as parked under source 1006: weekly written reports for remote or less experienced staff, answered every time; a new finance lead's first 90 days (meet each leader, one dashboard, payment controls, D17).
 
 ## v368 (15 November 2026)
 Source 1009 (live stream, an earlier book launch presentation, 1h27).
