@@ -1,6 +1,10 @@
-Business rulebook version: v417 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v418 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v418 (15 November 2026)
+- C5 [Fixed]: when "tell me more" gets a vague answer, offer a sorting choice (this quarter or next) and then ask what drives it.
+- Source: Sharran Srivatsaa, Short "BEST scripts for real estate" (source 2137).
 
 ## v417 (15 November 2026)
 - C5 [Fixed]: word the why-ladder as "what" questions where a bare "why" would sound like a demand to justify.
