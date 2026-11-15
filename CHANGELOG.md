@@ -1,6 +1,10 @@
-Business rulebook version: v334 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v335 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v335 (2026-11-15)
+- T1 (rules-team.md): theft found is treated as a likely pattern: investigate, gross misconduct process, recover, report where appropriate, tighten controls (X18). Source 889.
+- D11 (rules-delivery.md): when demand exceeds delivery during an operations fix, use a waiting list with a true start date. Source 890.
 
 ## v334 (2026-11-15)
 - T3 (rules-team-b.md): never a new process with a new person (prove it first, then hand it over); for senior roles prefer people who want to build inside a company over would-be owners. Sources 862, 866.
