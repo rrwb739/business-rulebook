@@ -1,6 +1,10 @@
-Business rulebook version: v385 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v386 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
 
 # Changelog
+
+## v386 (15 November 2026)
+- M19: revenue-based finance for marketing only once acquisition cost and lifetime gross profit are proven over several cohorts; compare full cost with other options and take advice.
+- Source: Sharran Srivatsaa, Short on revenue-based marketing finance (source 1135).
 
 ## v385 (15 November 2026)
 - T1: write the first hire's role from the owner's list of recurring tasks that block growth, not a copied job description.
