@@ -1,6 +1,17 @@
-Business rulebook version: v425 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v426 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-16
 
 # Changelog
+
+## v426 (16 November 2026)
+
+Source: owner's setup test of a new business project (no external source).
+
+- templates/instructions-box.md: new Method block, always loaded, so the method holds even when a project can only search its files; adds the skill-scout step and the Skill check line.
+- instructions.md step 3: when files can only be searched, run at least 5 searches instead of full passes and say so; never claim a pass that wasn't done. Step 6: adds the Skill check line and the read-or-searched note.
+- M1: labour-priced services that can't reach 80% record their own margin bar as a decision; F10 uses it; a low bar is a warning to look for more leverage.
+- tools.md: skill-scout replaces find-skills.
+- setup/: skill-scout.zip and SKILL.md added.
+- README.md: install skill-scout as setup step 3; how to tell if a project is behind and what to do; existing projects copy the new Method block once.
 
 ## v425 (15 November 2026)
 

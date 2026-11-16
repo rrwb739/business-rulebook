@@ -1,4 +1,4 @@
-Business rulebook version: v425 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-11
+Business rulebook version: v426 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-16
 
 # Tools register
 
@@ -7,7 +7,7 @@ Reviewed tools, by the roadmap stage they're for. A project suggests a tool only
 ## Any stage
 - Customer panel (github.com/Jakeschincariol/founder-skill, consumer part), reviewed 9 November 2026: simulates buyers to test a message or offer. Clean: standard Python, no network. Use it to rank messages before real sends, never to forecast reply or buy rates; calibrate it on a message already sent with known results first.
 - Video-making skill (built into Claude): animated text and chart videos, free, in chat.
-- find-skills (adapted from github.com/vercel-labs/skills): suggests a better skill only when one clearly helps; never installs without a yes.
+- skill-scout (setup/skill-scout.zip in this repo, replaces find-skills), added 16 November 2026: on every answer, checks installed skills, searches outside skills and scans any candidate with NVIDIA SkillSpector (github.com/NVIDIA/SkillSpector, open source) before recommending it; never recommends an unscanned skill and never installs without a yes. A clean scan means no findings in a static scan, not proof the skill is safe.
 
 ## From S3 (content and paid ads: L60, L61)
 - Higgsfield official connector (https://mcp.higgsfield.ai/mcp), reviewed 10 November 2026: realistic AI video inside Claude. Paid plan needed (from $15 a month for 200 credits). A 10-second clip is about 70 credits at 720p and 160 at 1080p; expect 2 to 4 attempts per clip, so roughly $30 to $50 per finished 30-second ad. Start on the smallest plan and measure the real retry rate. Real footage of the owner first; AI people never presented as real (W1, X13).
