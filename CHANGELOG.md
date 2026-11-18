@@ -1,6 +1,15 @@
-Business rulebook version: v426 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-16
+Business rulebook version: v427 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v427 (18 November 2026)
+
+Source: owner's instruction (no external source): every answer runs F34's five steps, then F31's 80/20 method, and gives mainly the 20% that gets 80%.
+
+- instructions.md step 2b: F34's five steps now run on every prompt, before the answer is written, not only when something is built or changed. Step 6: the answer is mainly "The 20% that gets 80%" (one to three actions, how to do each, each with its number); everything else is left out unless needed to act, a correction (F6), a confidence level or a [Fixed] rule; the audit sections move to one closing line.
+- F31: rewritten opening so every answer is built from F34 then the 80/20 method, with the rest left out on the same conditions; index line updated.
+- F34: trigger widened to every answer; index line updated.
+- templates/instructions-box.md Method step 7 and README.md: same change in short form.
 
 ## v426 (16 November 2026)
 

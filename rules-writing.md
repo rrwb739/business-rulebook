@@ -1,4 +1,4 @@
-Business rulebook version: v426 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-16
+Business rulebook version: v427 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 ## Writing (W)
 

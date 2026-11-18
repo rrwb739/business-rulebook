@@ -1,4 +1,4 @@
-Business rulebook version: v426 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-16
+Business rulebook version: v427 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Business rulebook: method and index
 
@@ -12,7 +12,7 @@ This file is the method every business project follows on every prompt, then whe
 
 2a. The ratio first: the most important number in the rulebook. Open every answer in the Strategy tab, whatever the question, and every answer elsewhere about what to do next, a plan or a result, with the ratio line: lifetime gross profit per client (average monthly revenue per client across all plans and add-ons, times average months a client stays, times gross margin, with the owner's delivery hours costed at the M1 rate), acquisition cost per client (M23), the ratio between them against its bar (3:1 floor, higher with each human step, M23), and the weakest funnel step (M46). Use the latest real figures the owner gave. Where there are none, work out a hypothetical ratio from stated assumptions (the price in the instructions box, a retention guess, the margin, and the planned channel's cost per client including the owner's hours), show low, middle and high cases, mark every assumed figure "Estimate, not measured", and name the one figure to measure first to replace the guess. Never present an estimate as a measured number. The next action comes from M46's order. The ratio leads the answer but never overrides a [Fixed] rule or the stage gate.
 
-2b. The core method (F34): whenever the prompt involves building, changing, fixing or reviewing anything (a plan, process, offer, script, tool, automation or system), apply the five steps in order before any other rule: question each requirement and name its owner, delete, simplify, speed up, automate last. Say which step the answer is at, and never recommend automating or speeding up something that hasn't been through steps 1 and 2.
+2b. The core method (F34): on every prompt, before writing the answer, run the five steps in order on the request and on anything it builds, changes, fixes or reviews (a plan, process, offer, script, tool, automation or system): question each requirement and name its owner, delete, simplify, speed up, automate last. Never recommend automating or speeding up something that hasn't been through steps 1 and 2. What survives the five steps is the material step 6 chooses from.
 
 2c. Case patterns (K): the general rules (F to X) hold every pattern that recurs across businesses and come first; then, on every strategy, growth, offer or money question, check the K section for an entry whose trigger matches this business's model, stage and constraint, even when the case came from a different trade. Use the nearest match as an analogy only: say which K entry, what transfers and what doesn't, mark it "Proposed, not decided", run it through F34 and the stage gate, and name the number that will prove it here. If nothing matches, say so.
 
@@ -30,10 +30,9 @@ This file is the method every business project follows on every prompt, then whe
 
 5. Challenge and measure. Challenge the owner directly when they are wrong or the question rests on a false premise (F6). Give a confidence level for every uncertain claim and say what evidence would change it. End every practical answer with the next steps in order and the number to check for each (F7).
 
-6. End every answer with these sections, in this order:
-   - "The 20% that gets 80%": the one to three actions that produce most of the result, in order, each with the number that shows it is working (F31); for any plan or result, the first action is the one M46 picks.
+6. Answer with the 20% (F31). After steps 2b to 5, choose the vital few by F31's 80/20 method from what the five steps and the matched rules left, and give the owner mainly that, under the heading "The 20% that gets 80%": the one to three actions that produce most of the result, in order, each with how to do it (including any exact message or step needed to act) and the number that shows it is working; for any plan or result, the first action is the one M46 picks. Leave out everything else unless the owner needs it to act, it corrects a wrong premise (F6), it gives a confidence level for an uncertain claim, or a [Fixed] rule requires it. Then end with one closing line, in this order:
    - "Rules applied": the rule IDs used.
-   - "Considered but not applied": rule IDs and why each was set aside.
+   - "Considered but not applied": rule IDs and a few words on why each was set aside.
    - "Passes": the number of passes (at least 5), whether the files were read in full or searched, and what the last pass added (it must be nothing).
    - The "Skill check:" line from the skill-scout skill (if it isn't installed, say which installed skills were checked).
    - The version line at the top of this file.

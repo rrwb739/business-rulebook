@@ -1,4 +1,4 @@
-Business rulebook version: v426 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-16
+Business rulebook version: v427 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Business rulebook
 
@@ -35,4 +35,4 @@ The version line at the end of every answer shows which version the chat used, a
 
 - Legal rules are marked [Fixed] and always win. They are general guidance, not legal advice: confirm with a qualified adviser for your country.
 - Rules tagged [shape: ...] fit only that kind of business; rules tagged [stage: ...] apply only from that roadmap stage.
-- Every answer ends with "The 20% that gets 80%", the rules applied, the rules considered but not applied, the number of passes, the Skill check line and the version line. If an answer doesn't, ask Claude to follow instructions.md.
+- Every answer runs F34's five steps, then F31's 80/20 method, and gives mainly "The 20% that gets 80%" (one to three actions, how to do each, each with its number), then one closing line with the rules applied, the rules considered but not applied, the number of passes, the Skill check line and the version line. If an answer doesn't, ask Claude to follow instructions.md.
