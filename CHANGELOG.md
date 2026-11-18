@@ -1,6 +1,12 @@
-Business rulebook version: v428 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v429 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v429 (18 November 2026)
+
+Source 2606 (Instagram carousel by Alex Hormozi on the price question).
+
+- C7: when a prospect asks the price before the problem and its cost are known, ask their goal first ("it depends on your goal; what made you reach out today?"), stay quiet, and give the price once their own cost figure is known; an honest range if they press again.
 
 ## v428 (18 November 2026)
 

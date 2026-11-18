@@ -1,4 +1,4 @@
-Business rulebook version: v428 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v429 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 ## Sales (C), continued
 
