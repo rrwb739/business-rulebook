@@ -1,4 +1,4 @@
-Business rulebook version: v427 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v428 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Rule index, part 4 of 5: Delivery (D), Team (T), Writing (W), Legal and tax (X)
 

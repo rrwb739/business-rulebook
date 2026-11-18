@@ -1,4 +1,4 @@
-Business rulebook version: v427 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v428 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Rule index, part 2 of 5: Leads and marketing (L)
 
@@ -14,7 +14,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - L7 [deciding whether to automate outreach] AI may research, draft and send if each message has a checked personal detail; owner approves templates, samples 20 drafts daily, reads replies. (rules-leads-1.md)
 - L8 [the owner asks for leads, a lead list or a lead sheet, or mentions leads in any way] Keep one master lead sheet: research, check names, set columns, fit score from L2 only, lookalikes, batches of 10 to 20. (rules-leads-1.md)
 - L9 [building a cold list] Build from directories, registers and websites; prefer public records proving ability to pay and need; test four or five data tools on equal samples; keep the best on replies and cost per sale. (rules-leads-1.md)
-- L10 [writing a cold email or first message] Found you, one benefit, ask for a reply; under 100 words, one named recipient, one cue, no pitch; listed tests. (rules-leads-1.md)
+- L10 [writing a cold email or first message] Found you with one detail plus a plain compliment on it (every time, L50), one benefit, ask for a reply; under 100 words, one named recipient, one cue, no pitch; listed tests. (rules-leads-1.md)
 - L11 [writing any outreach or copy, or explaining anything to clients or staff] Clear, not clever: below US grade 3 to 5, cut hard, reader's own analogies, plain words, more "you" than "I". (rules-leads-1.md)
 - L12 [running outreach] Track every conversation; front-loaded follow-ups each with something new; never contact after a no; avoid the avatar's busiest weeks. (rules-leads-1.md)
 - L13 [a lead replies or books] Reply within the hour in outreach windows using ACA; answer quick questions first; handle hostile replies and redirects calmly. (rules-leads-1.md)

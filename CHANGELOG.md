@@ -1,6 +1,12 @@
-Business rulebook version: v427 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v428 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v428 (18 November 2026)
+
+Source: owner's instruction (no external source): every cold first message carries a compliment on the detail, not the detail alone.
+
+- L10: step 1 now requires, every time, one plain compliment resting on the specific detail and saying why it stood out (per L50), then the link from that detail to the problem; with no true specific, both are left out. Index line updated.
 
 ## v427 (18 November 2026)
 
