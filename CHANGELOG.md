@@ -1,6 +1,15 @@
-Business rulebook version: v430 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v431 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v431 (23 November 2026)
+
+Sources 2612, 2615, 2619 and 2621 (MoreMozi Q&A clips by Alex Hormozi).
+
+- M31: upsell asks in order: after purchase, at onboarding, at the first milestone, at a halfway feedback check, last at renewal; ask at the moment of greatest felt need.
+- L59: show the result for one buyer type rather than every step; repeat one idea across a grid of buyer types or uses; name the categories a method covers.
+- M8: by scope, a low-price upkeep plan is sold with the one-off at the first sale with no gap; one-off value billed once, repeat-use value monthly.
+- M19: a first-time buyer who cannot yet sell should prefer a high-retention, word-of-mouth business.
 
 ## v430 (23 November 2026)
 
