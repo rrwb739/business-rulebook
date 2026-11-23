@@ -1,6 +1,13 @@
-Business rulebook version: v435 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v436 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v436 (23 November 2026)
+
+Sources 2665 and 2672 (MoreMozi clips by Alex Hormozi).
+
+- T1: any role, pay or deal for family or friends must be what a stranger with the same experience would get, on the same standards.
+- M19: during a sale, keep deciding for customers rather than the imagined buyer; expect less freedom to start new work; plan for lost cash flow and the team that goes.
 
 ## v435 (23 November 2026)
 
