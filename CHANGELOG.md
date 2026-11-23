@@ -1,6 +1,14 @@
-Business rulebook version: v443 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v444 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v444 (23 November 2026)
+
+Sources 2730, 2733 and 2736 (MoreMozi videos by Alex Hormozi, including two full workshops).
+
+- O17: in free material the call to action offers help applying it to the reader's own case, not more of the same.
+- O4: benefits written as moments the buyer lives, with the figure beneath as support.
+- F33: build in at least one advantage that strengthens with size (network, exclusive supply or data, licence, scale costs, supply chain, brand, segmented tiers with real differences, exclusive contracts, capital barrier, IP, local roll-up within competition law, free core offer, owned distribution), done fully.
 
 ## v443 (23 November 2026)
 

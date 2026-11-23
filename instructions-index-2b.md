@@ -1,4 +1,4 @@
-Business rulebook version: v443 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v444 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Rule index, part 5 of 5: Case patterns (K)
 
