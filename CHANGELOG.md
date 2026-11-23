@@ -1,6 +1,14 @@
-Business rulebook version: v432 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v433 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v433 (23 November 2026)
+
+Sources 2633, 2634 and 2639 (MoreMozi Q&A clips by Alex Hormozi).
+
+- O42: for a prevention service, sell the good result and the rest of the experience, show the true cost of the failure prevented, and offer a scoped conditional remedy sized against the extra sales.
+- M15: test the first unit for about six months with no owner decisions or escalations and profit holding before copying it.
+- M41: a one-off programme sold alone or free with continuity; its standalone price sets the split between upfront cash and members.
 
 ## v432 (23 November 2026)
 

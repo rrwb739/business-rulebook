@@ -1,4 +1,4 @@
-Business rulebook version: v432 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v433 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Rule index, part 1 of 5: Strategy (F), Scaling roadmap (S), Offers (O)
 
@@ -95,7 +95,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - O39 [building or presenting bonuses] Stack named, priced, proven bonuses that each kill a reason they can't succeed and are each worth the price alone; one or two bonuses for problems that only arise on success. (rules-offers-2.md)
 - O40 [deciding what's core and what's a bonus, or building assets] Pull standalone high-value items out as bonuses and keep a recorded bonus vault; by-products turned into near-free bonuses that bring clients back. (rules-offers-2.md)
 - O41 [adding bonuses from other businesses] Get exclusive perks from adjacent partners, rank deal types, disclose commission, review partners each group. (rules-offers-2.md)
-- O42 [choosing or adding a guarantee] Guarantee menu: payout types and guarantee types with when each fits; price cap on estimates. (rules-offers-2.md)
+- O42 [choosing or adding a guarantee] Guarantee menu: payout types and guarantee types with when each fits; price cap on estimates.; prevention services: sell the good result, scoped conditional remedy (rules-offers-2.md)
 - O43 [building or improving the offer] The 10x and one-tenth test; start high-touch, then move results into low-cost assets. (rules-offers-2.md)
 - O44 merged into O39 and O41. (rules-offers-2.md)
 - O45 [a prospect hesitates over an unconditional guarantee, or choosing guarantee types] Scripts for guarantee hesitation, extra guarantee types and stacking options. (rules-offers-2.md)
