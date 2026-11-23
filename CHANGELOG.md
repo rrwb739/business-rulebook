@@ -1,6 +1,14 @@
-Business rulebook version: v436 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v437 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v437 (23 November 2026)
+
+Sources 2675 and 2679 (MoreMozi clips by Alex Hormozi).
+
+- F2: before a hard-to-reverse bet, write the specific worst case and the fallback plan.
+- L70: callers set a daily count of noes to collect.
+- O18: improvement as a routine: a split test every week, creative made before it is needed, daily role-play for sellers and client-facing staff.
 
 ## v436 (23 November 2026)
 
