@@ -1,6 +1,12 @@
-Business rulebook version: v434 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v435 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v435 (23 November 2026)
+
+Source 2657 (MoreMozi clip by Alex Hormozi).
+
+- L69: partner rewards that win for the business, the partner and the partner's audience, such as a live session for the top partners' followers, instead of cash that spends the partner's goodwill.
 
 ## v434 (23 November 2026)
 
