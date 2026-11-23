@@ -1,6 +1,12 @@
-Business rulebook version: v438 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v439 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v439 (23 November 2026)
+
+Source 2694 (MoreMozi clip by Alex Hormozi).
+
+- O18: once the main channel works, a small fixed share of the marketing budget each month goes to untested ideas judged on what they teach, not on return.
 
 ## v438 (23 November 2026)
 
