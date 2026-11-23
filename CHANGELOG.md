@@ -1,6 +1,12 @@
-Business rulebook version: v451 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v452 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v452 (23 November 2026)
+- M20: fix billing timing; give collections to a dedicated person.
+- T1: pay sellers by the skill the role needs.
+- T3: the person who takes over running the business shares the owner's strengths.
+- Sources 2859 to 2861 (three new MoreMozi uploads).
 
 ## v451 (23 November 2026)
 - M37: a small paid offer for leads who don't qualify.
@@ -501,87 +507,4 @@ Source 1002 (live stream, "Brutally Honest Advice For Mental Toughness | Hormozi
 Source 1001 (live stream, "How to Build a Business That Runs Without You", 1h41).
 - M40: annual prepay offer sized against the average member lifetime.
 - L69: in project businesses, track retention and acquisition per referring partner.
-
-## v360 (15 November 2026)
-Source 1000 (live stream, "Brutally Honest Advice To Achieve Your Goals", 1h54).
-- L4: handwritten card or small physical item for a short list of high-value business targets, token value only.
-
-## v359 (15 November 2026)
-Source 999 (live stream, "How To Learn Anything Faster Than Everyone Else", 2h58).
-- C13: aim for about 70% of call slots booked.
-- M37: instalments collected soon and timed to the buyer's income.
-- M19: disclose every known issue when selling the business.
-- X18: theft or dishonesty through the gross misconduct process.
-- D11: client pods so one leaver can't take the relationship.
-
-## v358 (15 November 2026)
-Source 998 (live stream, "Alex Hormozi Answers Your Questions", 2h19).
-- L45: word-for-word pitch decks for other presenters, master script from the best past pitches, home run-throughs before going live.
-- O5: why-people-buy document from recorded sales calls, fed into the pre-call video and script.
-- M40: small yearly review retainer after large bespoke projects.
-
-## v357 (15 November 2026)
-Source 997 (live stream, "Alex Hormozi Answers Your Questions", 2h19).
-- T4: pair speed or volume pay with a quality measure; rework always paid; public praise and action on corner-cutting.
-- M40: first-order churn: default reorder, edit/skip/halve by message before each charge, billing cadence test, higher price as an avatar signal.
-- L2: check a growth target against the size of the buyer pool.
-- W1: sell the outcome, not the tool.
-- D5: written decision box for each delegated role.
-
-## v356 (15 November 2026)
-Source 996 (live stream, "Alex Hormozi Answers Your Questions").
-- O37: sell-down to a real stop date, true reason, countdown, monthly bundles.
-- L69: affiliates who don't start: bigger payout, ongoing share, 30-day launch rate, done-for-you setup, ads to businesses serving the same clients.
-- C13: expertise selling doesn't transfer; discovery prompts; repeat corrected lines three times.
-- L37: in-person review ask by the crew lead; staff bonus never tied to rating; no gift with the ask.
-- M19: first-time buyers prefer high-retention, word-of-mouth businesses.
-
-## v355 (15 November 2026)
-Source 995 (live stream, "Alex Hormozi Answers Your Questions").
-- C3: reminders confirm the pre-call video was watched and every decision maker will attend; proof video while preparing an in-person quote.
-- M28: free tool or tier users as zero-cost leads; call step at sign-up; limited free tier; next-problem paid offer.
-- L73: real-stakes content from recorded client sessions with consent; reuse hook structures, not content.
-- L61: winning-ad log for AI variations; client-made content as a disclosed endorsement (X14).
-
-## v354 (15 November 2026)
-Source 994 (live stream, "Alex Hormozi Answers Your Questions (Ask Me Anything)").
-- C1: paid low-price workshop for cold traffic; opt-in qualifying question; judge on qualified attendees.
-- L61: daily spend near one acquisition cost with matching creative volume; search reaches urgent price-shoppers, interruption ads reach ongoing buyers; credit today's purchase towards the plan.
-- D7: live group onboarding for self-serve software; churn split by channel, buyer type and activation step.
-- D11: several contingency recruiters for one-off roles; own funnel and cost per hire for repeat roles.
-
-## v353 (15 November 2026)
-Sources 992 (no change) and 993 (live stream, "Alex Hormozi Answers Your Questions on Reddit").
-- M2: never average rivals or add a fixed markup; charge most at the start when need peaks; space tiers so each adds real revenue.
-- L32: confidential results told unnamed with consent; proof in the present (demonstration, consented recordings, free trial).
-
-## v352 (15 November 2026)
-Source 991 (live stream, "He Makes $1.5M a Year... and Keeps 1.3% of It").
-- M15: payback and return per unit, lean build-outs, a grand opening pulls payback forward.
-- M20: lease depreciating equipment rather than buy, to grow on cash flow.
-
-## v351 (15 November 2026)
-Source 990 (live stream, "Should He Walk Away From His $1.4M Business To Start Over?").
-- F22: try a new acquisition channel before a new business; deliver the first offer's promise before building the next products.
-
-## v350 (15 November 2026)
-Source 989 (live stream, "Get Rich While You're Young", 2:35, transcribed in full).
-- M19: small businesses valued on seller's discretionary earnings, often with part paid later.
-- L55: learn one to one from suppliers serving the same kind of business, or out-of-area owners.
-- C2: keep a front-end paid step that converts to the larger deal; value it before removing it.
-
-## v349 (15 November 2026)
-Source 988 (live stream, "My Social Media Strategy for 2026").
-- O8: sell to the goal, with the amount of work set from the assessed gap and a guarantee conditional on the buyer's part.
-- M20: self-funded growth rate when stock is bought ahead; equity rather than overselling.
-
-## v348 (15 November 2026)
-Source 987 (live stream, "Answering Your Sales Question Live").
-- L37: review ask as a step staff cannot skip, script, daily count; confidential services check confidentiality and regulator rules first.
-- F30: the constraint's number first in every daily huddle and summary.
-
-## v347 (15 November 2026)
-Source 986 (live stream, "My Take on Elon Musk's First Principles Framework").
-- F34: time on task versus elapsed time; shorter update cycles; monthly check that AI tool spend raises results.
-- L61: show people from each buyer segment; organic content warms, ads retarget with lawful consent.
 

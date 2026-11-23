@@ -1,6 +1,60 @@
-Business rulebook version: v451 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v452 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
-# Changelog, older entries (v211 to v78)
+# Changelog, older entries (v229 to v91)
+
+## v229 (13 November 2026)
+Source 416, "HOW TO GET WHAT YOU WANT" (Alex Hormozi). L32: proof where buyers wait, the how-much-proof question, real credentials only. L46: small gifts sized to the person.
+
+## v228 (13 November 2026)
+Source 415, "How to Grow ANY Local Business" (Alex Hormozi). F30: four checks for franchised against owned units.
+
+## v227 (13 November 2026)
+Source 414, "The SEASON OF NO" (Alex Hormozi). F23: ranked goal list with one priority and written minimums, a list of what is given up, the full cost of interruptions.
+
+## v226 (13 November 2026)
+Source 413, "I'm Broke, What Should I Sell?" (Alex Hormozi). F22: attention and endorsement as sellable things, ideas from family's work, little cash means selling time first. O31: service hours and days, staffing trade-off.
+
+## v225 (13 November 2026)
+Source 412, "How I Set Goals That ACTUALLY MAKE MONEY" (Alex Hormozi). F2: goals tie to one of three results, input and output with baselines, no directional movement means a new hypothesis, measuring can be the goal. T1: employees write quarterly goals in the F2 form.
+
+## v224 (13 November 2026)
+Source 411, "How to go ALL IN on your side hustle" (Alex Hormozi). M26: before leaving a job, about six months' savings, business income matching the job for about six months, overheads cut.
+
+## v223 (13 November 2026)
+Source 409, "How to Build a LEGIT Online Course" (Alex Hormozi). M40: education that teaches earning (selective admission, published outcome data, know-how free and implementation paid, earned certificates, substantiated earnings claims; US proposed rule status noted).
+
+## v222 (13 November 2026)
+Source 408, "3 Simple Fixes that Grow Any Business" (Alex Hormozi). F28: a service that produces a client's result may own that result's economics after the first target. L69: audience owner routes beyond sponsorship.
+
+## v221 (13 November 2026)
+Source 405, "The REAL Reason Your Business Isn't Growing" (Alex Hormozi). L62: plateau check, volume then formats then platforms then methods before anything new. L2: choose the expansion direction by the most money made for each client.
+
+## v220 (13 November 2026)
+Source 400, "Why MrBeast Will be Worth $100 Billion" (Alex Hormozi). O2: brand strength measured by the premium over a near-identical alternative, reinvested. F15: a small peer group at the same stage.
+
+## v219 (13 November 2026)
+Source 396, "My $100M Leads Affiliate Marketing Guide" (Alex Hormozi). O37: keep usual value at usual volume during a launch. L69: run promoters as a second audience with a stated message rhythm and staged material.
+
+## v218 (13 November 2026)
+Source 393, "Behind the Scenes of The $100M Leads Launch" (Alex Hormozi). L45: one idea per slide with a visual. F23: meetings name the problem and who is needed, end once decided.
+
+## v217 (13 November 2026)
+Source 391, "I Reverse Engineered the Perfect Business" (Alex Hormozi). F30: sale-ready numbers. O2: transfer the face of the marketing to a successor. M9: stickiness levers. T1: judge operators on total work removed. M1: rank products by gross profit and lead with the best.
+
+## v216 (13 November 2026)
+Source 390, "I Helped 6 Business Owners Make More Money" (Alex Hormozi). New C15: selling to large organisations. L9: test four or five data tools on equal samples. T3: the cautious partner writes the conditions for the next step.
+
+## v215 (13 November 2026)
+Source 389, "How to Get Rich [Full Interview with Dave Ramsey]" (Alex Hormozi). O2: vet partners and advertisers on the family test and drop failing ones fast; consider not selling the product the business advises on; disclose paid ties.
+
+## v214 (13 November 2026)
+Source 386, "I Doubled A Business in 60 Days to Show It's Not Luck (Part 1)" (Alex Hormozi). L72: one immediate second call when unanswered. C13: size the sales team to its calendar; prospecting and show-up as separate jobs.
+
+## v213 (13 November 2026)
+Source 385, "I Tried This Simple Business Strategy for 60 Days" (Alex Hormozi). M9: activation point, stage-specific check-ins, leading indicators, satisfaction scores by staff member. M8: no free open-ended access after a paid term. T1: client-success bonus on retention measures.
+
+## v212 (13 November 2026)
+Source 384, "Brutally Honest Advice to My Younger Poorer Self" (Alex Hormozi). F25: seven-level advice ladder. F27: decide from customers, never to beat a rival; being copied means being ahead.
 
 ## v211 (13 November 2026)
 Source 383, "How to make SO much money it makes you sick" (Alex Hormozi). F30: risk-reducing tasks qualify alongside the four levers. M1: thin unit margin, recover about one point a month for twelve months before growth marketing. M19: simplify the unit format before rollout; don't rely on one cheap channel.
@@ -521,92 +575,4 @@ Source 215 (Alex Hormozi YouTube: helping four educational business owners).
 - L61: cold traffic converts worse than warm; launch the sales route with the ads.
 - T1: recruit key specialists from admired businesses; core functions in house.
 - K31: new case pattern.
-
-## v90, 2026-11-12
-Source 213 (Alex Hormozi YouTube: Scale or Fail, online store).
-- L61: returns that contradict the accounts mean broken tracking.
-- C2: pre-call video promises price ranges at the end; custom-order route on every product page.
-- L57: e-commerce list nurture.
-- K30: new case pattern.
-
-## v89, 2026-11-12
-Source 212 (Alex Hormozi YouTube: helping six business owners scale).
-- T1: short-term profit for better leaders; national hiring with relocation packages; outbound and inbound sellers as separate teams.
-- X18: control over hours and methods points to employment, UK and US.
-- D11: a trained backup for every delivery role.
-- L4: choose the channel by skill overlap; do more of one already working.
-- M19: keep passive investments passive.
-- K29: new case pattern.
-
-## v88, 2026-11-12
-Source 211 (Alex Hormozi YouTube: Scale or Fail, home service business).
-- Split (hard rule 8): L58 to L61 moved unchanged to rules-leads-3b.md; index references updated.
-- M5: a higher price can raise close rate; break-even close rate before a rise.
-- L44: paid traffic gets its own landing page.
-- L61: phone-size ad check, organic plus end call to action, cross-platform retargeting, bidding on own name, fix page and ads before spend.
-- M35: monthly reactivation sequences to past clients, true angles only.
-- L76: seasonal themes across channels.
-- L69: partner offer beats referral swaps; narrow scope.
-- L79: community event calendars.
-- K28: new case pattern.
-- CHANGELOG split: v1 to v59 moved to CHANGELOG-1.md.
-
-## v87, 2026-11-12
-Source 210 (Alex Hormozi YouTube: how to catch up in life).
-- F20: when unsure, build capacity alongside the outreach minimum; keep slack in the day.
-- F15: visit the industry's physical hub in person.
-- L33: with no proof yet, document countable effort, then a waitlist.
-
-## v86, 2026-11-12
-Sources 207 to 209 (Alex Hormozi YouTube: Scale or Fail trailer; trust; content in the age of AI).
-- Split (hard rule 8): L19 to L37 moved unchanged to rules-leads-1b.md; index references updated.
-- T3: what trust means and two checks before giving more of it.
-- T1: leaders never use disclosures against people and keep every promise.
-- L32: proof scaled to stakes; demonstration captured from delivery with consent.
-
-## v85, 2026-11-12
-Source 206: "Building a $3,000,000 Business for a Stranger in 31 Minutes | Scale or Fail" (Alex Hormozi, YouTube).
-- Split (hard rule 8): M19 to M23 and M46 moved unchanged to rules-money-1b.md; M37 to M45 moved unchanged to rules-money-2b.md; index file references updated.
-- L61: launch spend cadence, creative volume and sources, hooks and callouts as spend grows.
-- M40: annual-only launches with a needed premium; paid trial as a split test.
-- K27 (new): hobby membership capped by fear of ad spend.
-
-## v84, 2026-11-12
-Sources 203 to 205 (Alex Hormozi YouTube: personal brand and X-factor; three signs of a successful entrepreneur; concierge medicine Scale or Fail follow-up).
-- O2: the messenger stands out by combining true, uncommon traits around the central pillar, on top of real excellence.
-- F2: the dangerous-competitor check, action versus relieving a feeling, known hard versus unknown hard, revisiting big problems.
-- L66: referrals that raise the referrer's standing, guest places asked at each booking, newsletter P.S., inducement rules in regulated fields.
-- L79: test or demonstration at events, own paid half-day workshops, a permanent calendar of events that pay back.
-- K16: follow-up.
-
-## v83, 2026-11-12
-Source 202: "Can I Save This Failing Theme Park in 90 Days?" (Alex Hormozi, YouTube).
-- K19: the full seasonal giveaway play and its result.
-- L72: deadline campaigns peak at the end; hire callers when leads outrun them.
-
-## v82, 2026-11-12
-Source 201: "How to become rich with social media (my exact playbook)" (Alex Hormozi, YouTube).
-- L60: topics from the top 20% of buyers by spend; rank pieces by tracked revenue, not views; broad pieces still valuable to top buyers.
-
-## v81, 2026-11-12
-Source 200: "How To Play To Win | Alex & Leila Answer Your Questions Live" (YouTube live Q&A).
-- F30: attack the one constraint many ways at once, then prune; the constraint is usually the part the owner enjoys least.
-- C3: no-show ladder from commitment check to paid consultation.
-- C12: the same-price comparison question.
-- T1: define good in observable terms; authority matches responsibility; mediating conflict; personal issues and performance.
-- K25, K26 (new): fraud discovered after buying a business; retail showrooming.
-
-## v80, 2026-11-12
-Source 199: Alex Hormozi email on universal closes.
-- C10: universal closes in order before objection-specific answers; ask again after each; after three or four noes book the next call; safeguards on affordability and guarantees.
-
-## v79, 2026-11-11
-Source 197: "My Evidence Based Guide to Making Money Online [TIER LIST]" (Alex Hormozi, YouTube).
-- L60: scoring and re-ranking platforms from evidence and own results; give in public, sell in private; never buy followers; owned list; marketplaces as discovery.
-- K24 (new): tiny niche followings that convert.
-
-## v78, 2026-11-11
-Source 196: "If You Only Watch One Money Video, Make It This" (Sharran Srivatsaa, YouTube video on seven laws of money).
-- M19: five questions before any outside investment; concentrate only with understanding and control; size bets to survive; hold good decisions; borrowing only against collateral for income assets after the first target.
-- F30: buy and build as a later-stage path.
 

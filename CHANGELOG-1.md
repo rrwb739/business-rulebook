@@ -1,6 +1,89 @@
-Business rulebook version: v451 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v452 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
-# Changelog, continued (v346 to v212)
+# Changelog, continued (v360 to v230)
+
+## v360 (15 November 2026)
+Source 1000 (live stream, "Brutally Honest Advice To Achieve Your Goals", 1h54).
+- L4: handwritten card or small physical item for a short list of high-value business targets, token value only.
+
+## v359 (15 November 2026)
+Source 999 (live stream, "How To Learn Anything Faster Than Everyone Else", 2h58).
+- C13: aim for about 70% of call slots booked.
+- M37: instalments collected soon and timed to the buyer's income.
+- M19: disclose every known issue when selling the business.
+- X18: theft or dishonesty through the gross misconduct process.
+- D11: client pods so one leaver can't take the relationship.
+
+## v358 (15 November 2026)
+Source 998 (live stream, "Alex Hormozi Answers Your Questions", 2h19).
+- L45: word-for-word pitch decks for other presenters, master script from the best past pitches, home run-throughs before going live.
+- O5: why-people-buy document from recorded sales calls, fed into the pre-call video and script.
+- M40: small yearly review retainer after large bespoke projects.
+
+## v357 (15 November 2026)
+Source 997 (live stream, "Alex Hormozi Answers Your Questions", 2h19).
+- T4: pair speed or volume pay with a quality measure; rework always paid; public praise and action on corner-cutting.
+- M40: first-order churn: default reorder, edit/skip/halve by message before each charge, billing cadence test, higher price as an avatar signal.
+- L2: check a growth target against the size of the buyer pool.
+- W1: sell the outcome, not the tool.
+- D5: written decision box for each delegated role.
+
+## v356 (15 November 2026)
+Source 996 (live stream, "Alex Hormozi Answers Your Questions").
+- O37: sell-down to a real stop date, true reason, countdown, monthly bundles.
+- L69: affiliates who don't start: bigger payout, ongoing share, 30-day launch rate, done-for-you setup, ads to businesses serving the same clients.
+- C13: expertise selling doesn't transfer; discovery prompts; repeat corrected lines three times.
+- L37: in-person review ask by the crew lead; staff bonus never tied to rating; no gift with the ask.
+- M19: first-time buyers prefer high-retention, word-of-mouth businesses.
+
+## v355 (15 November 2026)
+Source 995 (live stream, "Alex Hormozi Answers Your Questions").
+- C3: reminders confirm the pre-call video was watched and every decision maker will attend; proof video while preparing an in-person quote.
+- M28: free tool or tier users as zero-cost leads; call step at sign-up; limited free tier; next-problem paid offer.
+- L73: real-stakes content from recorded client sessions with consent; reuse hook structures, not content.
+- L61: winning-ad log for AI variations; client-made content as a disclosed endorsement (X14).
+
+## v354 (15 November 2026)
+Source 994 (live stream, "Alex Hormozi Answers Your Questions (Ask Me Anything)").
+- C1: paid low-price workshop for cold traffic; opt-in qualifying question; judge on qualified attendees.
+- L61: daily spend near one acquisition cost with matching creative volume; search reaches urgent price-shoppers, interruption ads reach ongoing buyers; credit today's purchase towards the plan.
+- D7: live group onboarding for self-serve software; churn split by channel, buyer type and activation step.
+- D11: several contingency recruiters for one-off roles; own funnel and cost per hire for repeat roles.
+
+## v353 (15 November 2026)
+Sources 992 (no change) and 993 (live stream, "Alex Hormozi Answers Your Questions on Reddit").
+- M2: never average rivals or add a fixed markup; charge most at the start when need peaks; space tiers so each adds real revenue.
+- L32: confidential results told unnamed with consent; proof in the present (demonstration, consented recordings, free trial).
+
+## v352 (15 November 2026)
+Source 991 (live stream, "He Makes $1.5M a Year... and Keeps 1.3% of It").
+- M15: payback and return per unit, lean build-outs, a grand opening pulls payback forward.
+- M20: lease depreciating equipment rather than buy, to grow on cash flow.
+
+## v351 (15 November 2026)
+Source 990 (live stream, "Should He Walk Away From His $1.4M Business To Start Over?").
+- F22: try a new acquisition channel before a new business; deliver the first offer's promise before building the next products.
+
+## v350 (15 November 2026)
+Source 989 (live stream, "Get Rich While You're Young", 2:35, transcribed in full).
+- M19: small businesses valued on seller's discretionary earnings, often with part paid later.
+- L55: learn one to one from suppliers serving the same kind of business, or out-of-area owners.
+- C2: keep a front-end paid step that converts to the larger deal; value it before removing it.
+
+## v349 (15 November 2026)
+Source 988 (live stream, "My Social Media Strategy for 2026").
+- O8: sell to the goal, with the amount of work set from the assessed gap and a guarantee conditional on the buyer's part.
+- M20: self-funded growth rate when stock is bought ahead; equity rather than overselling.
+
+## v348 (15 November 2026)
+Source 987 (live stream, "Answering Your Sales Question Live").
+- L37: review ask as a step staff cannot skip, script, daily count; confidential services check confidentiality and regulator rules first.
+- F30: the constraint's number first in every daily huddle and summary.
+
+## v347 (15 November 2026)
+Source 986 (live stream, "My Take on Elon Musk's First Principles Framework").
+- F34: time on task versus elapsed time; shorter update cycles; monthly check that AI tool spend raises results.
+- L61: show people from each buyer segment; organic content warms, ads retarget with lawful consent.
 
 ## v346 (15 November 2026)
 Source 984 (live stream, "How To Think Like The Top 1% | Sales Masterclass").
@@ -382,58 +465,4 @@ Source 418, "Hardcore Business Lessons I Learned From A Dealer" (Alex Hormozi). 
 
 ## v230 (13 November 2026)
 Source 417, "Why You Shouldn't Copy Me" (Alex Hormozi). O2: never copy a rival's identity or story, real beliefs that break the stereotype. L2: do the avatar's job before blaming marketing.
-
-## v229 (13 November 2026)
-Source 416, "HOW TO GET WHAT YOU WANT" (Alex Hormozi). L32: proof where buyers wait, the how-much-proof question, real credentials only. L46: small gifts sized to the person.
-
-## v228 (13 November 2026)
-Source 415, "How to Grow ANY Local Business" (Alex Hormozi). F30: four checks for franchised against owned units.
-
-## v227 (13 November 2026)
-Source 414, "The SEASON OF NO" (Alex Hormozi). F23: ranked goal list with one priority and written minimums, a list of what is given up, the full cost of interruptions.
-
-## v226 (13 November 2026)
-Source 413, "I'm Broke, What Should I Sell?" (Alex Hormozi). F22: attention and endorsement as sellable things, ideas from family's work, little cash means selling time first. O31: service hours and days, staffing trade-off.
-
-## v225 (13 November 2026)
-Source 412, "How I Set Goals That ACTUALLY MAKE MONEY" (Alex Hormozi). F2: goals tie to one of three results, input and output with baselines, no directional movement means a new hypothesis, measuring can be the goal. T1: employees write quarterly goals in the F2 form.
-
-## v224 (13 November 2026)
-Source 411, "How to go ALL IN on your side hustle" (Alex Hormozi). M26: before leaving a job, about six months' savings, business income matching the job for about six months, overheads cut.
-
-## v223 (13 November 2026)
-Source 409, "How to Build a LEGIT Online Course" (Alex Hormozi). M40: education that teaches earning (selective admission, published outcome data, know-how free and implementation paid, earned certificates, substantiated earnings claims; US proposed rule status noted).
-
-## v222 (13 November 2026)
-Source 408, "3 Simple Fixes that Grow Any Business" (Alex Hormozi). F28: a service that produces a client's result may own that result's economics after the first target. L69: audience owner routes beyond sponsorship.
-
-## v221 (13 November 2026)
-Source 405, "The REAL Reason Your Business Isn't Growing" (Alex Hormozi). L62: plateau check, volume then formats then platforms then methods before anything new. L2: choose the expansion direction by the most money made for each client.
-
-## v220 (13 November 2026)
-Source 400, "Why MrBeast Will be Worth $100 Billion" (Alex Hormozi). O2: brand strength measured by the premium over a near-identical alternative, reinvested. F15: a small peer group at the same stage.
-
-## v219 (13 November 2026)
-Source 396, "My $100M Leads Affiliate Marketing Guide" (Alex Hormozi). O37: keep usual value at usual volume during a launch. L69: run promoters as a second audience with a stated message rhythm and staged material.
-
-## v218 (13 November 2026)
-Source 393, "Behind the Scenes of The $100M Leads Launch" (Alex Hormozi). L45: one idea per slide with a visual. F23: meetings name the problem and who is needed, end once decided.
-
-## v217 (13 November 2026)
-Source 391, "I Reverse Engineered the Perfect Business" (Alex Hormozi). F30: sale-ready numbers. O2: transfer the face of the marketing to a successor. M9: stickiness levers. T1: judge operators on total work removed. M1: rank products by gross profit and lead with the best.
-
-## v216 (13 November 2026)
-Source 390, "I Helped 6 Business Owners Make More Money" (Alex Hormozi). New C15: selling to large organisations. L9: test four or five data tools on equal samples. T3: the cautious partner writes the conditions for the next step.
-
-## v215 (13 November 2026)
-Source 389, "How to Get Rich [Full Interview with Dave Ramsey]" (Alex Hormozi). O2: vet partners and advertisers on the family test and drop failing ones fast; consider not selling the product the business advises on; disclose paid ties.
-
-## v214 (13 November 2026)
-Source 386, "I Doubled A Business in 60 Days to Show It's Not Luck (Part 1)" (Alex Hormozi). L72: one immediate second call when unanswered. C13: size the sales team to its calendar; prospecting and show-up as separate jobs.
-
-## v213 (13 November 2026)
-Source 385, "I Tried This Simple Business Strategy for 60 Days" (Alex Hormozi). M9: activation point, stage-specific check-ins, leading indicators, satisfaction scores by staff member. M8: no free open-ended access after a paid term. T1: client-success bonus on retention measures.
-
-## v212 (13 November 2026)
-Source 384, "Brutally Honest Advice to My Younger Poorer Self" (Alex Hormozi). F25: seven-level advice ladder. F27: decide from customers, never to beat a rival; being copied means being ahead.
 
