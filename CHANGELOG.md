@@ -1,6 +1,15 @@
-Business rulebook version: v448 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v449 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v449 (23 November 2026)
+- M40: attach the discount, bonus or guarantee to prepay only.
+- C2: content sheet by concern for sellers.
+- O25: proof recent, visual, plentiful, opening on the pain.
+- F2: use spare assets for by-products before new ventures.
+- T6: one person owns marketing and sales.
+- F20: test a believed market cap against share served.
+- Sources 2797 to 2816.
 
 ## v448 (23 November 2026)
 - T1: interview 10 to 20 candidates, hire only who raises the team average, promote the highest standard; pay client success on activation and retention.
