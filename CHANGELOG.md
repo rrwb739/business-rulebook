@@ -1,6 +1,21 @@
-Business rulebook version: v447 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v448 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v448 (23 November 2026)
+- T1: interview 10 to 20 candidates, hire only who raises the team average, promote the highest standard; pay client success on activation and retention.
+- D12: check-ins with a stage agenda; frequent short progress notes.
+- M8: no free ongoing access after a fixed programme.
+- L60: topics for the avatar, not the team; assume every viewer is new; appear only beside the right names; no platform tricks.
+- L47: test give-only content with ads making the ask (conflict noted).
+- T2: agency first for a new medium, then in-house once the team beats it.
+- L45: live webinar true signals and multi-channel reminders.
+- C5: match plan detail to who does the work; get invited to pitch.
+- T6: best leads to best closers.
+- M9: few delivery parts in a membership; volume goes to promotion.
+- M31: a year of supplies with a one-off product.
+- L59: test a free group as the lead magnet.
+- Sources 2769 to 2796.
 
 ## v447 (23 November 2026)
 - L2: move avatars with a shrinking monthly cap on off-profile sales.
