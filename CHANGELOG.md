@@ -1,6 +1,16 @@
-Business rulebook version: v450 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v451 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v451 (23 November 2026)
+- M37: a small paid offer for leads who don't qualify.
+- D7: pilot one-to-one onboarding on a slice first.
+- T6: separate escalations from sellers; script support calls.
+- M31: offer what the new identity needs at the first purchase.
+- M9: test proactive downgrades; log where help is asked.
+- M28: thank-you page offer to repay a free opt-in; the first days count.
+- D9: act as if referrals were the only source of new clients.
+- Sources 2839 to 2850. Conflict noted with the existing-terms rule on delivery changes (kept).
 
 ## v450 (23 November 2026)
 - M3: include churn in the backwards maths; block named people's hours; keep lead flow on.
