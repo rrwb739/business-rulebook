@@ -1,6 +1,17 @@
-Business rulebook version: v446 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v447 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v447 (23 November 2026)
+- L2: move avatars with a shrinking monthly cap on off-profile sales.
+- T5: when cutting roles after the owner's mistake, own it, pay fairly, leave the door open.
+- C2: pre-call video structure; show the next step on screen in the ad.
+- T1: fix pay that makes the smallest unit unprofitable, openly and lawfully.
+- C3: ring a new lead twice.
+- T6: the best seller is not the default sales manager; cut underused sellers; a recurring problem under one person means check the person.
+- D11: when maxed out, raise price, then clients per deliverer, then hand off.
+- L73: say who it isn't for, tie benefits to status, use the P.S.
+- Sources 2761 to 2768.
 
 ## v446 (23 November 2026)
 
