@@ -1,6 +1,12 @@
-Business rulebook version: v441 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v442 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v442 (23 November 2026)
+
+Sources 2716 and 2719 (MoreMozi clips, Dave Ramsey with Alex Hormozi).
+
+- M19: judge borrowing on risk-adjusted return, not the interest spread, and never stake the whole business on one bet; keep profit in the business only for a named use expected to return more, and when in doubt, take it out.
 
 ## v441 (23 November 2026)
 
