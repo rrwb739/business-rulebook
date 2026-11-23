@@ -1,6 +1,15 @@
-Business rulebook version: v433 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v434 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v434 (23 November 2026)
+
+Sources 2642, 2644, 2645, 2646 and 2647 (MoreMozi clips by Alex Hormozi).
+
+- M9: track product numbers (time to first value, satisfaction, referral scores) beside promotion numbers; each version aims at a faster early win.
+- M17: steeply rising acquisition cost with flat platform prices points to word of mouth turning; hold promotion steady, fix the product, then scale.
+- T6: vague standards turned into observable behaviours; objectives as a ranked list worked in order; each report's list stripped to the one most valuable thing.
+- L60: brand pays back on a long delay; set the brand-to-ask split deliberately and judge brand over a year.
 
 ## v433 (23 November 2026)
 
