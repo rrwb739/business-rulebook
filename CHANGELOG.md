@@ -1,6 +1,13 @@
-Business rulebook version: v431 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v432 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v432 (23 November 2026)
+
+Sources 2627 and 2630 (MoreMozi Q&A clips by Alex Hormozi).
+
+- O6: close each bid with case studies from the most similar clients explaining why the dearer bid saved more; anonymise with true details; set the best-return frame early; offer added work once the contract runs.
+- T1: leader bonuses split between company results (with growth) and own quarterly objectives; top profit-share pool with unfilled seats held back; quarterly objectives while measures are unstable; redesign within about a year.
 
 ## v431 (23 November 2026)
 
