@@ -1,6 +1,12 @@
-Business rulebook version: v437 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v438 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v438 (23 November 2026)
+
+Source 2687 (MoreMozi clip by Alex Hormozi).
+
+- F26: an owner who still has a job keeps it until the business's profit has matched the salary for several months in a row (about six), and business hours should earn more per hour than the job.
 
 ## v437 (23 November 2026)
 
