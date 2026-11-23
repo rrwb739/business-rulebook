@@ -1,7 +1,146 @@
 Business rulebook version: v439 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
-# Changelog, older entries (v180 and earlier)
+# Changelog, older entries (v211 to v78)
 
+## v211 (13 November 2026)
+Source 383, "How to make SO much money it makes you sick" (Alex Hormozi). F30: risk-reducing tasks qualify alongside the four levers. M1: thin unit margin, recover about one point a month for twelve months before growth marketing. M19: simplify the unit format before rollout; don't rely on one cheap channel.
+
+## v210 (13 November 2026)
+Source 382, "How to get rich this Black Friday" (Alex Hormozi). M28: buy X get Y free method (more free than paid, prepay blocks, genuine normal price, capped, occasional). M7: seasonal premium drop to about 5% of clients with true places and live count.
+
+## v209 (13 November 2026)
+Source 380, "The Business Model That's So Simple, Anyone Can Try It" (Alex Hormozi). L50: opener asking whether they already have a provider; name a nearby client only with permission. L61: show the avatar in ads; versions with different people. C1: stop selling after the yes; card details only through the payment provider.
+
+## v208 (13 November 2026)
+Source 378, "I'm Facing A Billion Dollar Decision" (Alex Hormozi). F2: on a first business take the lower-risk, higher-odds path; commit fully once chosen; never take a reputational risk with only a downside. L45: decide teach or sell before a talk; a selling talk gives the offer its full time.
+
+## v207 (13 November 2026)
+Source 376, "Charlie Munger Changed My Life [8 Lessons]" (Alex Hormozi). F18: invert a hard goal (list the quickest ways to ruin it, then do the opposite). M19: too-hard pile when a deal's profit isn't obvious without a model; leave a fair share in deals worth repeating.
+
+## v206 (13 November 2026)
+Source 375, "Million Dollar Equations" (Alex Hormozi). M20: four payback levers (prepay first and last, set-up fee shown in the total, upsell, third-party finance only within X3) and a month-by-month cash timeline. M19: each new unit tracked on payback month, first-year return and profit at capacity against full opening cost; active units need far above passive returns; launch to open near capacity. M46: monthly ceiling check (new clients a month times lifetime gross profit, and divided by churn) on trailing averages, with capacity or headcount planned from the gap.
+
+## v205 (13 November 2026)
+
+- T1: management and expert tracks; one mission decision rule; quarterly results shared; owner in the detail on what matters most.
+- L69: let a known person help design the promotion; never count the partner's money.
+- F33: while choosing a first business, tell people a business is being started.
+
+## v204 (13 November 2026)
+
+- L60: opening seconds confirm the thumbnail; thumbnails tested on watch time; real mistakes shared; one-to-many versions of unscalable moments.
+- O2: keep ownership of content and name; the personal brand changes with the owner.
+
+## v203 (13 November 2026)
+
+- T1: reward over punishment, same-day specific praise, the honest-feedback question, fast trust both ways, good exits.
+- F34: a process must pay more downstream than it costs those doing it.
+
+## v202 (13 November 2026)
+
+- F27: ignore attacks by default; agree or one-up truthfully; reply publicly only to bigger accounts, with humour; never repeat a denial.
+
+## v201 (13 November 2026)
+
+- F2: judge a bad outcome by the decision process.
+- T1: raise work quality with "what would you do with two more hours?".
+
+Older entries (v200 and earlier) are in CHANGELOG-1.md.
+
+## v200 (13 November 2026)
+
+- L66: referral share against churn share shows growth without marketing.
+- M40: community features rated by care and willingness to pay; built around an identity.
+
+## v199 (13 November 2026)
+
+- O2: brand judged on reach, influence and direction; random pairings weaken it; outweigh a bad pairing.
+
+## v198 (13 November 2026)
+
+- M9: falling use as the first warning with escalating contact; personal check-ins, systematised not automated; unlockables by tenure and action (never for reviews); bring-a-friend events; order of fixes.
+
+## v197 (13 November 2026)
+
+- L69: choosing and reaching one creator partner: the bigger audience sets the shape, contact in circles, labelled projections, gifts within X16.
+- O2: sell from the true position (small means attention, large means track record).
+
+## v196 (13 November 2026)
+
+- X21 (US): ESOP sale as a conditional section 1042 deferral, not tax-free; dividend recapitalisation and loans against shares; trigger widened.
+- M19: before a sale, compare the proceeds' next use with what the business pays out.
+- Split: rules-legal.md near the cap, so the US block (X23, X21) moved unchanged to rules-legal-b.md; CHANGELOG.md entries v115 and earlier moved to CHANGELOG-1.md; index, README and curator file lists updated.
+
+## v195 (13 November 2026)
+
+- T1: many basic rules signal a low hiring bar; titles match scope; a struggling promoted manager moved fairly; a truthful mission.
+- W1: edit in passes, one kind of problem per pass.
+- D9: the owner uses the product as a buyer each quarter.
+- F30: heaviest promotion once word of mouth spreads the product.
+- F33: prefer markets where the offer can be far better.
+- Split: rules-team.md near the cap, so T2 and T3 moved unchanged to rules-team-b.md; index references updated.
+
+## v194 (13 November 2026)
+
+- F20: doubt about the owner's age or looks treated as information; fix the real gap and ask what it would take.
+
+## v193 (13 November 2026)
+
+- F25: best-student stance; credit is cumulative; a bad programme still teaches what not to do.
+- D14: "it didn't work" checked step by step against what was taught before changing the method.
+
+## v192 (13 November 2026)
+
+- C4: prep ratio by meeting type and stakes; prep close to the event; look from the buyer's side first.
+- F20: nerves as a sign of under-preparation; rehearse in real conditions.
+
+## v191 (13 November 2026)
+
+- F20: a stall stated as a fact about the world is restated as a skill gap and checked against what would physically stop it.
+- F22: where money comes easily, test whether a side line or by-product is the real business, under the better-vehicle test.
+- F28: [shape: e-commerce] repeat purchase among ideal buyers before brand or reach; low sell-through is a warning; fewer outlets worked in person.
+
+## v190 (13 November 2026)
+
+Source 349 (business-only content). Merged into L60 (topics from buyers; assume a first-time viewer; show what only the owner can; short pieces for recognition with retargeting).
+
+## v189 (13 November 2026)
+
+Source 347 (why owners stay small). Merged into L58 (local business content builds trust for leads from other channels).
+
+## v188 (13 November 2026)
+
+Source 345 (goose and eggs). Merged into M19 (check deals exist for the type; keep a founder-led engine and sell what it produces) and X17 (trigger widened to licensing the name or methods; US franchise test).
+
+## v187 (13 November 2026)
+
+Source 344 (pricing and billing cycles). Merged into M40 (running total of value against total paid) and M5 (judge price steps on gross profit per sales conversation; move up, not down).
+
+## v186 (13 November 2026)
+
+Source 343 (scale the unscalable). Merged into D9 (ask which one thing could go).
+
+## v185 (13 November 2026)
+
+Source 342 (quarterly email challenge). Merged into L36 (quarterly conversion event for non-buyers, tested on a tenth first; same offer through a different medium).
+
+## v184 (13 November 2026)
+
+Source 341 (seven owners Q&A). Merged into M40 (repeat revenue without a subscription), M39 (delivery model by what the buyer's time is worth), F28 (study the largest player) and D7 (short no-ask updates).
+
+## v183 (13 November 2026)
+
+Source 339 (documenting mistakes). Merged into F24 (log expectation against outcome; outside conditions in wins) and F22 (no new venture over the runner's capacity objection).
+
+## v182 (13 November 2026)
+
+Source 337 (paid ads Q&A). Merged into L61 (retargeting and own-name search; creative split from winners; friction by lead quality; free group as lead magnet) and L32 (rank proof by how hard it is to fake).
+
+## v181 (13 November 2026)
+
+Source 335 (email newsletter). Merged into L36 (emailing the list), M45 (ask for the worst moment), M40 (annual fee only if shown upfront) and X3 (UK drip pricing ban for consumers).
+
+Older entries (v180 and earlier) are in CHANGELOG-2.md.
 ## v180 (13 November 2026)
 
 Source 334 (faster customers). Merged into L63 (test order, including the tools in the buyer's path) and L60 (effort before recording).
@@ -471,105 +610,3 @@ Source 196: "If You Only Watch One Money Video, Make It This" (Sharran Srivatsaa
 - M19: five questions before any outside investment; concentrate only with understanding and control; size bets to survive; hold good decisions; borrowing only against collateral for income assets after the first target.
 - F30: buy and build as a later-stage path.
 
-## v77, 2026-11-11
-Source 195: "If You Only Watch One Money Video, Make It This" (Sharran Srivatsaa, YouTube interview).
-- F2: four-step decision method; never decide under pressure to rush.
-- T3: the four goods before any deal; read deal structure with an adviser; sweat equity for a written share.
-- X19: yearly tax-planning review with a qualified adviser.
-- K23 (new): cautionary case of an investment lost to a fake company.
-
-## v76, 2026-11-11
-Source 194: "Helping an Agency Fix Their Sales Process" (Alex Hormozi with a workshop attendee, YouTube clip).
-- F28: define, prove, why it matters, before fixing any stated problem.
-- C2: pre-framing questions with real options; plain pre-call video; good friction judged on gross profit per pound and closes per seller.
-- D7: fast-cash campaign from the client's own unused assets as the first onboarding step; client actions tied to bonuses and conditional guarantees.
-- K22 (new): consulting service whose booked buyers don't understand the offer.
-
-## v75, 2026-11-11
-Source 193: "How I'd Use Education to Sell the Main Offer" (Alex Hormozi with a workshop attendee, YouTube clip).
-- M8: education to bring buyers in, a sticky done-for-you service or used-up product to keep them; repeated do-it-for-me requests as demand for a fixed-term build then continuity.
-- F22: replacement test when two businesses split the owner's attention.
-- K21 (new): outlet owner who coaches others in the same trade.
-
-## v74, 2026-11-11
-Owner's clarification: the zero-budget mix is for anyone who wants to do outreach but can't use LinkedIn or buy sending domains.
-- L41: the zero-budget mix's conditions now name these cases, any one being enough; index line updated so business projects match it.
-
-## v73, 2026-11-11
-Owner's instruction: save the zero-budget way to reach 100 outreach actions a day.
-- L41: zero-budget mix (contact forms, hand-written emails from one free account, L80 warm-ups), time per contact logged, refused channels removed, paid sending setup released only by a written trigger.
-
-## v72, 2026-11-11
-Owner's instruction: save the owner-finding mechanism for agency-run social accounts.
-- L80 (new): find the owner behind an agency-run account, first contact off-platform, personal account as warm-up only, platform limits handled by behaviour, UK consent rule, the agency as a possible lead getter.
-
-## v71, 2026-11-11
-Source 192: "8 Entrepreneurs Compete For $100,000" (Alex Hormozi, Scale or Fail competition episode).
-- L79 (new): in-person events as a lead source, including client-hosted events.
-- L72: set follow-up capacity before any lead surge.
-- M1: written pricing formula as every quote's floor; job or package prices, not hourly; same-day quotes.
-- C13: reps set appointments while the owner closes until they match.
-- K16 to K20 (new): client-hosted events for a high-end practice; project service pricing and events; family practice with one senior practitioner; giveaway flood (cautionary); expert coaching bottleneck.
-
-## v70, 2026-11-11
-Owner's instruction: patterns that recur across businesses go into the general sections; K keeps only the specific situation. Source 191: "Do You Want to Be the Expert or Build the Business?" (Alex Hormozi, YouTube call-in).
-- F28: expert path or business-owner path, chosen on purpose and held; seasonal demand as a built-in hard part (from K15).
-- F30: practitioner businesses' two end states and their growth path (source 191); selling the proven system to peers (from K2).
-- F33: vendor count as a stickiness signal (from K8); shrinking buyer bases scored down (from K12).
-- M8: short fixed-length programme as an entry offer into continuity (from K1); offering recent automated buyers the higher next step (from K7); trigger widened.
-- rules-cases.md, index section 11 and instructions.md step 2c: general rules hold the patterns and come first; K keeps the specific situation and names where the pattern is held.
-
-## v69, 2026-11-11
-Source 190: "How I'd Pick the Next Service to Scale" (Alex Hormozi with a workshop attendee, YouTube clip).
-- K15 (new): seasonal service business, one service per season with the same crews, fix sales then price in the losing season.
-
-## v68, 2026-11-11
-Source 189: "Same Work, Different Customer, Different Value" (Alex Hormozi with a guest, YouTube clip).
-- K12 to K14 (new): selling to a shrinking industry; the same percentage-gain service sold to larger clients; selling the idea, not the execution.
-
-## v67, 2026-11-11
-Source 188: "10x Your Profit. 10x Your Pricing. 10x Your Business." (Alex Hormozi, YouTube).
-- O2: brand as chosen associations built by pairing; advertising against branding; gain-and-loss test for every pairing; one central pillar; trigger widened to branding, partners and appearances.
-- L65: three levels of influence; keep the small promises inside content; measure the word-of-mouth share.
-- X23 (new, UK and US): choosing who to serve and refusing buyers against equality law, including belief and political affiliation.
-- K9 to K11 (new): niching a generalist professional service with content on clients' wider goals; launching to an audience with a record of kept promises; a brand pairing its core buyers disliked.
-
-## v66, 2026-11-11
-Source 187: "The Biggest Opportunity with the Agency Model" (Alex Hormozi, YouTube clip).
-- K8: agency or service with constant demand but low stickiness; rebuild delivery with checked AI and consistent pricing.
-- M10: a window opened by a technology still hard to use well counts as a fading demand window.
-- instructions.md: index line count removed (it went stale with every new rule).
-
-## v65, 2026-11-11
-Owner's instruction: strategy from any source about a specific business is kept, generalised, in its own section.
-- New section K (Case patterns), rules-cases.md: K1 to K7 backfilled from earlier sources (challenge-programme entry offer, licensing a proven system, local roll-up, buying group, free core with paid paired service, door-to-door job into membership, call team for automated buyers).
-- instructions.md: K added to the ID prefixes; new step 2c, every strategy, growth, offer or money answer checks K for a matching case and uses it as an analogy only.
-- instructions-index-2.md: section 11, Case patterns (K).
-- README: rules-cases.md listed.
-
-## v64, 2026-11-11
-Source 186: "Helping an Agency Get More Clients" (Alex Hormozi, YouTube workshop clip).
-- D11: when the owner is the delivery limit, deliver what was promised, route extra requests, move access into tiers, change delivery for existing clients openly and on fair terms.
-
-## v63, 2026-11-11
-Source 185: "13 Ways to DESTROY Your Competition (Legally)" (Alex Hormozi, YouTube).
-- F30: point 10, after the first target, one competitive advantage that strengthens with scale, checked against competition law.
-- X20: exclusive deals, below-cost pricing and buying rivals checked against competition law and merger thresholds.
-
-## v62, 2026-11-11
-Source 183: "The 80/20 Principle: Achieve More with Less" (audiobook). Owner's instruction: every "20% that gets 80%" goes through the 80/20 method first.
-- F31: the five-step 80/20 method for choosing the actions before writing the section.
-- Split (hard rule 8): F31 to F34 moved unchanged to rules-strategy-2b.md; index updated.
-
-## v61, 2026-11-11
-Source 182: "Elon Musk explains his 5-step algorithm for running companies" (YouTube clip). Owner's instruction: make it the core rule, the SOP for everything.
-- F34 (new): the five-step algorithm as the core method: question requirements with named owners, delete, simplify, speed up, automate last; restart from step 1 when stuck; [Fixed] requirements never deleted.
-- instructions.md: new step 2b applies F34 to every prompt that builds, changes, fixes or reviews anything.
-- D3: points to F34 and adds the owner of each requirement.
-
-## v60, 2026-11-11
-Source 181: "How to Make Money So Fast It Feels ILLEGAL" (Alex Hormozi, YouTube).
-- M23: 30-day cash of at least twice the cost to win and serve a client; the cost of a permanent client and aiming at their traits.
-- M19: business value as retained profit times the multiple; unsold growth is tax deferred, never tax-free.
-
-Earlier versions (v1 to v59): CHANGELOG-1.md.

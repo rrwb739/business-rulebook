@@ -15,7 +15,7 @@ A general rulebook for running and growing a business with Claude. It holds meth
 - prompts/: the first message for each chat tab.
 - setup/skill-scout.zip: the skill-scout skill to install on your Claude account (step 3).
 - tools.md: the tools register, reviewed tools listed by the roadmap stage they're for.
-- CHANGELOG.md, CHANGELOG-1.md and CHANGELOG-2.md: what changed in each version (newest first; older entries in CHANGELOG-1.md, oldest in CHANGELOG-2.md).
+- CHANGELOG.md, CHANGELOG-1.md, CHANGELOG-2.md and CHANGELOG-3.md: what changed in each version (newest first in CHANGELOG.md; older entries in CHANGELOG-1.md, then CHANGELOG-2.md; oldest in CHANGELOG-3.md).
 
 ## Set up a business project
 
