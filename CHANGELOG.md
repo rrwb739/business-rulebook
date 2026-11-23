@@ -1,6 +1,13 @@
-Business rulebook version: v444 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v445 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v445 (23 November 2026)
+
+Sources 2741 and 2744 (MoreMozi clips by Alex Hormozi).
+
+- L61: squeeze a clear winning ad with one-change variations before hunting for the next.
+- F2: switch from more to better once improving returns more per unit of effort than one more unit; new only when more and better are exhausted; judge a new channel over months by staged progress.
 
 ## v444 (23 November 2026)
 
