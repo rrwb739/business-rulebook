@@ -1,6 +1,13 @@
-Business rulebook version: v442 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v443 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v443 (23 November 2026)
+
+Sources 2727 and 2728 (MoreMozi clips by Alex Hormozi).
+
+- L58: repeat core ideas, since audiences need reminding and new followers missed earlier pieces; vary format, setting, story or avatar.
+- L61: an ad spend ceiling usually means the ads can't reach the next colder awareness level; colder viewers and higher prices need a longer path; accept a lower return per pound while absolute profit rises.
 
 ## v442 (23 November 2026)
 

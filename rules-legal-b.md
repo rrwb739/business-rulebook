@@ -1,4 +1,4 @@
-Business rulebook version: v442 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v443 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 ## Legal and tax (X), continued
 
