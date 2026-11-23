@@ -1,6 +1,12 @@
-Business rulebook version: v439 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v440 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v440 (23 November 2026)
+
+Source 2702 (MoreMozi clip by Alex Hormozi).
+
+- M15: compare each unit's profit with its cost to open; with a thin return, fix the unit before marketing more: trim the range, consolidate suppliers, find about 1% of revenue as profit each month for a year.
 
 ## v439 (23 November 2026)
 

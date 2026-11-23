@@ -1,4 +1,4 @@
-Business rulebook version: v439 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v440 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 ## Leads and marketing (L), continued
 
