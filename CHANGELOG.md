@@ -1,6 +1,13 @@
-Business rulebook version: v440 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v441 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v441 (23 November 2026)
+
+Sources 2707 to 2711 (MoreMozi clips by Alex Hormozi).
+
+- F2: order growth work as more, better, then new; rank known tasks by impact and ease; every project maps to more customers, more lifetime gross profit or less risk; ask why the business can't grow ten times.
+- T6: a task held by one person for a quarter and still undone is a performance issue (T4).
 
 ## v440 (23 November 2026)
 
