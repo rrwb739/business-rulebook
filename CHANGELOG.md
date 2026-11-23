@@ -1,6 +1,13 @@
-Business rulebook version: v429 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v430 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v430 (23 November 2026)
+
+Sources 2607 and 2608 (Alex Hormozi long videos on speed and on building sales teams).
+
+- T1: for repeat front-line roles, a short candidate video, the skills interview run as the first coaching session, ramp gates for new starters, and private start/stop/keep feedback from each new cohort in week two.
+- D11: ceiling on recruiting spend per hire (first-year gross profit of a proven hire, times the share who become proven, divided by three).
 
 ## v429 (18 November 2026)
 
