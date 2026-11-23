@@ -1,6 +1,12 @@
-Business rulebook version: v449 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v450 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v450 (23 November 2026)
+- M3: include churn in the backwards maths; block named people's hours; keep lead flow on.
+- T1: test self-set monthly goals for a share of pay.
+- M19: keep a sale need-to-know; run as if no deal; grow through diligence.
+- Sources 2817 to 2838.
 
 ## v449 (23 November 2026)
 - M40: attach the discount, bonus or guarantee to prepay only.
