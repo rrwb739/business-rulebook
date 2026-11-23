@@ -1,6 +1,13 @@
-Business rulebook version: v445 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v446 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
 
 # Changelog
+
+## v446 (23 November 2026)
+
+Sources 2758 and 2759 (MoreMozi videos by Alex Hormozi).
+
+- L66: expect few referrals where clients compete with the prospects they would refer or rarely meet other buyers; there, put retention first and grow through other channels.
+- L33: consented success interviews in a set order (before, trigger, main worry and what overcame it, after), cut into case studies, content and ads; recognise a provable milestone and offer the next tier to those who reached it.
 
 ## v445 (23 November 2026)
 
