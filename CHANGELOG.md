@@ -1,6 +1,10 @@
-Business rulebook version: v452 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-18
+Business rulebook version: v453 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-24
 
 # Changelog
+
+## v453 (24 November 2026)
+- L69: community partners get a stated promotion schedule; each promotion shows results from that community's own members; partner-level proof to recruit owners, buyer-level proof to sell members.
+- Sources 2862 to 2869 (six MoreMozi uploads, two Sharran Srivatsaa videos; read with Supadata, native captions).
 
 ## v452 (23 November 2026)
 - M20: fix billing timing; give collections to a dedicated person.
