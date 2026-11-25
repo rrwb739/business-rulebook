@@ -1,4 +1,4 @@
-Business rulebook version: v453 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-24
+Business rulebook version: v454 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-25
 
 ## Scaling roadmap (S)
 

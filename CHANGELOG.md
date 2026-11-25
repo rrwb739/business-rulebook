@@ -1,6 +1,14 @@
-Business rulebook version: v453 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-24
+Business rulebook version: v454 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-25
 
 # Changelog
+
+## v454 (25 November 2026)
+- T1: hire for the smallest skill gap; name a known gap before the offer.
+- T6: a senior leader needs only the goal; promotion means taking over what the manager now does.
+- T3: partners with the same skills split roles now; one owns the constraint full time.
+- L2: while moving up market, show only target-avatar work publicly; take smaller deals without promoting them.
+- C5: several people on both sides of a large business-to-business deal; plan seller capacity.
+- Sources 2870 to 2879 (ten new videos from the daily feed check; read with Supadata, native captions).
 
 ## v453 (24 November 2026)
 - L69: community partners get a stated promotion schedule; each promotion shows results from that community's own members; partner-level proof to recruit owners, buyer-level proof to sell members.
