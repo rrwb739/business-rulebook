@@ -1,6 +1,13 @@
-Business rulebook version: v454 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-25
+Business rulebook version: v455 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-26
 
 # Changelog
+
+## v455 (26 November 2026)
+- F2: the year's biggest bet kept as numbered drafts revisited over weeks, with a contingency for each failure seen in another business.
+- M34: banded fixed fee on a value metric, lower rate for each higher band, never retroactive, every band in the terms.
+- D8: where results depend on the client's data, supplying it is a written condition; report results as the senior buyer's return.
+- D11: three routes for demand from distant markets before any franchise; placed staff follow X18.
+- Sources 2880 to 2889 (ten new MoreMozi videos from the daily feed check; read with Supadata, native captions).
 
 ## v454 (25 November 2026)
 - T1: hire for the smallest skill gap; name a known gap before the offer.

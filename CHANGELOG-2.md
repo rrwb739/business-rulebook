@@ -1,4 +1,4 @@
-Business rulebook version: v454 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-25
+Business rulebook version: v455 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-26
 
 # Changelog, older entries (v229 to v91)
 
