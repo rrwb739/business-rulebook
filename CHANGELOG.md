@@ -1,6 +1,11 @@
-Business rulebook version: v455 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-26
+Business rulebook version: v456 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-26
 
 # Changelog
+
+## v456 (26 November 2026)
+- L9: where independence is required, run the ownership check first; size the list from a sample pass rate.
+- L8: size scheduled runs to tool limits; save after every batch; log where the run stopped.
+- Source: owner's report of a scheduled lead-build run (26 November 2026).
 
 ## v455 (26 November 2026)
 - F2: the year's biggest bet kept as numbered drafts revisited over weeks, with a contingency for each failure seen in another business.
