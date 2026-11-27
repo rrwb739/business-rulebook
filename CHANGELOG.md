@@ -1,6 +1,14 @@
-Business rulebook version: v456 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-26
+Business rulebook version: v457 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-27
 
 # Changelog
+
+## v457 (27 November 2026)
+- L15: check whether poor leads are a problem first (cost to win a client against its value); filter in order: targeting, wording, form questions, booking calendar shown only to qualified answers.
+- L36: [shape: e-commerce] an owned-list reason in every order from the business's own shop; on a marketplace, its terms first (the largest forbid inserts sending buyers to another website).
+- F28: test packaging on avatar buyers before shop placement; judge placements by reorders.
+- F33: match the size of a change to the situation; small adjustments when rising, rebuilding weighed when flat and no business of the model has reached the goal.
+- M30: a giveaway needs one-to-many reach; for cold one-to-one outreach use a decoy offer (M29).
+- Source: daily feed check, sources 2890 to 2899 (MoreMozi channel).
 
 ## v456 (26 November 2026)
 - L9: where independence is required, run the ownership check first; size the list from a sample pass rate.

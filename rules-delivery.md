@@ -1,4 +1,4 @@
-Business rulebook version: v456 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-26
+Business rulebook version: v457 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-27
 
 ## Delivery and operations (D)
 

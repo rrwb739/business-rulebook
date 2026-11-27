@@ -1,4 +1,4 @@
-Business rulebook version: v456 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-26
+Business rulebook version: v457 | index: instructions.md | rule text: the rules files named in the index | updated: 2026-11-27
 
 # Rule index, part 2 of 5: Leads and marketing (L)
 
@@ -19,7 +19,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - L12 [running outreach] Track every conversation; front-loaded follow-ups each with something new; never contact after a no; avoid the avatar's busiest weeks. (rules-leads-1.md)
 - L13 [a lead replies or books] Reply within the hour in outreach windows using ACA; answer quick questions first; handle hostile replies and redirects calmly. (rules-leads-1.md)
 - L14 [checking where leads come from] Tag every lead Seed, Net or Spear and keep their numbers separate; compare client quality by entry route; source and referrer on the check-in form for in-person services. (rules-leads-1.md)
-- L15 [leads are poor or too few] Add friction for poor leads, remove it for too few; low friction with poor leads means wrong targeting. (rules-leads-1.md)
+- L15 [leads are poor or too few] Add friction for poor leads, remove it for too few; low friction with poor leads means wrong targeting.; check the cost to win a client first, then filter by targeting, wording, form questions, calendar only for qualified answers (rules-leads-1.md)
 - L16 [after every 100 messages or 10 calls] No template change before about 300 sends or script change before 100 calls; compare best and worst 10%; one-page call sheet and sales method. (rules-leads-1.md)
 - L17 [results are low or volatile] Find what changed before the drop; results lag inputs by months; check input consistency before changing the offer. (rules-leads-1.md)
 - L18 [judging a channel or how much effort to put in] Judge by total return and cost per sale, not ratios; credit each step; value lead types by conversion times first-year gross profit. (rules-leads-1.md)
@@ -41,7 +41,7 @@ One line per rule: ID, [trigger], summary, (file). Read all five parts in full o
 - L33 [creating content or posts] Document the journey only with written consent and no client confidential data.; no proof yet: document countable effort, then a waitlist; success interview order, milestone awards as the ascension point (rules-leads-1b.md)
 - L34 [someone turns down a free pilot or free offer] Find the hidden cost or missing belief, remove it, and ask the magic question with price and time fixed. (rules-leads-1b.md)
 - L35 [contacts who haven't bought yet] Keep non-buyers warm with useful, ask-free notes before key dates; change approach after 3 conversations without a decision.; no bare check-ins (rules-leads-1b.md)
-- L36 [choosing or relying on a lead source] Own the lead flow and list; back up single points of failure; log payment disputes monthly; ask before chasing a first late payment; two approved payment providers at full volume; check terms; data portability in writing; list email: worth reading, plain text, easy unsubscribe, segments, click rate, batch-written; quarterly conversion event for non-buyers, tested on a tenth first; tell providers before refund spikes or model changes.; lead magnets sent as plain personal emails asking for a reply (rules-leads-1b.md)
+- L36 [choosing or relying on a lead source] Own the lead flow and list; back up single points of failure; log payment disputes monthly; ask before chasing a first late payment; two approved payment providers at full volume; check terms; data portability in writing; list email: worth reading, plain text, easy unsubscribe, segments, click rate, batch-written; quarterly conversion event for non-buyers, tested on a tenth first; tell providers before refund spikes or model changes.; lead magnets sent as plain personal emails asking for a reply; e-commerce: an owned-list reason in every own-shop order, marketplace insert terms first (rules-leads-1b.md)
 - L37 [after delivering value, or a client finishes] [Fixed] Ask for honest reviews and introductions; thank by hand with nothing of value attached; reviews never conditional.; answer one bad or false review with volume of genuine ones; review ask as a required step, confidential services; in-person ask by the crew lead, staff bonus never tied to rating (rules-leads-1b.md)
 - L39 [any lead or advertising decision] Engaged leads are the output of advertising; offer, then leads, then sales; define "call-ready" and offer those leads a call fast.; five engagement steps in the lead sheet (rules-leads-2.md)
 - L40 [choosing how to get leads] The Core Four (warm, content, cold, ads) are the only ways; usual adoption order; master one before adding another. (rules-leads-2.md)
